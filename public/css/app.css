@@ -1,0 +1,231 @@
+body {
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.page {
+  display: none;
+}
+
+.active-page {
+  display: block;
+}
+
+.nav-link {
+  position: relative;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: #FFCB05;
+  transition: width 0.3s ease;
+}
+
+.nav-link.active::after, .nav-link:hover::after {
+  width: 100%;
+}
+
+.taxi-card {
+  transition: all 0.3s ease;
+}
+
+.taxi-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.booking-form input, .booking-form select, .contact-form input, .contact-form textarea {
+  transition: all 0.3s ease;
+}
+
+.booking-form input:focus, .booking-form select:focus, .contact-form input:focus, .contact-form textarea:focus {
+  border-color: #FFCB05;
+  box-shadow: 0 0 0 3px rgba(255, 203, 5, 0.2);
+}
+
+.hero-animation {
+  animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.footer-link {
+  transition: all 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #FFCB05;
+  transform: translateX(3px);
+}
+
+.social-icon {
+  transition: all 0.3s ease;
+}
+
+.social-icon:hover {
+  transform: translateY(-3px);
+  color: #FFCB05;
+}
+
+.nav-link {
+  position: relative;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -4px;
+  left: 0;
+  background-color: #FFCB05;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.nav-link.active::after {
+  width: 100%;
+}
+
+.section-heading {
+  position: relative;
+}
+
+.section-heading::after {
+  content: "";
+  position: absolute;
+  width: 60px;
+  height: 3px;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #FFCB05;
+}
+
+.taxi-card {
+  transition: all 0.3s ease;
+}
+
+.taxi-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.mobile-menu {
+  transition: transform 0.3s ease-in-out;
+}
+
+.mobile-menu.hidden {
+  transform: translateX(-100%);
+}
+
+.section-heading {
+  position: relative;
+}
+
+.section-heading::after {
+  content: "";
+  position: absolute;
+  width: 60px;
+  height: 3px;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #FFCB05;
+}
+
+.pricing-card {
+  transition: all 0.3s ease;
+}
+
+.pricing-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.contact-input:focus {
+  border-color: #FFCB05;
+  box-shadow: 0 0 0 3px rgba(255, 203, 5, 0.2);
+}
+
+.whatsapp-link {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: #25D366;
+  color: white;
+  font-size: 18px;
+  padding: 12px 12px;
+  border-radius: 50px;
+  text-decoration: none;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.whatsapp-link:hover {
+  background-color: #1ebe5d;
+}
+
+.whatsapp-link i {
+  font-size: 20px;
+}
+
+.booking-banner {
+  width: 100%;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.booking-banner a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* Basic loader styling - customize as needed */
+.loader {
+  border: 4px solid #f3f3f3; /* Light grey border */
+  border-top: 4px solid #3498db; /* Blue border */
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 2s linear infinite;
+  display: inline-block;
+  margin-left: 8px;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
