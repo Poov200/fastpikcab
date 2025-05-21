@@ -117,7 +117,7 @@
                 }
 
                 // Fetch testimonials from your API
-                $http.get('/api/testimonial')
+                $http.get('/testimonial')
                     .then(function(response) {
                         $scope.testimonials = response.data;
 

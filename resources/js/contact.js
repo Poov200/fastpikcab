@@ -11,7 +11,7 @@
         if ($scope.contactForm.$valid) {
             $scope.isSubmitting = true;
 
-            $http.post('/api/contact', $scope.formData)
+            $http.post('/contact', $scope.formData)
                 .then(function (response) {
                     $scope.formSubmitted = true;
                     $scope.formError = false;

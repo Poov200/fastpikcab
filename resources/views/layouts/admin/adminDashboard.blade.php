@@ -116,7 +116,7 @@
                     </svg>
                     Add Route
                 </a>
-                <a href="/commissions" ng-class="{'active-link': isActive('commissions')}"
+                <a href="/admincommissions" ng-class="{'active-link': isActive('commissions')}"
                     ng-click="setActive('commissions')"
                     class="nav-item flex items-center px-6 py-3 text-white hover:text-blue-200">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-3" fill="none" viewBox="0 0 24 24"
@@ -153,49 +153,7 @@
         class="md:hidden fixed inset-0 bg-black bg-opacity-50 z-10"></div>
 
     <script src="{{ asset('js/admindashboard.js') }}"></script>
-    <script>
-        (function() {
-            function c() {
-                var b = a.contentDocument || a.contentWindow.document;
-                if (b) {
-                    var d = b.createElement('script');
-                    d.innerHTML =
-                        "window.__CF$cv$params={r:'939de6a2846f7f4a',t:'MTc0NjI1NTgzMS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";
-                    b.getElementsByTagName('head')[0].appendChild(d)
-                }
-            }
-            if (document.body) {
-                var a = document.createElement('iframe');
-                a.height = 1;
-                a.width = 1;
-                a.style.position = 'absolute';
-                a.style.top = 0;
-                a.style.left = 0;
-                a.style.border = 'none';
-                a.style.visibility = 'hidden';
-                document.body.appendChild(a);
-                if ('loading' !== document.readyState) c();
-                else if (window.addEventListener) document.addEventListener('DOMContentLoaded', c);
-                else {
-                    var e = document.onreadystatechange || function() {};
-                    document.onreadystatechange = function(b) {
-                        e(b);
-                        'loading' !== document.readyState && (document.onreadystatechange = e, c())
-                    }
-                }
-            }
-        })();
-        app.controller('AdminController', function($scope, $http, $window) {
-            $scope.logout = function() {
-                $http.post('/logout') // Your Laravel route
-                    .then(function(response) {
-                        $window.location.href = '/adminlogin';
-                    }, function(error) {
-                        console.error('Logout failed:', error);
-                    });
-            };
-        });
-    </script>
+ 
 
 
 
