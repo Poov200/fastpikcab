@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Models\Booking;
 use App\Models\Driver;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Log;
+
 use App\Mail\CustomerBookingMail;
 use App\Mail\AdminBookingMail;
 use Illuminate\Support\Facades\Mail;
@@ -36,7 +38,7 @@ class BookingController extends Controller
             'vehicle' => 'required|string',
             'passengers' => 'required|string',
             'no_of_days' => 'required|integer', // new field
-
+            'assigned_amount' => 'nullable|numeric|min:0', // new field
             'distance' => 'required|string',
             'date' => 'required|date',
             'time' => 'required',
@@ -59,17 +61,24 @@ class BookingController extends Controller
         // Create the booking
         $booking = Booking::create($data);
 
-        // Send mail to customer if email exists
+       // Try sending email to customer
+    try {
         if (!empty($booking->email)) {
             Mail::to($booking->email)->send(new CustomerBookingMail($booking));
         }
+    } catch (\Exception $e) {
+        Log::error("Customer mail sending failed: " . $e->getMessage());
+    }
 
+    // Try sending email to admin
+    try {
         $adminEmail = env('MAIL_FROM_ADDRESS');
-
         if ($adminEmail) {
             Mail::to($adminEmail)->send(new AdminBookingMail($booking));
         }
-
+    } catch (\Exception $e) {
+        Log::error("Admin mail sending failed: " . $e->getMessage());
+    }
 
         return $booking;
     }
@@ -123,13 +132,31 @@ class BookingController extends Controller
 
 
     // Send email based on whether it's a reassignment or first assignment
-    if ($isReassigned) {
+   if ($isReassigned) {
+    try {
         Mail::to($booking->email)->send(new ReassignedDriverToCustomerMail($booking, $driver));
-        Mail::to($driver->email)->send(new ReassignedBookingToDriverMail($booking));
-    } else {
-        Mail::to($booking->email)->send(new AssignedDriverToCustomerMail($booking, $driver));
-        Mail::to($driver->email)->send(new NewBookingAssignedToDriverMail($booking));
+    } catch (\Exception $e) {
+        Log::error('Failed to send reassigned driver mail to customer', ['error' => $e->getMessage()]);
     }
+
+    try {
+        Mail::to($driver->email)->send(new ReassignedBookingToDriverMail($booking));
+    } catch (\Exception $e) {
+        Log::error('Failed to send reassigned booking mail to driver', ['error' => $e->getMessage()]);
+    }
+} else {
+    try {
+        Mail::to($booking->email)->send(new AssignedDriverToCustomerMail($booking, $driver));
+    } catch (\Exception $e) {
+        Log::error('Failed to send new driver assignment mail to customer', ['error' => $e->getMessage()]);
+    }
+
+    try {
+        Mail::to($driver->email)->send(new NewBookingAssignedToDriverMail($booking));
+    } catch (\Exception $e) {
+        Log::error('Failed to send new booking assignment mail to driver', ['error' => $e->getMessage()]);
+    }
+}
 
     return response()->json([
         'message' => $isReassigned ? 'Driver reassigned successfully' : 'Driver assigned successfully',
@@ -159,12 +186,26 @@ class BookingController extends Controller
         if (in_array($request->trip_status, ['cancelled', 'delay', 'completed'])) {
             $adminEmail = env('MAIL_FROM_ADDRESS'); // or use a specific admin email if preferred
 
-            // Send email to customer
-            Mail::to($booking->email)->send(new TripStatusUpdateMail($booking, 'customer'));
+    // Send email to customer
+    try {
+        Mail::to($booking->email)->send(new TripStatusUpdateMail($booking, 'customer'));
+    } catch (\Exception $e) {
+        Log::error('Failed to send trip status update mail to customer', [
+            'booking_id' => $booking->booking_id ?? null,
+            'error' => $e->getMessage(),
+        ]);
+    }
 
-            // Send email to admin
-            Mail::to($adminEmail)->send(new TripStatusUpdateMail($booking, 'admin'));
-        }
+    // Send email to admin
+    try {
+        Mail::to($adminEmail)->send(new TripStatusUpdateMail($booking, 'admin'));
+    } catch (\Exception $e) {
+        Log::error('Failed to send trip status update mail to admin', [
+            'booking_id' => $booking->booking_id ?? null,
+            'error' => $e->getMessage(),
+        ]);
+    }
+}
 
         return response()->json([
             'message' => 'Trip status updated successfully.',

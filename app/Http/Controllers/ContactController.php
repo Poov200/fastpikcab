@@ -6,6 +6,7 @@ use App\Models\ContactMessage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\ContactFormMail;
+use Illuminate\Support\Facades\Log;
 
 class ContactController extends Controller
 {
@@ -31,12 +32,25 @@ class ContactController extends Controller
     // Store the contact message in the database
     $contactMessage = ContactMessage::create($request->all());
 
+try {
     // Send email to admin
     Mail::to($adminemailid)->send(new ContactFormMail($contactMessage, 'Admin'));
+} catch (\Exception $e) {
+    Log::error('Failed to send contact form mail to admin', [
+        'email' => $adminemailid,
+        'error' => $e->getMessage(),
+    ]);
+}
 
+try {
     // Send email to user (customer)
     Mail::to($contactMessage->email)->send(new ContactFormMail($contactMessage, 'User'));
-
+} catch (\Exception $e) {
+    Log::error('Failed to send contact form mail to user', [
+        'email' => $contactMessage->email,
+        'error' => $e->getMessage(),
+    ]);
+}
     // Return a response
     return back()->with('success', 'Your message has been sent successfully.');
 }

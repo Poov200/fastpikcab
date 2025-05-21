@@ -1,56 +1,40 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+ <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fastpik Cab | Online Taxi Booking & Cab Service | Affordable, Safe Rides</title>
+
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Fastpik Cab - Online Taxi Booking Service | Safe & Affordable Rides</title>
-
-    <!-- ✅ SEO Meta Tags -->
     <meta name="description"
-        content="Fastpik Cab offers reliable and affordable taxi booking services. Book your ride instantly online with Fastpik for a smooth and safe journey." />
+        content="Book a taxi online with Fastpik Cab for fast, safe, and affordable rides. Your trusted local cab service for airport transfers, city commutes, and reliable taxi booking." />
     <meta name="keywords"
-        content="Fastpik Cab, taxi booking, online cab service, book cab, affordable taxi, safe rides, local cabs, airport taxi" />
+        content="Fastpik Cab, taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
     <meta name="author" content="Fastpik Cab" />
-
-    <!-- ✅ Open Graph (for social media preview) -->
-    <meta property="og:title" content="Fastpik Cab - Your Trusted Taxi Booking Partner" />
+    <meta name="robots" content="index, follow"> <link rel="canonical" href="https://www.fastpikcab.com/" /> <meta property="og:title" content="Fastpik Cab - Online Taxi Booking & Cab Service" />
     <meta property="og:description"
-        content="Book your next ride with Fastpik Cab — affordable, safe, and fast taxi service available online." />
+        content="Book your next ride with Fastpik Cab — affordable, safe, and fast taxi service available online. Trusted for local, airport, and city cab bookings." />
     <meta property="og:image" content="https://www.fastpikcab.com/logo.png" />
     <meta property="og:url" content="https://www.fastpikcab.com/" />
     <meta property="og:type" content="website" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-    <!-- ✅ Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Fastpik Cab - Trusted Taxi Booking Service" />
+    <meta name="twitter:title" content="Fastpik Cab - Trusted Online Taxi & Cab Service" />
     <meta name="twitter:description"
-        content="Fast and affordable cab service from Fastpik. Book your ride in minutes!" />
+        content="Fast and affordable cab service from Fastpik. Book your ride in minutes for safe and reliable transportation!" />
     <meta name="twitter:image" content="https://www.fastpikcab.com/logo.png" />
 
-    <!-- ✅ Favicon and Logo -->
-    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../img/FastPik icon.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://www.fastpikcab.com/logo.png" />
 
-    <!-- ✅ Font and Tailwind -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet" />
     <script src="https://cdn.tailwindcss.com"></script>
-
-    <!-- ✅ AngularJS -->
+ <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+ </head>
 
-    <!-- ✅ Bootstrap -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
-
-    <!-- ✅ Google Maps API -->
-    <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
-        async defer></script>
-</head>
 
 <body>
 
@@ -67,16 +51,16 @@
                 <div class="flex items-center">
                     <a href="#" class="flex items-center">
 
-                        <img style="max-width:150px " src="../img/logo-removebg-preview.png" alt="">
+                        <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="">
                     </a>
                 </div>
 
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex flex-wrap items-center space-x-6">
-                    <a href="#" class="text-white hover:text-yellow-400 font-medium">Home</a>
+                    <a href="#home" class="text-white hover:text-yellow-400 font-medium">Home</a>
                     <a href="#about" class="text-white hover:text-yellow-400 font-medium">About</a>
                     <a href="#services" class="text-white hover:text-yellow-400 font-medium">Services</a>
-                    <a href="#pricing" class="text-yellow-400 font-semibold">Pricing</a>
+                    <a href="#pricing" class=" text-white hover:text-yellow-400 font-semibold">Pricing</a>
                     <a href="{{ route('contactpage') }}"
                         class="text-white hover:text-yellow-400 font-medium">Contact</a>
                     {{-- <a href="#" class="text-white hover:text-yellow-400 font-medium">FAQ</a> --}}
@@ -158,150 +142,151 @@
     </section>
 
 
-<section id="booking" class="py-16" ng-app="bookingApp" ng-controller="BookingController">
-    <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center mb-12 section-heading">Book Your Ride</h2>
+    <section id="booking" class="py-16" ng-app="bookingApp" ng-controller="BookingController">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-center mb-12 section-heading">Book Your Ride</h2>
 
-        <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-8">
-            <form name="bookingForm" class="grid grid-cols-1 md:grid-cols-2 gap-6"
-                  ng-submit="submitBooking(bookingForm.$valid)" novalidate>
+            <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-8">
+                <form name="bookingForm" class="grid grid-cols-1 md:grid-cols-2 gap-6"
+                      ng-submit="submitBooking(bookingForm.$valid)" novalidate>
 
-                <div class="md:col-span-2 flex items-center space-x-4">
-                    <label class="font-medium text-gray-700">Trip Type:</label>
-                    <label><input type="radio" ng-model="booking.tripType" value="oneway"
-                                        class="mr-1"></label> One Way
-                    <label><input type="radio" ng-model="booking.tripType" value="round"
-                                        class="mr-1"></label> Round Trip
-                </div>
+                    <div class="md:col-span-2 flex items-center space-x-4">
+                        <label class="font-medium text-gray-700">Trip Type:</label>
+                        <label><input type="radio" ng-model="booking.tripType" value="oneway"
+                                        ng-change="calculateassigned_amount()" class="mr-1"> One Way</label>
+                        <label><input type="radio" ng-model="booking.tripType" value="round"
+                                        ng-change="calculateassigned_amount()" class="mr-1"> Round Trip</label>
+                    </div>
 
-                <div ng-show="booking.tripType === 'round'">
-                    <label class="block text-gray-700 font-medium mb-2">Number of Days</label>
-                    <select ng-model="booking.no_of_days" class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
-                        <option value="">Select Days</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                    </select>
-                    <p ng-show="bookingForm.days.$invalid && bookingForm.days.$touched"
-                       class="text-red-500 text-sm mt-1">Number of days is required.</p>
-                </div>
+                    <div ng-show="booking.tripType === 'round'">
+                        <label class="block text-gray-700 font-medium mb-2">Number of Days</label>
+                        <select name="no_of_days" ng-model="booking.no_of_days" ng-change="calculateassigned_amount()"
+                                class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            <option value="">Select Days</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                        </select>
+                        <p ng-show="bookingForm.no_of_days.$invalid && bookingForm.no_of_days.$touched"
+                           class="text-red-500 text-sm mt-1">Number of days is required.</p>
+                    </div>
 
-                <div>
-                    <label class="block text-gray-700 font-medium mb-2">Name</label>
-                    <input type="text" ng-model="booking.name" placeholder="Enter your name"
-                           class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
-                    <p ng-show="bookingForm.name.$invalid && bookingForm.name.$touched"
-                       class="text-red-500 text-sm mt-1">Name is required.</p>
-                </div>
+                    <div>
+                        <label class="block text-gray-700 font-medium mb-2">Name</label>
+                        <input type="text" name="name" ng-model="booking.name" placeholder="Enter your name"
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <p ng-show="bookingForm.name.$invalid && bookingForm.name.$touched"
+                           class="text-red-500 text-sm mt-1">Name is required.</p>
+                    </div>
 
-                <div>
-                    <label class="block text-gray-700 font-medium mb-2">Email</label>
-                    <input type="email" ng-model="booking.email" placeholder="Enter your email"
-                           class="w-full px-4 py-2 border border-gray-300 rounded-lg">
-                    <p ng-show="bookingForm.email.$invalid && bookingForm.email.$touched"
-                       class="text-red-500 text-sm mt-1">Invalid email format.</p>
-                </div>
+                    <div>
+                        <label class="block text-gray-700 font-medium mb-2">Email</label>
+                        <input type="email" name="email" ng-model="booking.email" placeholder="Enter your email"
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <p ng-show="bookingForm.email.$invalid && bookingForm.email.$touched"
+                           class="text-red-500 text-sm mt-1">Invalid email format.</p>
+                    </div>
 
-                <div class="md:col-span-2">
-                    <label class="block text-gray-700 font-medium mb-2">Contact Number</label>
-                    <input type="tel" ng-model="booking.contact" placeholder="Enter contact number"
-                           class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
-                    <p ng-show="bookingForm.contact.$invalid && bookingForm.contact.$touched"
-                       class="text-red-500 text-sm mt-1">Contact number is required.</p>
-                </div>
+                    <div class="md:col-span-2">
+                        <label class="block text-gray-700 font-medium mb-2">Contact Number</label>
+                        <input type="tel" name="contact" ng-model="booking.contact" placeholder="Enter contact number"
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <p ng-show="bookingForm.contact.$invalid && bookingForm.contact.$touched"
+                           class="text-red-500 text-sm mt-1">Contact number is required.</p>
+                    </div>
 
-                <div>
-                    <label class="block text-gray-700 font-medium mb-2">Pickup Location</label>
-                    <input id="pickup" type="text" ng-model="booking.pickup"
-                           placeholder="Enter pickup address"
-                           class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
-                    <p ng-show="bookingForm.pickup.$invalid && bookingForm.pickup.$touched"
-                       class="text-red-500 text-sm mt-1">Pickup location is required.</p>
-                    <p ng-show="pickupRequired && !booking.pickup" class="text-red-500 text-sm mt-1">Please select a valid pickup location from the map.</p>
-                </div>
+                    <div>
+                        <label class="block text-gray-700 font-medium mb-2">Pickup Location</label>
+                        <input id="pickup" type="text" name="pickup" ng-model="booking.pickup"
+                               placeholder="Enter pickup address"
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <p ng-show="bookingForm.pickup.$invalid && bookingForm.pickup.$touched"
+                           class="text-red-500 text-sm mt-1">Pickup location is required.</p>
+                        <p ng-show="pickupRequired && !booking.pickup" class="text-red-500 text-sm mt-1">Please select a valid pickup location from the map.</p>
+                    </div>
 
-                <div>
-                    <label class="block text-gray-700 font-medium mb-2">Drop Location</label>
-                    <input id="destination" type="text" ng-model="booking.destination"
-                           placeholder="Enter destination address"
-                           class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
-                    <p ng-show="bookingForm.destination.$invalid && bookingForm.destination.$touched"
-                       class="text-red-500 text-sm mt-1">Drop location is required.</p>
-                    <p ng-show="dropRequired && !booking.destination" class="text-red-500 text-sm mt-1">Please select a valid drop location from the map.</p>
-                </div>
+                    <div>
+                        <label class="block text-gray-700 font-medium mb-2">Drop Location</label>
+                        <input id="destination" type="text" name="destination" ng-model="booking.destination"
+                               placeholder="Enter destination address"
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <p ng-show="bookingForm.destination.$invalid && bookingForm.destination.$touched"
+                           class="text-red-500 text-sm mt-1">Drop location is required.</p>
+                        <p ng-show="dropRequired && !booking.destination" class="text-red-500 text-sm mt-1">Please select a valid drop location from the map.</p>
+                    </div>
 
-                <div>
-                    <label class="block text-gray-700 font-medium mb-2">Date</label>
-                    <input type="date" ng-model="booking.date"
-                           class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
-                    <p ng-show="bookingForm.date.$invalid && bookingForm.date.$touched"
-                       class="text-red-500 text-sm mt-1">Date is required.</p>
-                </div>
+                    <div>
+                        <label class="block text-gray-700 font-medium mb-2">Date</label>
+                        <input type="date" name="date" ng-model="booking.date"
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <p ng-show="bookingForm.date.$invalid && bookingForm.date.$touched"
+                           class="text-red-500 text-sm mt-1">Date is required.</p>
+                    </div>
 
-                <div>
-                    <label class="block text-gray-700 font-medium mb-2">Time</label>
-                    <input type="time" ng-model="booking.time"
-                           class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
-                    <p ng-show="bookingForm.time.$invalid && bookingForm.time.$touched"
-                       class="text-red-500 text-sm mt-1">Time is required.</p>
-                </div>
+                    <div>
+                        <label class="block text-gray-700 font-medium mb-2">Time</label>
+                        <input type="time" name="time" ng-model="booking.time"
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <p ng-show="bookingForm.time.$invalid && bookingForm.time.$touched"
+                           class="text-red-500 text-sm mt-1">Time is required.</p>
+                    </div>
 
-                <div>
+                     <div>
                     <label class="block text-gray-700 font-medium mb-2">Vehicle Type</label>
                     <select ng-model="booking.vehicle" class="w-full px-4 py-2 border border-gray-300 rounded-lg"
                             required>
                         <option value="">Select Vehicle</option>
                         <option value="Sedan">Sedan</option>
                         <option value="suv">SUV</option>
-                        <option value="premium">MPV</option>
+                        {{-- <option value="premium">MPV</option> --}}
                         {{-- <option value="van">Minivan</option> --}}
                     </select>
                     <p ng-show="bookingForm.vehicle.$invalid && bookingForm.vehicle.$touched"
                        class="text-red-500 text-sm mt-1">Vehicle type is required.</p>
                 </div>
 
-                <div>
-                    <label class="block text-gray-700 font-medium mb-2">Number of Passengers</label>
-                    <select ng-model="booking.passengers"
-                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
-                        <option value="">Select Passengers</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5+">5+</option>
-                    </select>
-                    <p ng-show="bookingForm.passengers.$invalid && bookingForm.passengers.$touched"
-                       class="text-red-500 text-sm mt-1">Number of passengers is required.</p>
+                    <div>
+                        <label class="block text-gray-700 font-medium mb-2">Number of Passengers</label>
+                        <select name="passengers" ng-model="booking.passengers"
+                                class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            <option value="">Select Passengers</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5+">5+</option>
+                        </select>
+                        <p ng-show="bookingForm.passengers.$invalid && bookingForm.passengers.$touched"
+                           class="text-red-500 text-sm mt-1">Number of passengers is required.</p>
+                    </div>
+
+                    <p class="mt-4 text-lg font-semibold text-gray-800">Distance: @{{ booking.distance }}</p>
+                    <p class="mt-2 text-lg font-semibold text-gray-800">Estimated Price: @{{ assigned_amount | currency:'₹' }}</p>
+
+                    <div class="md:col-span-2">
+                        <p ng-show="showMissingFieldsMessage" class="text-red-500 text-center mb-4">Please fill in all the required fields and select valid pickup and drop locations.</p>
+                        <button type="submit"
+                                class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300"
+                                ng-disabled="bookingForm.$invalid || isSubmitting || !booking.pickup || !booking.destination">
+                            <span ng-if="!isSubmitting">Book Now</span>
+                            <span ng-if="isSubmitting">Booking...</span>
+                        </button>
+                    </div>
+                </form>
+
+                <div ng-show="bookingSuccess" class="mt-8 text-center text-green-500 font-semibold text-lg">
+                    Booking Successful!
+                </div>
+                <div ng-show="bookingError" class="mt-8 text-center text-red-500 font-semibold text-lg">
+                    Booking Failed. Please try again.
                 </div>
 
-                <p class="mt-4 text-lg font-semibold text-gray-800">Distance: @{{ booking.distance }}</p>
-                <p class="mt-2 text-lg font-semibold text-gray-800">Estimated Price: @{{ assigned_amount | currency:'₹' }}</p>
-
-                <div class="md:col-span-2">
-                    <p ng-show="showMissingFieldsMessage" class="text-red-500 text-center mb-4">Please fill in all the required fields and select valid pickup and drop locations.</p>
-                    <button type="submit"
-                            class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300"
-                            ng-disabled="bookingForm.$invalid || isSubmitting || !booking.pickup || !booking.destination">
-                        <span ng-if="!isSubmitting">Book Now</span>
-                        <span ng-if="isSubmitting">Booking...</span>
-                    </button>
-                </div>
-            </form>
-
-            <div ng-show="bookingSuccess" class="mt-8 text-center text-green-500 font-semibold text-lg">
-                Booking Successful!
+                <div id="map" class="w-full h-64 mt-6 rounded-lg"></div>
             </div>
-            <div ng-show="bookingError" class="mt-8 text-center text-red-500 font-semibold text-lg">
-                Booking Failed. Please try again.
-            </div>
-
-            <div id="map" class="w-full h-64 mt-6 rounded-lg"></div>
         </div>
-    </div>
-</section>
+    </section>
 
 
 
@@ -724,105 +709,187 @@
     </section>
 
 
+{{-- route to the booking section --}}
+
+    <section class="cab-routes-section">
+  <div class="container">
+    <div class="header-row">
+      <div class="header-cell">CAB ROUTES</div>
+      <div class="header-cell">EXTRA COST</div>
+      <div class="header-cell">CAB COST</div>
+      <div class="header-cell action-header"></div>
+    </div>
+
+    <div id="routes-container" class="routes-list">
+      <div class="loading-message">Loading cab routes...</div>
+    </div>
+
+    <div class="error-message" id="error-message" style="display:none;">
+      Failed to load routes. Please try again later.
+    </div>
+  </div>
+</section>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            fetch('/routes') // Your API endpoint
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const routesContainer = document.getElementById('routes-container');
+                    routesContainer.innerHTML = ''; // Clear loading message
+
+                    if (data && data.length > 0) {
+                        data.forEach(routeData => {
+                            const routeItem = document.createElement('div');
+                            routeItem.classList.add('route-item');
+
+                            // Cab Routes Column
+                            const cabRoutesCol = document.createElement('div');
+                            cabRoutesCol.classList.add('route-col', 'cab-routes');
+                            const routeTitle = document.createElement('h3');
+                            routeTitle.textContent = `Drop taxi ${routeData.route}`;
+                            const routeDescription = document.createElement('p');
+                            cabRoutesCol.appendChild(routeTitle);
+                            cabRoutesCol.appendChild(routeDescription);
+                            routeItem.appendChild(cabRoutesCol);
+
+                            // Extra Cost Column
+                            const extraCostCol = document.createElement('div');
+                            extraCostCol.classList.add('route-col', 'extra-cost');
+                            const extraCostDetails = document.createElement('p');
+                            extraCostDetails.textContent = routeData.description || 'Details not available.'; // Use API data or default
+                            extraCostCol.appendChild(extraCostDetails);
+                            routeItem.appendChild(extraCostCol);
+
+                            // Cab Cost Column
+                            const cabCostCol = document.createElement('div');
+                            cabCostCol.classList.add('route-col', 'cab-cost');
+                            const currentPrice = document.createElement('span');
+                            currentPrice.classList.add('current-price');
+                            currentPrice.textContent = `Rs ${parseFloat(routeData.pricing).toLocaleString('en-IN')}*`; // Format as Indian Rupee
+                            cabCostCol.appendChild(currentPrice);
+
+                            if (routeData.old_pricing) {
+                                const oldPrice = document.createElement('span');
+                                oldPrice.classList.add('old-price');
+                                oldPrice.textContent = `Rs. ${parseFloat(routeData.old_pricing).toLocaleString('en-IN')}`;
+                                cabCostCol.appendChild(oldPrice);
+                            }
+                            const onwardsText = document.createElement('span');
+                            onwardsText.classList.add('onwards-text');
+                            onwardsText.textContent = 'Onwards';
+                            cabCostCol.appendChild(onwardsText);
+                            routeItem.appendChild(cabCostCol);
+
+                            // Book Now Column
+                            const bookNowCol = document.createElement('div');
+                            bookNowCol.classList.add('route-col', 'book-now-col');
+                            const bookNowButton = document.createElement('a');
+                            bookNowButton.href = `#booking`; // Or a relevant booking link
+                            bookNowButton.classList.add('book-now-btn');
+                            bookNowButton.textContent = 'BOOK NOW';
+                            bookNowCol.appendChild(bookNowButton);
+                            routeItem.appendChild(bookNowCol);
+
+                            routesContainer.appendChild(routeItem);
+                        });
+                    } else {
+                        routesContainer.textContent = 'No cab routes found at the moment.';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching routes:', error);
+                    document.getElementById('routes-container').innerHTML = ''; // Clear loading message
+                    document.getElementById('error-message').style.display = 'block'; // Show error message
+                });
+        });
+    </script>
+
+
+
+
+
+
     <!-- Pricing Cards -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+ <section>
+   <div id="pricing" class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 px-4">
 
-        <!-- Sedan Card -->
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card">
-            <div class="bg-gray-900 text-white p-6 text-center">
-                <h3 class="text-xl font-bold">🚗 Sedan</h3>
-                <p class="mt-2 text-sm">Etios, Swift, Zest, Xcent</p>
-            </div>
-            <div class="p-6">
-                <ul class="mb-6 space-y-4 text-sm">
-                    <li>👥 Capacity: Up to 4 passengers</li>
-                    <li>⏱️ Free Cancellation: Within 10 minutes of booking</li>
-                    <li>🧳 Luggage: Fits 3 mid-size suitcases</li>
-                    <li>📏 One Way Min: 130KM</li>
-                    <li>🔁 Round Trip Min: 250KM</li>
-                    <li>💰 One Way Rate: ₹14/km</li>
-                    <li>💰 Round Trip Rate: ₹13/km</li>
-
-                    <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
-                </ul>
-                <button
-                    class="block w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-3 px-6 rounded-lg transition duration-300">
-                    Book Now
-                </button>
-            </div>
-        </div>
-
-        <!-- SUV Card -->
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card transform md:-translate-y-4 scale-105">
-            <div class="bg-yellow-400 text-gray-900 p-6 text-center relative">
-                <div class="absolute top-0 right-0 bg-gray-900 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">
-                    POPULAR</div>
-                <h3 class="text-xl font-bold">🚙 SUV</h3>
-                <p class="mt-2 text-sm">Xylo, Creta, XUV 700</p>
-            </div>
-            <div class="p-6">
-                <ul class="mb-6 space-y-4 text-sm">
-                    <li>👥 Capacity: Up to 6 passengers</li>
-                    <li>⏱️ Free Cancellation: Within 20 minutes of booking</li>
-                    <li>🧳 Luggage: Fits 4 mid-size suitcases</li>
-                    <li>📏 One Way Min: 130KM</li>
-                    <li>🔁 Round Trip Min: 250KM</li>
-                    <li>💰 One Way Rate: ₹19/km</li>
-                    <li>💰 Round Trip Rate: ₹18/km</li>
-
-                    <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
-                </ul>
-                <button
-                    class="block w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300">
-                    Book Now
-                </button>
-            </div>
-        </div>
-
-    <!-- MPV Card -->
-    <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card">
-      <div class="bg-gray-900 text-white p-6 text-center">
-        <h3 class="text-xl font-bold">🚐 MPV</h3>
-        <p class="mt-2 text-sm">Innova, Ertiga</p>
-      </div>
-      <div class="p-6">
-        <ul class="mb-6 space-y-4 text-sm">
-          <li>👥 Capacity: Up to 7+ passengers</li>
-          <li>⏱️ Free Cancellation: Within 30 minutes of booking</li>
-          <li>🧳 Luggage: Fits 6 mid-size suitcases</li>
-          <li>📏 One Way Min: 130KM</li>
-          <li>🔁 Round Trip Min: 250KM</li>
-          <li>💰 One Way Rate: ₹19/km</li>
-          <li>💰 Round Trip Rate: ₹18/km</li>
-
-          <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
-        </ul>
-        <button class="block w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-3 px-6 rounded-lg transition duration-300">
-          Book Now
-        </button>
-      </div>
+  <!-- Sedan Card -->
+  <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card flex flex-col">
+    <div class="bg-gray-900 text-white p-6 text-center">
+      <h3 class="text-xl font-bold">🚗 Sedan</h3>
+      <p class="mt-2 text-sm">Etios, Swift, Zest, Xcent</p>
     </div>
-
+    <div class="p-6 flex-grow flex flex-col justify-between">
+      <ul class="mb-6 space-y-4 text-sm">
+        <li>👥 Capacity: Up to 4 passengers</li>
+        <li>⏱️ Free Cancellation: Within 10 minutes of booking</li>
+        <li>🧳 Luggage: Fits 3 mid-size suitcases</li>
+        <li>📏 One Way Min: <span id="sedan-oneway-min-km">--</span>KM</li>
+        <li>🔁 Round Trip Min: <span id="sedan-roundtrip-min-km">--</span>KM</li>
+        <li>💰 One Way Rate: <span id="sedan-oneway-rate">₹--/km</span></li>
+        <li>💰 Round Trip Rate: <span id="sedan-roundtrip-rate">₹--/km</span></li>
+        <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
+      </ul>
+      <button href="#booking"
+        class="w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-3 px-6 rounded-lg transition duration-300">
+      <a href="#booking"> Book Now</a>
+      </button>
     </div>
+  </div>
+
+  <!-- SUV Card -->
+  <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card flex flex-col">
+    <div class="bg-yellow-400 text-gray-900 p-6 text-center relative">
+      <div class="absolute top-0 right-0 bg-gray-900 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">
+        POPULAR
+      </div>
+      <h3 class="text-xl font-bold">🚙 SUV</h3>
+      <p class="mt-2 text-sm">Xylo, INNOVA, XUV 700, ENJOY</p>
+    </div>
+    <div class="p-6 flex-grow flex flex-col justify-between">
+      <ul class="mb-6 space-y-4 text-sm">
+        <li>👥 Capacity: Up to 6 passengers</li>
+        <li>⏱️ Free Cancellation: Within 20 minutes of booking</li>
+        <li>🧳 Luggage: Fits 4 mid-size suitcases</li>
+        <li>📏 One Way Min: <span id="suv-oneway-min-km">--</span>KM</li>
+        <li>🔁 Round Trip Min: <span id="suv-roundtrip-min-km">--</span>KM</li>
+        <li>💰 One Way Rate: <span id="suv-oneway-rate">₹--/km</span></li>
+        <li>💰 Round Trip Rate: <span id="suv-roundtrip-rate">₹--/km</span></li>
+        <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
+      </ul>
+      <button href="#booking"
+        class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300">
+       <a href="#booking"> Book Now</a>
+      </button>
+    </div>
+  </div>
+</div>
 
 
-    <!-- Additional Pricing Info -->
+
     <div class="bg-white rounded-lg shadow-md p-8">
         <h3 class="text-2xl font-semibold mb-6">Additional Charges</h3>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
                 <h4 class="text-lg font-medium mb-4 text-gray-900">Standard Fees</h4>
                 <ul class="space-y-3">
-                    <li class="flex justify-between"><span class="text-gray-600">Waiting Time (per Hour)</span><span
-                            class="font-medium">Rs.120</span></li>
+                    <li class="flex justify-between"><span class="text-gray-600">Waiting Time (per
+                            Hour)</span><span class="font-medium" id="waiting-charge">Rs.120</span></li>
                     <li class="flex justify-between"><span class="text-gray-600">Demand and Place</span><span
                             class="font-medium">Taxi Price Will Be Changed</span></li>
                     <li class="flex justify-between"><span class="text-gray-600">Over Luggage Charge</span><span
-                            class="font-medium">Rs.300</span></li>
+                            class="font-medium" id="luggage-charge">Rs.300</span></li>
                     <li class="flex justify-between"><span class="text-gray-600">Toll/Permit/Tax</span><span
                             class="font-medium">Extra</span></li>
                     <li class="flex justify-between"><span class="text-gray-600">Hill Station Charges</span><span
-                            class="font-medium">Rs.300</span></li>
+                            class="font-medium" id="hill-station-charge">Rs.300</span></li>
                     <li class="flex justify-between"><span class="text-gray-600">GST</span><span
                             class="font-medium">Included in Tariff</span></li>
                 </ul>
@@ -830,11 +897,12 @@
             <div>
                 <h4 class="text-lg font-medium mb-4 text-gray-900">Trip & Cab Info</h4>
                 <ul class="space-y-3">
-                    <li class="flex justify-between"><span class="text-gray-600">One Way (Min 130 kms)</span><span
-                            class="font-medium">Driver Bata Rs.300/- (Rs.600/- if above 400 kms)</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">Round Trip (Min 250
-                            kms/day)</span><span class="font-medium">Driver Bata Rs.300/day (Rs.600/day if >500
-                            kms)</span></li>
+                    <li class="flex justify-between"><span class="text-gray-600">One Way (Min <span
+                                id="oneway-min-km-all">--</span> kms)</span><span class="font-medium"
+                            id="oneway-driver-bata">Driver Bata Rs.300/- (Rs.600/- if above 400 kms)</span></li>
+                    <li class="flex justify-between"><span class="text-gray-600">Round Trip (Min <span
+                                id="roundtrip-min-km-all">--</span> kms/day)</span><span class="font-medium"
+                            id="roundtrip-driver-bata">Driver Bata Rs.300/day (Rs.600/day if >500 kms)</span></li>
                     <li class="flex justify-between"><span class="text-gray-600">SEDAN Capacity</span><span
                             class="font-medium">4 persons, 3 mid-size suitcases</span></li>
                     <li class="flex justify-between"><span class="text-gray-600">SUV Capacity</span><span
@@ -844,7 +912,7 @@
                     <li class="flex justify-between"><span class="text-gray-600">1 Day Definition</span><span
                             class="font-medium">Calendar day (12AM–12AM)</span></li>
                     <li class="flex justify-between"><span class="text-gray-600">Call Us</span><span
-                            class="font-medium">9012345698</span></li>
+                            class="font-medium">+91 8825694157</span></li>
 
                 </ul>
             </div>
@@ -852,8 +920,150 @@
 
     </div>
     </div>
+</section>
+
+
+<script>
+    fetch('/pricings')
+        .then(response => response.json())
+        .then(data => {
+            let sedanOneway, sedanRoundtrip;
+            let suvOneway, suvRoundtrip;
+
+            data.forEach(pricing => {
+                if (pricing.vehicle_type === 'Sedan') {
+                    if (pricing.trip_type === 'One-way') {
+                        document.getElementById('sedan-oneway-rate').textContent = `₹${pricing.base_price_per_km}/km`;
+                        document.getElementById('sedan-oneway-min-km').textContent = pricing.minimum_distance;
+                        sedanOneway = pricing;
+                    } else if (pricing.trip_type === 'Round Trip') {
+                        document.getElementById('sedan-roundtrip-rate').textContent = `₹${pricing.base_price_per_km}/km`;
+                        document.getElementById('sedan-roundtrip-min-km').textContent = pricing.minimum_distance;
+                        sedanRoundtrip = pricing;
+                    }
+                } else if (pricing.vehicle_type === 'SUV') {
+                    if (pricing.trip_type === 'One-way') {
+                        document.getElementById('suv-oneway-rate').textContent = `₹${pricing.base_price_per_km}/km`;
+                        document.getElementById('suv-oneway-min-km').textContent = pricing.minimum_distance;
+                        suvOneway = pricing;
+                    } else if (pricing.trip_type === 'Round Trip') {
+                        document.getElementById('suv-roundtrip-rate').textContent = `₹${pricing.base_price_per_km}/km`;
+                        document.getElementById('suv-roundtrip-min-km').textContent = pricing.minimum_distance;
+                        suvRoundtrip = pricing;
+                    }
+                    // Apply SUV pricing to MPV
+                    const mpvOnewayRateElement = document.getElementById('mpv-oneway-rate');
+                    if (mpvOnewayRateElement && suvOneway) {
+                        mpvOnewayRateElement.textContent = `₹${suvOneway.base_price_per_km}/km`;
+                        document.getElementById('mpv-oneway-min-km').textContent = suvOneway.minimum_distance;
+                    }
+                    const mpvRoundtripRateElement = document.getElementById('mpv-roundtrip-rate');
+                    if (mpvRoundtripRateElement && suvRoundtrip) {
+                        mpvRoundtripRateElement.textContent = `₹${suvRoundtrip.base_price_per_km}/km`;
+                        document.getElementById('mpv-roundtrip-min-km').textContent = suvRoundtrip.minimum_distance;
+                    }
+                    // Get additional charges from SUV data (assuming it's the same for MPV)
+                    document.getElementById('waiting-charge').textContent = `₹${pricing.waiting_charge_per_hour}`;
+                    document.getElementById('luggage-charge').textContent = `₹${pricing.luggage_charge_per_kg}/kg`;
+                    document.getElementById('hill-station-charge').textContent = `₹${pricing.hill_station_charge}`;
+                }
+            });
+
+            // Set the general minimum distance and driver bata info (using Sedan data)
+            if (sedanOneway) {
+                document.getElementById('oneway-min-km-all').textContent = sedanOneway.minimum_distance;
+                const driverBataOneWay = parseInt(sedanOneway.minimum_distance) > 400 ? `₹${sedanOneway.driver_beta_500}` : `₹${sedanOneway.driver_beta_300}`;
+                document.getElementById('oneway-driver-bata').textContent = `Driver Bata ${driverBataOneWay} (₹600/- if above 400 kms)`;
+            }
+            if (sedanRoundtrip) {
+                document.getElementById('roundtrip-min-km-all').textContent = sedanRoundtrip.minimum_distance;
+                const driverBataRoundTrip = parseInt(sedanRoundtrip.minimum_distance) > 500 ? `₹${sedanRoundtrip.driver_beta_500}/day` : `₹${sedanRoundtrip.driver_beta_300}/day`;
+                document.getElementById('roundtrip-driver-bata').textContent = `Driver Bata ${driverBataRoundTrip} (₹600/day if >500 kms)`;
+            }
+        })
+        .catch(error => {
+            console.error('Error fetching pricing data:', error);
+        });
+</script>
+
+
+
+
+ <section class="testimonials-section">
+        <div class="container">
+            <h2 class="section-title">What Our Customers Say</h2>
+            <p class="section-subtitle">Hear directly from those who've experienced our exceptional service.</p>
+
+            <div id="testimonials-container" class="testimonials-grid">
+                <div class="loading-message">Loading testimonials...</div>
+            </div>
+            <div class="error-message" id="error-message" style="display:none;">
+                Failed to load testimonials. Please try again later.
+            </div>
+        </div>
     </section>
 
+<script>
+    fetch('/testimonial')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            const testimonialsContainer = document.getElementById('testimonials-container');
+            testimonialsContainer.innerHTML = ''; // Clear loading message
+
+            if (data && data.length > 0) {
+                data.forEach(testimonial => {
+                    const testimonialCard = document.createElement('div');
+                    testimonialCard.classList.add('testimonial-card');
+
+                    // Star Rating
+                    const starRatingDiv = document.createElement('div');
+                    starRatingDiv.classList.add('star-rating');
+                    for (let i = 0; i < testimonial.rating; i++) {
+                        const starIcon = document.createElement('span');
+                        starIcon.classList.add('star');
+                        starIcon.innerHTML = '&#9733;'; // Unicode for a solid star
+                        starRatingDiv.appendChild(starIcon);
+                    }
+                    testimonialCard.appendChild(starRatingDiv);
+
+                    // Message (content)
+                    const contentParagraph = document.createElement('p');
+                    contentParagraph.classList.add('testimonial-content');
+                    contentParagraph.textContent = `"${testimonial.message}"`; // Use 'message' property
+                    testimonialCard.appendChild(contentParagraph);
+
+                    // Name
+                    const authorParagraph = document.createElement('p');
+                    authorParagraph.classList.add('testimonial-author');
+                    authorParagraph.textContent = `- ${testimonial.name}`; // Use 'name' property
+                    testimonialCard.appendChild(authorParagraph);
+
+                    // Optional: Position (if you want to display it)
+                    if (testimonial.position) {
+                        const positionParagraph = document.createElement('p');
+                        positionParagraph.classList.add('testimonial-position');
+                        positionParagraph.textContent = testimonial.position;
+                        testimonialCard.appendChild(positionParagraph);
+                    }
+
+                    testimonialsContainer.appendChild(testimonialCard);
+                });
+            } else {
+                testimonialsContainer.textContent = 'No testimonials found yet. Be the first to share your experience!';
+                testimonialsContainer.classList.add('no-testimonials');
+            }
+        })
+        .catch(error => {
+            console.error('Error fetching testimonials:', error);
+            document.getElementById('testimonials-container').innerHTML = ''; // Clear loading message
+            document.getElementById('error-message').style.display = 'block'; // Show error message
+        });
+</script>
 
 
 
@@ -998,7 +1208,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                             </svg>
-                            <span class="text-gray-400">fastpikcab@gmail.com<br>support@swiftride.example</span>
+                            <span class="text-gray-400">fastpikcab@gmail.com<br></span>
                         </li>
                     </ul>
                 </div>
@@ -1054,6 +1264,10 @@
     </button>
 
     <script src="{{ asset('js/app.js') }}"></script>
+    <!-- ✅ Google Maps API -->
+     <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
+        async defer></script>
 </body>
 
 </html>

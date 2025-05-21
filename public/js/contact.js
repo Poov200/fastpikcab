@@ -31,7 +31,7 @@ app.controller('ContactController', function ($scope, $http) {
   $scope.submitForm = function () {
     if ($scope.contactForm.$valid) {
       $scope.isSubmitting = true;
-      $http.post('/api/contact', $scope.formData).then(function (response) {
+      $http.post('/contact', $scope.formData).then(function (response) {
         $scope.formSubmitted = true;
         $scope.formError = false;
         $scope.isSubmitting = false;
