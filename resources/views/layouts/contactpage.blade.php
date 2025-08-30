@@ -56,15 +56,14 @@
                 </div>
 
                 <!-- Desktop Navigation -->
-                <div class="hidden md:flex flex-wrap items-center space-x-6">
-                    <a href="#" class="text-white hover:text-yellow-400 font-medium">Home</a>
-                    <a href="#about" class="text-white hover:text-yellow-400 font-medium">About</a>
-                    <a href="#services" class="text-white hover:text-yellow-400 font-medium">Services</a>
-                    <a href="#pricing" class="text-yellow-400 font-semibold">Pricing</a>
-                    <a href="{{ route('contactpage') }}"
-                        class="text-white hover:text-yellow-400 font-medium">Contact</a>
-                    {{-- <a href="#" class="text-white hover:text-yellow-400 font-medium">FAQ</a> --}}
-                </div>
+                 <div class="hidden md:flex flex-wrap items-center space-x-6">
+          <a href="/" class="text-white hover:text-yellow-400 font-medium">Home</a>
+          <a href="/" class="text-white hover:text-yellow-400 font-medium">About</a>
+          <a href="/" class="text-white hover:text-yellow-400 font-medium">Services</a>
+          <a href="/" class="text-white hover:text-yellow-400 font-semibold">Pricing</a>
+          <a href="{{ route('contactpage') }}" class="text-white hover:text-yellow-400 font-medium">Contact</a>
+          {{-- <a href="#" class="text-white hover:text-yellow-400 font-medium">FAQ</a> --}}
+        </div>
 
                 <!-- CTA Button -->
                 <div class="hidden md:block">
@@ -89,18 +88,18 @@
             <!-- Mobile Menu -->
             <div id="mobile-menu" class="md:hidden bg-white py-4 hidden">
                 <div class="flex flex-col space-y-4">
-                    <a href="#"
+                    <a href="/"
                         class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Home</a>
                     <a href="#about"
                         class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">About</a>
-                    <a href="#services"
+                    <a href="/"
                         class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Services</a>
-                    <a href="#pricing" class="text-gray-900 font-semibold px-4 py-2 bg-gray-100 rounded">Pricing</a>
-                    <a href="#contact"
+                    <a href="/" class="text-gray-900 font-semibold px-4 py-2 bg-gray-100 rounded">Pricing</a>
+                    <a href="/"
                         class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Contact</a>
                     {{-- <a href="#" class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">FAQ</a> --}}
                     <div class="px-4 pt-2">
-                        <a href="#booking"
+                        <a href="/"
                             class="block text-center bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-2 px-6 rounded-lg transition duration-300">
                             Book Now
                         </a>
