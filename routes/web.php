@@ -9,6 +9,7 @@ use App\Http\Controllers\PricingController;
 use App\Http\Controllers\BookingController;
 use App\Http\Controllers\RouteController;
 use App\Http\Controllers\CommissionController;
+use App\Http\Controllers\SitemapController;
 
 
 
@@ -194,4 +195,5 @@ Route::post('/commissions', [CommissionController::class, 'store']);
 Route::get('/completed-bookings', [CommissionController::class, 'completedBookings']);
 
 
-Route::get('/sitemap.xml', 'SitemapController@index');
+Route::get('/sitemap.xml', [SitemapController::class, 'index']);
+
