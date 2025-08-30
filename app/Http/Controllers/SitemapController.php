@@ -17,19 +17,19 @@ class SitemapController extends Controller
                 'changefreq' => 'daily',
             ],
             [
-                'loc' => url('#about'),  // About Section
+                'loc' => url('/#about'),  // About Section
                 'lastmod' => now()->toDateString(),
                 'priority' => '0.80',
                 'changefreq' => 'monthly',
             ],
             [
-                'loc' => url('#services'),  // Services Section
+                'loc' => url('/#services'),  // Services Section
                 'lastmod' => now()->toDateString(),
                 'priority' => '0.80',
                 'changefreq' => 'monthly',
             ],
             [
-                'loc' => url('#pricing'),  // Pricing Section
+                'loc' => url('/#pricing'),  // Pricing Section
                 'lastmod' => now()->toDateString(),
                 'priority' => '0.80',
                 'changefreq' => 'monthly',
