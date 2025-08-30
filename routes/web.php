@@ -192,3 +192,6 @@ Route::get('/bookings/assigned', [BookingController::class, 'getAssignedBookings
 Route::get('/commissions', [CommissionController::class, 'index']);
 Route::post('/commissions', [CommissionController::class, 'store']);
 Route::get('/completed-bookings', [CommissionController::class, 'completedBookings']);
+
+
+Route::get('/sitemap.xml', 'SitemapController@index');
