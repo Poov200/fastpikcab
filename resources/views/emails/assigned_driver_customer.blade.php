@@ -100,6 +100,17 @@
             width: 60px;
             height: 60px;
         }
+         .additional-info {
+            background-color: #FFFDF0;
+            border-left: 4px solid #FFD700;
+            padding: 20px;
+            margin-bottom: 25px;
+            border-radius: 4px;
+        }
+        .additional-info h3 {
+            margin-top: 0;
+            font-weight: 600;
+        }
     </style>
 </head>
 <body>
@@ -136,6 +147,17 @@
             <p>Your driver will call you 30 minutes before the scheduled pickup time. Please ensure your phone is accessible.</p>
 
             <p>If you need to contact your driver before your trip, you can use the contact details provided above.</p>
+            <div class="additional-info">
+                <h3>Additional Information</h3>
+                <p><strong>Please Note:</strong> The following charges are not included in the base fare and will be collected separately if applicable:</p>
+                <ul>
+                    <li><strong>Toll Charges:</strong> Any toll fees encountered during the journey</li>
+                    <li><strong>Permits:</strong> Special area entry permits</li>
+                    <li><strong>Hill Station Charges:</strong> Additional fees for hill station routes</li>
+                    <li><strong>Driver Beta:</strong> Food allowance for long journeys</li>
+                    <li><strong>Parking:</strong> Any parking fees at destinations</li>
+                </ul>
+            </div>
 
             <div class="divider"></div>
 
