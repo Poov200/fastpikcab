@@ -1078,11 +1078,7 @@
         <i class="fab fa-whatsapp"></i>
     </a>
 
-
-
-
-
-
+    @include('layouts.routes')
 
     <footer class="bg-gray-900 text-white">
         <!-- Top Footer Section -->
