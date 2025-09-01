@@ -17,7 +17,7 @@
     <meta property="og:image" content="https://fastpikcab.com/img/FastPik%20Logo.png" />
     <meta property="og:url" content="https://www.fastpikcab.com/" />
     <meta property="og:type" content="website" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Fastpik Cab - Trusted Online Taxi & Cab Service" />
@@ -33,6 +33,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
  <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
  </head>
 
 

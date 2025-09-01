@@ -39,6 +39,26 @@ Route::get('/testimonial', function () {
     return view('layouts.testimonial');
 })->name('contactpage');
 
+Route::get('/chennai-to-villupuram-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-villupuram');
+})->name('chennai-to-villupuram');
+
+Route::get('/chennai-to-bangalore-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-bangalore');
+})->name('chennai-to-bangalore');
+
+Route::get('/chennai-to-cuddalore-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-cuddalore');
+})->name('chennai-to-cuddalore');
+
+Route::get('/chennai-to-madurai-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-madurai');
+})->name('chennai-to-madurai');
+
+Route::get('/chennai-to-erode-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-erode');
+})->name('chennai-to-erode');
+
 
 Route::get('/adminlogin', function () {
     return view('layouts.admin.adminLogin');
@@ -196,4 +216,5 @@ Route::get('/completed-bookings', [CommissionController::class, 'completedBookin
 
 
 Route::get('/sitemap.xml', [SitemapController::class, 'index']);
+
 
