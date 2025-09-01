@@ -441,3 +441,72 @@ navLinks.forEach(link => {
         }; // End of window.initMap function
 
 
+
+  // Disable right-click
+  document.addEventListener('contextmenu', function (e) {
+    e.preventDefault();
+  });
+
+  // Disable F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U
+  document.addEventListener('keydown', function (e) {
+    if (
+      e.key === 'F12' ||
+      (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J')) ||
+      (e.ctrlKey && e.key === 'U')
+    ) {
+      e.preventDefault();
+    }
+  });
+
+document.addEventListener('keydown', function (e) {
+  if (
+    e.key === 'F12' ||
+    (e.ctrlKey && e.shiftKey && ['I', 'J', 'C', 'K'].includes(e.key)) ||
+    (e.ctrlKey && e.key === 'U')
+  ) {
+    e.preventDefault();
+  }
+});
+
+
+
+
+
+
+app.controller('CabcityController', function($scope, $http) {
+    // Initial cities array
+    $scope.cities = [
+        {
+            name: 'Chennai',
+            destinations: [
+                'Chennai to Bangalore', 'Chennai to Pondicherry', 'Chennai to Madurai',
+                'Chennai to Trichy', 'Chennai to Vellore', 'Chennai to Neyveli',
+                'Chennai to Karur', 'Chennai to Rameswaram', 'Chennai to Ooty',
+                'Chennai to Thanjavur', 'Chennai to Thiruvannamalai', 'Chennai to Vaniyambadi'
+            ]
+        },
+        {
+            name: 'Coimbatore',
+            destinations: [
+                'Coimbatore to Chennai', 'Coimbatore to Madurai', 'Coimbatore to Ooty',
+                'Coimbatore to Pollachi', 'Coimbatore to Erode', 'Coimbatore to Tirupur'
+            ]
+        },
+        // Add more cities here
+    ];
+
+    // Function to dynamically add a new city
+    $scope.addCity = function(cityName, destinations) {
+        const newCity = {
+            name: cityName,
+            destinations: destinations
+        };
+        $scope.cities.push(newCity);
+    };
+
+    // Example: Add a new city dynamically
+    $scope.addCity('Madurai', [
+        'Madurai to Chennai', 'Madurai to Dindigul', 'Madurai to Tirunelveli',
+        'Madurai to Thoothukudi', 'Madurai to Virudhunagar'
+    ]);
+});
