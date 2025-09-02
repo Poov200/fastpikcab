@@ -200,7 +200,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹4,900 - ₹5,600</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('chennai-to-tiruchirappalli') }}">Book Now</a>
+                                    <a href="{{ route('chennai-to-trichy') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>

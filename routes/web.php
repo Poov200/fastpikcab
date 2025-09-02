@@ -167,9 +167,13 @@ Route::get('/chennai-to-virudhunagar-drop-taxi', function () {
     return view('layouts.chennai.chennai-to-virudhunagar');
 })->name('chennai-to-virudhunagar');
 
-Route::get('/chennai-to-selam-drop-taxi', function () {
-    return view('layouts.chennai.chennai-to-selam');
-})->name('chennai-to-selam');
+Route::get('/chennai-to-salem-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-salem');
+})->name('chennai-to-salem');
+
+Route::get('/chennai-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-tirunelveli');
+})->name('chennai-to-tirunelveli');
 
 Route::get('/chennai-taxi-service', function () {
     return view('layouts.chennai.chennai-taxi-service');
