@@ -18,6 +18,7 @@
 
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex flex-wrap items-center space-x-6">
+                    <a href="#home" class="text-white hover:text-yellow-400 font-medium">Home</a>
 
                     <a href="{{ route('contactpage') }}"
                         class="text-white hover:text-yellow-400 font-medium">Contact</a>
@@ -47,6 +48,8 @@
             <!-- Mobile Menu -->
             <div id="mobile-menu" class="md:hidden bg-white py-4 hidden">
                 <div class="flex flex-col space-y-4">
+                    <a href="#"
+                        class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Home</a>
 
                     <a href="#contact"
                         class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Contact</a>

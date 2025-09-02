@@ -82,7 +82,7 @@
                         <span class="absolute bottom-0 left-0 w-10 h-1 bg-yellow-400 -mb-2"></span>
                     </h3>
                     <ul class="space-y-3">
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">City Transfers</a>
+                        <li><a href="{{ route('chennai-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Chennai Taxi Service</a>
                         </li>
                         <li><a href="#" class="footer-link text-gray-400 hover:text-white">Airport Pickups</a>
                         </li>
