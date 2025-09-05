@@ -1,30 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Hosur to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Hosur to Bangalore Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Hosur to Chengalpattu taxi, Hosur to Chengalpattu one way taxi, Hosur to Chengalpattu outstation cabs, Hosur to Chengalpattu taxi fare, Hosur to Chengalpattu cab fare, Hosur to Chengalpattu round trip taxi, Hosur to Chengalpattu car rental, Hosur to Chengalpattu cab booking">
+        content="Hosur to Bangalore taxi, Hosur to Bangalore one way taxi, Hosur to Bangalore outstation cabs, Hosur to Bangalore taxi fare, Hosur to Bangalore cab fare, Hosur to Bangalore round trip taxi, Hosur to Bangalore car rental, Hosur to Bangalore cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Hosur to Chengalpattu Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Hosur to Bangalore Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Hosur to Chengalpattu. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Hosur to Bangalore. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/hosur-to-chengalpattu-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/hosur-to-bangalore-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hosur to Chengalpattu Taxi Service">
+    <meta name="twitter:title" content="Hosur to Bangalore Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Hosur to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Hosur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/hosur-to-chengalpattu-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/hosur-to-bangalore-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -62,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Hosur to Chengalpattu Taxi Service",
-                    "description": "Reliable taxi service connecting Hosur to Chengalpattu with options for one-way, round-trip, and outstation travel.",
+                    "name": "Hosur to Bangalore Taxi Service",
+                    "description": "Reliable taxi service connecting Hosur to Bangalore with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Hosur", "Chengalpattu"],
+                    "areaServed": ["Hosur", "Bangalore"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -81,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Hosur to Chengalpattu Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Hosur to Chengalpattu. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Hosur to Bangalore Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Hosur to Bangalore. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -94,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Hosur to Chengalpattu",
-                        "item": "https://www.fastpikcab.com/hosur-to-chengalpattu-drop-taxi"
+                        "name": "Hosur to Bangalore",
+                        "item": "https://www.fastpikcab.com/hosur-to-bangalore-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Hosur to Chengalpattu Taxi Service",
+                "name": "Hosur to Bangalore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "4000",
-                    "highPrice": "6000",
+                    "lowPrice": "1000",
+                    "highPrice": "2600",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -167,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Chengalpattu Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Bangalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -175,32 +176,28 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 185-200 km</span>
+                            <span><strong>Distance:</strong> Approximately 50 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 3.5 - 4.5 hours depending on traffic and route taken</span>
+                            <span><strong>Travel Time:</strong> 2 - 3 hours depending on traffic</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The journey primarily follows NH 48, connecting through Krishnagiri and Vellore.</span>
+                            <span><strong>Route:</strong> The most common route is via NH 948A.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> A key route connecting Hosur to southern Chennai and its suburbs.</span>
+                            <span><strong>Note:</strong> This is a short-distance, high-traffic route.</span>
                         </li>
                     </ul>
                 </div>
                 <div>
-                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
+                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Vellore</span>
-                            <span class="text-sm text-gray-500">Known for Vellore Fort and the Sripuram Golden Temple.</span>
-                        </div>
-                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Arcot</span>
-                            <span class="text-sm text-gray-500">A historical town with a few temples and monuments.</span>
+                            <span>Electronic City</span>
+                            <span class="text-sm text-gray-500">A major IT hub and prominent entry point into Bangalore.</span>
                         </div>
                     </div>
                 </div>
@@ -208,50 +205,50 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Chengalpattu Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
-            <table class="w-full table-auto">
-                <thead class="bg-blue-600 text-white">
-                    <tr>
-                        <th class="px-6 py-4 text-left">Vehicle Type</th>
-                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Features</th>
-                    </tr>
-                </thead>
-                <tbody class="divide-y divide-gray-200">
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹4,000 - ₹5,000</td>
-                        <td class="px-6 py-4 text-center">₹8,000 - ₹10,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Air-conditioned</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Luggage capacity: 2 medium bags</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹5,000 - ₹6,000</td>
-                        <td class="px-6 py-4 text-center">₹10,000 - ₹12,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Spacious and comfortable</li>
-                                <li>Seating for up to 6 passengers</li>
-                                <li>Extra legroom for the journey</li>
-                            </ul>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-            <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops. Prices are indicative and subject to change.</p>
-            </div>
+   <section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Bangalore Fare Structure</h2>
+    <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+        <table class="w-full table-auto">
+            <thead class="bg-blue-600 text-white">
+                <tr>
+                    <th class="px-6 py-4 text-left">Vehicle Type</th>
+                    <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Features</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">Sedan</td>
+                    <td class="px-6 py-4 text-center">₹1,000</td>
+                    <td class="px-6 py-4 text-center">₹2,000</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Air-conditioned</li>
+                            <li>Up to 4 passengers</li>
+                            <li>Luggage capacity: 2 medium bags</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">SUV</td>
+                    <td class="px-6 py-4 text-center">₹1,300</td>
+                    <td class="px-6 py-4 text-center">₹2,600</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Spacious and comfortable</li>
+                            <li>Seating for up to 6 passengers</li>
+                            <li>Extra legroom for the journey</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="p-4 bg-gray-50 text-center">
+            <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
         </div>
-    </section>
+    </div>
+</section>
 
     @include('layouts.footer')
 
@@ -260,4 +257,5 @@
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
+
 </html>

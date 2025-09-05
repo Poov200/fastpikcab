@@ -4,115 +4,114 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Villupuram to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Villupuram to Arani Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Villupuram to Arakkonam taxi, Villupuram to Arakkonam one way taxi, Villupuram to Arakkonam outstation cabs, Villupuram to Arakkonam taxi fare, Villupuram to Arakkonam cab fare, Villupuram to Arakkonam round trip taxi, Villupuram to Arakkonam car rental, Villupuram to Arakkonam cab booking">
+        content="Villupuram to Arani taxi, Villupuram to Arani one way taxi, Villupuram to Arani outstation cabs, Villupuram to Arani taxi fare, Villupuram to Arani cab fare, Villupuram to Arani round trip taxi, Villupuram to Arani car rental, Villupuram to Arani cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Villupuram to Arakkonam Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Villupuram to Arani Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Villupuram to Arakkonam. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Villupuram to Arani. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/villupuram-to-arakkonam-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/villupuram-to-arani-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Villupuram to Arakkonam Taxi Service">
+    <meta name="twitter:title" content="Villupuram to Arani Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Villupuram to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Villupuram to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/villupuram-to-arakkonam-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/villupuram-to-arani-drop-taxi">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
-      "url": "https://www.fastpikcab.com/",
-      "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
-      "image": "https://www.fastpikcab.com/img/heroimg.png",
-      "telephone": "+91-8825694157",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Throw Pathi Amman Kovil Street",
-        "addressLocality": "Kalanjukuppam",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "607104",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Villupuram to Arakkonam Taxi Service",
-          "description": "Reliable taxi service connecting Villupuram to Arakkonam with options for one-way, round-trip, and outstation travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Villupuram", "Arakkonam"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Fastpik Cab"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2024-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpik Cab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Villupuram to Arani Taxi Service",
+                    "description": "Reliable taxi service connecting Villupuram to Arani with options for one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Villupuram", "Arani"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpik Cab"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2024-12-31"
+            }
+        }
     </script>
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Villupuram to Arakkonam Taxi Service | Fastpik Cab",
-      "description": "Book affordable and reliable taxis from Villupuram to Arakkonam. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.fastpikcab.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Villupuram to Arakkonam",
-            "item": "https://www.fastpikcab.com/villupuram-to-arakkonam-drop-taxi"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Villupuram to Arakkonam Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "2000",
-          "highPrice": "4000",
-          "offerCount": "Multiple price points based on vehicle type"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Villupuram to Arani Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Villupuram to Arani. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Villupuram to Arani",
+                        "item": "https://www.fastpikcab.com/villupuram-to-arani-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Villupuram to Arani Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "1500",
+                    "highPrice": "3600",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
         }
-      }
-    }
     </script>
 
     <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
@@ -169,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Arakkonam Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Arani Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -177,19 +176,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 110 km</span>
+                            <span><strong>Distance:</strong> Approximately 92 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 2 - 3 hours depending on traffic</span>
+                            <span><strong>Travel Time:</strong> 2 - 2.5 hours depending on traffic</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The fastest route is via NH32.</span>
+                            <span><strong>Route:</strong> The most common route is via SH 4.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> The journey passes through scenic and rural areas.</span>
+                            <span><strong>Note:</strong> This is a short-distance route.</span>
                         </li>
                     </ul>
                 </div>
@@ -198,15 +197,7 @@
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>Gingee</span>
-                            <span class="text-sm text-gray-500">Famous for its historic fort complex.</span>
-                        </div>
-                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Cheyyar</span>
-                            <span class="text-sm text-gray-500">A prominent town in Tiruvannamalai district.</span>
-                        </div>
-                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Vandavasi</span>
-                            <span class="text-sm text-gray-500">Another historical town known for the Battle of Wandiwash.</span>
+                            <span class="text-sm text-gray-500">A major town on the way to Arani, known for Gingee Fort.</span>
                         </div>
                     </div>
                 </div>
@@ -214,51 +205,50 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Arakkonam Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
-            <table class="w-full table-auto">
-                <thead class="bg-blue-600 text-white">
-                    <tr>
-                        <th class="px-6 py-4 text-left">Vehicle Type</th>
-                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Features</th>
-                    </tr>
-                </thead>
-                <tbody class="divide-y divide-gray-200">
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹2,000</td>
-                        <td class="px-6 py-4 text-center">₹3,800</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Air-conditioned</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Luggage capacity: 2 medium bags</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹2,800</td>
-                        <td class="px-6 py-4 text-center">₹5,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Spacious and comfortable</li>
-                                <li>Seating for up to 6 passengers</li>
-                                <li>Extra legroom for the journey</li>
-                            </ul>
-                        </td>
-                    </tr>
-                   
-                </tbody>
-            </table>
-            <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
-            </div>
+   <section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Arani Fare Structure</h2>
+    <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+        <table class="w-full table-auto">
+            <thead class="bg-blue-600 text-white">
+                <tr>
+                    <th class="px-6 py-4 text-left">Vehicle Type</th>
+                    <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Features</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">Sedan</td>
+                    <td class="px-6 py-4 text-center">₹1,500</td>
+                    <td class="px-6 py-4 text-center">₹3,000</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Air-conditioned</li>
+                            <li>Up to 4 passengers</li>
+                            <li>Luggage capacity: 2 medium bags</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">SUV</td>
+                    <td class="px-6 py-4 text-center">₹1,800</td>
+                    <td class="px-6 py-4 text-center">₹3,600</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Spacious and comfortable</li>
+                            <li>Seating for up to 6 passengers</li>
+                            <li>Extra legroom for the journey</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="p-4 bg-gray-50 text-center">
+            <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
         </div>
-    </section>
+    </div>
+</section>
 
     @include('layouts.footer')
 

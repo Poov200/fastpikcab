@@ -1,30 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Hosur to Trichy Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Hosur to Villupuram Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Hosur to Trichy taxi, Hosur to Trichy one way taxi, Hosur to Trichy outstation cabs, Hosur to Trichy taxi fare, Hosur to Trichy cab fare, Hosur to Trichy round trip taxi, Hosur to Trichy car rental, Hosur to Trichy cab booking">
+        content="Hosur to Villupuram taxi, Hosur to Villupuram one way taxi, Hosur to Villupuram outstation cabs, Hosur to Villupuram taxi fare, Hosur to Villupuram cab fare, Hosur to Villupuram round trip taxi, Hosur to Villupuram car rental, Hosur to Villupuram cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Hosur to Trichy Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Hosur to Villupuram Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Hosur to Trichy. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Hosur to Villupuram. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/hosur-to-trichy-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/hosur-to-villupuram-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hosur to Trichy Taxi Service">
+    <meta name="twitter:title" content="Hosur to Villupuram Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Hosur to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Hosur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/hosur-to-trichy-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/hosur-to-villupuram-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -62,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Hosur to Trichy Taxi Service",
-                    "description": "Reliable taxi service connecting Hosur to Trichy with options for one-way, round-trip, and outstation travel.",
+                    "name": "Hosur to Villupuram Taxi Service",
+                    "description": "Reliable taxi service connecting Hosur to Villupuram with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Hosur", "Trichy"],
+                    "areaServed": ["Hosur", "Villupuram"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -81,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Hosur to Trichy Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Hosur to Trichy. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Hosur to Villupuram Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Hosur to Villupuram. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -94,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Hosur to Trichy",
-                        "item": "https://www.fastpikcab.com/hosur-to-trichy-drop-taxi"
+                        "name": "Hosur to Villupuram",
+                        "item": "https://www.fastpikcab.com/hosur-to-villupuram-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Hosur to Trichy Taxi Service",
+                "name": "Hosur to Villupuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "5000",
-                    "highPrice": "9500",
+                    "lowPrice": "3500",
+                    "highPrice": "8800",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -167,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Trichy Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Villupuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -175,32 +176,32 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 300-330 km</span>
+                            <span><strong>Distance:</strong> Approximately 229 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 5.5 - 6.5 hours depending on traffic and route taken</span>
+                            <span><strong>Travel Time:</strong> 4.5 - 5.5 hours depending on traffic</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The journey primarily follows NH 44, passing through Salem, Namakkal, and Karur.</span>
+                            <span><strong>Route:</strong> The most common route is via NH 77 and NH 38.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> A key route connecting Hosur to the major city of Trichy, known for its historic temples and rock fort.</span>
+                            <span><strong>Note:</strong> This is a long-distance route.</span>
                         </li>
                     </ul>
                 </div>
                 <div>
-                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
+                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Salem</span>
-                            <span class="text-sm text-gray-500">A major city and an excellent stop for food and refreshments.</span>
+                            <span>Krishnagiri</span>
+                            <span class="text-sm text-gray-500">A major town on the way from Hosur.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Namakkal</span>
-                            <span class="text-sm text-gray-500">A good place to take a break, known for its transport industry.</span>
+                            <span>Tiruvannamalai</span>
+                            <span class="text-sm text-gray-500">A significant spiritual city on the route.</span>
                         </div>
                     </div>
                 </div>
@@ -208,50 +209,50 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Trichy Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
-            <table class="w-full table-auto">
-                <thead class="bg-blue-600 text-white">
-                    <tr>
-                        <th class="px-6 py-4 text-left">Vehicle Type</th>
-                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Features</th>
-                    </tr>
-                </thead>
-                <tbody class="divide-y divide-gray-200">
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹5,000 - ₹7,000</td>
-                        <td class="px-6 py-4 text-center">₹10,000 - ₹14,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Air-conditioned</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Luggage capacity: 2 medium bags</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹7,500 - ₹9,500</td>
-                        <td class="px-6 py-4 text-center">₹15,000 - ₹19,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Spacious and comfortable</li>
-                                <li>Seating for up to 6 passengers</li>
-                                <li>Extra legroom for the journey</li>
-                            </ul>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-            <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops. Prices are indicative and subject to change.</p>
-            </div>
+   <section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Villupuram Fare Structure</h2>
+    <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+        <table class="w-full table-auto">
+            <thead class="bg-blue-600 text-white">
+                <tr>
+                    <th class="px-6 py-4 text-left">Vehicle Type</th>
+                    <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Features</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">Sedan</td>
+                    <td class="px-6 py-4 text-center">₹3,500</td>
+                    <td class="px-6 py-4 text-center">₹7,000</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Air-conditioned</li>
+                            <li>Up to 4 passengers</li>
+                            <li>Luggage capacity: 2 medium bags</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">SUV</td>
+                    <td class="px-6 py-4 text-center">₹4,400</td>
+                    <td class="px-6 py-4 text-center">₹8,800</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Spacious and comfortable</li>
+                            <li>Seating for up to 6 passengers</li>
+                            <li>Extra legroom for the journey</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="p-4 bg-gray-50 text-center">
+            <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
         </div>
-    </section>
+    </div>
+</section>
 
     @include('layouts.footer')
 
@@ -260,4 +261,5 @@
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
+
 </html>
