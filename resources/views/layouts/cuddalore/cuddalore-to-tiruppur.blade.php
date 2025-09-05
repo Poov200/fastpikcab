@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
@@ -16,26 +15,26 @@
     <meta property="og:title" content="Fastpik Cab - Cuddalore to Tiruppur Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Cuddalore to Tiruppur. Book online for one-way, round-trip, or outstation travel.">
-    <meta property="og:image" content="[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)">
-    <meta property="og:url" content="[https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi](https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi)">
+    <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
+    <meta property="og:url" content="https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Cuddalore to Tiruppur Taxi Service">
     <meta name="twitter:description"
         content="Book a reliable Cuddalore to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
-    <meta name="twitter:image" content="[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)">
+    <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="[https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi](https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi)">
+    <link rel="canonical" href="https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi">
 
     <script type="application/ld+json">
         {
-            "@context": "[https://schema.org](https://schema.org)",
+            "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Fastpik Cab",
-            "url": "[https://www.fastpikcab.com/](https://www.fastpikcab.com/)",
-            "logo": "[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)",
-            "image": "[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
             "telephone": "+91-8825694157",
             "priceRange": "$$",
             "address": {
@@ -81,7 +80,7 @@
 
     <script type="application/ld+json">
         {
-            "@context": "[https://schema.org](https://schema.org)",
+            "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "Cuddalore to Tiruppur Taxi Service | Fastpik Cab",
             "description": "Book affordable and reliable taxis from Cuddalore to Tiruppur. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
@@ -91,13 +90,13 @@
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "[https://www.fastpikcab.com/](https://www.fastpikcab.com/)"
+                        "item": "https://www.fastpikcab.com/"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Cuddalore to Tiruppur",
-                        "item": "[https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi](https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi)"
+                        "item": "https://www.fastpikcab.com/cuddalore-to-tiruppur-drop-taxi"
                     }
                 ]
             },
@@ -107,7 +106,7 @@
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "6000",
+                    "lowPrice": "4800",
                     "highPrice": "12000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
@@ -115,18 +114,18 @@
         }
     </script>
 
-    <link rel="icon" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)" />
-    <link rel="apple-touch-icon" sizes="180x180" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)">
+    <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik%20Logo.png">
 
-    <link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-    <link href="[https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap](https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap)"
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
-    <script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
-    <script src="[https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js](https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js)"></script>
-    <link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
         body {
@@ -177,7 +176,7 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 310 km</span>
+                            <span><strong>Distance:</strong> Approximately 315 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
@@ -185,7 +184,7 @@
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via Villupuram and Salem.</span>
+                            <span><strong>Route:</strong> The route generally follows a combination of NH32, NH38, NH79, and NH44.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
@@ -198,63 +197,68 @@
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>Salem</span>
-                            <span class="text-sm text-gray-500">A major city and key junction with various amenities.</span>
+                            <span class="text-sm text-gray-500">A major city and key stop on the route.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Namakkal</span>
+                            <span class="text-sm text-gray-500">Known as the "Egg City of India".</span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Tiruppur Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
-            <table class="w-full table-auto">
-                <thead class="bg-blue-600 text-white">
-                    <tr>
-                        <th class="px-6 py-4 text-left">Vehicle Type</th>
-                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Features</th>
-                    </tr>
-                </thead>
-                <tbody class="divide-y divide-gray-200">
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹6,000</td>
-                        <td class="px-6 py-4 text-center">₹12,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Air-conditioned</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Luggage capacity: 2 medium bags</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹8,000</td>
-                        <td class="px-6 py-4 text-center">₹16,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Spacious and comfortable</li>
-                                <li>Seating for up to 6 passengers</li>
-                                <li>Extra legroom for the journey</li>
-                            </ul>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-            <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
-            </div>
+
+   <section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Tiruppur Fare Structure</h2>
+    <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+        <table class="w-full table-auto">
+            <thead class="bg-blue-600 text-white">
+                <tr>
+                    <th class="px-6 py-4 text-left">Vehicle Type</th>
+                    <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Features</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">Sedan</td>
+                    <td class="px-6 py-4 text-center">₹4,800</td>
+                    <td class="px-6 py-4 text-center">₹9,600</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Air-conditioned</li>
+                            <li>Up to 4 passengers</li>
+                            <li>Luggage capacity: 2 medium bags</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">SUV</td>
+                    <td class="px-6 py-4 text-center">₹6,000</td>
+                    <td class="px-6 py-4 text-center">₹12,000</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Spacious and comfortable</li>
+                            <li>Seating for up to 6 passengers</li>
+                            <li>Extra legroom for the journey</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="p-4 bg-gray-50 text-center">
+            <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
         </div>
-    </section>
+    </div>
+</section>
 
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>
     <script
-        src="[https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap](https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap)"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
 
