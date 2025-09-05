@@ -4,28 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Dharmapuri to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Dharmapuri to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Dharmapuri to Perambalur taxi, Dharmapuri to Perambalur one way taxi, Dharmapuri to Perambalur outstation cabs, Dharmapuri to Perambalur taxi fare, Dharmapuri to Perambalur cab fare, Dharmapuri to Perambalur round trip taxi, Dharmapuri to Perambalur car rental, Dharmapuri to Perambalur cab booking">
+        content="Dharmapuri to Chennai taxi, Dharmapuri to Chennai one way taxi, Dharmapuri to Chennai outstation cabs, Dharmapuri to Chennai taxi fare, Dharmapuri to Chennai cab fare, Dharmapuri to Chennai round trip taxi, Dharmapuri to Chennai car rental, Dharmapuri to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Dharmapuri to Perambalur Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Dharmapuri to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Dharmapuri to Perambalur. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Dharmapuri to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/dharmapuri-to-perambalur-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/dharmapuri-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Dharmapuri to Perambalur Taxi Service">
+    <meta name="twitter:title" content="Dharmapuri to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Dharmapuri to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Dharmapuri to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/dharmapuri-to-perambalur-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/dharmapuri-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -63,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Dharmapuri to Perambalur Taxi Service",
-                    "description": "Reliable taxi service connecting Dharmapuri to Perambalur with options for one-way, round-trip, and outstation travel.",
+                    "name": "Dharmapuri to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Dharmapuri to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Dharmapuri", "Perambalur"],
+                    "areaServed": ["Dharmapuri", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -82,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Dharmapuri to Perambalur Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Dharmapuri to Perambalur. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Dharmapuri to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Dharmapuri to Chennai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Dharmapuri to Perambalur",
-                        "item": "https://www.fastpikcab.com/dharmapuri-to-perambalur-drop-taxi"
+                        "name": "Dharmapuri to Chennai",
+                        "item": "https://www.fastpikcab.com/dharmapuri-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Dharmapuri to Perambalur Taxi Service",
+                "name": "Dharmapuri to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "2600",
-                    "highPrice": "6800",
+                    "lowPrice": "4800",
+                    "highPrice": "12000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Perambalur Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,15 +176,15 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 175 km</span>
+                            <span><strong>Distance:</strong> Approximately 314 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 3 - 3.5 hours depending on traffic</span>
+                            <span><strong>Travel Time:</strong> 6 - 7 hours depending on traffic</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via NH44.</span>
+                            <span><strong>Route:</strong> The most common route is via NH 77 and NH 179B/NH 32.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
@@ -196,12 +196,12 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Salem</span>
+                            <span>Krishnagiri</span>
                             <span class="text-sm text-gray-500">A major city with various amenities on the way.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Attur</span>
-                            <span class="text-sm text-gray-500">A good break point for refreshments.</span>
+                            <span>Villupuram</span>
+                            <span class="text-sm text-gray-500">A key city for a break.</span>
                         </div>
                     </div>
                 </div>
@@ -210,7 +210,7 @@
     </section>
 
    <section class="mb-12 px-4 md:px-12">
-    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Perambalur Fare Structure</h2>
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Chennai Fare Structure</h2>
     <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
         <table class="w-full table-auto">
             <thead class="bg-blue-600 text-white">
@@ -224,8 +224,8 @@
             <tbody class="divide-y divide-gray-200">
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
-                    <td class="px-6 py-4 text-center">₹2,600</td>
-                    <td class="px-6 py-4 text-center">₹5,200</td>
+                    <td class="px-6 py-4 text-center">₹4,800</td>
+                    <td class="px-6 py-4 text-center">₹9,600</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Air-conditioned</li>
@@ -236,8 +236,8 @@
                 </tr>
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">SUV</td>
-                    <td class="px-6 py-4 text-center">₹3,400</td>
-                    <td class="px-6 py-4 text-center">₹6,800</td>
+                    <td class="px-6 py-4 text-center">₹6,000</td>
+                    <td class="px-6 py-4 text-center">₹12,000</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Spacious and comfortable</li>
