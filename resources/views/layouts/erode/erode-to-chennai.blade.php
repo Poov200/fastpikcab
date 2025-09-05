@@ -4,28 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Erode to Dindigul Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Erode to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Erode to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Erode to Dindigul taxi, Erode to Dindigul one way taxi, Erode to Dindigul outstation cabs, Erode to Dindigul taxi fare, Erode to Dindigul cab fare, Erode to Dindigul round trip taxi, Erode to Dindigul car rental, Erode to Dindigul cab booking">
+        content="Erode to Chennai taxi, Erode to Chennai one way taxi, Erode to Chennai outstation cabs, Erode to Chennai taxi fare, Erode to Chennai cab fare, Erode to Chennai round trip taxi, Erode to Chennai car rental, Erode to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Erode to Dindigul Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Erode to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Erode to Dindigul. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Erode to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/erode-to-dindigul-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/erode-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Erode to Dindigul Taxi Service">
+    <meta name="twitter:title" content="Erode to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Erode to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Erode to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/erode-to-dindigul-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/erode-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -63,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Erode to Dindigul Taxi Service",
-                    "description": "Reliable taxi service connecting Erode to Dindigul with options for one-way, round-trip, and outstation travel.",
+                    "name": "Erode to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Erode to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Erode", "Dindigul"],
+                    "areaServed": ["Erode", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -82,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Erode to Dindigul Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Erode to Dindigul. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Erode to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Erode to Chennai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Erode to Dindigul",
-                        "item": "https://www.fastpikcab.com/erode-to-dindigul-drop-taxi"
+                        "name": "Erode to Chennai",
+                        "item": "https://www.fastpikcab.com/erode-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Erode to Dindigul Taxi Service",
+                "name": "Erode to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "2000",
-                    "highPrice": "5000",
+                    "lowPrice": "6000",
+                    "highPrice": "15600",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Dindigul Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,19 +176,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 132 km</span>
+                            <span><strong>Distance:</strong> Approximately 407 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 3 - 4 hours depending on traffic</span>
+                            <span><strong>Travel Time:</strong> 7.5 - 8.5 hours depending on traffic</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via Erode-Karur Rd and NH 44.</span>
+                            <span><strong>Route:</strong> The most common route is via NH79.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> This is a short-distance route.</span>
+                            <span><strong>Note:</strong> This is a long-distance route.</span>
                         </li>
                     </ul>
                 </div>
@@ -196,8 +196,12 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Karur</span>
-                            <span class="text-sm text-gray-500">A major town and a good place to take a break.</span>
+                            <span>Salem</span>
+                            <span class="text-sm text-gray-500">A major city and key hub on the route.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Villupuram</span>
+                            <span class="text-sm text-gray-500">A significant town on the way to Chennai.</span>
                         </div>
                     </div>
                 </div>
@@ -206,7 +210,7 @@
     </section>
 
    <section class="mb-12 px-4 md:px-12">
-    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Dindigul Fare Structure</h2>
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Chennai Fare Structure</h2>
     <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
         <table class="w-full table-auto">
             <thead class="bg-blue-600 text-white">
@@ -220,8 +224,8 @@
             <tbody class="divide-y divide-gray-200">
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
-                    <td class="px-6 py-4 text-center">₹2,000</td>
-                    <td class="px-6 py-4 text-center">₹4,000</td>
+                    <td class="px-6 py-4 text-center">₹6,000</td>
+                    <td class="px-6 py-4 text-center">₹12,000</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Air-conditioned</li>
@@ -232,8 +236,8 @@
                 </tr>
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">SUV</td>
-                    <td class="px-6 py-4 text-center">₹2,500</td>
-                    <td class="px-6 py-4 text-center">₹5,000</td>
+                    <td class="px-6 py-4 text-center">₹7,800</td>
+                    <td class="px-6 py-4 text-center">₹15,600</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Spacious and comfortable</li>
