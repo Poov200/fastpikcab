@@ -338,7 +338,7 @@ Route::post('/commissions', [CommissionController::class, 'store']);
 Route::get('/completed-bookings', [CommissionController::class, 'completedBookings']);
 
 
-Route::get('/sitemap.xml', [SitemapController::class, 'index']);
+
 
 
 
