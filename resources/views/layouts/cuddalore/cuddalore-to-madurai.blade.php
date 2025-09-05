@@ -1,216 +1,215 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fastpik Cab - Cuddalore to Madurai Taxi Service | Book Online</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fastpik Cab - Cuddalore to Madurai Taxi Service | Book Online</title>
 
-<meta name="description"
-    content="Book a reliable Cuddalore to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description"
+        content="Book a reliable Cuddalore to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
-<meta name="keywords"
-    content="Cuddalore to Madurai taxi, Cuddalore to Madurai one way taxi, Cuddalore to Madurai outstation cabs, Cuddalore to Madurai taxi fare, Cuddalore to Madurai cab fare, Cuddalore to Madurai round trip taxi, Cuddalore to Madurai car rental, Cuddalore to Madurai cab booking">
+    <meta name="keywords"
+        content="Cuddalore to Madurai taxi, Cuddalore to Madurai one way taxi, Cuddalore to Madurai outstation cabs, Cuddalore to Madurai taxi fare, Cuddalore to Madurai cab fare, Cuddalore to Madurai round trip taxi, Cuddalore to Madurai car rental, Cuddalore to Madurai cab booking">
 
-<meta property="og:title" content="Fastpik Cab - Cuddalore to Madurai Taxi Service">
-<meta property="og:description"
-    content="Reliable and affordable taxi service from Cuddalore to Madurai. Book online for one-way, round-trip, or outstation travel.">
-<meta property="og:image" content="[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)">
-<meta property="og:url" content="[https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi](https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi)">
-<meta property="og:type" content="website">
+    <meta property="og:title" content="Fastpik Cab - Cuddalore to Madurai Taxi Service">
+    <meta property="og:description"
+        content="Reliable and affordable taxi service from Cuddalore to Madurai. Book online for one-way, round-trip, or outstation travel.">
+    <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
+    <meta property="og:url" content="https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi">
+    <meta property="og:type" content="website">
 
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cuddalore to Madurai Taxi Service">
-<meta name="twitter:description"
-    content="Book a reliable Cuddalore to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
-<meta name="twitter:image" content="[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Cuddalore to Madurai Taxi Service">
+    <meta name="twitter:description"
+        content="Book a reliable Cuddalore to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+    <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-<link rel="canonical" href="[https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi](https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi)">
+    <link rel="canonical" href="https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi">
 
-<script type="application/ld+json">
-    {
-        "@context": "[https://schema.org](https://schema.org)",
-        "@type": "LocalBusiness",
-        "name": "Fastpik Cab",
-        "url": "[https://www.fastpikcab.com/](https://www.fastpikcab.com/)",
-        "logo": "[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)",
-        "image": "[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)",
-        "telephone": "+91-8825694157",
-        "priceRange": "$$",
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Throw Pathi Amman Kovil Street",
-            "addressLocality": "Kalanjukuppam",
-            "addressRegion": "Tamil Nadu",
-            "postalCode": "607104",
-            "addressCountry": "IN"
-        },
-        "openingHoursSpecification": {
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": [
-                "Monday",
-                "Tuesday",
-                "Wednesday",
-                "Thursday",
-                "Friday",
-                "Saturday",
-                "Sunday"
-            ],
-            "opens": "00:00",
-            "closes": "23:59"
-        },
-        "makesOffer": {
-            "@type": "Offer",
-            "itemOffered": {
-                "@type": "Service",
-                "name": "Cuddalore to Madurai Taxi Service",
-                "description": "Reliable taxi service connecting Cuddalore to Madurai with options for one-way, round-trip, and outstation travel.",
-                "serviceType": "TaxiService",
-                "areaServed": ["Cuddalore", "Madurai"],
-                "provider": {
-                    "@type": "Organization",
-                    "name": "Fastpik Cab"
-                }
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpik Cab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
             },
-            "priceCurrency": "INR",
-            "priceValidUntil": "2025-12-31"
-        }
-    }
-</script>
-
-<script type="application/ld+json">
-    {
-        "@context": "[https://schema.org](https://schema.org)",
-        "@type": "WebPage",
-        "name": "Cuddalore to Madurai Taxi Service | Fastpik Cab",
-        "description": "Book affordable and reliable taxis from Cuddalore to Madurai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
-        "breadcrumb": {
-            "@type": "BreadcrumbList",
-            "itemListElement": [{
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home",
-                    "item": "[https://www.fastpikcab.com/](https://www.fastpikcab.com/)"
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Cuddalore to Madurai Taxi Service",
+                    "description": "Reliable taxi service connecting Cuddalore to Madurai with options for one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Cuddalore", "Madurai"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpik Cab"
+                    }
                 },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "Cuddalore to Madurai",
-                    "item": "[https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi](https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi)"
-                }
-            ]
-        },
-        "mainEntityOfPage": {
-            "@type": "Product",
-            "name": "Cuddalore to Madurai Taxi Service",
-            "offers": {
-                "@type": "AggregateOffer",
                 "priceCurrency": "INR",
-                "lowPrice": "4700",
-                "highPrice": "11000",
-                "offerCount": "Multiple price points based on vehicle type"
+                "priceValidUntil": "2024-12-31"
             }
         }
-    }
-</script>
+    </script>
 
-<link rel="icon" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)" type="image/x-icon" />
-<link rel="apple-touch-icon" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)" />
-<link rel="apple-touch-icon" sizes="180x180" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)" />
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Cuddalore to Madurai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Cuddalore to Madurai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Cuddalore to Madurai",
+                        "item": "https://www.fastpikcab.com/cuddalore-to-madurai-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Cuddalore to Madurai Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "4700",
+                    "highPrice": "12000",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
+        }
+    </script>
 
-<link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)">
+    <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik%20Logo.png">
 
-<link href="[https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap](https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap)"
-    rel="stylesheet">
-<script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
-<link href="{{ asset('css/app.css') }}" rel="stylesheet" />
-<script src="[https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js](https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js)"></script>
-<link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-<style>
-    body {
-        font-family: 'Poppins', sans-serif;
-    }
-</style>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
 </head>
 
 <body>
 
-@include('layouts.bookingpage')
+    @include('layouts.bookingpage')
 
-<section class="mb-12 px-4 md:px-12">
-    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-        <div class="bg-white p-6 rounded-xl shadow-md text-center">
-            <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <i class="fas fa-shield-alt text-2xl text-blue-600"></i>
+    <section class="mb-12 px-4 md:px-12">
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="bg-white p-6 rounded-xl shadow-md text-center">
+                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-shield-alt text-2xl text-blue-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-2">Safe & Secure</h3>
+                <p class="text-gray-600">All our vehicles are regularly sanitized and equipped with GPS tracking for
+                    your safety.</p>
             </div>
-            <h3 class="text-xl font-semibold mb-2">Safe & Secure</h3>
-            <p class="text-gray-600">All our vehicles are regularly sanitized and equipped with GPS tracking for
-                your safety.</p>
-        </div>
-        <div class="bg-white p-6 rounded-xl shadow-md text-center">
-            <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <i class="fas fa-clock text-2xl text-blue-600"></i>
+            <div class="bg-white p-6 rounded-xl shadow-md text-center">
+                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-clock text-2xl text-blue-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-2">On-Time Guarantee</h3>
+                <p class="text-gray-600">We promise punctual service with real-time updates and 24/7 customer support.
+                </p>
             </div>
-            <h3 class="text-xl font-semibold mb-2">On-Time Guarantee</h3>
-            <p class="text-gray-600">We promise punctual service with real-time updates and 24/7 customer support.
-            </p>
-        </div>
-        <div class="bg-white p-6 rounded-xl shadow-md text-center">
-            <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <i class="fas fa-dollar-sign text-2xl text-blue-600"></i>
+            <div class="bg-white p-6 rounded-xl shadow-md text-center">
+                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-dollar-sign text-2xl text-blue-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-2">Transparent Pricing</h3>
+                <p class="text-gray-600">No hidden charges with upfront pricing and easy cancellation policies.</p>
             </div>
-            <h3 class="text-xl font-semibold mb-2">Transparent Pricing</h3>
-            <p class="text-gray-600">No hidden charges with upfront pricing and easy cancellation policies.</p>
         </div>
-    </div>
-</section>
+    </section>
 
-<section class="mb-12 px-4 md:px-12">
-    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Madurai Route Details</h2>
-    <div class="bg-white rounded-xl shadow-md p-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div>
-                <h3 class="text-2xl font-semibold mb-4 text-blue-600">Route Overview</h3>
-                <ul class="space-y-4 text-gray-700">
-                    <li class="flex items-start">
-                        <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                        <span><strong>Distance:</strong> Approximately 317 - 321 km</span>
-                    </li>
-                    <li class="flex items-start">
-                        <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                        <span><strong>Travel Time:</strong> 5 - 6 hours depending on traffic</span>
-                    </li>
-                    <li class="flex items-start">
-                        <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                        <span><strong>Route:</strong> The most common route is via Villupuram and NH 38.</span>
-                    </li>
-                    <li class="flex items-start">
-                        <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                        <span><strong>Note:</strong> This is a long-distance route with a few toll points.</span>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
-                <div class="space-y-3">
-                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                        <span>Villupuram</span>
-                        <span class="text-sm text-gray-500">A major junction town perfect for a quick break and refreshments.</span>
-                    </div>
-                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                        <span>Trichy</span>
-                        <span class="text-sm text-gray-500">Another major city on the way, offering many food and rest options.</span>
+    <section class="mb-12 px-4 md:px-12">
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Madurai Route Details</h2>
+        <div class="bg-white rounded-xl shadow-md p-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Route Overview</h3>
+                    <ul class="space-y-4 text-gray-700">
+                        <li class="flex items-start">
+                            <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Distance:</strong> Approximately 320 km</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Travel Time:</strong> 5 - 5.5 hours depending on traffic</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Route:</strong> The most common route is via NH 81.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Note:</strong> This is a long-distance route.</span>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
+                    <div class="space-y-3">
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Tiruchirappalli (Trichy)</span>
+                            <span class="text-sm text-gray-500">A major city with various amenities on the way.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Melur</span>
+                            <span class="text-sm text-gray-500">A key transport hub.</span>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<section class="mb-12 px-4 md:px-12">
+   <section class="mb-12 px-4 md:px-12">
     <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Madurai Fare Structure</h2>
     <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
         <table class="w-full table-auto">
@@ -225,8 +224,8 @@
             <tbody class="divide-y divide-gray-200">
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
-                    <td class="px-6 py-4 text-center">₹4,700 - ₹6,300</td>
-                    <td class="px-6 py-4 text-center">₹8,500 - ₹11,000</td>
+                    <td class="px-6 py-4 text-center">₹4,700</td>
+                    <td class="px-6 py-4 text-center">₹9,400</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Air-conditioned</li>
@@ -237,8 +236,8 @@
                 </tr>
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">SUV</td>
-                    <td class="px-6 py-4 text-center">₹6,000 - ₹8,900</td>
-                    <td class="px-6 py-4 text-center">₹11,500 - ₹15,000</td>
+                    <td class="px-6 py-4 text-center">₹6,000</td>
+                    <td class="px-6 py-4 text-center">₹12,000</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Spacious and comfortable</li>
@@ -255,12 +254,12 @@
     </div>
 </section>
 
-@include('layouts.footer')
+    @include('layouts.footer')
 
-<script src="{{ asset('js/app.js') }}"></script>
-<script
-    src="[https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap](https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap)"
-    async defer></script>
+    <script src="{{ asset('js/app.js') }}"></script>
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
+        async defer></script>
 </body>
 
 </html>
