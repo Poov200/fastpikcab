@@ -4,28 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Madurai to Nagapattinam Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Krishnagiri to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Madurai to Nagapattinam taxi, Madurai to Nagapattinam one way taxi, Madurai to Nagapattinam outstation cabs, Madurai to Nagapattinam taxi fare, Madurai to Nagapattinam cab fare, Madurai to Nagapattinam round trip taxi, Madurai to Nagapattinam car rental, Madurai to Nagapattinam cab booking">
+        content="Krishnagiri to Chennai taxi, Krishnagiri to Chennai one way taxi, Krishnagiri to Chennai outstation cabs, Krishnagiri to Chennai taxi fare, Krishnagiri to Chennai cab fare, Krishnagiri to Chennai round trip taxi, Krishnagiri to Chennai car rental, Krishnagiri to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Madurai to Nagapattinam Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Krishnagiri to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Madurai to Nagapattinam. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Krishnagiri to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/madurai-to-nagapattinam-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/krishnagiri-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Madurai to Nagapattinam Taxi Service">
+    <meta name="twitter:title" content="Krishnagiri to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Madurai to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Krishnagiri to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/madurai-to-nagapattinam-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/krishnagiri-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -63,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Madurai to Nagapattinam Taxi Service",
-                    "description": "Reliable taxi service connecting Madurai to Nagapattinam with options for one-way, round-trip, and outstation travel.",
+                    "name": "Krishnagiri to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Krishnagiri to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Madurai", "Nagapattinam"],
+                    "areaServed": ["Krishnagiri", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -82,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Madurai to Nagapattinam Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Madurai to Nagapattinam. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Krishnagiri to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Krishnagiri to Chennai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Madurai to Nagapattinam",
-                        "item": "https://www.fastpikcab.com/madurai-to-nagapattinam-drop-taxi"
+                        "name": "Krishnagiri to Chennai",
+                        "item": "https://www.fastpikcab.com/krishnagiri-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Madurai to Nagapattinam Taxi Service",
+                "name": "Krishnagiri to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "4200",
-                    "highPrice": "10400",
+                    "lowPrice": "4000",
+                    "highPrice": "10000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Madurai to Nagapattinam Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Krishnagiri to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,19 +176,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 270 km</span>
+                            <span><strong>Distance:</strong> Approximately 260 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 5 - 5.5 hours depending on traffic and breaks</span>
+                            <span><strong>Travel Time:</strong> 4.5 - 5.5 hours depending on traffic and breaks</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via NH 38 and NH 83.</span>
+                            <span><strong>Route:</strong> The most common route is via NH 48.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> Nagapattinam is a coastal town famous for its temples and fishing industry.</span>
+                            <span><strong>Note:</strong> Chennai is the capital of Tamil Nadu and a major metropolitan hub.</span>
                         </li>
                     </ul>
                 </div>
@@ -196,12 +196,12 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Karaikudi</span>
-                            <span class="text-sm text-gray-500">The heart of Chettinad region, known for its architecture.</span>
+                            <span>Vellore</span>
+                            <span class="text-sm text-gray-500">Famous for the Golden Temple and CMC Hospital.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thanjavur</span>
-                            <span class="text-sm text-gray-500">Famous for the Brihadeeswarar Temple, a UNESCO World Heritage site.</span>
+                            <span>Ambur</span>
+                            <span class="text-sm text-gray-500">Known for its delicious biryani and a good rest stop.</span>
                         </div>
                     </div>
                 </div>
@@ -210,7 +210,7 @@
     </section>
 
    <section class="mb-12 px-4 md:px-12">
-    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Madurai to Nagapattinam Fare Structure</h2>
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Krishnagiri to Chennai Fare Structure</h2>
     <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
         <table class="w-full table-auto">
             <thead class="bg-blue-600 text-white">
@@ -224,8 +224,8 @@
             <tbody class="divide-y divide-gray-200">
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
-                    <td class="px-6 py-4 text-center">₹4,200</td>
-                    <td class="px-6 py-4 text-center">₹8,400</td>
+                    <td class="px-6 py-4 text-center">₹4,000</td>
+                    <td class="px-6 py-4 text-center">₹8,000</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Air-conditioned</li>
@@ -236,8 +236,8 @@
                 </tr>
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">SUV</td>
-                    <td class="px-6 py-4 text-center">₹5,200</td>
-                    <td class="px-6 py-4 text-center">₹10,400</td>
+                    <td class="px-6 py-4 text-center">₹5,000</td>
+                    <td class="px-6 py-4 text-center">₹10,000</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Spacious and comfortable</li>
