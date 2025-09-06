@@ -3,28 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Perambalur to Krishnagiri Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Perambalur to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Perambalur to Krishnagiri taxi, Perambalur to Krishnagiri one way taxi, Perambalur to Krishnagiri outstation cabs, Perambalur to Krishnagiri taxi fare, Perambalur to Krishnagiri cab fare, Perambalur to Krishnagiri round trip taxi, Perambalur to Krishnagiri car rental, Perambalur to Krishnagiri cab booking">
+        content="Perambalur to Chennai taxi, Perambalur to Chennai one way taxi, Perambalur to Chennai outstation cabs, Perambalur to Chennai taxi fare, Perambalur to Chennai cab fare, Perambalur to Chennai round trip taxi, Perambalur to Chennai car rental, Perambalur to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Perambalur to Krishnagiri Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Perambalur to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Perambalur to Krishnagiri. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Perambalur to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/perambalur-to-krishnagiri-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/perambalur-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Perambalur to Krishnagiri Taxi Service">
+    <meta name="twitter:title" content="Perambalur to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Perambalur to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Perambalur to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/perambalur-to-krishnagiri-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/perambalur-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -62,10 +62,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Perambalur to Krishnagiri Taxi Service",
-                    "description": "Reliable taxi service connecting Perambalur to Krishnagiri with options for one-way, round-trip, and outstation travel.",
+                    "name": "Perambalur to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Perambalur to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Perambalur", "Krishnagiri"],
+                    "areaServed": ["Perambalur", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -81,8 +81,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Perambalur to Krishnagiri Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Perambalur to Krishnagiri. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Perambalur to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Perambalur to Chennai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -94,19 +94,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Perambalur to Krishnagiri",
-                        "item": "https://www.fastpikcab.com/perambalur-to-krishnagiri-drop-taxi"
+                        "name": "Perambalur to Chennai",
+                        "item": "https://www.fastpikcab.com/perambalur-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Perambalur to Krishnagiri Taxi Service",
+                "name": "Perambalur to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "4000",
-                    "highPrice": "6500",
+                    "lowPrice": "5500",
+                    "highPrice": "9000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -167,7 +167,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Krishnagiri Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -175,19 +175,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 140-160 km</span>
+                            <span><strong>Distance:</strong> Approximately 260-290 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 2.5 - 3.5 hours depending on traffic and route taken</span>
+                            <span><strong>Travel Time:</strong> 4.5 - 5.5 hours depending on traffic and route taken</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The journey primarily follows NH 44.</span>
+                            <span><strong>Route:</strong> The journey primarily follows NH 38 and NH 45, passing through Villupuram.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> A relatively short and direct route connecting Perambalur to Krishnagiri, a major commercial and agricultural hub.</span>
+                            <span><strong>Note:</strong> A convenient route connecting the central region to the state capital.</span>
                         </li>
                     </ul>
                 </div>
@@ -195,8 +195,12 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Dharmapuri</span>
-                            <span class="text-sm text-gray-500">A good town to stop for a break, located before Krishnagiri.</span>
+                            <span>Villupuram</span>
+                            <span class="text-sm text-gray-500">A major junction and a good stop for a final break before reaching Chennai.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Chengalpattu</span>
+                            <span class="text-sm text-gray-500">A good place for a quick snack or meal.</span>
                         </div>
                     </div>
                 </div>
@@ -205,7 +209,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Krishnagiri Fare Structure</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Chennai Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
@@ -219,8 +223,8 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹4,000 - ₹5,000</td>
-                        <td class="px-6 py-4 text-center">₹8,000 - ₹10,000</td>
+                        <td class="px-6 py-4 text-center">₹5,500 - ₹7,000</td>
+                        <td class="px-6 py-4 text-center">₹11,000 - ₹14,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
@@ -231,8 +235,8 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹5,000 - ₹6,500</td>
-                        <td class="px-6 py-4 text-center">₹10,000 - ₹13,000</td>
+                        <td class="px-6 py-4 text-center">₹7,500 - ₹9,000</td>
+                        <td class="px-6 py-4 text-center">₹15,000 - ₹18,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
