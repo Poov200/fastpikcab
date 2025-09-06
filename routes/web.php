@@ -632,6 +632,10 @@ Route::get('/chengalpattu-to-villupuram-drop-taxi', function () {
     return view('layouts.chengalpattu.chengalpattu-to-villupuram');
 })->name('chengalpattu-to-villupuram');
 
+Route::get('/chengalpattu-to-chennai-drop-taxi', function () {
+    return view('layouts.chengalpattu.chengalpattu-to-chennai');
+})->name('chengalpattu-to-chennai');
+
 Route::get('/chengalpattu-to-puducherry-drop-taxi', function () {
     return view('layouts.chengalpattu.chengalpattu-to-puducherry');
 })->name('chengalpattu-to-puducherry');
@@ -1499,6 +1503,10 @@ Route::get('/hosur-to-villupuram-drop-taxi', function () {
     return view('layouts.hosur.hosur-to-villupuram');
 })->name('hosur-to-villupuram');
 
+Route::get('/hosur-to-chennai-drop-taxi', function () {
+    return view('layouts.hosur.hosur-to-chennai');
+})->name('hosur-to-chennai');
+
 Route::get('/hosur-to-puducherry-drop-taxi', function () {
     return view('layouts.hosur.hosur-to-puducherry');
 })->name('hosur-to-puducherry');
@@ -1640,6 +1648,10 @@ Route::get('/hosur-to-tirunelveli-drop-taxi', function () {
 Route::get('/kanchipuram-to-villupuram-drop-taxi', function () {
     return view('layouts.kanchipuram.kanchipuram-to-villupuram');
 })->name('kanchipuram-to-villupuram');
+
+Route::get('/kanchipuram-to-chennai-drop-taxi', function () {
+    return view('layouts.kanchipuram.kanchipuram-to-chennai');
+})->name('kanchipuram-to-chennai');
 
 Route::get('/kanchipuram-to-puducherry-drop-taxi', function () {
     return view('layouts.kanchipuram.kanchipuram-to-puducherry');
@@ -1783,6 +1795,10 @@ Route::get('/karur-to-villupuram-drop-taxi', function () {
     return view('layouts.karur.karur-to-villupuram');
 })->name('karur-to-villupuram');
 
+Route::get('/karur-to-chennai-drop-taxi', function () {
+    return view('layouts.karur.karur-to-chennai');
+})->name('karur-to-chennai');
+
 Route::get('/karur-to-puducherry-drop-taxi', function () {
     return view('layouts.karur.karur-to-puducherry');
 })->name('karur-to-puducherry');
@@ -1924,6 +1940,10 @@ Route::get('/karur-to-tirunelveli-drop-taxi', function () {
 Route::get('/krishnagiri-to-villupuram-drop-taxi', function () {
     return view('layouts.krishnagiri.krishnagiri-to-villupuram');
 })->name('krishnagiri-to-villupuram');
+
+Route::get('/krishnagiri-to-chennai-drop-taxi', function () {
+    return view('layouts.krishnagiri.krishnagiri-to-chennai');
+})->name('krishnagiri-to-chennai');
 
 Route::get('/krishnagiri-to-puducherry-drop-taxi', function () {
     return view('layouts.krishnagiri.krishnagiri-to-puducherry');
@@ -2213,6 +2233,10 @@ Route::get('/mayiladuthurai-to-villupuram-drop-taxi', function () {
     return view('layouts.mayiladuthurai.mayiladuthurai-to-villupuram');
 })->name('mayiladuthurai-to-villupuram');
 
+Route::get('/mayiladuthurai-to-chennai-drop-taxi', function () {
+    return view('layouts.mayiladuthurai.mayiladuthurai-to-chennai');
+})->name('mayiladuthurai-to-chennai');
+
 Route::get('/mayiladuthurai-to-puducherry-drop-taxi', function () {
     return view('layouts.mayiladuthurai.mayiladuthurai-to-puducherry');
 })->name('mayiladuthurai-to-puducherry');
@@ -2353,6 +2377,10 @@ Route::get('/mayiladuthurai-to-tirunelveli-drop-taxi', function () {
 Route::get('/nagapattinam-to-villupuram-drop-taxi', function () {
     return view('layouts.nagapattinam.nagapattinam-to-villupuram');
 })->name('nagapattinam-to-villupuram');
+
+Route::get('/nagapattinam-to-chennai-drop-taxi', function () {
+    return view('layouts.nagapattinam.nagapattinam-to-chennai');
+})->name('nagapattinam-to-chennai');
 
 Route::get('/nagapattinam-to-puducherry-drop-taxi', function () {
     return view('layouts.nagapattinam.nagapattinam-to-puducherry');
@@ -2495,6 +2523,10 @@ Route::get('/nagercoil-to-villupuram-drop-taxi', function () {
     return view('layouts.nagercoil.nagercoil-to-villupuram');
 })->name('nagercoil-to-villupuram');
 
+Route::get('/nagercoil-to-chennai-drop-taxi', function () {
+    return view('layouts.nagercoil.nagercoil-to-chennai');
+})->name('nagercoil-to-chennai');
+
 Route::get('/nagercoil-to-puducherry-drop-taxi', function () {
     return view('layouts.nagercoil.nagercoil-to-puducherry');
 })->name('nagercoil-to-puducherry');
@@ -2635,6 +2667,10 @@ Route::get('/nagercoil-to-tirunelveli-drop-taxi', function () {
 Route::get('/namakkal-to-villupuram-drop-taxi', function () {
     return view('layouts.namakkal.namakkal-to-villupuram');
 })->name('namakkal-to-villupuram');
+
+Route::get('/namakkal-to-chennai-drop-taxi', function () {
+    return view('layouts.namakkal.namakkal-to-chennai');
+})->name('namakkal-to-chennai');
 
 Route::get('/namakkal-to-puducherry-drop-taxi', function () {
     return view('layouts.namakkal.namakkal-to-puducherry');
@@ -2777,6 +2813,10 @@ Route::get('/perambalur-to-villupuram-drop-taxi', function () {
     return view('layouts.perambalur.perambalur-to-villupuram');
 })->name('perambalur-to-villupuram');
 
+Route::get('/perambalur-to-chennai-drop-taxi', function () {
+    return view('layouts.perambalur.perambalur-to-chennai');
+})->name('perambalur-to-chennai');
+
 Route::get('/perambalur-to-puducherry-drop-taxi', function () {
     return view('layouts.perambalur.perambalur-to-puducherry');
 })->name('perambalur-to-puducherry');
@@ -2917,6 +2957,10 @@ Route::get('/perambalur-to-tirunelveli-drop-taxi', function () {
 Route::get('/pudukkottai-to-villupuram-drop-taxi', function () {
     return view('layouts.pudukkottai.pudukkottai-to-villupuram');
 })->name('pudukkottai-to-villupuram');
+
+Route::get('/pudukkottai-to-chennai-drop-taxi', function () {
+    return view('layouts.pudukkottai.pudukkottai-to-chennai');
+})->name('pudukkottai-to-chennai');
 
 Route::get('/pudukkottai-to-puducherry-drop-taxi', function () {
     return view('layouts.pudukkottai.pudukkottai-to-puducherry');
@@ -3059,6 +3103,10 @@ Route::get('/ramanathapuram-to-villupuram-drop-taxi', function () {
     return view('layouts.ramanathapuram.ramanathapuram-to-villupuram');
 })->name('ramanathapuram-to-villupuram');
 
+Route::get('/ramanathapuram-to-chennai-drop-taxi', function () {
+    return view('layouts.ramanathapuram.ramanathapuram-to-chennai');
+})->name('ramanathapuram-to-chennai');
+
 Route::get('/ramanathapuram-to-puducherry-drop-taxi', function () {
     return view('layouts.ramanathapuram.ramanathapuram-to-puducherry');
 })->name('ramanathapuram-to-puducherry');
@@ -3199,6 +3247,10 @@ Route::get('/ramanathapuram-to-tirunelveli-drop-taxi', function () {
 Route::get('/ranipet-to-villupuram-drop-taxi', function () {
     return view('layouts.ranipet.ranipet-to-villupuram');
 })->name('ranipet-to-villupuram');
+
+Route::get('/ranipet-to-chennai-drop-taxi', function () {
+    return view('layouts.ranipet.ranipet-to-chennai');
+})->name('ranipet-to-chennai');
 
 Route::get('/ranipet-to-puducherry-drop-taxi', function () {
     return view('layouts.ranipet.ranipet-to-puducherry');
@@ -3342,6 +3394,10 @@ Route::get('/salem-to-villupuram-drop-taxi', function () {
     return view('layouts.salem.salem-to-villupuram');
 })->name('salem-to-villupuram');
 
+Route::get('/salem-to-chennai-drop-taxi', function () {
+    return view('layouts.salem.salem-to-chennai');
+})->name('salem-to-chennai');
+
 Route::get('/salem-to-puducherry-drop-taxi', function () {
     return view('layouts.salem.salem-to-puducherry');
 })->name('salem-to-puducherry');
@@ -3482,6 +3538,10 @@ Route::get('/salem-to-tirunelveli-drop-taxi', function () {
 Route::get('/sivakasi-to-villupuram-drop-taxi', function () {
     return view('layouts.sivakasi.sivakasi-to-villupuram');
 })->name('sivakasi-to-villupuram');
+
+Route::get('/sivakasi-to-chennai-drop-taxi', function () {
+    return view('layouts.sivakasi.sivakasi-to-chennai');
+})->name('sivakasi-to-chennai');
 
 Route::get('/sivakasi-to-puducherry-drop-taxi', function () {
     return view('layouts.sivakasi.sivakasi-to-puducherry');
@@ -3625,6 +3685,10 @@ Route::get('/tenkasi-to-villupuram-drop-taxi', function () {
     return view('layouts.tenkasi.tenkasi-to-villupuram');
 })->name('tenkasi-to-villupuram');
 
+Route::get('/tenkasi-to-chennai-drop-taxi', function () {
+    return view('layouts.tenkasi.tenkasi-to-chennai');
+})->name('tenkasi-to-chennai');
+
 Route::get('/tenkasi-to-puducherry-drop-taxi', function () {
     return view('layouts.tenkasi.tenkasi-to-puducherry');
 })->name('tenkasi-to-puducherry');
@@ -3766,6 +3830,10 @@ Route::get('/thanjavur-to-villupuram-drop-taxi', function () {
     return view('layouts.thanjavur.thanjavur-to-villupuram');
 })->name('thanjavur-to-villupuram');
 
+Route::get('/thanjavur-to-chennai-drop-taxi', function () {
+    return view('layouts.thanjavur.thanjavur-to-chennai');
+})->name('thanjavur-to-chennai');
+
 Route::get('/thanjavur-to-puducherry-drop-taxi', function () {
     return view('layouts.thanjavur.thanjavur-to-puducherry');
 })->name('thanjavur-to-puducherry');
@@ -3906,6 +3974,10 @@ Route::get('/thanjavur-to-tirunelveli-drop-taxi', function () {
 Route::get('/thiruvarur-to-villupuram-drop-taxi', function () {
     return view('layouts.thiruvarur.thiruvarur-to-villupuram');
 })->name('thiruvarur-to-villupuram');
+
+Route::get('/thiruvarur-to-chennai-drop-taxi', function () {
+    return view('layouts.thiruvarur.thiruvarur-to-chennai');
+})->name('thiruvarur-to-chennai');
 
 Route::get('/thiruvarur-to-puducherry-drop-taxi', function () {
     return view('layouts.thiruvarur.thiruvarur-to-puducherry');
@@ -4049,6 +4121,10 @@ Route::get('/thoothukudi-to-villupuram-drop-taxi', function () {
     return view('layouts.thoothukudi.thoothukudi-to-villupuram');
 })->name('thoothukudi-to-villupuram');
 
+Route::get('/thoothukudi-to-chennai-drop-taxi', function () {
+    return view('layouts.thoothukudi.thoothukudi-to-chennai');
+})->name('thoothukudi-to-chennai');
+
 Route::get('/thoothukudi-to-puducherry-drop-taxi', function () {
     return view('layouts.thoothukudi.thoothukudi-to-puducherry');
 })->name('thoothukudi-to-puducherry');
@@ -4189,6 +4265,10 @@ Route::get('/thoothukudi-to-tirunelveli-drop-taxi', function () {
 Route::get('/tirunelveli-to-villupuram-drop-taxi', function () {
     return view('layouts.tirunelveli.tirunelveli-to-villupuram');
 })->name('tirunelveli-to-villupuram');
+
+Route::get('/tirunelveli-to-chennai-drop-taxi', function () {
+    return view('layouts.tirunelveli.tirunelveli-to-chennai');
+})->name('tirunelveli-to-chennai');
 
 Route::get('/tirunelveli-to-puducherry-drop-taxi', function () {
     return view('layouts.tirunelveli.tirunelveli-to-puducherry');
@@ -4332,6 +4412,10 @@ Route::get('/tiruppur-to-villupuram-drop-taxi', function () {
     return view('layouts.tiruppur.tiruppur-to-villupuram');
 })->name('tiruppur-to-villupuram');
 
+Route::get('/tiruppur-to-chennai-drop-taxi', function () {
+    return view('layouts.tiruppur.tiruppur-to-chennai');
+})->name('tiruppur-to-chennai');
+
 Route::get('/tiruppur-to-puducherry-drop-taxi', function () {
     return view('layouts.tiruppur.tiruppur-to-puducherry');
 })->name('tiruppur-to-puducherry');
@@ -4472,6 +4556,10 @@ Route::get('/tiruppur-to-tirunelveli-drop-taxi', function () {
 Route::get('/trichy-to-puducherry-drop-taxi', function () {
     return view('layouts.trichy.trichy-to-puducherry');
 })->name('trichy-to-puducherry');
+
+Route::get('/trichy-to-chennai-drop-taxi', function () {
+    return view('layouts.trichy.trichy-to-chennai');
+})->name('trichy-to-chennai');
 
 Route::get('/trichy-to-villupuram-drop-taxi', function () {
     return view('layouts.trichy.trichy-to-villupuram');
@@ -4615,6 +4703,10 @@ Route::get('/vellore-to-villupuram-drop-taxi', function () {
     return view('layouts.vellore.vellore-to-villupuram');
 })->name('vellore-to-villupuram');
 
+Route::get('/vellore-to-chennai-drop-taxi', function () {
+    return view('layouts.vellore.vellore-to-chennai');
+})->name('vellore-to-chennai');
+
 Route::get('/vellore-to-puducherry-drop-taxi', function () {
     return view('layouts.vellore.vellore-to-puducherry');
 })->name('vellore-to-puducherry');
@@ -4756,6 +4848,10 @@ Route::get('/villupuram-to-villupuram-drop-taxi', function () {
     return view('layouts.villupuram.villupuram-to-villupuram');
 })->name('villupuram-to-villupuram');
 
+Route::get('/villupuram-to-chennai-drop-taxi', function () {
+    return view('layouts.villupuram.villupuram-to-chennai');
+})->name('villupuram-to-chennai');
+
 Route::get('/villupuram-to-puducherry-drop-taxi', function () {
     return view('layouts.villupuram.villupuram-to-puducherry');
 })->name('villupuram-to-puducherry');
@@ -4896,6 +4992,10 @@ Route::get('/villupuram-to-tirunelveli-drop-taxi', function () {
 Route::get('/virudhunagar-to-villupuram-drop-taxi', function () {
     return view('layouts.virudhunagar.virudhunagar-to-villupuram');
 })->name('virudhunagar-to-villupuram');
+
+Route::get('/virudhunagar-to-chennai-drop-taxi', function () {
+    return view('layouts.virudhunagar.virudhunagar-to-chennai');
+})->name('virudhunagar-to-chennai');
 
 Route::get('/virudhunagar-to-puducherry-drop-taxi', function () {
     return view('layouts.virudhunagar.virudhunagar-to-puducherry');
@@ -5039,6 +5139,10 @@ Route::get('/puducherry-to-villupuram-drop-taxi', function () {
     return view('layouts.puducherry.puducherry-to-villupuram');
 })->name('puducherry-to-villupuram');
 
+Route::get('/puducherry-to-chennai-drop-taxi', function () {
+    return view('layouts.puducherry.puducherry-to-chennai');
+})->name('puducherry-to-chennai');
+
 Route::get('/puducherry-to-bangalore-drop-taxi', function () {
     return view('layouts.puducherry.puducherry-to-bangalore');
 })->name('puducherry-to-bangalore');
@@ -5176,6 +5280,10 @@ Route::get('/puducherry-to-tirunelveli-drop-taxi', function () {
 Route::get('/arani-to-villupuram-drop-taxi', function () {
     return view('layouts.arani.arani-to-villupuram');
 })->name('arani-to-villupuram');
+
+Route::get('/arani-to-chennai-drop-taxi', function () {
+    return view('layouts.arani.arani-to-chennai');
+})->name('arani-to-chennai');
 
 Route::get('/arani-to-puducherry-drop-taxi', function () {
     return view('layouts.arani.arani-to-puducherry');
