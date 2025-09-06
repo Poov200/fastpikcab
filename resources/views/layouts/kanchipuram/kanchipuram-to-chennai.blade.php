@@ -4,28 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Kanchipuram to Salem Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Kanchipuram to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Kanchipuram to Salem taxi, Kanchipuram to Salem one way taxi, Kanchipuram to Salem outstation cabs, Kanchipuram to Salem taxi fare, Kanchipuram to Salem cab fare, Kanchipuram to Salem round trip taxi, Kanchipuram to Salem car rental, Kanchipuram to Salem cab booking">
+        content="Kanchipuram to Chennai taxi, Kanchipuram to Chennai one way taxi, Kanchipuram to Chennai outstation cabs, Kanchipuram to Chennai taxi fare, Kanchipuram to Chennai cab fare, Kanchipuram to Chennai round trip taxi, Kanchipuram to Chennai car rental, Kanchipuram to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Kanchipuram to Salem Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Kanchipuram to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Kanchipuram to Salem. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Kanchipuram to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/kanchipuram-to-salem-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/kanchipuram-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Kanchipuram to Salem Taxi Service">
+    <meta name="twitter:title" content="Kanchipuram to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Kanchipuram to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Kanchipuram to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/kanchipuram-to-salem-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/kanchipuram-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -63,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Kanchipuram to Salem Taxi Service",
-                    "description": "Reliable taxi service connecting Kanchipuram to Salem with options for one-way, round-trip, and outstation travel.",
+                    "name": "Kanchipuram to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Kanchipuram to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Kanchipuram", "Salem"],
+                    "areaServed": ["Kanchipuram", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -82,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Kanchipuram to Salem Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Kanchipuram to Salem. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Kanchipuram to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Kanchipuram to Chennai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Kanchipuram to Salem",
-                        "item": "https://www.fastpikcab.com/kanchipuram-to-salem-drop-taxi"
+                        "name": "Kanchipuram to Chennai",
+                        "item": "https://www.fastpikcab.com/kanchipuram-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Kanchipuram to Salem Taxi Service",
+                "name": "Kanchipuram to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "4400",
-                    "highPrice": "11000",
+                    "lowPrice": "1600",
+                    "highPrice": "4400",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Salem Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,19 +176,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 296 km</span>
+                            <span><strong>Distance:</strong> Approximately 75 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 5 - 6 hours depending on traffic and breaks</span>
+                            <span><strong>Travel Time:</strong> 2 - 3 hours depending on traffic</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via NH 48 and NH 44.</span>
+                            <span><strong>Route:</strong> The fastest route is via the Chennai-Bengaluru Highway (NH 48).</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> This is a popular outstation route.</span>
+                            <span><strong>Note:</strong> This is a popular route with well-maintained roads and frequent traffic.</span>
                         </li>
                     </ul>
                 </div>
@@ -196,16 +196,12 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Vellore</span>
-                            <span class="text-sm text-gray-500">A major city and an ideal place for a rest stop.</span>
+                            <span>Sriperumbudur</span>
+                            <span class="text-sm text-gray-500">Known for its major industrial hubs and historical significance.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Arcot</span>
-                            <span class="text-sm text-gray-500">A historical town and a good stop on the route.</span>
-                        </div>
-                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Dharmapuri</span>
-                            <span class="text-sm text-gray-500">A significant city on the way to Salem.</span>
+                            <span>Tambaram</span>
+                            <span class="text-sm text-gray-500">A major suburban hub of Chennai, known for its railway and bus stations.</span>
                         </div>
                     </div>
                 </div>
@@ -214,7 +210,7 @@
     </section>
 
    <section class="mb-12 px-4 md:px-12">
-    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Salem Fare Structure</h2>
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Chennai Fare Structure</h2>
     <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
         <table class="w-full table-auto">
             <thead class="bg-blue-600 text-white">
@@ -228,8 +224,8 @@
             <tbody class="divide-y divide-gray-200">
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
-                    <td class="px-6 py-4 text-center">₹4,400</td>
-                    <td class="px-6 py-4 text-center">₹8,800</td>
+                    <td class="px-6 py-4 text-center">₹1,600</td>
+                    <td class="px-6 py-4 text-center">₹3,200</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Air-conditioned</li>
@@ -240,8 +236,8 @@
                 </tr>
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">SUV</td>
-                    <td class="px-6 py-4 text-center">₹5,500</td>
-                    <td class="px-6 py-4 text-center">₹11,000</td>
+                    <td class="px-6 py-4 text-center">₹2,200</td>
+                    <td class="px-6 py-4 text-center">₹4,400</td>
                     <td class="px-6 py-4">
                         <ul class="list-disc list-inside text-sm text-gray-600">
                             <li>Spacious and comfortable</li>
