@@ -410,7 +410,7 @@
                 <h3 class="route-title">CAB SERVICE FROM COIMBATORE</h3>
                 <i class="fas fa-chevron-down route-arrow"></i>
             </div>
-            <div class="route-content active" id="coimbatore-routes">
+            <div class="route-content" id="coimbatore-routes">
                 <div class="route-item">
                     <div class="route-icon">
                         <i class="fas fa-car"></i>
@@ -651,7 +651,7 @@
                 <h3 class="route-title">CAB SERVICE FROM MADURAI</h3>
                 <i class="fas fa-chevron-down route-arrow"></i>
             </div>
-            <div class="route-content active" id="madurai-routes">
+            <div class="route-content" id="madurai-routes">
                 <div class="route-item">
                     <div class="route-icon">
                         <i class="fas fa-car"></i>
