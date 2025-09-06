@@ -3,28 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Namakkal to Thoothukudi Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Namakkal to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Namakkal to Thoothukudi taxi, Namakkal to Thoothukudi one way taxi, Namakkal to Thoothukudi outstation cabs, Namakkal to Thoothukudi taxi fare, Namakkal to Thoothukudi cab fare, Namakkal to Thoothukudi round trip taxi, Namakkal to Thoothukudi car rental, Namakkal to Thoothukudi cab booking">
+        content="Namakkal to Chennai taxi, Namakkal to Chennai one way taxi, Namakkal to Chennai outstation cabs, Namakkal to Chennai taxi fare, Namakkal to Chennai cab fare, Namakkal to Chennai round trip taxi, Namakkal to Chennai car rental, Namakkal to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Namakkal to Thoothukudi Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Namakkal to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Namakkal to Thoothukudi. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Namakkal to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/namakkal-to-thoothukudi-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/namakkal-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Namakkal to Thoothukudi Taxi Service">
+    <meta name="twitter:title" content="Namakkal to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Namakkal to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Namakkal to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/namakkal-to-thoothukudi-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/namakkal-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -62,10 +62,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Namakkal to Thoothukudi Taxi Service",
-                    "description": "Reliable taxi service connecting Namakkal to Thoothukudi with options for one-way, round-trip, and outstation travel.",
+                    "name": "Namakkal to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Namakkal to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Namakkal", "Thoothukudi"],
+                    "areaServed": ["Namakkal", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -81,8 +81,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Namakkal to Thoothukudi Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Namakkal to Thoothukudi. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Namakkal to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Namakkal to Chennai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -94,19 +94,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Namakkal to Thoothukudi",
-                        "item": "https://www.fastpikcab.com/namakkal-to-thoothukudi-drop-taxi"
+                        "name": "Namakkal to Chennai",
+                        "item": "https://www.fastpikcab.com/namakkal-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Namakkal to Thoothukudi Taxi Service",
+                "name": "Namakkal to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "3600",
-                    "highPrice": "6500",
+                    "lowPrice": "5500",
+                    "highPrice": "9000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -167,7 +167,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Namakkal to Thoothukudi Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Namakkal to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -175,19 +175,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 310 - 335 km</span>
+                            <span><strong>Distance:</strong> Approximately 360-390 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 4.5 - 6 hours, depending on traffic and route</span>
+                            <span><strong>Travel Time:</strong> 6 - 7 hours depending on traffic and route taken</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The journey typically follows NH 38, passing through major junctions like Tiruchirappalli (Trichy) and Madurai.</span>
+                            <span><strong>Route:</strong> The journey primarily follows NH 44 and NH 38, passing through Salem, Ulundurpettai, and Chengalpattu.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> This route connects the western part of Tamil Nadu to the major port city on the southeast coast.</span>
+                            <span><strong>Note:</strong> A key route connecting Namakkal (the "Egg City of Tamil Nadu") to the state capital, Chennai.</span>
                         </li>
                     </ul>
                 </div>
@@ -195,12 +195,16 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Tiruchirappalli (Trichy)</span>
-                            <span class="text-sm text-gray-500">A major city and a great point for a meal break or to visit the Rockfort Temple.</span>
+                            <span>Salem</span>
+                            <span class="text-sm text-gray-500">A major city with good food and refreshment options.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Madurai</span>
-                            <span class="text-sm text-gray-500">Known as the "Athens of the East", it is a cultural hub and a common stop for travelers.</span>
+                            <span>Ulundurpettai</span>
+                            <span class="text-sm text-gray-500">A major junction with good food and refreshment options.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Chengalpattu</span>
+                            <span class="text-sm text-gray-500">A good place for a final break before entering the Chennai metropolitan area.</span>
                         </div>
                     </div>
                 </div>
@@ -209,7 +213,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Namakkal to Thoothukudi Fare Structure</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Namakkal to Chennai Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
@@ -222,38 +226,26 @@
                 </thead>
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Hatchback</td>
-                        <td class="px-6 py-4 text-center">₹3,600 - ₹4,500</td>
-                        <td class="px-6 py-4 text-center">₹7,500 - ₹9,000</td>
+                        <td class="px-6 py-4 font-medium">Sedan</td>
+                        <td class="px-6 py-4 text-center">₹5,500 - ₹7,500</td>
+                        <td class="px-6 py-4 text-center">₹11,000 - ₹15,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
                                 <li>Up to 4 passengers</li>
-                                <li>Best for short trips and small families</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹4,600 - ₹5,500</td>
-                        <td class="px-6 py-4 text-center">₹9,000 - ₹11,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Spacious and comfortable</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Ideal for outstation travel</li>
+                                <li>Luggage capacity: 2 medium bags</li>
                             </ul>
                         </td>
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹5,800 - ₹6,500</td>
-                        <td class="px-6 py-4 text-center">₹11,500 - ₹13,000</td>
+                        <td class="px-6 py-4 text-center">₹8,000 - ₹9,000</td>
+                        <td class="px-6 py-4 text-center">₹16,000 - ₹18,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Ample legroom and luggage space</li>
+                                <li>Spacious and comfortable</li>
                                 <li>Seating for up to 6 passengers</li>
-                                <li>Perfect for group trips and long journeys</li>
+                                <li>Extra legroom for the journey</li>
                             </ul>
                         </td>
                     </tr>
