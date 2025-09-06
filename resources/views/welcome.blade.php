@@ -11,7 +11,8 @@
     <meta name="keywords"
         content="FastpikCab,Fastpik Cab taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
     <meta name="author" content="Fastpik Cab" />
-    <meta name="robots" content="index, follow"> <link rel="canonical" href="{{ url()->current() }}" />
+    <meta name="robots" content="index, follow"> <link rel="canonical" href="https://fastpikcab.com/" />
+
     <meta property="og:title" content="Fastpik Cab - Online Taxi Booking & Cab Service" />
     <meta property="og:description"
         content="Book your next ride with Fastpik Cab — affordable, safe, and fast taxi service available online. Trusted for local, airport, and city cab bookings." />
@@ -59,7 +60,7 @@
 
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex flex-wrap items-center space-x-6">
-                    <a href="#home" class="text-white hover:text-yellow-400 font-medium">Home</a>
+                    <a href="/" class="text-white hover:text-yellow-400 font-medium">Home</a>
                     <a href="#about" class="text-white hover:text-yellow-400 font-medium">About</a>
                     <a href="#services" class="text-white hover:text-yellow-400 font-medium">Services</a>
                     <a href="#pricing" class=" text-white hover:text-yellow-400 font-semibold">Pricing</a>

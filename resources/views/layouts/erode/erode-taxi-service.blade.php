@@ -300,17 +300,7 @@
                                 </button>
                             </td>
                         </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Erode</td>
-                            <td class="px-4 py-3 text-center text-sm">~0 km</td>
-                            <td class="px-4 py-3 text-center text-sm">-</td>
-                            <td class="px-4 py-3 text-center text-sm">₹1,500 - ₹2,000</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('erode-local') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
+                        
                         <tr class="hover:bg-gray-50">
                             <td class="px-4 py-3 font-medium text-sm">Cuddalore</td>
                             <td class="px-4 py-3 text-center text-sm">~170 km</td>
