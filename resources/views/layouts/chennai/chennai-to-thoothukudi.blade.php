@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Chennai to Thoothukudi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Chennai to Thoothukudi Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Chennai to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
+        content="Book a reliable Chennai to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
 
     <meta name="keywords"
         content="Chennai to Thoothukudi taxi, Chennai Airport to Thoothukudi taxi, Chennai to Thoothukudi one way taxi, Chennai to Thoothukudi outstation cabs, Chennai to Thoothukudi taxi fare, Chennai to Thoothukudi cab fare, Chennai Airport to Thoothukudi airport taxi, Chennai to Thoothukudi round trip taxi, Chennai to Thoothukudi round trip taxi fare, Chennai to Thoothukudi car rental, Chennai to Thoothukudi cab booking, Chennai to Thoothukudi taxi service">
 
-    <meta property="og:title" content="Fastpik Cab - Chennai to Thoothukudi Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Chennai to Thoothukudi Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Chennai to Thoothukudi. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Chennai to Thoothukudi Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Chennai to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Chennai to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/chennai-to-thoothukudi-drop-taxi">
@@ -31,7 +31,7 @@
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
           "areaServed": ["Chennai", "Thoothukudi"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -82,7 +82,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Chennai to Thoothukudi Taxi Service | Fastpik Cab",
+      "name": "Chennai to Thoothukudi Taxi Service | Fastpikcab",
       "description": "Book affordable and reliable taxis from Chennai to Thoothukudi. Choose from sedan, SUV, and premium vehicles for comfortable travel.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -144,7 +144,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

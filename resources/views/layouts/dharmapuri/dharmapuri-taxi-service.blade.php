@@ -6,26 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dharmapuri Taxi Service & Outstation Cabs | Book Online</title>
     <meta name="description"
-        content="Book a reliable Dharmapuri taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Dharmapuri to all major cities.">
+        content="Book a reliable Dharmapuri taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Dharmapuri to all major cities.">
     <meta name="keywords"
         content="Dharmapuri taxi service, Dharmapuri to Chennai taxi, Dharmapuri to Coimbatore taxi, Dharmapuri to Madurai taxi, Dharmapuri to Tiruchirappalli taxi, Dharmapuri to Salem taxi, Dharmapuri to Tirunelveli taxi, Dharmapuri to Erode taxi, Dharmapuri to Vellore taxi, Dharmapuri to Thoothukudi taxi, Dharmapuri to Thanjavur taxi, Dharmapuri to Dindigul taxi, Dharmapuri to Cuddalore taxi, Dharmapuri to Kanchipuram taxi, Dharmapuri to Nagercoil taxi, Dharmapuri to Karur taxi, Dharmapuri to Tiruppur taxi, Dharmapuri to Sivakasi taxi, Dharmapuri to Hosur taxi, Dharmapuri to Krishnagiri taxi, Dharmapuri to Namakkal taxi, Dharmapuri to Villupuram taxi, Dharmapuri to Pudukkottai taxi, Dharmapuri to Nagapattinam taxi, Dharmapuri to Arakkonam taxi, Dharmapuri to Chengalpattu taxi, Dharmapuri to Mayiladuthurai taxi, Dharmapuri to Thiruvarur taxi, Dharmapuri to Arani taxi, Dharmapuri to Ranipet taxi, Dharmapuri to Perambalur taxi, Dharmapuri to Tenkasi taxi, Dharmapuri to Virudhunagar taxi, Dharmapuri to Ramanathapuram taxi, Dharmapuri taxi fare, Dharmapuri cab booking">
-    <meta property="og:title" content="Dharmapuri Taxi Service & Outstation Cabs | Fastpik Cab">
+    <meta property="og:title" content="Dharmapuri Taxi Service & Outstation Cabs | Fastpikcab">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Dharmapuri. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/dharmapuri-taxi-service">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Dharmapuri Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Dharmapuri Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/dharmapuri-taxi-service">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -63,7 +63,7 @@
           "areaServed": ["Dharmapuri", "Tamil Nadu"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -75,7 +75,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Dharmapuri Taxi Service & Outstation Cabs | Fastpik Cab",
+      "name": "Dharmapuri Taxi Service & Outstation Cabs | Fastpikcab",
       "description": "Book affordable and reliable taxis in Dharmapuri. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -156,7 +156,7 @@
         },
         {
           "@type": "Question",
-          "name": "Is it safe to travel with Fastpik Cab from Dharmapuri?",
+          "name": "Is it safe to travel with Fastpikcab from Dharmapuri?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -194,7 +194,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

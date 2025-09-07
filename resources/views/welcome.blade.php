@@ -9,20 +9,20 @@
     <meta name="description"
         content="Book a taxi online with FastpikCab for fast, safe, and affordable rides. Your trusted local cab service for airport transfers, city commutes, and reliable taxi booking." />
     <meta name="keywords"
-        content="FastpikCab,Fastpik Cab taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
-    <meta name="author" content="Fastpik Cab" />
+        content="FastpikCab,Fastpikcab taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
+    <meta name="author" content="Fastpikcab" />
     <meta name="robots" content="index, follow"> <link rel="canonical" href="https://fastpikcab.com/" />
 
-    <meta property="og:title" content="Fastpik Cab - Online Taxi Booking & Cab Service" />
+    <meta property="og:title" content="Fastpikcab - Online Taxi Booking & Cab Service" />
     <meta property="og:description"
-        content="Book your next ride with Fastpik Cab — affordable, safe, and fast taxi service available online. Trusted for local, airport, and city cab bookings." />
+        content="Book your next ride with Fastpikcab — affordable, safe, and fast taxi service available online. Trusted for local, airport, and city cab bookings." />
     <meta property="og:image" content="https://fastpikcab.com/img/FastPik%20Logo.png" />
     <meta property="og:url" content="https://www.fastpikcab.com/" />
     <meta property="og:type" content="website" />
 
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Fastpik Cab - Trusted Online Taxi & Cab Service" />
+    <meta name="twitter:title" content="Fastpikcab - Trusted Online Taxi & Cab Service" />
     <meta name="twitter:description"
         content="Fast and affordable cab service from Fastpik. Book your ride in minutes for safe and reliable transportation!" />
     <meta name="twitter:image" content="https://www.fastpikcab.com/logo.png" />
@@ -299,28 +299,28 @@
     <!-- About Section -->
     <section id="about" class="py-16">
         <div class="container mx-auto px-4">
-            <h2 class="text-3xl font-bold text-center mb-12 section-heading">About FastPik Cab</h2>
+            <h2 class="text-3xl font-bold text-center mb-12 section-heading">About Fastpikcab</h2>
             <div class="flex flex-col md:flex-row items-center">
                 <div class="md:w-1/2 mb-10 md:mb-0 md:pr-8">
                     <h3 class="text-2xl font-semibold mb-4">Reliable, Fast, and Affordable Transportation</h3>
                     <p class="text-gray-600 mb-6">
-                        Welcome to FastPik Cab, your go-to choice for reliable, fast, and affordable transportation. We
+                        Welcome to Fastpikcab, your go-to choice for reliable, fast, and affordable transportation. We
                         are a newly established taxi service with a mission to make your travel experience seamless and
                         stress-free. Whether you're headed to work, the airport, or simply need a ride around town,
-                        FastPik Cab is here to get you to your destination safely and on time.
+                        Fastpikcab is here to get you to your destination safely and on time.
                     </p>
                     <p class="text-gray-600 mb-6">
-                        At FastPik Cab, we prioritize your comfort and convenience. Our professional, friendly drivers
+                        At Fastpikcab, we prioritize your comfort and convenience. Our professional, friendly drivers
                         are dedicated to providing an exceptional ride, and our fleet of clean, well-maintained vehicles
                         ensures a pleasant experience every time you step in.
                     </p>
                     <p class="text-gray-600 mb-6">
                         What sets us apart? Our commitment to customer satisfaction, competitive pricing, and flexible
-                        booking options. With FastPik Cab, you can enjoy a hassle-free ride that suits your schedule,
+                        booking options. With Fastpikcab, you can enjoy a hassle-free ride that suits your schedule,
                         all at a price that fits your budget.
                     </p>
                     <p class="text-gray-600 mb-6">
-                        Thank you for choosing FastPik Cab – your trusted ride, anytime, anywhere.
+                        Thank you for choosing Fastpikcab – your trusted ride, anytime, anywhere.
                     </p>
                     <div class="grid grid-cols-2 gap-4">
                         <div class="bg-gray-100 p-4 rounded-lg text-center">

@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Virudhunagar to Namakkal Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Namakkal Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
         content="Virudhunagar to Namakkal taxi, Virudhunagar to Namakkal one way taxi, Virudhunagar to Namakkal outstation cabs, Virudhunagar to Namakkal taxi fare, Virudhunagar to Namakkal cab fare, Virudhunagar to Namakkal round trip taxi, Virudhunagar to Namakkal car rental, Virudhunagar to Namakkal cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Virudhunagar to Namakkal Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Virudhunagar to Namakkal Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Virudhunagar to Namakkal. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Virudhunagar to Namakkal Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Virudhunagar to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Virudhunagar to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/virudhunagar-to-namakkal-drop-taxi">
@@ -31,7 +31,7 @@
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
           "areaServed": ["Virudhunagar", "Namakkal"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -82,7 +82,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Virudhunagar to Namakkal Taxi Service | Fastpik Cab",
+      "name": "Virudhunagar to Namakkal Taxi Service | Fastpikcab",
       "description": "Book affordable and reliable taxis from Virudhunagar to Namakkal. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -140,7 +140,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

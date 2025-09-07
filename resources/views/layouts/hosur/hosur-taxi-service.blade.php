@@ -2,28 +2,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Hosur Taxi Service & Outstation Cabs | Book Online</title>
+    <title>Fastpikcab - Hosur Taxi Service & Outstation Cabs | Book Online</title>
     <meta name="description"
-        content="Book a reliable Hosur taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Hosur to all major cities.">
+        content="Book a reliable Hosur taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Hosur to all major cities.">
     <meta name="keywords"
         content="Hosur taxi service, Hosur to Coimbatore taxi, Hosur to Madurai taxi, Hosur to Tiruchirappalli taxi, Hosur to Salem taxi, Hosur to Tirunelveli taxi, Hosur to Erode taxi, Hosur to Vellore taxi, Hosur to Thoothukudi taxi, Hosur to Thanjavur taxi, Hosur to Dindigul taxi, Hosur to Cuddalore taxi, Hosur to Kanchipuram taxi, Hosur to Nagercoil taxi, Hosur to Karur taxi, Hosur to Tiruppur taxi, Hosur to Sivakasi taxi, Hosur to Arakkonam taxi, Hosur to Krishnagiri taxi, Hosur to Namakkal taxi, Hosur to Villupuram taxi, Hosur to Pudukkottai taxi, Hosur to Nagapattinam taxi, Hosur to Arakkonam taxi, Hosur to Chengalpattu taxi, Hosur to Mayiladuthurai taxi, Hosur to Thiruvarur taxi, Hosur to Arani taxi, Hosur to Ranipet taxi, Hosur to Perambalur taxi, Hosur to Tenkasi taxi, Hosur to Virudhunagar taxi, Hosur to Ramanathapuram taxi, Hosur to Dharmapuri taxi, Hosur taxi fare, Hosur cab booking">
-    <meta property="og:title" content="Fastpik Cab - Hosur Taxi Service & Outstation Cabs">
+    <meta property="og:title" content="Fastpikcab - Hosur Taxi Service & Outstation Cabs">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Hosur. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/hosur-taxi-service">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hosur Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Hosur Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/hosur-taxi-service">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -61,7 +61,7 @@
           "areaServed": ["Hosur", "Tamil Nadu"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "₹",
@@ -73,7 +73,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Hosur Taxi Service & Outstation Cabs | Fastpik Cab",
+      "name": "Hosur Taxi Service & Outstation Cabs | Fastpikcab",
       "description": "Book affordable and reliable taxis in Hosur. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -153,7 +153,7 @@
         },
         {
           "@type": "Question",
-          "name": "Is it safe to travel with Fastpik Cab from Hosur?",
+          "name": "Is it safe to travel with Fastpikcab from Hosur?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -190,7 +190,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

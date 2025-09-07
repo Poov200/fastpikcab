@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fastpik Cab - Cuddalore to Ranipet Taxi Service | Book Online</title>
+  <title>Fastpikcab - Cuddalore to Ranipet Taxi Service | Book Online</title>
 
   <meta name="description"
-    content="Book a reliable Cuddalore to Ranipet taxi service with Fastpik Cab. Affordable one-way, round-trip, and outstation cabs for a comfortable and safe journey." />
+    content="Book a reliable Cuddalore to Ranipet taxi service with Fastpikcab. Affordable one-way, round-trip, and outstation cabs for a comfortable and safe journey." />
 
   <meta name="keywords"
     content="Cuddalore to Ranipet taxi, Cuddalore to Ranipet cab, Cuddalore to Ranipet one way taxi, Cuddalore to Ranipet drop taxi, Cuddalore to Ranipet cab fare, Cuddalore to Ranipet outstation cab, Cuddalore to Ranipet round trip taxi" />
 
-  <meta property="og:title" content="Fastpik Cab - Cuddalore to Ranipet Taxi Service" />
+  <meta property="og:title" content="Fastpikcab - Cuddalore to Ranipet Taxi Service" />
   <meta property="og:description"
-    content="Book affordable and comfortable taxi service from Cuddalore to Ranipet with Fastpik Cab. One-way and round-trip options available." />
+    content="Book affordable and comfortable taxi service from Cuddalore to Ranipet with Fastpikcab. One-way and round-trip options available." />
   <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png" />
   <meta property="og:url" content="https://www.fastpikcab.com/cuddalore-to-ranipet-drop-taxi" />
   <meta property="og:type" content="website" />
@@ -22,7 +22,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Cuddalore to Ranipet Taxi Service" />
   <meta name="twitter:description"
-    content="Book affordable Cuddalore to Ranipet cabs with Fastpik Cab. Reliable drivers and comfortable vehicles for your travel." />
+    content="Book affordable Cuddalore to Ranipet cabs with Fastpikcab. Reliable drivers and comfortable vehicles for your travel." />
   <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png" />
 
   <link rel="canonical" href="https://www.fastpikcab.com/cuddalore-to-ranipet-drop-taxi" />
@@ -32,7 +32,7 @@
   {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Fastpik Cab",
+    "name": "Fastpikcab",
     "url": "https://www.fastpikcab.com/",
     "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
     "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -62,7 +62,7 @@
         "areaServed": ["Cuddalore", "Ranipet"],
         "provider": {
           "@type": "Organization",
-          "name": "Fastpik Cab"
+          "name": "Fastpikcab"
         }
       },
       "priceCurrency": "INR",
@@ -76,7 +76,7 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Cuddalore to Ranipet Taxi Service | Fastpik Cab",
+    "name": "Cuddalore to Ranipet Taxi Service | Fastpikcab",
     "description": "Book reliable and affordable taxi service from Cuddalore to Ranipet. Choose from sedan, SUV, and premium cars.",
     "breadcrumb": {
       "@type": "BreadcrumbList",
@@ -112,7 +112,7 @@
 
   <!-- Why Choose Us -->
   <section class="mb-12 px-4 md:px-12">
-    <h2 class="text-3xl font-bold text-center mb-10">Why Choose Fastpik Cab?</h2>
+    <h2 class="text-3xl font-bold text-center mb-10">Why Choose Fastpikcab?</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
       <div class="bg-white p-6 rounded-xl shadow-md text-center">
         <i class="fas fa-shield-alt text-2xl text-blue-600 mb-3"></i>
