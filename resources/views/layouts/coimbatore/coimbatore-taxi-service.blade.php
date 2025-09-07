@@ -5,26 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coimbatore Taxi Service & Outstation Cabs | Book Online</title>
     <meta name="description"
-        content="Book a reliable Coimbatore taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Coimbatore to all major cities.">
+        content="Book a reliable Coimbatore taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Coimbatore to all major cities.">
     <meta name="keywords"
         content="Coimbatore taxi service, Coimbatore to Chennai taxi, Coimbatore to Madurai taxi, Coimbatore to Tiruchirappalli taxi, Coimbatore to Salem taxi, Coimbatore to Tirunelveli taxi, Coimbatore to Erode taxi, Coimbatore to Vellore taxi, Coimbatore to Thoothukudi taxi, Coimbatore to Thanjavur taxi, Coimbatore to Dindigul taxi, Coimbatore to Cuddalore taxi, Coimbatore to Kanchipuram taxi, Coimbatore to Nagercoil taxi, Coimbatore to Karur taxi, Coimbatore to Tiruppur taxi, Coimbatore to Sivakasi taxi, Coimbatore to Hosur taxi, Coimbatore to Krishnagiri taxi, Coimbatore to Namakkal taxi, Coimbatore to Villupuram taxi, Coimbatore to Pudukkottai taxi, Coimbatore to Nagapattinam taxi, Coimbatore to Arakkonam taxi, Coimbatore to Chengalpattu taxi, Coimbatore to Mayiladuthurai taxi, Coimbatore to Thiruvarur taxi, Coimbatore to Arani taxi, Coimbatore to Ranipet taxi, Coimbatore to Perambalur taxi, Coimbatore to Tenkasi taxi, Coimbatore to Virudhunagar taxi, Coimbatore to Ramanathapuram taxi, Coimbatore to Dharmapuri taxi, Coimbatore taxi fare, Coimbatore cab booking">
-    <meta property="og:title" content="Coimbatore Taxi Service & Outstation Cabs | Fastpik Cab">
+    <meta property="og:title" content="Coimbatore Taxi Service & Outstation Cabs | Fastpikcab">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Coimbatore. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/coimbatore-taxi-service">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Coimbatore Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Coimbatore Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/coimbatore-taxi-service">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -62,7 +62,7 @@
           "areaServed": ["Coimbatore", "Tamil Nadu"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -74,7 +74,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Coimbatore Taxi Service & Outstation Cabs | Fastpik Cab",
+      "name": "Coimbatore Taxi Service & Outstation Cabs | Fastpikcab",
       "description": "Book affordable and reliable taxis in Coimbatore. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -155,7 +155,7 @@
         },
         {
           "@type": "Question",
-          "name": "Is it safe to travel with Fastpik Cab from Coimbatore?",
+          "name": "Is it safe to travel with Fastpikcab from Coimbatore?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -193,7 +193,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

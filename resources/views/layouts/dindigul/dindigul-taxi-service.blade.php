@@ -3,28 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dindigul Taxi Service & Outstation Cabs | Fastpik Cab</title>
+    <title>Dindigul Taxi Service & Outstation Cabs | Fastpikcab</title>
     <meta name="description"
-        content="Book a reliable Dindigul taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Dindigul to all major cities.">
+        content="Book a reliable Dindigul taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Dindigul to all major cities.">
     <meta name="keywords"
         content="Dindigul taxi service, Dindigul to Chennai taxi, Dindigul to Coimbatore taxi, Dindigul to Madurai taxi, Dindigul to Tiruchirappalli taxi, Dindigul to Salem taxi, Dindigul to Tirunelveli taxi, Dindigul to Erode taxi, Dindigul to Vellore taxi, Dindigul to Thoothukudi taxi, Dindigul to Thanjavur taxi, Dindigul to Dindigul taxi, Dindigul to Cuddalore taxi, Dindigul to Kanchipuram taxi, Dindigul to Nagercoil taxi, Dindigul to Karur taxi, Dindigul to Tiruppur taxi, Dindigul to Sivakasi taxi, Dindigul to Hosur taxi, Dindigul to Krishnagiri taxi, Dindigul to Namakkal taxi, Dindigul to Villupuram taxi, Dindigul to Pudukkottai taxi, Dindigul to Nagapattinam taxi, Dindigul to Arakkonam taxi, Dindigul to Chengalpattu taxi, Dindigul to Mayiladuthurai taxi, Dindigul to Thiruvarur taxi, Dindigul to Arani taxi, Dindigul to Ranipet taxi, Dindigul to Perambalur taxi, Dindigul to Tenkasi taxi, Dindigul to Virudhunagar taxi, Dindigul to Ramanathapuram taxi, Dindigul taxi fare, Dindigul cab booking">
-    <meta property="og:title" content="Dindigul Taxi Service & Outstation Cabs | Fastpik Cab">
+    <meta property="og:title" content="Dindigul Taxi Service & Outstation Cabs | Fastpikcab">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Dindigul. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/dindigul-taxi-service">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Dindigul Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Dindigul Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/dindigul-taxi-service">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -62,7 +62,7 @@
           "areaServed": ["Dindigul", "Tamil Nadu"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -74,7 +74,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Dindigul Taxi Service & Outstation Cabs | Fastpik Cab",
+      "name": "Dindigul Taxi Service & Outstation Cabs | Fastpikcab",
       "description": "Book affordable and reliable taxis in Dindigul. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -153,7 +153,7 @@
         },
         {
           "@type": "Question",
-          "name": "Is it safe to travel with Fastpik Cab from Dindigul?",
+          "name": "Is it safe to travel with Fastpikcab from Dindigul?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -190,7 +190,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

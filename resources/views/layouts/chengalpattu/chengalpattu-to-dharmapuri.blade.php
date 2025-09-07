@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Chengalpattu to Dharmapuri Taxi Service | Book Online</title>
+    <title>Fastpikcab - Chengalpattu to Dharmapuri Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
         content="Chengalpattu to Dharmapuri taxi, Chengalpattu to Dharmapuri one way taxi, Chengalpattu to Dharmapuri cab, Chengalpattu to Dharmapuri taxi fare, Chengalpattu to Dharmapuri cab fare, Chengalpattu to Dharmapuri car rental, Chengalpattu to Dharmapuri cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Chengalpattu to Dharmapuri Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Chengalpattu to Dharmapuri Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Chengalpattu to Dharmapuri. Book online for one-way or round-trip travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Chengalpattu to Dharmapuri Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Chengalpattu to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way and round-trip travel.">
+        content="Book a reliable Chengalpattu to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/chengalpattu-to-dharmapuri-drop-taxi">
@@ -31,7 +31,7 @@
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
           "areaServed": ["Chengalpattu", "Dharmapuri"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -82,7 +82,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Chengalpattu to Dharmapuri Taxi Service | Fastpik Cab",
+      "name": "Chengalpattu to Dharmapuri Taxi Service | Fastpikcab",
       "description": "Book affordable and reliable taxis from Chengalpattu to Dharmapuri. Choose from sedan and SUV vehicles for a comfortable travel.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -140,7 +140,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

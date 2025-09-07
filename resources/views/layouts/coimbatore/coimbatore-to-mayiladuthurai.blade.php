@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Coimbatore to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Coimbatore to Mayiladuthurai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
         content="Coimbatore to Mayiladuthurai taxi, Coimbatore to Mayiladuthurai one way taxi, Coimbatore to Mayiladuthurai outstation cabs, Coimbatore to Mayiladuthurai taxi fare, Coimbatore to Mayiladuthurai cab fare, Coimbatore to Mayiladuthurai round trip taxi, Coimbatore to Mayiladuthurai car rental, Coimbatore to Mayiladuthurai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Coimbatore to Mayiladuthurai Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Coimbatore to Mayiladuthurai Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Coimbatore to Mayiladuthurai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Coimbatore to Mayiladuthurai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Coimbatore to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Coimbatore to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/coimbatore-to-mayiladuthurai-drop-taxi">
@@ -31,7 +31,7 @@
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
           "areaServed": ["Coimbatore", "Mayiladuthurai"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -82,7 +82,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Coimbatore to Mayiladuthurai Taxi Service | Fastpik Cab",
+      "name": "Coimbatore to Mayiladuthurai Taxi Service | Fastpikcab",
       "description": "Book affordable and reliable taxis from Coimbatore to Mayiladuthurai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -140,7 +140,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

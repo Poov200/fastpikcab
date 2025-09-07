@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Dindigul Local Taxi & Outstation Services</title>
+    <title>Fastpikcab - Dindigul Local Taxi & Outstation Services</title>
 
     <meta name="description"
-        content="Book a reliable Dindigul local taxi service or outstation cabs with Fastpik Cab. Get affordable fares for one-way, round-trip, and city tours within Dindigul. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul local taxi service or outstation cabs with Fastpikcab. Get affordable fares for one-way, round-trip, and city tours within Dindigul. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Dindigul local taxi, Dindigul city taxi, Dindigul car rental, Dindigul taxi service, Dindigul cab booking, local cab in Dindigul, Dindigul outstation taxi, Fastpik Cab Dindigul">
+        content="Dindigul local taxi, Dindigul city taxi, Dindigul car rental, Dindigul taxi service, Dindigul cab booking, local cab in Dindigul, Dindigul outstation taxi, Fastpikcab Dindigul">
 
-    <meta property="og:title" content="Fastpik Cab - Dindigul Local Taxi & Outstation Services">
+    <meta property="og:title" content="Fastpikcab - Dindigul Local Taxi & Outstation Services">
     <meta property="og:description"
         content="Reliable and affordable local and outstation taxi services in Dindigul. Book online for city tours, airport transfers, and more.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -21,7 +21,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Dindigul Local Taxi & Outstation Services">
     <meta name="twitter:description"
-        content="Book a reliable local and outstation taxi service in Dindigul with Fastpik Cab. Affordable fares for all your travel needs.">
+        content="Book a reliable local and outstation taxi service in Dindigul with Fastpikcab. Affordable fares for all your travel needs.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/dindigul-local-taxi">
@@ -30,7 +30,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
                         "areaServed": ["Dindigul"],
                         "provider": {
                             "@type": "Organization",
-                            "name": "Fastpik Cab"
+                            "name": "Fastpikcab"
                         }
                     },
                     "priceCurrency": "INR",
@@ -85,7 +85,7 @@
                         "areaServed": ["Dindigul"],
                         "provider": {
                             "@type": "Organization",
-                            "name": "Fastpik Cab"
+                            "name": "Fastpikcab"
                         }
                     },
                     "priceCurrency": "INR",
@@ -99,8 +99,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Dindigul Local Taxi & Outstation Services | Fastpik Cab",
-            "description": "Book affordable and reliable local and outstation taxis in Dindigul with Fastpik Cab. We offer various car options for your convenience.",
+            "name": "Dindigul Local Taxi & Outstation Services | Fastpikcab",
+            "description": "Book affordable and reliable local and outstation taxis in Dindigul with Fastpikcab. We offer various car options for your convenience.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -156,7 +156,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab in Dindigul?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab in Dindigul?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

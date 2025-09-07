@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Villupuram to Coimbatore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Coimbatore Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Coimbatore taxi service with Fastpik Cab. Affordable one-way, round-trip, and outstation cab options with comfortable rides for your journey.">
+        content="Book a reliable Villupuram to Coimbatore taxi service with Fastpikcab. Affordable one-way, round-trip, and outstation cab options with comfortable rides for your journey.">
 
     <meta name="keywords"
         content="Villupuram to Coimbatore taxi, Villupuram to Coimbatore one way taxi, Villupuram to Coimbatore outstation cabs, Villupuram to Coimbatore taxi fare, Villupuram to Coimbatore cab fare, Villupuram to Coimbatore round trip taxi, Villupuram to Coimbatore car rental, Villupuram to Coimbatore cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Villupuram to Coimbatore Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Villupuram to Coimbatore Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Villupuram to Coimbatore. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Villupuram to Coimbatore Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Villupuram to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Villupuram to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/villupuram-to-coimbatore-drop-taxi">
@@ -31,7 +31,7 @@
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -63,7 +63,7 @@
           "areaServed": ["Villupuram", "Coimbatore"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -76,7 +76,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Villupuram to Coimbatore Taxi Service | Fastpik Cab",
+      "name": "Villupuram to Coimbatore Taxi Service | Fastpikcab",
       "description": "Book affordable and reliable taxis from Villupuram to Coimbatore. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -200,7 +200,7 @@
                             </ul>
                         </td>
                     </tr>
-                    
+
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">

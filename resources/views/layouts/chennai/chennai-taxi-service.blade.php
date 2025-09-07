@@ -2,28 +2,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Chennai Taxi Service & Outstation Cabs | Book Online</title>
+    <title>Fastpikcab - Chennai Taxi Service & Outstation Cabs | Book Online</title>
     <meta name="description"
-        content="Book a reliable Chennai taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Chennai to all major cities.">
+        content="Book a reliable Chennai taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Chennai to all major cities.">
     <meta name="keywords"
         content="Chennai taxi service, Chennai to Coimbatore taxi, Chennai to Madurai taxi, Chennai to Tiruchirappalli taxi, Chennai to Salem taxi, Chennai to Tirunelveli taxi, Chennai to Erode taxi, Chennai to Vellore taxi, Chennai to Thoothukudi taxi, Chennai to Thanjavur taxi, Chennai to Dindigul taxi, Chennai to Cuddalore taxi, Chennai to Kanchipuram taxi, Chennai to Nagercoil taxi, Chennai to Karur taxi, Chennai to Tiruppur taxi, Chennai to Sivakasi taxi, Chennai to Hosur taxi, Chennai to Krishnagiri taxi, Chennai to Namakkal taxi, Chennai to Villupuram taxi, Chennai to Pudukkottai taxi, Chennai to Nagapattinam taxi, Chennai to Arakkonam taxi, Chennai to Chengalpattu taxi, Chennai to Mayiladuthurai taxi, Chennai to Thiruvarur taxi, Chennai to Arani taxi, Chennai to Ranipet taxi, Chennai to Perambalur taxi, Chennai to Tenkasi taxi, Chennai to Virudhunagar taxi, Chennai to Ramanathapuram taxi, Chennai to Dharmapuri taxi, Chennai taxi fare, Chennai cab booking">
-    <meta property="og:title" content="Fastpik Cab - Chennai Taxi Service & Outstation Cabs">
+    <meta property="og:title" content="Fastpikcab - Chennai Taxi Service & Outstation Cabs">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Chennai. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/chennai-taxi-service">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Chennai Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Chennai Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/chennai-taxi-service">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -61,7 +61,7 @@
           "areaServed": ["Chennai", "Tamil Nadu"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -73,7 +73,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Chennai Taxi Service & Outstation Cabs | Fastpik Cab",
+      "name": "Chennai Taxi Service & Outstation Cabs | Fastpikcab",
       "description": "Book affordable and reliable taxis in Chennai. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -128,7 +128,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

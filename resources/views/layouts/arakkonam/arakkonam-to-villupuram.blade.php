@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Arakkonam to Villupuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Arakkonam to Villupuram Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Arakkonam to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your short journey.">
+        content="Book a reliable Arakkonam to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your short journey.">
 
     <meta name="keywords"
         content="Arakkonam to Villupuram taxi, Arakkonam to Villupuram one way taxi, Arakkonam to Villupuram outstation cabs, Arakkonam to Villupuram taxi fare, Arakkonam to Villupuram cab fare, Arakkonam to Villupuram round trip taxi, Arakkonam to Villupuram car rental, Arakkonam to Villupuram cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Arakkonam to Villupuram Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Arakkonam to Villupuram Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Arakkonam to Villupuram. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Arakkonam to Villupuram Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Arakkonam to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Arakkonam to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/arakkonam-to-villupuram-drop-taxi">
@@ -31,7 +31,7 @@
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
           "areaServed": ["Arakkonam", "Villupuram"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -82,7 +82,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Arakkonam to Villupuram Taxi Service | Fastpik Cab",
+      "name": "Arakkonam to Villupuram Taxi Service | Fastpikcab",
       "description": "Book affordable and reliable taxis from Arakkonam to Villupuram. Choose from sedan and SUV vehicles for a comfortable travel.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -140,7 +140,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

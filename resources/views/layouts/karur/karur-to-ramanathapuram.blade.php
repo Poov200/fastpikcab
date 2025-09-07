@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Karur to Ramanathapuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Ramanathapuram Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Karur to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
         content="Karur to Ramanathapuram taxi, Karur to Ramanathapuram one way taxi, Karur to Ramanathapuram outstation cabs, Karur to Ramanathapuram taxi fare, Karur to Ramanathapuram cab fare, Karur to Ramanathapuram round trip taxi, Karur to Ramanathapuram car rental, Karur to Ramanathapuram cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Karur to Ramanathapuram Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Karur to Ramanathapuram Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Karur to Ramanathapuram. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Karur to Ramanathapuram Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Karur to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Karur to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/karur-to-ramanathapuram-drop-taxi">
@@ -31,7 +31,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
                     "areaServed": ["Karur", "Ramanathapuram"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -82,7 +82,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Karur to Ramanathapuram Taxi Service | Fastpik Cab",
+            "name": "Karur to Ramanathapuram Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Karur to Ramanathapuram. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -139,7 +139,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

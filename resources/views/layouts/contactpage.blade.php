@@ -3,24 +3,24 @@
 
  <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab | Online Taxi Booking & Cab Service | Affordable, Safe Rides</title>
+    <title>Fastpikcab | Online Taxi Booking & Cab Service | Affordable, Safe Rides</title>
 
     <meta charset="UTF-8" />
     <meta name="description"
-        content="Book a taxi online with Fastpik Cab for fast, safe, and affordable rides. Your trusted local cab service for airport transfers, city commutes, and reliable taxi booking." />
+        content="Book a taxi online with Fastpikcab for fast, safe, and affordable rides. Your trusted local cab service for airport transfers, city commutes, and reliable taxi booking." />
     <meta name="keywords"
-        content="Fastpik Cab, taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
-    <meta name="author" content="Fastpik Cab" />
-    <meta name="robots" content="index, follow"> <link rel="canonical" href="https://www.fastpikcab.com/" /> <meta property="og:title" content="Fastpik Cab - Online Taxi Booking & Cab Service" />
+        content="Fastpikcab, taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
+    <meta name="author" content="Fastpikcab" />
+    <meta name="robots" content="index, follow"> <link rel="canonical" href="https://www.fastpikcab.com/" /> <meta property="og:title" content="Fastpikcab - Online Taxi Booking & Cab Service" />
     <meta property="og:description"
-        content="Book your next ride with Fastpik Cab — affordable, safe, and fast taxi service available online. Trusted for local, airport, and city cab bookings." />
+        content="Book your next ride with Fastpikcab — affordable, safe, and fast taxi service available online. Trusted for local, airport, and city cab bookings." />
     <meta property="og:image" content="https://www.fastpikcab.com/logo.png" />
     <meta property="og:url" content="https://www.fastpikcab.com/" />
     <meta property="og:type" content="website" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Fastpik Cab - Trusted Online Taxi & Cab Service" />
+    <meta name="twitter:title" content="Fastpikcab - Trusted Online Taxi & Cab Service" />
     <meta name="twitter:description"
         content="Fast and affordable cab service from Fastpik. Book your ride in minutes for safe and reliable transportation!" />
     <meta name="twitter:image" content="https://www.fastpikcab.com/logo.png" />

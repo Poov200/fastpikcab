@@ -2,28 +2,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Arakkonam Taxi Service & Outstation Cabs | Book Online</title>
+    <title>Fastpikcab - Arakkonam Taxi Service & Outstation Cabs | Book Online</title>
     <meta name="description"
-        content="Book a reliable Arakkonam taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Arakkonam to all major cities.">
+        content="Book a reliable Arakkonam taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Arakkonam to all major cities.">
     <meta name="keywords"
         content="Arakkonam taxi service, Arakkonam to Coimbatore taxi, Arakkonam to Madurai taxi, Arakkonam to Tiruchirappalli taxi, Arakkonam to Salem taxi, Arakkonam to Tirunelveli taxi, Arakkonam to Erode taxi, Arakkonam to Vellore taxi, Arakkonam to Thoothukudi taxi, Arakkonam to Thanjavur taxi, Arakkonam to Dindigul taxi, Arakkonam to Cuddalore taxi, Arakkonam to Kanchipuram taxi, Arakkonam to Nagercoil taxi, Arakkonam to Karur taxi, Arakkonam to Tiruppur taxi, Arakkonam to Sivakasi taxi, Arakkonam to Hosur taxi, Arakkonam to Krishnagiri taxi, Arakkonam to Namakkal taxi, Arakkonam to Villupuram taxi, Arakkonam to Pudukkottai taxi, Arakkonam to Nagapattinam taxi, Arakkonam to Arakkonam taxi, Arakkonam to Chengalpattu taxi, Arakkonam to Mayiladuthurai taxi, Arakkonam to Thiruvarur taxi, Arakkonam to Arani taxi, Arakkonam to Ranipet taxi, Arakkonam to Perambalur taxi, Arakkonam to Tenkasi taxi, Arakkonam to Virudhunagar taxi, Arakkonam to Ramanathapuram taxi, Arakkonam to Dharmapuri taxi, Arakkonam taxi fare, Arakkonam cab booking">
-    <meta property="og:title" content="Fastpik Cab - Arakkonam Taxi Service & Outstation Cabs">
+    <meta property="og:title" content="Fastpikcab - Arakkonam Taxi Service & Outstation Cabs">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Arakkonam. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/arakkonam-taxi-service">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Arakkonam Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Arakkonam Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/arakkonam-taxi-service">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Fastpik Cab",
+      "name": "Fastpikcab",
       "url": "https://www.fastpikcab.com/",
       "logo": "https://fastpikcab.com/img/FastPik Logo.png",
       "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -61,7 +61,7 @@
           "areaServed": ["Arakkonam", "Tamil Nadu"],
           "provider": {
             "@type": "Organization",
-            "name": "Fastpik Cab"
+            "name": "Fastpikcab"
           }
         },
         "priceCurrency": "INR",
@@ -73,7 +73,7 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Arakkonam Taxi Service & Outstation Cabs | Fastpik Cab",
+      "name": "Arakkonam Taxi Service & Outstation Cabs | Fastpikcab",
       "description": "Book affordable and reliable taxis in Arakkonam. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -154,7 +154,7 @@
         },
         {
           "@type": "Question",
-          "name": "Is it safe to travel with Fastpik Cab from Arakkonam?",
+          "name": "Is it safe to travel with Fastpikcab from Arakkonam?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -192,7 +192,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
