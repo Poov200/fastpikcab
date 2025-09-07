@@ -182,6 +182,14 @@ Route::get('/virudhunagar-taxi-service', function () {
     return view('layouts.virudhunagar.virudhunagar-taxi-service');
 })->name('virudhunagar-taxi-service');
 
+Route::get('/arani-taxi-service', function () {
+    return view('layouts.arani.arani-taxi-service');
+})->name('arani-taxi-service');
+
+Route::get('/bangalore-taxi-service', function () {
+    return view('layouts.bangalore.bangalore-taxi-service');
+})->name('bangalore-taxi-service');
+
 
 Route::get('/adminlogin', function () {
     return view('layouts.admin.adminLogin');
@@ -5420,6 +5428,156 @@ Route::get('/arani-to-salem-drop-taxi', function () {
 Route::get('/arani-to-tirunelveli-drop-taxi', function () {
     return view('layouts.arani.arani-to-tirunelveli');
 })->name('arani-to-tirunelveli');
+
+
+
+Route::get('/bangalore-to-villupuram-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-villupuram');
+})->name('bangalore-to-villupuram');
+
+Route::get('/bangalore-to-chennai-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-chennai');
+})->name('bangalore-to-chennai');
+
+Route::get('/bangalore-to-puducherry-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-puducherry');
+})->name('bangalore-to-puducherry');
+
+Route::get('/bangalore-to-bangalore-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-bangalore');
+})->name('bangalore-to-bangalore');
+
+Route::get('/bangalore-to-cuddalore-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-cuddalore');
+})->name('bangalore-to-cuddalore');
+
+Route::get('/bangalore-to-madurai-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-madurai');
+})->name('bangalore-to-madurai');
+
+Route::get('/bangalore-to-erode-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-erode');
+})->name('bangalore-to-erode');
+
+Route::get('/bangalore-to-arakkonam-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-arakkonam');
+})->name('bangalore-to-arakkonam');
+
+Route::get('/bangalore-to-bangalore-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-bangalore');
+})->name('bangalore-to-bangalore');
+
+Route::get('/bangalore-to-chengalpattu-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-chengalpattu');
+})->name('bangalore-to-chengalpattu');
+
+Route::get('/bangalore-to-coimbatore-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-coimbatore');
+})->name('bangalore-to-coimbatore');
+
+Route::get('/bangalore-to-dharmapuri-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-dharmapuri');
+})->name('bangalore-to-dharmapuri');
+
+Route::get('/bangalore-to-dindigul-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-dindigul');
+})->name('bangalore-to-dindigul');
+
+Route::get('/bangalore-to-hosur-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-hosur');
+})->name('bangalore-to-hosur');
+
+Route::get('/bangalore-to-kanchipuram-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-kanchipuram');
+})->name('bangalore-to-kanchipuram');
+
+Route::get('/bangalore-to-karur-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-karur');
+})->name('bangalore-to-karur');
+
+Route::get('/bangalore-to-krishnagiri-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-krishnagiri');
+})->name('bangalore-to-krishnagiri');
+
+Route::get('/bangalore-to-mayiladuthurai-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-mayiladuthurai');
+})->name('bangalore-to-mayiladuthurai');
+
+Route::get('/bangalore-to-nagapattinam-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-nagapattinam');
+})->name('bangalore-to-nagapattinam');
+
+Route::get('/bangalore-to-nagercoil-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-nagercoil');
+})->name('bangalore-to-nagercoil');
+
+Route::get('/bangalore-to-namakkal-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-namakkal');
+})->name('bangalore-to-namakkal');
+
+Route::get('/bangalore-to-perambalur-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-perambalur');
+})->name('bangalore-to-perambalur');
+
+Route::get('/bangalore-to-pudukkottai-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-pudukkottai');
+})->name('bangalore-to-pudukkottai');
+
+Route::get('/bangalore-to-ramanathapuram-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-ramanathapuram');
+})->name('bangalore-to-ramanathapuram');
+
+Route::get('/bangalore-to-ranipet-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-ranipet');
+})->name('bangalore-to-ranipet');
+
+Route::get('/bangalore-to-sivakasi-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-sivakasi');
+})->name('bangalore-to-sivakasi');
+
+Route::get('/bangalore-to-tenkasi-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-tenkasi');
+})->name('bangalore-to-tenkasi');
+
+Route::get('/bangalore-to-thanjavur-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-thanjavur');
+})->name('bangalore-to-thanjavur');
+
+Route::get('/bangalore-to-thiruvarur-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-thiruvarur');
+})->name('bangalore-to-thiruvarur');
+
+Route::get('/bangalore-to-thoothukudi-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-thoothukudi');
+})->name('bangalore-to-thoothukudi');
+
+Route::get('/bangalore-to-tiruppur-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-tiruppur');
+})->name('bangalore-to-tiruppur');
+
+Route::get('/bangalore-to-trichy-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-trichy');
+})->name('bangalore-to-trichy');
+
+Route::get('/bangalore-to-vellore-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-vellore');
+})->name('bangalore-to-vellore');
+
+Route::get('/bangalore-to-bangalore-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-bangalore');
+})->name('bangalore-to-bangalore');
+
+Route::get('/bangalore-to-salem-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-salem');
+})->name('bangalore-to-salem');
+
+Route::get('/bangalore-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-tirunelveli');
+})->name('bangalore-to-tirunelveli');
+
+Route::get('/bangalore-to-arani-drop-taxi', function () {
+    return view('layouts.bangalore.bangalore-to-arani');
+})->name('bangalore-to-arani');
 
 
 

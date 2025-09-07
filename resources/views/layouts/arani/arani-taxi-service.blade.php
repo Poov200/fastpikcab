@@ -2,22 +2,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Puducherry Taxi Service & Outstation Cabs | Book Online</title>
+    <title>Fastpik Cab - Arani Taxi Service & Outstation Cabs | Book Online</title>
     <meta name="description"
-        content="Book a reliable Puducherry taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
+        content="Book a reliable Arani taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
     <meta name="keywords"
-        content="Puducherry taxi service, Pondicherry taxi service, Puducherry to Chennai taxi, Puducherry to Coimbatore taxi, Puducherry to Madurai taxi, Puducherry to Tiruchirappalli taxi, Puducherry to Salem taxi, Puducherry to Tirunelveli taxi, Puducherry to Erode taxi, Puducherry to Vellore taxi, Puducherry to Thoothukudi taxi, Puducherry to Thanjavur taxi, Puducherry to Dindigul taxi, Puducherry to Cuddalore taxi, Puducherry to Kanchipuram taxi, Puducherry to Nagercoil taxi, Puducherry to Karur taxi, Puducherry to Tiruppur taxi, Puducherry to Sivakasi taxi, Puducherry to Hosur taxi, Puducherry to Krishnagiri taxi, Puducherry to Namakkal taxi, Puducherry to Villupuram taxi, Puducherry to Pudukkottai taxi, Puducherry to Nagapattinam taxi, Puducherry to Arakkonam taxi, Puducherry to Chengalpattu taxi, Puducherry to Mayiladuthurai taxi, Puducherry to Thiruvarur taxi, Puducherry to Arani taxi, Puducherry to Ranipet taxi, Puducherry to Perambalur taxi, Puducherry to Tenkasi taxi, Puducherry to Virudhunagar taxi, Puducherry to Ramanathapuram taxi, Puducherry to Dharmapuri taxi, Puducherry taxi fare, Puducherry cab booking">
-    <meta property="og:title" content="Fastpik Cab - Puducherry Taxi Service & Outstation Cabs">
+        content="Arani taxi service, Arani to Chennai taxi, Arani to Vellore taxi, Arani to Tiruvannamalai taxi, Arani to Kanchipuram taxi, Arani to Bangalore taxi, Arani to Pondicherry taxi, Arani to Salem taxi, Arani to Tiruchirappalli taxi, Arani to Coimbatore taxi, Arani to Madurai taxi, Arani to Tirupati taxi, Arani to Chittoor taxi, Arani to Krishnagiri taxi, Arani to Dharmapuri taxi, Arani to Hosur taxi, Arani to Villupuram taxi, Arani to Cuddalore taxi, Arani to Thanjavur taxi, Arani to Tiruvarur taxi, Arani to Nagapattinam taxi, Arani to Karaikal taxi, Arani to Mayiladuthurai taxi, Arani to Perambalur taxi, Arani to Ariyalur taxi, Arani to Pudukkottai taxi, Arani to Sivaganga taxi, Arani to Ramanathapuram taxi, Arani taxi fare, Arani cab booking">
+    <meta property="og:title" content="Fastpik Cab - Arani Taxi Service & Outstation Cabs">
     <meta property="og:description"
-        content="Reliable and affordable taxi service in Puducherry. Book online for one-way, round-trip, or outstation travel to major cities.">
+        content="Reliable and affordable taxi service in Arani. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/puducherry-taxi-service">
+    <meta property="og:url" content="https://www.fastpikcab.com/arani-taxi-service">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Puducherry Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Arani Taxi Service | Fastpik Cab">
     <meta name="twitter:description"
-        content="Book a reliable Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu and neighboring states.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <link rel="canonical" href="https://www.fastpikcab.com/puducherry-taxi-service">
+    <link rel="canonical" href="https://www.fastpikcab.com/arani-taxi-service">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -54,10 +54,10 @@
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Puducherry Taxi Service",
-          "description": "Reliable taxi service in Puducherry with options for local, one-way, round-trip, and outstation travel.",
+          "name": "Arani Taxi Service",
+          "description": "Reliable taxi service in Arani with options for local, one-way, round-trip, and outstation travel.",
           "serviceType": "TaxiService",
-          "areaServed": ["Puducherry", "Tond Nadu", "Tamil Nadu"],
+          "areaServed": ["Arani", "Tamil Nadu"],
           "provider": {
             "@type": "Organization",
             "name": "Fastpik Cab"
@@ -72,8 +72,8 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Puducherry Taxi Service & Outstation Cabs | Fastpik Cab",
-      "description": "Book affordable and reliable taxis in Puducherry. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
+      "name": "Arani Taxi Service & Outstation Cabs | Fastpik Cab",
+      "description": "Book affordable and reliable taxis in Arani. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
@@ -86,14 +86,14 @@
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Puducherry Taxi Service",
-            "item": "https://www.fastpikcab.com/puducherry-taxi-service"
+            "name": "Arani Taxi Service",
+            "item": "https://www.fastpikcab.com/arani-taxi-service"
           }
         ]
       },
       "mainEntityOfPage": {
         "@type": "Product",
-        "name": "Puducherry Taxi Service",
+        "name": "Arani Taxi Service",
         "offers": {
           "@type": "AggregateOffer",
           "priceCurrency": "₹",
@@ -112,7 +112,7 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What types of vehicles are available for Puducherry taxi service?",
+          "name": "What types of vehicles are available for Arani taxi service?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "We offer a variety of vehicles including sedans (like Swift Dzire), SUVs (like Toyota Innova), and premium cars (like Honda City) to suit different needs and budgets."
@@ -120,7 +120,7 @@
         },
         {
           "@type": "Question",
-          "name": "How do I book a taxi from Puducherry?",
+          "name": "How do I book a taxi from Arani?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "You can easily book a taxi through our website or mobile app. Simply enter your pickup location, destination, date, and time, select your preferred vehicle, and complete the payment."
@@ -144,15 +144,15 @@
         },
         {
           "@type": "Question",
-          "name": "Do you provide airport transfer services from Puducherry?",
+          "name": "Do you provide airport transfer services from Arani?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, we offer dedicated airport transfer services to and from nearby airports like Chennai International Airport and Tiruchirappalli International Airport."
+            "text": "Yes, we offer dedicated airport transfer services to and from nearby airports like Chennai International Airport and Bangalore International Airport."
           }
         },
         {
           "@type": "Question",
-          "name": "Is it safe to travel with Fastpik Cab from Puducherry?",
+          "name": "Is it safe to travel with Fastpik Cab from Arani?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -217,7 +217,7 @@
         </div>
     </section>
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Popular Outstation Routes from Puducherry</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Popular Outstation Routes from Arani</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="overflow-x-auto">
                 <table class="w-full table-auto min-w-full">
@@ -233,23 +233,100 @@
                     <tbody class="divide-y divide-gray-200">
                         <tr class="hover:bg-gray-50">
                             <td class="px-4 py-3 font-medium text-sm">Chennai</td>
-                            <td class="px-4 py-3 text-center text-sm">~150 km</td>
-                            <td class="px-4 py-3 text-center text-sm">2.5-3.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹2,700 - ₹3,200</td>
+                            <td class="px-4 py-3 text-center text-sm">~145 km</td>
+                            <td class="px-4 py-3 text-center text-sm">3-3.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹2,600 - ₹3,200</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                   <a href="{{ route('puducherry-to-chennai') }}">Book Now</a>
+                                   <a href="{{ route('arani-to-chennai') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Vellore</td>
+                            <td class="px-4 py-3 text-center text-sm">~50 km</td>
+                            <td class="px-4 py-3 text-center text-sm">1-1.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹900 - ₹1,200</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-vellore') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Tiruvannamalai</td>
+                            <td class="px-4 py-3 text-center text-sm">~40 km</td>
+                            <td class="px-4 py-3 text-center text-sm">1-1.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹700 - ₹1,000</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    {{-- <a href="{{ route('arani-to-tiruvannamalai') }}">Book Now</a> --}}
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Kanchipuram</td>
+                            <td class="px-4 py-3 text-center text-sm">~90 km</td>
+                            <td class="px-4 py-3 text-center text-sm">2-2.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹1,600 - ₹2,100</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-kanchipuram') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Bangalore</td>
+                            <td class="px-4 py-3 text-center text-sm">~220 km</td>
+                            <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹4,000 - ₹4,800</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-bangalore') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Pondicherry</td>
+                            <td class="px-4 py-3 text-center text-sm">~120 km</td>
+                            <td class="px-4 py-3 text-center text-sm">2.5-3 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹2,200 - ₹2,700</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    {{-- <a href="{{ route('arani-to-pondicherry') }}">Book Now</a> --}}
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Salem</td>
+                            <td class="px-4 py-3 text-center text-sm">~180 km</td>
+                            <td class="px-4 py-3 text-center text-sm">3-4 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹3,200 - ₹3,900</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-salem') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Tiruchirappalli (Trichy)</td>
+                            <td class="px-4 py-3 text-center text-sm">~220 km</td>
+                            <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹4,000 - ₹4,800</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-trichy') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
                             <td class="px-4 py-3 font-medium text-sm">Coimbatore</td>
-                            <td class="px-4 py-3 text-center text-sm">~370 km</td>
+                            <td class="px-4 py-3 text-center text-sm">~350 km</td>
                             <td class="px-4 py-3 text-center text-sm">6-7 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹6,600 - ₹7,600</td>
+                            <td class="px-4 py-3 text-center text-sm">₹6,300 - ₹7,400</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-coimbatore') }}">Book Now</a>
+                                    <a href="{{ route('arani-to-coimbatore') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
@@ -257,356 +334,202 @@
                             <td class="px-4 py-3 font-medium text-sm">Madurai</td>
                             <td class="px-4 py-3 text-center text-sm">~330 km</td>
                             <td class="px-4 py-3 text-center text-sm">5.5-6.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹5,900 - ₹6,800</td>
+                            <td class="px-4 py-3 text-center text-sm">₹5,900 - ₹7,000</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-madurai') }}">Book Now</a>
+                                    <a href="{{ route('arani-to-madurai') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Tiruchirappalli (Trichy)</td>
-                            <td class="px-4 py-3 text-center text-sm">~220 km</td>
-                            <td class="px-4 py-3 text-center text-sm">3.5-4.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹3,900 - ₹4,600</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-trichy') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Salem</td>
-                            <td class="px-4 py-3 text-center text-sm">~270 km</td>
-                            <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹4,800 - ₹5,600</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-salem') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Tirunelveli</td>
-                            <td class="px-4 py-3 text-center text-sm">~440 km</td>
-                            <td class="px-4 py-3 text-center text-sm">7-8 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹7,900 - ₹9,000</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-tirunelveli') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Erode</td>
-                            <td class="px-4 py-3 text-center text-sm">~320 km</td>
-                            <td class="px-4 py-3 text-center text-sm">5-6 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹5,700 - ₹6,600</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-erode') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Vellore</td>
-                            <td class="px-4 py-3 text-center text-sm">~170 km</td>
-                            <td class="px-4 py-3 text-center text-sm">2.5-3.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹3,000 - ₹3,600</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-vellore') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Thoothukudi (Tuticorin)</td>
-                            <td class="px-4 py-3 text-center text-sm">~410 km</td>
-                            <td class="px-4 py-3 text-center text-sm">6.5-7.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹7,300 - ₹8,400</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-thoothukudi') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Thanjavur</td>
-                            <td class="px-4 py-3 text-center text-sm">~180 km</td>
+                            <td class="px-4 py-3 font-medium text-sm">Tirupati</td>
+                            <td class="px-4 py-3 text-center text-sm">~150 km</td>
                             <td class="px-4 py-3 text-center text-sm">3-3.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹3,200 - ₹3,800</td>
+                            <td class="px-4 py-3 text-center text-sm">₹2,700 - ₹3,300</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-thanjavur') }}">Book Now</a>
+                                    {{-- <a href="{{ route('arani-to-tirupati') }}">Book Now</a> --}}
                                 </button>
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Dindigul</td>
-                            <td class="px-4 py-3 text-center text-sm">~280 km</td>
-                            <td class="px-4 py-3 text-center text-sm">4.5-5.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₵5,000 - ₹5,800</td>
+                            <td class="px-4 py-3 font-medium text-sm">Chittoor</td>
+                            <td class="px-4 py-3 text-center text-sm">~120 km</td>
+                            <td class="px-4 py-3 text-center text-sm">2.5-3 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹2,200 - ₹2,700</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-dindigul') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Cuddalore</td>
-                            <td class="px-4 py-3 text-center text-sm">~25 km</td>
-                            <td class="px-4 py-3 text-center text-sm">30-45 minutes</td>
-                            <td class="px-4 py-3 text-center text-sm">₹500 - ₹700</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-cuddalore') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Kanchipuram</td>
-                            <td class="px-4 py-3 text-center text-sm">~110 km</td>
-                            <td class="px-4 py-3 text-center text-sm">1.5-2.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹1,900 - ₹2,400</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-kanchipuram') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Nagercoil</td>
-                            <td class="px-4 py-3 text-center text-sm">~480 km</td>
-                            <td class="px-4 py-3 text-center text-sm">8-9 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹8,600 - ₹9,800</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-nagercoil') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Karur</td>
-                            <td class="px-4 py-3 text-center text-sm">~210 km</td>
-                            <td class="px-4 py-3 text-center text-sm">3.5-4 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹3,700 - ₹4,400</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-karur') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Tiruppur</td>
-                            <td class="px-4 py-3 text-center text-sm">~350 km</td>
-                            <td class="px-4 py-3 text-center text-sm">5.5-6.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹6,300 - ₹7,200</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-tiruppur') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Sivakasi</td>
-                            <td class="px-4 py-3 text-center text-sm">~380 km</td>
-                            <td class="px-4 py-3 text-center text-sm">6-7 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹6,800 - ₹7,800</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-sivakasi') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Hosur</td>
-                            <td class="px-4 py-3 text-center text-sm">~300 km</td>
-                            <td class="px-4 py-3 text-center text-sm">4.5-5.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹5,400 - ₹6,200</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-hosur') }}">Book Now</a>
+                                    {{-- <a href="{{ route('arani-to-chittoor') }}">Book Now</a> --}}
                                 </button>
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
                             <td class="px-4 py-3 font-medium text-sm">Krishnagiri</td>
-                            <td class="px-4 py-3 text-center text-sm">~280 km</td>
-                            <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₵5,000 - ₹5,800</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-krishnagiri') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Namakkal</td>
-                            <td class="px-4 py-3 text-center text-sm">~240 km</td>
-                            <td class="px-4 py-3 text-center text-sm">3.5-4.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹4,300 - ₹5,000</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-namakkal') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Villupuram</td>
-                            <td class="px-4 py-3 text-center text-sm">~40 km</td>
-                            <td class="px-4 py-3 text-center text-sm">45-60 minutes</td>
-                            <td class="px-4 py-3 text-center text-sm">₹700 - ₹900</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-villupuram') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Pudukkottai</td>
-                            <td class="px-4 py-3 text-center text-sm">~200 km</td>
+                            <td class="px-4 py-3 text-center text-sm">~170 km</td>
                             <td class="px-4 py-3 text-center text-sm">3-4 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹3,600 - ₹4,200</td>
+                            <td class="px-4 py-3 text-center text-sm">₹3,100 - ₹3,700</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-pudukkottai') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Nagapattinam</td>
-                            <td class="px-4 py-3 text-center text-sm">~220 km</td>
-                            <td class="px-4 py-3 text-center text-sm">3.5-4.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹3,900 - ₹4,600</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-nagapattinam') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Arakkonam</td>
-                            <td class="px-4 py-3 text-center text-sm">~130 km</td>
-                            <td class="px-4 py-3 text-center text-sm">2-2.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹2,300 - ₹2,800</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-arakkonam') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Chengalpattu</td>
-                            <td class="px-4 py-3 text-center text-sm">~110 km</td>
-                            <td class="px-4 py-3 text-center text-sm">1.5-2.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹1,900 - ₹2,400</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-chengalpattu') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Mayiladuthurai</td>
-                            <td class="px-4 py-3 text-center text-sm">~150 km</td>
-                            <td class="px-4 py-3 text-center text-sm">2.5-3 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹2,700 - ₹3,200</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-mayiladuthurai') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Thiruvarur</td>
-                            <td class="px-4 py-3 text-center text-sm">~180 km</td>
-                            <td class="px-4 py-3 text-center text-sm">3-3.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹3,200 - ₹3,800</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-thiruvarur') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Arani</td>
-                            <td class="px-4 py-3 text-center text-sm">~90 km</td>
-                            <td class="px-4 py-3 text-center text-sm">1.5-2 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹1,600 - ₹2,000</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-arani') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Ranipet</td>
-                            <td class="px-4 py-3 text-center text-sm">~100 km</td>
-                            <td class="px-4 py-3 text-center text-sm">1.5-2.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹1,800 - ₹2,200</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-ranipet') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Perambalur</td>
-                            <td class="px-4 py-3 text-center text-sm">~150 km</td>
-                            <td class="px-4 py-3 text-center text-sm">2.5-3.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹2,700 - ₹3,200</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-perambalur') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Tenkasi</td>
-                            <td class="px-4 py-3 text-center text-sm">~410 km</td>
-                            <td class="px-4 py-3 text-center text-sm">6.5-7.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹7,300 - ₹8,400</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-tenkasi') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Virudhunagar</td>
-                            <td class="px-4 py-3 text-center text-sm">~350 km</td>
-                            <td class="px-4 py-3 text-center text-sm">5.5-6.5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹6,300 - ₹7,200</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-virudhunagar') }}">Book Now</a>
-                                </button>
-                            </td>
-                        </tr>
-                        <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Ramanathapuram</td>
-                            <td class="px-4 py-3 text-center text-sm">~390 km</td>
-                            <td class="px-4 py-3 text-center text-sm">6-7 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹7,000 - ₹8,000</td>
-                            <td class="px-4 py-3 text-center">
-                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-ramanathapuram') }}">Book Now</a>
+                                    <a href="{{ route('arani-to-krishnagiri') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
                             <td class="px-4 py-3 font-medium text-sm">Dharmapuri</td>
-                            <td class="px-4 py-3 text-center text-sm">~260 km</td>
-                            <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
-                            <td class="px-4 py-3 text-center text-sm">₹4,600 - ₹5,400</td>
+                            <td class="px-4 py-3 text-center text-sm">~140 km</td>
+                            <td class="px-4 py-3 text-center text-sm">2.5-3.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹2,500 - ₹3,100</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('puducherry-to-dharmapuri') }}">Book Now</a>
+                                    <a href="{{ route('arani-to-dharmapuri') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Puducherry</td>
+                            <td class="px-4 py-3 font-medium text-sm">Hosur</td>
+                            <td class="px-4 py-3 text-center text-sm">~200 km</td>
+                            <td class="px-4 py-3 text-center text-sm">3.5-4.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹3,600 - ₹4,300</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-hosur') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Villupuram</td>
+                            <td class="px-4 py-3 text-center text-sm">~100 km</td>
+                            <td class="px-4 py-3 text-center text-sm">2-2.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹1,800 - ₹2,300</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-villupuram') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Cuddalore</td>
+                            <td class="px-4 py-3 text-center text-sm">~130 km</td>
+                            <td class="px-4 py-3 text-center text-sm">2.5-3 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹2,300 - ₹2,900</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-cuddalore') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Thanjavur</td>
+                            <td class="px-4 py-3 text-center text-sm">~200 km</td>
+                            <td class="px-4 py-3 text-center text-sm">3.5-4.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹3,600 - ₹4,300</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-thanjavur') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Tiruvarur</td>
+                            <td class="px-4 py-3 text-center text-sm">~230 km</td>
+                            <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹4,100 - ₹4,900</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-thiruvarur') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Nagapattinam</td>
+                            <td class="px-4 py-3 text-center text-sm">~250 km</td>
+                            <td class="px-4 py-3 text-center text-sm">4.5-5.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹4,500 - ₹5,400</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-nagapattinam') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Karaikal</td>
+                            <td class="px-4 py-3 text-center text-sm">~220 km</td>
+                            <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹4,000 - ₹4,800</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    {{-- <a href="{{ route('arani-to-karaikal') }}">Book Now</a> --}}
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Mayiladuthurai</td>
+                            <td class="px-4 py-3 text-center text-sm">~180 km</td>
+                            <td class="px-4 py-3 text-center text-sm">3-4 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹3,200 - ₹3,900</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-mayiladuthurai') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Perambalur</td>
+                            <td class="px-4 py-3 text-center text-sm">~170 km</td>
+                            <td class="px-4 py-3 text-center text-sm">3-3.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹3,100 - ₹3,700</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-perambalur') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Ariyalur</td>
+                            <td class="px-4 py-3 text-center text-sm">~160 km</td>
+                            <td class="px-4 py-3 text-center text-sm">3-3.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹2,900 - ₹3,500</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    {{-- <a href="{{ route('arani-to-ariyalur') }}">Book Now</a> --}}
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Pudukkottai</td>
+                            <td class="px-4 py-3 text-center text-sm">~210 km</td>
+                            <td class="px-4 py-3 text-center text-sm">4-4.5 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹3,800 - ₹4,500</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-pudukkottai') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Sivaganga</td>
+                            <td class="px-4 py-3 text-center text-sm">~280 km</td>
+                            <td class="px-4 py-3 text-center text-sm">5-6 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹5,000 - ₹6,000</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    {{-- <a href="{{ route('arani-to-sivaganga') }}">Book Now</a> --}}
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Ramanathapuram</td>
+                            <td class="px-4 py-3 text-center text-sm">~350 km</td>
+                            <td class="px-4 py-3 text-center text-sm">6-7 hours</td>
+                            <td class="px-4 py-3 text-center text-sm">₹6,300 - ₹7,400</td>
+                            <td class="px-4 py-3 text-center">
+                                <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
+                                    <a href="{{ route('arani-to-ramanathapuram') }}">Book Now</a>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-4 py-3 font-medium text-sm">Arani</td>
                             <td class="px-4 py-3 text-center text-sm">~0 km</td>
                             <td class="px-4 py-3 text-center text-sm">-</td>
                             <td class="px-4 py-3 text-center text-sm">-</td>
