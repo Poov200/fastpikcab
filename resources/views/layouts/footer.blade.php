@@ -156,13 +156,18 @@
                 <li><a href="{{ route('chengalpattu-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Chengalpattu</a></li>
                 <li><a href="{{ route('mayiladuthurai-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Mayiladuthurai</a></li>
                 <li><a href="{{ route('thiruvarur-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Thiruvarur</a></li>
-                {{-- <li><a href="{{ route('arani-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Arani</a></li> --}}
+                <li><a href="{{ route('arani-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Arani</a></li>
                 <li><a href="{{ route('ranipet-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Ranipet</a></li>
                 <li><a href="{{ route('perambalur-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Perambalur</a></li>
                 <li><a href="{{ route('tenkasi-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Tenkasi</a></li>
                 <li><a href="{{ route('virudhunagar-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Virudhunagar</a></li>
                 <li><a href="{{ route('ramanathapuram-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Ramanathapuram</a></li>
                 <li><a href="{{ route('dharmapuri-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Dharmapuri</a></li>
+                <li><a href="{{ route('karaikal-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Karaikal</a></li>
+                <li><a href="{{ route('kochi-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Kochi</a></li>
+                <li><a href="{{ route('tirupati-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Tirupati</a></li>
+                <li><a href="{{ route('thiruvannamalai-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Thiruvannamalai</a></li>
+                <li><a href="{{ route('kerala-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Kerala</a></li>
             </ul>
         </div>
     </div>
