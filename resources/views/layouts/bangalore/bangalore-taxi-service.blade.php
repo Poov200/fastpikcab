@@ -568,7 +568,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹9,500 - ₹11,100</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    {{-- <a href="{{ route('bangalore-to-virudhunagar') }}">Book Now</a> --}}
+                                    <a href="{{ route('bangalore-to-virudhunagar') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
