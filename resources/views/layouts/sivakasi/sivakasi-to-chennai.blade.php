@@ -3,28 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi to Thiruvarur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Sivakasi to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Sivakasi to Thiruvarur taxi, Sivakasi to Thiruvarur one way taxi, Sivakasi to Thiruvarur outstation cabs, Sivakasi to Thiruvarur taxi fare, Sivakasi to Thiruvarur cab fare, Sivakasi to Thiruvarur round trip taxi, Sivakasi to Thiruvarur car rental, Sivakasi to Thiruvarur cab booking">
+        content="Sivakasi to Chennai taxi, Sivakasi to Chennai one way taxi, Sivakasi to Chennai outstation cabs, Sivakasi to Chennai taxi fare, Sivakasi to Chennai cab fare, Sivakasi to Chennai round trip taxi, Sivakasi to Chennai car rental, Sivakasi to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Sivakasi to Thiruvarur Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Sivakasi to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Sivakasi to Thiruvarur. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Sivakasi to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/sivakasi-to-thiruvarur-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/sivakasi-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Sivakasi to Thiruvarur Taxi Service">
+    <meta name="twitter:title" content="Sivakasi to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Sivakasi to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Sivakasi to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/sivakasi-to-thiruvarur-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/sivakasi-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -62,10 +62,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Sivakasi to Thiruvarur Taxi Service",
-                    "description": "Reliable taxi service connecting Sivakasi to Thiruvarur with options for one-way, round-trip, and outstation travel.",
+                    "name": "Sivakasi to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Sivakasi to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Sivakasi", "Thiruvarur"],
+                    "areaServed": ["Sivakasi", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -81,8 +81,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Sivakasi to Thiruvarur Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Sivakasi to Thiruvarur. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Sivakasi to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Sivakasi to Chennai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -94,19 +94,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Sivakasi to Thiruvarur",
-                        "item": "https://www.fastpikcab.com/sivakasi-to-thiruvarur-drop-taxi"
+                        "name": "Sivakasi to Chennai",
+                        "item": "https://www.fastpikcab.com/sivakasi-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Sivakasi to Thiruvarur Taxi Service",
+                "name": "Sivakasi to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "4600",
-                    "highPrice": "6500",
+                    "lowPrice": "7000",
+                    "highPrice": "10000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -167,7 +167,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Sivakasi to Thiruvarur Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Sivakasi to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -175,19 +175,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 300 - 325 km</span>
+                            <span><strong>Distance:</strong> Approximately 510 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 5 to 6 hours depending on traffic and route taken</span>
+                            <span><strong>Travel Time:</strong> 8 to 9 hours depending on traffic and route taken</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The journey generally passes through Madurai and Pudukkottai.</span>
+                            <span><strong>Route:</strong> The journey primarily follows NH38 and NH32.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> Thiruvarur is known for the Thiagarajar Temple, a prominent Shiva temple.</span>
+                            <span><strong>Note:</strong> Chennai, the capital of Tamil Nadu, is a major cultural and economic hub.</span>
                         </li>
                     </ul>
                 </div>
@@ -199,12 +199,12 @@
                             <span class="text-sm text-gray-500">A major city and historical center.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Pudukkottai</span>
-                            <span class="text-sm text-gray-500">Known for its historical monuments and palace.</span>
+                            <span>Tiruchirappalli (Trichy)</span>
+                            <span class="text-sm text-gray-500">Known for its Rockfort Temple.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thanjavur</span>
-                            <span class="text-sm text-gray-500">The Rice Bowl of Tamil Nadu.</span>
+                            <span>Villupuram</span>
+                            <span class="text-sm text-gray-500">A significant railway junction city.</span>
                         </div>
                     </div>
                 </div>
@@ -213,7 +213,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Sivakasi to Thiruvarur Fare Structure</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Sivakasi to Chennai Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
@@ -227,8 +227,8 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹4,600 - ₹5,500</td>
-                        <td class="px-6 py-4 text-center">₹8,500 - ₹10,000</td>
+                        <td class="px-6 py-4 text-center">₹7,000 - ₹8,500</td>
+                        <td class="px-6 py-4 text-center">₹14,000 - ₹17,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
@@ -239,8 +239,8 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹6,500 - ₹8,000</td>
-                        <td class="px-6 py-4 text-center">₹12,000 - ₹15,000</td>
+                        <td class="px-6 py-4 text-center">₹9,000 - ₹11,000</td>
+                        <td class="px-6 py-4 text-center">₹18,000 - ₹22,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
