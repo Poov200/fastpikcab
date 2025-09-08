@@ -7,10 +7,10 @@
     <title>Fastpikcab - Chennai to Villupuram Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Chennai to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
+        content="Book a reliable Chennai to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Chennai to Villupuram taxi, Chennai Airport to Villupuram taxi, Chennai to Villupuram one way taxi, Chennai to Villupuram outstation cabs, Chennai to Villupuram taxi fare, Chennai to Villupuram cab fare, Chennai Airport to Villupuram airport taxi, Chennai to Villupuram round trip taxi, Chennai to Villupuram round trip taxi fare, Chennai to Villupuram car rental, Chennai to Villupuram cab booking, Chennai to Villupuram taxi service">
+        content="Chennai to Villupuram taxi, Chennai Airport to Villupuram taxi, Chennai to Villupuram one way taxi, Chennai to Villupuram outstation cabs, Chennai to Villupuram taxi fare, Chennai to Villupuram cab fare, Chennai to Villupuram round trip taxi, Chennai to Villupuram car rental, Chennai to Villupuram cab booking">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Villupuram Taxi Service">
     <meta property="og:description"
@@ -73,7 +73,7 @@
           }
         },
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-12-31"
+        "priceValidUntil": "2026-12-31"
       }
     }
     </script>
@@ -83,7 +83,7 @@
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "Chennai to Villupuram Taxi Service | Fastpikcab",
-      "description": "Book affordable and reliable taxis from Chennai to Villupuram. Choose from sedan, SUV, and premium vehicles for comfortable travel.",
+      "description": "Book affordable and reliable taxis from Chennai to Villupuram. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
@@ -108,7 +108,7 @@
           "@type": "AggregateOffer",
           "priceCurrency": "INR",
           "lowPrice": "2500",
-          "highPrice": "5500",
+          "highPrice": "6000",
           "offerCount": "Multiple price points based on vehicle type"
         }
       }
@@ -123,14 +123,10 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet" />
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-    <script src="https://cdn.tailwindcss.com"></script>
 
     <style>
         body {
@@ -181,7 +177,7 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 160 km</span>
+                            <span><strong>Distance:</strong> Approximately 165 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
@@ -189,11 +185,11 @@
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> Chennai → NH32 → Villupuram</span>
+                            <span><strong>Route:</strong> Chennai → Mahabalipuram → Tindivanam → Villupuram via NH32</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Points of Interest:</strong> Chengalpattu, Tindivanam</span>
+                            <span><strong>Note:</strong> This route is generally scenic and well-maintained.</span>
                         </li>
                     </ul>
                 </div>
@@ -201,16 +197,16 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Chengalpattu</span>
-                            <span class="text-sm text-gray-500">~55 km from Chennai</span>
-                        </div>
-                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Madurantakam</span>
-                            <span class="text-sm text-gray-500">~80 km from Chennai</span>
+                            <span>Mahabalipuram</span>
+                            <span class="text-sm text-gray-500">Ancient town with rock-cut temples</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>Tindivanam</span>
-                            <span class="text-sm text-gray-500">~120 km from Chennai</span>
+                            <span class="text-sm text-gray-500">Major town on the route</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Gingee Fort</span>
+                            <span class="text-sm text-gray-500">A historical fort and tourist attraction</span>
                         </div>
                     </div>
                 </div>
@@ -233,7 +229,7 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹2,600</td>
+                        <td class="px-6 py-4 text-center">₹2,500</td>
                         <td class="px-6 py-4 text-center">₹4,500</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
@@ -249,19 +245,16 @@
                         <td class="px-6 py-4 text-center">₹6,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Air-conditioned</li>
-                                <li>Up to 6 passengers</li>
-                                <li>Luggage capacity: 4 large bags</li>
-                                <li>Better road grip for highway driving</li>
+                                <li>Spacious and comfortable</li>
+                                <li>Seating for up to 6 passengers</li>
+                                <li>Extra legroom for the journey</li>
                             </ul>
                         </td>
                     </tr>
-                    
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Prices may vary based on peak hours, tolls, and additional stops.
-                    Taxes included.</p>
+                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
             </div>
         </div>
     </section>
