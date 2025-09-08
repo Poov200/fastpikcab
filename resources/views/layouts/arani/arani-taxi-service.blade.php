@@ -260,7 +260,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹700 - ₹1,000</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    {{-- <a href="{{ route('arani-to-tiruvannamalai') }}">Book Now</a> --}}
+                                    <a href="{{ route('arani-to-tiruvannamalai') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
@@ -293,7 +293,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹2,200 - ₹2,700</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    {{-- <a href="{{ route('arani-to-pondicherry') }}">Book Now</a> --}}
+                                    <a href="{{ route('arani-to-puducherry') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
@@ -348,7 +348,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹2,700 - ₹3,300</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    {{-- <a href="{{ route('arani-to-tirupati') }}">Book Now</a> --}}
+                                    <a href="{{ route('arani-to-tirupati') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
@@ -458,7 +458,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹4,000 - ₹4,800</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    {{-- <a href="{{ route('arani-to-karaikal') }}">Book Now</a> --}}
+                                    <a href="{{ route('arani-to-karaikal') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
@@ -491,7 +491,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹2,900 - ₹3,500</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    {{-- <a href="{{ route('arani-to-ariyalur') }}">Book Now</a> --}}
+                                    <a href="{{ route('arani-to-ariyalur') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>

@@ -36,7 +36,7 @@ class CreateMissingCityBlades extends Command
             'Villupuram', 'Virudhunagar', 'Karaikal', 'Kochi', 'Thiruvannamalai', 'Kerala'
         ];
         
-        $targetCities = ['Karaikal', 'Kochi', 'Tirupati', 'Thiruvannamalai', 'Kerala'];
+        $targetCities = ['Ariyalur'];
 
         $created = 0;
         $checked = 0;
