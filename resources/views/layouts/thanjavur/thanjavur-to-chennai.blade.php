@@ -1,31 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thanjavur to Nagapattinam Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thanjavur to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Thanjavur to Nagapattinam taxi, Thanjavur to Nagapattinam one way taxi, Thanjavur to Nagapattinam outstation cabs, Thanjavur to Nagapattinam taxi fare, Thanjavur to Nagapattinam cab fare, Thanjavur to Nagapattinam round trip taxi, Thanjavur to Nagapattinam car rental, Thanjavur to Nagapattinam cab booking">
+        content="Thanjavur to Chennai taxi, Thanjavur to Chennai one way taxi, Thanjavur to Chennai outstation cabs, Thanjavur to Chennai taxi fare, Thanjavur to Chennai cab fare, Thanjavur to Chennai round trip taxi, Thanjavur to Chennai car rental, Thanjavur to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Thanjavur to Nagapattinam Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Thanjavur to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Thanjavur to Nagapattinam. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Thanjavur to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/thanjavur-to-nagapattinam-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/thanjavur-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Thanjavur to Nagapattinam Taxi Service">
+    <meta name="twitter:title" content="Thanjavur to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Thanjavur to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Thanjavur to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/thanjavur-to-nagapattinam-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/thanjavur-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -63,10 +62,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Thanjavur to Nagapattinam Taxi Service",
-                    "description": "Reliable taxi service connecting Thanjavur to Nagapattinam with options for one-way, round-trip, and outstation travel.",
+                    "name": "Thanjavur to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Thanjavur to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Thanjavur", "Nagapattinam"],
+                    "areaServed": ["Thanjavur", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -82,8 +81,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Thanjavur to Nagapattinam Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Thanjavur to Nagapattinam. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Thanjavur to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Thanjavur to Chennai. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +94,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Thanjavur to Nagapattinam",
-                        "item": "https://www.fastpikcab.com/thanjavur-to-nagapattinam-drop-taxi"
+                        "name": "Thanjavur to Chennai",
+                        "item": "https://www.fastpikcab.com/thanjavur-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Thanjavur to Nagapattinam Taxi Service",
+                "name": "Thanjavur to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "1500",
-                    "highPrice": "3000",
+                    "lowPrice": "4500",
+                    "highPrice": "9000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +167,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thanjavur to Nagapattinam Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thanjavur to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,19 +175,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 65 km</span>
+                            <span><strong>Distance:</strong> Approximately 350 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> Around 1.5 to 2 hours, depending on traffic.</span>
+                            <span><strong>Travel Time:</strong> Around 6 to 7 hours, depending on traffic and route.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The journey typically follows the NH32 highway.</span>
+                            <span><strong>Route:</strong> The journey primarily follows NH32.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> Nagapattinam is a coastal town known for its spiritual sites like Nagore Dargah and Velankanni Church.</span>
+                            <span><strong>Note:</strong> Chennai is the capital of Tamil Nadu and a major cultural, economic, and educational hub.</span>
                         </li>
                     </ul>
                 </div>
@@ -196,8 +195,16 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Sikkal</span>
-                            <span class="text-sm text-gray-500">Known for its Murugan Temple.</span>
+                            <span>Villupuram</span>
+                            <span class="text-sm text-gray-500">A major railway junction and commercial hub.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Chengalpattu</span>
+                            <span class="text-sm text-gray-500">Known for its historical fort.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Mahabalipuram</span>
+                            <span class="text-sm text-gray-500">A UNESCO World Heritage Site with ancient temples.</span>
                         </div>
                     </div>
                 </div>
@@ -206,7 +213,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thanjavur to Nagapattinam Fare Structure</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thanjavur to Chennai Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
@@ -220,8 +227,8 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Hatchback</td>
-                        <td class="px-6 py-4 text-center">₹1,500 - ₹2,000</td>
-                        <td class="px-6 py-4 text-center">₹3,000 - ₹4,000</td>
+                        <td class="px-6 py-4 text-center">₹4,500 - ₹5,500</td>
+                        <td class="px-6 py-4 text-center">₹9,000 - ₹11,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Ideal for solo travelers or couples</li>
@@ -233,8 +240,8 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹2,000 - ₹2,500</td>
-                        <td class="px-6 py-4 text-center">₹4,000 - ₹5,000</td>
+                        <td class="px-6 py-4 text-center">₹5,500 - ₹7,000</td>
+                        <td class="px-6 py-4 text-center">₹11,000 - ₹14,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Comfortable for small families</li>
@@ -246,8 +253,8 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹2,500 - ₹3,000</td>
-                        <td class="px-6 py-4 text-center">₹5,000 - ₹6,000</td>
+                        <td class="px-6 py-4 text-center">₹7,000 - ₹9,000</td>
+                        <td class="px-6 py-4 text-center">₹14,000 - ₹18,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and ideal for groups or families</li>
@@ -272,5 +279,4 @@
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
-
 </html>
