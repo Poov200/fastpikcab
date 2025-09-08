@@ -4,28 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tiruppur to Vellore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tiruppur to Puducherry Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Tiruppur to Vellore taxi, Tiruppur to Vellore one way taxi, Tiruppur to Vellore outstation cabs, Tiruppur to Vellore taxi fare, Tiruppur to Vellore cab fare, Tiruppur to Vellore round trip taxi, Tiruppur to Vellore car rental, Tiruppur to Vellore cab booking">
+        content="Tiruppur to Puducherry taxi, Tiruppur to Puducherry one way taxi, Tiruppur to Puducherry outstation cabs, Tiruppur to Puducherry taxi fare, Tiruppur to Puducherry cab fare, Tiruppur to Puducherry round trip taxi, Tiruppur to Puducherry car rental, Tiruppur to Puducherry cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Tiruppur to Vellore Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Tiruppur to Puducherry Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Tiruppur to Vellore. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Tiruppur to Puducherry. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/tiruppur-to-vellore-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/tiruppur-to-puducherry-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Tiruppur to Vellore Taxi Service">
+    <meta name="twitter:title" content="Tiruppur to Puducherry Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Tiruppur to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Tiruppur to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/tiruppur-to-vellore-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/tiruppur-to-puducherry-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -63,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Tiruppur to Vellore Taxi Service",
-                    "description": "Reliable taxi service connecting Tiruppur to Vellore with options for one-way, round-trip, and outstation travel.",
+                    "name": "Tiruppur to Puducherry Taxi Service",
+                    "description": "Reliable taxi service connecting Tiruppur to Puducherry with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Tiruppur", "Vellore"],
+                    "areaServed": ["Tiruppur", "Puducherry"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -82,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Tiruppur to Vellore Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Tiruppur to Vellore. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Tiruppur to Puducherry Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Tiruppur to Puducherry. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Tiruppur to Vellore",
-                        "item": "https://www.fastpikcab.com/tiruppur-to-vellore-drop-taxi"
+                        "name": "Tiruppur to Puducherry",
+                        "item": "https://www.fastpikcab.com/tiruppur-to-puducherry-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Tiruppur to Vellore Taxi Service",
+                "name": "Tiruppur to Puducherry Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "5000",
-                    "highPrice": "12000",
+                    "lowPrice": "4500",
+                    "highPrice": "9500",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Vellore Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Puducherry Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,7 +176,7 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 340 km</span>
+                            <span><strong>Distance:</strong> Approximately 320 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
@@ -184,11 +184,11 @@
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via NH 44 and NH 48.</span>
+                            <span><strong>Route:</strong> The most common route is via NH 38.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> Vellore is known for its Vellore Fort and the Christian Medical College & Hospital.</span>
+                            <span><strong>Note:</strong> Puducherry, a former French colonial settlement, is known for its serene beaches and vibrant architecture.</span>
                         </li>
                     </ul>
                 </div>
@@ -196,12 +196,8 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Salem</span>
-                            <span class="text-sm text-gray-500">A major city and common rest point for a meal.</span>
-                        </div>
-                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Dharmapuri</span>
-                            <span class="text-sm text-gray-500">Known for its mango production and temples.</span>
+                            <span>Villupuram</span>
+                            <span class="text-sm text-gray-500">A major city and an important road junction.</span>
                         </div>
                     </div>
                 </div>
@@ -210,7 +206,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Vellore Fare Structure</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Puducherry Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
@@ -224,25 +220,25 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹5,000</td>
-                        <td class="px-6 py-4 text-center">₹10,000</td>
+                        <td class="px-6 py-4 text-center">₹4,500</td>
+                        <td class="px-6 py-4 text-center">₹9,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
                                 <li>Up to 4 passengers</li>
-                                <li>Ideal for small groups</li>
+                                <li>Luggage capacity: 2 medium bags</li>
                             </ul>
                         </td>
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹6,500</td>
-                        <td class="px-6 py-4 text-center">₹13,000</td>
+                        <td class="px-6 py-4 text-center">₹5,900</td>
+                        <td class="px-6 py-4 text-center">₹11,800</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
                                 <li>Seating for up to 6 passengers</li>
-                                <li>Perfect for family travel</li>
+                                <li>Extra legroom for the journey</li>
                             </ul>
                         </td>
                     </tr>
