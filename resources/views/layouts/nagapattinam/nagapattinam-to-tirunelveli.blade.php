@@ -2,7 +2,6 @@ To create a web page for a "Nagapattinam to Tirunelveli" taxi service, I've adap
 
 Here's the HTML code, which you can save as an `.html` file. Remember that this code uses Tailwind CSS via a CDN and includes placeholders for your specific layouts (`layouts.bookingpage` and `layouts.footer`). You will need to replace these with your actual header and footer code.
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 
