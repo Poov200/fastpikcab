@@ -245,18 +245,7 @@
                             </ul>
                         </td>
                     </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Tempo Traveller (12 seater)</td>
-                        <td class="px-6 py-4 text-center">₹10,353 onwards</td>
-                        <td class="px-6 py-4 text-center">₹20,706 onwards</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Ideal for larger groups</li>
-                                <li>Comfortable seating for 12+ passengers</li>
-                                <li>Ample luggage space</li>
-                            </ul>
-                        </td>
-                    </tr>
+                    
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">

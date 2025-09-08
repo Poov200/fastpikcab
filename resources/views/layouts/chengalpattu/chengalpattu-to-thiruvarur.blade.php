@@ -251,31 +251,7 @@
                             </ul>
                         </td>
                     </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Premium Sedan</td>
-                        <td class="px-6 py-4 text-center">₹6,800</td>
-                        <td class="px-6 py-4 text-center">₹11,800</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>High-end luxury sedan</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Luxury amenities</li>
-                                <li>Professional chauffeur service</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Tempo Traveller</td>
-                        <td class="px-6 py-4 text-center">₹8,000</td>
-                        <td class="px-6 py-4 text-center">₹14,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Ideal for large groups</li>
-                                <li>Seating for 9 to 12 passengers</li>
-                                <li>High luggage capacity</li>
-                            </ul>
-                        </td>
-                    </tr>
+                    
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
