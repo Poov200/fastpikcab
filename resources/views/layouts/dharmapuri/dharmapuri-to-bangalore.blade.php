@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
@@ -16,117 +15,118 @@
     <meta property="og:title" content="Fastpikcab - Dharmapuri to Bangalore Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Dharmapuri to Bangalore. Book online for one-way, round-trip, or outstation travel.">
-    <meta property="og:image" content="[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)">
-    <meta property="og:url" content="[https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi](https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi)">
+    <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
+    <meta property="og:url" content="https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Dharmapuri to Bangalore Taxi Service">
     <meta name="twitter:description"
         content="Book a reliable Dharmapuri to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
-    <meta name="twitter:image" content="[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)">
+    <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="[https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi](https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi)">
+    <link rel="canonical" href="https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi">
 
     <script type="application/ld+json">
-        {
-            "@context": "[https://schema.org](https://schema.org)",
-            "@type": "LocalBusiness",
-            "name": "Fastpikcab",
-            "url": "[https://www.fastpikcab.com/](https://www.fastpikcab.com/)",
-            "logo": "[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)",
-            "image": "[https://www.fastpikcab.com/img/heroimg.png](https://www.fastpikcab.com/img/heroimg.png)",
-            "telephone": "+91-8825694157",
-            "priceRange": "$$",
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "Throw Pathi Amman Kovil Street",
-                "addressLocality": "Kalanjukuppam",
-                "addressRegion": "Tamil Nadu",
-                "postalCode": "607104",
-                "addressCountry": "IN"
-            },
-            "openingHoursSpecification": {
-                "@type": "OpeningHoursSpecification",
-                "dayOfWeek": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "opens": "00:00",
-                "closes": "23:59"
-            },
-            "makesOffer": {
-                "@type": "Offer",
-                "itemOffered": {
-                    "@type": "Service",
-                    "name": "Dharmapuri to Bangalore Taxi Service",
-                    "description": "Reliable taxi service connecting Dharmapuri to Bangalore with options for one-way, round-trip, and outstation travel.",
-                    "serviceType": "TaxiService",
-                    "areaServed": ["Dharmapuri", "Bangalore"],
-                    "provider": {
-                        "@type": "Organization",
-                        "name": "Fastpikcab"
-                    }
-                },
-                "priceCurrency": "INR",
-                "priceValidUntil": "2024-12-31"
-            }
-        }
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Fastpikcab",
+      "url": "https://www.fastpikcab.com/",
+      "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+      "image": "https://www.fastpikcab.com/img/heroimg.png",
+      "telephone": "+91-8825694157",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Throw Pathi Amman Kovil Street",
+        "addressLocality": "Kalanjukuppam",
+        "addressRegion": "Tamil Nadu",
+        "postalCode": "607104",
+        "addressCountry": "IN"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Dharmapuri to Bangalore Taxi Service",
+          "description": "Reliable taxi service connecting Dharmapuri to Bangalore with options for one-way, round-trip, and outstation travel.",
+          "serviceType": "TaxiService",
+          "areaServed": ["Dharmapuri", "Bangalore"],
+          "provider": {
+            "@type": "Organization",
+            "name": "Fastpikcab"
+          }
+        },
+        "priceCurrency": "INR",
+        "priceValidUntil": "2026-12-31"
+      }
+    }
     </script>
 
     <script type="application/ld+json">
-        {
-            "@context": "[https://schema.org](https://schema.org)",
-            "@type": "WebPage",
-            "name": "Dharmapuri to Bangalore Taxi Service | Fastpikcab",
-            "description": "Book affordable and reliable taxis from Dharmapuri to Bangalore. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
-            "breadcrumb": {
-                "@type": "BreadcrumbList",
-                "itemListElement": [{
-                        "@type": "ListItem",
-                        "position": 1,
-                        "name": "Home",
-                        "item": "[https://www.fastpikcab.com/](https://www.fastpikcab.com/)"
-                    },
-                    {
-                        "@type": "ListItem",
-                        "position": 2,
-                        "name": "Dharmapuri to Bangalore",
-                        "item": "[https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi](https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi)"
-                    }
-                ]
-            },
-            "mainEntityOfPage": {
-                "@type": "Product",
-                "name": "Dharmapuri to Bangalore Taxi Service",
-                "offers": {
-                    "@type": "AggregateOffer",
-                    "priceCurrency": "INR",
-                    "lowPrice": "2500",
-                    "highPrice": "6000",
-                    "offerCount": "Multiple price points based on vehicle type"
-                }
-            }
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Dharmapuri to Bangalore Taxi Service | Fastpikcab",
+      "description": "Book affordable and reliable taxis from Dharmapuri to Bangalore. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.fastpikcab.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Dharmapuri to Bangalore",
+            "item": "https://www.fastpikcab.com/dharmapuri-to-bangalore-drop-taxi"
+          }
+        ]
+      },
+      "mainEntityOfPage": {
+        "@type": "Product",
+        "name": "Dharmapuri to Bangalore Taxi Service",
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "2800",
+          "highPrice": "5500",
+          "offerCount": "Multiple price points based on vehicle type"
         }
+      }
+    }
     </script>
 
-    <link rel="icon" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)" />
-    <link rel="apple-touch-icon" sizes="180x180" href="[https://fastpikcab.com/img/FastPik%20Logo.png](https://fastpikcab.com/img/FastPik%20Logo.png)">
+    <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik%20Logo.png">
 
-    <link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-    <link href="[https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap](https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap)"
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
-    <script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
-    <script src="[https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js](https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js)"></script>
-    <link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
         body {
@@ -177,19 +177,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 145 km</span>
+                            <span><strong>Distance:</strong> Approximately 140 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 3 - 3.5 hours depending on traffic</span>
+                            <span><strong>Travel Time:</strong> 2.5-3.5 hours depending on traffic</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via Krishnagiri on NH44.</span>
+                            <span><strong>Route:</strong> Dharmapuri → Hosur → Bangalore via NH44</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> This is a short-to-medium distance route.</span>
+                            <span><strong>Note:</strong> This is a major national highway route with smooth connectivity.</span>
                         </li>
                     </ul>
                 </div>
@@ -198,29 +198,38 @@
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>Hosur</span>
-                            <span class="text-sm text-gray-500">A major industrial city just before Bangalore.</span>
+                            <span class="text-sm text-gray-500">Major industrial town on the border</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Krishnagiri</span>
+                            <span class="text-sm text-gray-500">Famous for its fort and mangoes</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Shoolagiri</span>
+                            <span class="text-sm text-gray-500">Known for various roadside restaurants and coffee shops</span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Bangalore Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>
                         <th class="px-6 py-4 text-left">Vehicle Type</th>
-                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                        <th class="px-6 py-4 text-center">One-Way Fare</th>
+                        <th class="px-6 py-4 text-center">Round-Trip Fare</th>
                         <th class="px-6 py-4 text-center">Features</th>
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹2,500</td>
+                        <td class="px-6 py-4 text-center">₹2,800</td>
                         <td class="px-6 py-4 text-center">₹5,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
@@ -232,8 +241,8 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹3,000</td>
-                        <td class="px-6 py-4 text-center">₹6,000</td>
+                        <td class="px-6 py-4 text-center">₹3,500</td>
+                        <td class="px-6 py-4 text-center">₹6,500</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
@@ -254,7 +263,7 @@
 
     <script src="{{ asset('js/app.js') }}"></script>
     <script
-        src="[https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap](https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap)"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
 
