@@ -4502,6 +4502,26 @@ Route::get('/thanjavur-to-tirunelveli-drop-taxi', function () {
     return view('layouts.thanjavur.thanjavur-to-tirunelveli');
 })->name('thanjavur-to-tirunelveli');
 
+Route::get('/thanjavur-to-kochi-drop-taxi', function () {
+    return view('layouts.thanjavur.thanjavur-to-kochi');
+})->name('thanjavur-to-kochi');
+
+Route::get('/thanjavur-to-karaikal-drop-taxi', function () {
+    return view('layouts.thanjavur.thanjavur-to-karaikal');
+})->name('thanjavur-to-karaikal');
+
+Route::get('/thanjavur-to-tirupati-drop-taxi', function () {
+    return view('layouts.thanjavur.thanjavur-to-tirupati');
+})->name('thanjavur-to-tirupati');
+
+Route::get('/thanjavur-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.thanjavur.thanjavur-to-tiruvannamalai');
+})->name('thanjavur-to-tiruvannamalai');
+
+Route::get('/thanjavur-to-kerala-drop-taxi', function () {
+    return view('layouts.thanjavur.thanjavur-to-kerala');
+})->name('thanjavur-to-kerala');
+
 
 Route::get('/thiruvarur-to-villupuram-drop-taxi', function () {
     return view('layouts.thiruvarur.thiruvarur-to-villupuram');
@@ -4646,6 +4666,26 @@ Route::get('/thiruvarur-to-salem-drop-taxi', function () {
 Route::get('/thiruvarur-to-tirunelveli-drop-taxi', function () {
     return view('layouts.thiruvarur.thiruvarur-to-tirunelveli');
 })->name('thiruvarur-to-tirunelveli');
+
+Route::get('/thiruvarur-to-kochi-drop-taxi', function () {
+    return view('layouts.thiruvarur.thiruvarur-to-kochi');
+})->name('thiruvarur-to-kochi');
+
+Route::get('/thiruvarur-to-karaikal-drop-taxi', function () {
+    return view('layouts.thiruvarur.thiruvarur-to-karaikal');
+})->name('thiruvarur-to-karaikal');
+
+Route::get('/thiruvarur-to-tirupati-drop-taxi', function () {
+    return view('layouts.thiruvarur.thiruvarur-to-tirupati');
+})->name('thiruvarur-to-tirupati');
+
+Route::get('/thiruvarur-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.thiruvarur.thiruvarur-to-tiruvannamalai');
+})->name('thiruvarur-to-tiruvannamalai');
+
+Route::get('/thiruvarur-to-kerala-drop-taxi', function () {
+    return view('layouts.thiruvarur.thiruvarur-to-kerala');
+})->name('thiruvarur-to-kerala');
 
 
 
@@ -4793,6 +4833,26 @@ Route::get('/thoothukudi-to-tirunelveli-drop-taxi', function () {
     return view('layouts.thoothukudi.thoothukudi-to-tirunelveli');
 })->name('thoothukudi-to-tirunelveli');
 
+Route::get('/thoothukudi-to-kochi-drop-taxi', function () {
+    return view('layouts.thoothukudi.thoothukudi-to-kochi');
+})->name('thoothukudi-to-kochi');
+
+Route::get('/thoothukudi-to-karaikal-drop-taxi', function () {
+    return view('layouts.thoothukudi.thoothukudi-to-karaikal');
+})->name('thoothukudi-to-karaikal');
+
+Route::get('/thoothukudi-to-tirupati-drop-taxi', function () {
+    return view('layouts.thoothukudi.thoothukudi-to-tirupati');
+})->name('thoothukudi-to-tirupati');
+
+Route::get('/thoothukudi-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.thoothukudi.thoothukudi-to-tiruvannamalai');
+})->name('thoothukudi-to-tiruvannamalai');
+
+Route::get('/thoothukudi-to-kerala-drop-taxi', function () {
+    return view('layouts.thoothukudi.thoothukudi-to-kerala');
+})->name('thoothukudi-to-kerala');
+
 
 Route::get('/tirunelveli-to-villupuram-drop-taxi', function () {
     return view('layouts.tirunelveli.tirunelveli-to-villupuram');
@@ -4937,6 +4997,26 @@ Route::get('/tirunelveli-to-salem-drop-taxi', function () {
 Route::get('/tirunelveli-to-tirunelveli-drop-taxi', function () {
     return view('layouts.tirunelveli.tirunelveli-to-tirunelveli');
 })->name('tirunelveli-to-tirunelveli');
+
+Route::get('/tirunelveli-to-kochi-drop-taxi', function () {
+    return view('layouts.tirunelveli.tirunelveli-to-kochi');
+})->name('tirunelveli-to-kochi');
+
+Route::get('/tirunelveli-to-karaikal-drop-taxi', function () {
+    return view('layouts.tirunelveli.tirunelveli-to-karaikal');
+})->name('tirunelveli-to-karaikal');
+
+Route::get('/tirunelveli-to-tirupati-drop-taxi', function () {
+    return view('layouts.tirunelveli.tirunelveli-to-tirupati');
+})->name('tirunelveli-to-tirupati');
+
+Route::get('/tirunelveli-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.tirunelveli.tirunelveli-to-tiruvannamalai');
+})->name('tirunelveli-to-tiruvannamalai');
+
+Route::get('/tirunelveli-to-kerala-drop-taxi', function () {
+    return view('layouts.tirunelveli.tirunelveli-to-kerala');
+})->name('tirunelveli-to-kerala');
 
 
 
@@ -5084,6 +5164,26 @@ Route::get('/tiruppur-to-tirunelveli-drop-taxi', function () {
     return view('layouts.tiruppur.tiruppur-to-tirunelveli');
 })->name('tiruppur-to-tirunelveli');
 
+Route::get('/tiruppur-to-kochi-drop-taxi', function () {
+    return view('layouts.tiruppur.tiruppur-to-kochi');
+})->name('tiruppur-to-kochi');
+
+Route::get('/tiruppur-to-karaikal-drop-taxi', function () {
+    return view('layouts.tiruppur.tiruppur-to-karaikal');
+})->name('tiruppur-to-karaikal');
+
+Route::get('/tiruppur-to-tirupati-drop-taxi', function () {
+    return view('layouts.tiruppur.tiruppur-to-tirupati');
+})->name('tiruppur-to-tirupati');
+
+Route::get('/tiruppur-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.tiruppur.tiruppur-to-tiruvannamalai');
+})->name('tiruppur-to-tiruvannamalai');
+
+Route::get('/tiruppur-to-kerala-drop-taxi', function () {
+    return view('layouts.tiruppur.tiruppur-to-kerala');
+})->name('tiruppur-to-kerala');
+
 
 Route::get('/trichy-to-puducherry-drop-taxi', function () {
     return view('layouts.trichy.trichy-to-puducherry');
@@ -5228,6 +5328,26 @@ Route::get('/trichy-to-salem-drop-taxi', function () {
 Route::get('/trichy-to-tirunelveli-drop-taxi', function () {
     return view('layouts.trichy.trichy-to-tirunelveli');
 })->name('trichy-to-tirunelveli');
+
+Route::get('/trichy-to-kochi-drop-taxi', function () {
+    return view('layouts.trichy.trichy-to-kochi');
+})->name('trichy-to-kochi');
+
+Route::get('/trichy-to-karaikal-drop-taxi', function () {
+    return view('layouts.trichy.trichy-to-karaikal');
+})->name('trichy-to-karaikal');
+
+Route::get('/trichy-to-tirupati-drop-taxi', function () {
+    return view('layouts.trichy.trichy-to-tirupati');
+})->name('trichy-to-tirupati');
+
+Route::get('/trichy-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.trichy.trichy-to-tiruvannamalai');
+})->name('trichy-to-tiruvannamalai');
+
+Route::get('/trichy-to-kerala-drop-taxi', function () {
+    return view('layouts.trichy.trichy-to-kerala');
+})->name('trichy-to-kerala');
 
 
 
@@ -5375,6 +5495,26 @@ Route::get('/vellore-to-tirunelveli-drop-taxi', function () {
     return view('layouts.vellore.vellore-to-tirunelveli');
 })->name('vellore-to-tirunelveli');
 
+Route::get('/vellore-to-kochi-drop-taxi', function () {
+    return view('layouts.vellore.vellore-to-kochi');
+})->name('vellore-to-kochi');
+
+Route::get('/vellore-to-karaikal-drop-taxi', function () {
+    return view('layouts.vellore.vellore-to-karaikal');
+})->name('vellore-to-karaikal');
+
+Route::get('/vellore-to-tirupati-drop-taxi', function () {
+    return view('layouts.vellore.vellore-to-tirupati');
+})->name('vellore-to-tirupati');
+
+Route::get('/vellore-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.vellore.vellore-to-tiruvannamalai');
+})->name('vellore-to-tiruvannamalai');
+
+Route::get('/vellore-to-kerala-drop-taxi', function () {
+    return view('layouts.vellore.vellore-to-kerala');
+})->name('vellore-to-kerala');
+
 
 Route::get('/villupuram-to-villupuram-drop-taxi', function () {
     return view('layouts.villupuram.villupuram-to-villupuram');
@@ -5520,6 +5660,26 @@ Route::get('/villupuram-to-tirunelveli-drop-taxi', function () {
     return view('layouts.villupuram.villupuram-to-tirunelveli');
 })->name('villupuram-to-tirunelveli');
 
+Route::get('/villupuram-to-kochi-drop-taxi', function () {
+    return view('layouts.villupuram.villupuram-to-kochi');
+})->name('villupuram-to-kochi');
+
+Route::get('/villupuram-to-karaikal-drop-taxi', function () {
+    return view('layouts.villupuram.villupuram-to-karaikal');
+})->name('villupuram-to-karaikal');
+
+Route::get('/villupuram-to-tirupati-drop-taxi', function () {
+    return view('layouts.villupuram.villupuram-to-tirupati');
+})->name('villupuram-to-tirupati');
+
+Route::get('/villupuram-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.villupuram.villupuram-to-tiruvannamalai');
+})->name('villupuram-to-tiruvannamalai');
+
+Route::get('/villupuram-to-kerala-drop-taxi', function () {
+    return view('layouts.villupuram.villupuram-to-kerala');
+})->name('villupuram-to-kerala');
+
 
 Route::get('/virudhunagar-to-villupuram-drop-taxi', function () {
     return view('layouts.virudhunagar.virudhunagar-to-villupuram');
@@ -5664,6 +5824,26 @@ Route::get('/virudhunagar-to-salem-drop-taxi', function () {
 Route::get('/virudhunagar-to-tirunelveli-drop-taxi', function () {
     return view('layouts.virudhunagar.virudhunagar-to-tirunelveli');
 })->name('virudhunagar-to-tirunelveli');
+
+Route::get('/virudhunagar-to-kochi-drop-taxi', function () {
+    return view('layouts.virudhunagar.virudhunagar-to-kochi');
+})->name('virudhunagar-to-kochi');
+
+Route::get('/virudhunagar-to-karaikal-drop-taxi', function () {
+    return view('layouts.virudhunagar.virudhunagar-to-karaikal');
+})->name('virudhunagar-to-karaikal');
+
+Route::get('/virudhunagar-to-tirupati-drop-taxi', function () {
+    return view('layouts.virudhunagar.virudhunagar-to-tirupati');
+})->name('virudhunagar-to-tirupati');
+
+Route::get('/virudhunagar-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.virudhunagar.virudhunagar-to-tiruvannamalai');
+})->name('virudhunagar-to-tiruvannamalai');
+
+Route::get('/virudhunagar-to-kerala-drop-taxi', function () {
+    return view('layouts.virudhunagar.virudhunagar-to-kerala');
+})->name('virudhunagar-to-kerala');
 
 
 
@@ -5811,6 +5991,26 @@ Route::get('/puducherry-to-virudhunagar-drop-taxi', function () {
     return view('layouts.puducherry.puducherry-to-virudhunagar');
 })->name('puducherry-to-virudhunagar');
 
+Route::get('/puducherry-to-kochi-drop-taxi', function () {
+    return view('layouts.puducherry.puducherry-to-kochi');
+})->name('puducherry-to-kochi');
+
+Route::get('/puducherry-to-karaikal-drop-taxi', function () {
+    return view('layouts.puducherry.puducherry-to-karaikal');
+})->name('puducherry-to-karaikal');
+
+Route::get('/puducherry-to-tirupati-drop-taxi', function () {
+    return view('layouts.puducherry.puducherry-to-tirupati');
+})->name('puducherry-to-tirupati');
+
+Route::get('/puducherry-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.puducherry.puducherry-to-tiruvannamalai');
+})->name('puducherry-to-tiruvannamalai');
+
+Route::get('/puducherry-to-kerala-drop-taxi', function () {
+    return view('layouts.puducherry.puducherry-to-kerala');
+})->name('puducherry-to-kerala');
+
 
 
 Route::get('/arani-to-villupuram-drop-taxi', function () {
@@ -5956,6 +6156,26 @@ Route::get('/arani-to-salem-drop-taxi', function () {
 Route::get('/arani-to-tirunelveli-drop-taxi', function () {
     return view('layouts.arani.arani-to-tirunelveli');
 })->name('arani-to-tirunelveli');
+
+Route::get('/arani-to-kochi-drop-taxi', function () {
+    return view('layouts.arani.arani-to-kochi');
+})->name('arani-to-kochi');
+
+Route::get('/arani-to-karaikal-drop-taxi', function () {
+    return view('layouts.arani.arani-to-karaikal');
+})->name('arani-to-karaikal');
+
+Route::get('/arani-to-tirupati-drop-taxi', function () {
+    return view('layouts.arani.arani-to-tirupati');
+})->name('arani-to-tirupati');
+
+Route::get('/arani-to-tiruvannamalai-drop-taxi', function () {
+    return view('layouts.arani.arani-to-tiruvannamalai');
+})->name('arani-to-tiruvannamalai');
+
+Route::get('/arani-to-kerala-drop-taxi', function () {
+    return view('layouts.arani.arani-to-kerala');
+})->name('arani-to-kerala');
 
 
 
@@ -6126,3 +6346,853 @@ Route::get('/bangalore-to-thiruvannamalai-drop-taxi', function () {
 Route::get('/bangalore-to-kerala-drop-taxi', function () {
     return view('layouts.bangalore.bangalore-to-kerala');
 })->name('bangalore-to-kerala');
+
+
+
+Route::get('/karaikal-to-ariyalur-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-ariyalur');
+})->name('karaikal-to-ariyalur');
+
+Route::get('/karaikal-to-arani-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-arani');
+})->name('karaikal-to-arani');
+
+Route::get('/karaikal-to-arakkonam-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-arakkonam');
+})->name('karaikal-to-arakkonam');
+
+Route::get('/karaikal-to-karaikal-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-karaikal');
+})->name('karaikal-to-karaikal');
+
+Route::get('/karaikal-to-chengalpattu-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-chengalpattu');
+})->name('karaikal-to-chengalpattu');
+
+Route::get('/karaikal-to-chennai-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-chennai');
+})->name('karaikal-to-chennai');
+
+Route::get('/karaikal-to-coimbatore-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-coimbatore');
+})->name('karaikal-to-coimbatore');
+
+Route::get('/karaikal-to-cuddalore-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-cuddalore');
+})->name('karaikal-to-cuddalore');
+
+Route::get('/karaikal-to-dharmapuri-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-dharmapuri');
+})->name('karaikal-to-dharmapuri');
+
+Route::get('/karaikal-to-dindigul-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-dindigul');
+})->name('karaikal-to-dindigul');
+
+Route::get('/karaikal-to-erode-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-erode');
+})->name('karaikal-to-erode');
+
+Route::get('/karaikal-to-hosur-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-hosur');
+})->name('karaikal-to-hosur');
+
+Route::get('/karaikal-to-kanchipuram-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-kanchipuram');
+})->name('karaikal-to-kanchipuram');
+
+Route::get('/karaikal-to-karur-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-karur');
+})->name('karaikal-to-karur');
+
+Route::get('/karaikal-to-krishnagiri-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-krishnagiri');
+})->name('karaikal-to-krishnagiri');
+
+Route::get('/karaikal-to-madurai-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-madurai');
+})->name('karaikal-to-madurai');
+
+Route::get('/karaikal-to-mayiladuthurai-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-mayiladuthurai');
+})->name('karaikal-to-mayiladuthurai');
+
+Route::get('/karaikal-to-nagapattinam-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-nagapattinam');
+})->name('karaikal-to-nagapattinam');
+
+Route::get('/karaikal-to-nagercoil-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-nagercoil');
+})->name('karaikal-to-nagercoil');
+
+Route::get('/karaikal-to-namakkal-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-namakkal');
+})->name('karaikal-to-namakkal');
+
+Route::get('/karaikal-to-perambalur-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-perambalur');
+})->name('karaikal-to-perambalur');
+
+Route::get('/karaikal-to-puducherry-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-puducherry');
+})->name('karaikal-to-puducherry');
+
+Route::get('/karaikal-to-pudukkottai-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-pudukkottai');
+})->name('karaikal-to-pudukkottai');
+
+Route::get('/karaikal-to-ramanathapuram-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-ramanathapuram');
+})->name('karaikal-to-ramanathapuram');
+
+Route::get('/karaikal-to-ranipet-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-ranipet');
+})->name('karaikal-to-ranipet');
+
+Route::get('/karaikal-to-salem-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-salem');
+})->name('karaikal-to-salem');
+
+Route::get('/karaikal-to-sivakasi-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-sivakasi');
+})->name('karaikal-to-sivakasi');
+
+Route::get('/karaikal-to-tenkasi-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-tenkasi');
+})->name('karaikal-to-tenkasi');
+
+Route::get('/karaikal-to-thanjavur-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-thanjavur');
+})->name('karaikal-to-thanjavur');
+
+Route::get('/karaikal-to-thiruvarur-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-thiruvarur');
+})->name('karaikal-to-thiruvarur');
+
+Route::get('/karaikal-to-thoothukudi-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-thoothukudi');
+})->name('karaikal-to-thoothukudi');
+
+Route::get('/karaikal-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-tirunelveli');
+})->name('karaikal-to-tirunelveli');
+
+Route::get('/karaikal-to-tiruppur-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-tiruppur');
+})->name('karaikal-to-tiruppur');
+
+Route::get('/karaikal-to-trichy-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-trichy');
+})->name('karaikal-to-trichy');
+
+Route::get('/karaikal-to-vellore-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-vellore');
+})->name('karaikal-to-vellore');
+
+Route::get('/karaikal-to-villupuram-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-villupuram');
+})->name('karaikal-to-villupuram');
+
+Route::get('/karaikal-to-virudhunagar-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-virudhunagar');
+})->name('karaikal-to-virudhunagar');
+
+Route::get('/karaikal-to-karaikal-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-karaikal');
+})->name('karaikal-to-karaikal');
+
+Route::get('/karaikal-to-kochi-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-kochi');
+})->name('karaikal-to-kochi');
+
+Route::get('/karaikal-to-tirupati-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-tirupati');
+})->name('karaikal-to-tirupati');
+
+Route::get('/karaikal-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-thiruvannamalai');
+})->name('karaikal-to-thiruvannamalai');
+
+Route::get('/karaikal-to-kerala-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-kerala');
+})->name('karaikal-to-kerala');
+
+
+
+Route::get('/kerala-to-ariyalur-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-ariyalur');
+})->name('kerala-to-ariyalur');
+
+Route::get('/kerala-to-arani-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-arani');
+})->name('kerala-to-arani');
+
+Route::get('/kerala-to-arakkonam-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-arakkonam');
+})->name('kerala-to-arakkonam');
+
+Route::get('/kerala-to-kerala-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-kerala');
+})->name('kerala-to-kerala');
+
+Route::get('/kerala-to-chengalpattu-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-chengalpattu');
+})->name('kerala-to-chengalpattu');
+
+Route::get('/kerala-to-chennai-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-chennai');
+})->name('kerala-to-chennai');
+
+Route::get('/kerala-to-coimbatore-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-coimbatore');
+})->name('kerala-to-coimbatore');
+
+Route::get('/kerala-to-cuddalore-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-cuddalore');
+})->name('kerala-to-cuddalore');
+
+Route::get('/kerala-to-dharmapuri-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-dharmapuri');
+})->name('kerala-to-dharmapuri');
+
+Route::get('/kerala-to-dindigul-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-dindigul');
+})->name('kerala-to-dindigul');
+
+Route::get('/kerala-to-erode-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-erode');
+})->name('kerala-to-erode');
+
+Route::get('/kerala-to-hosur-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-hosur');
+})->name('kerala-to-hosur');
+
+Route::get('/kerala-to-kanchipuram-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-kanchipuram');
+})->name('kerala-to-kanchipuram');
+
+Route::get('/kerala-to-karur-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-karur');
+})->name('kerala-to-karur');
+
+Route::get('/kerala-to-krishnagiri-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-krishnagiri');
+})->name('kerala-to-krishnagiri');
+
+Route::get('/kerala-to-madurai-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-madurai');
+})->name('kerala-to-madurai');
+
+Route::get('/kerala-to-mayiladuthurai-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-mayiladuthurai');
+})->name('kerala-to-mayiladuthurai');
+
+Route::get('/kerala-to-nagapattinam-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-nagapattinam');
+})->name('kerala-to-nagapattinam');
+
+Route::get('/kerala-to-nagercoil-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-nagercoil');
+})->name('kerala-to-nagercoil');
+
+Route::get('/kerala-to-namakkal-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-namakkal');
+})->name('kerala-to-namakkal');
+
+Route::get('/kerala-to-perambalur-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-perambalur');
+})->name('kerala-to-perambalur');
+
+Route::get('/kerala-to-puducherry-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-puducherry');
+})->name('kerala-to-puducherry');
+
+Route::get('/kerala-to-pudukkottai-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-pudukkottai');
+})->name('kerala-to-pudukkottai');
+
+Route::get('/kerala-to-ramanathapuram-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-ramanathapuram');
+})->name('kerala-to-ramanathapuram');
+
+Route::get('/kerala-to-ranipet-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-ranipet');
+})->name('kerala-to-ranipet');
+
+Route::get('/kerala-to-salem-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-salem');
+})->name('kerala-to-salem');
+
+Route::get('/kerala-to-sivakasi-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-sivakasi');
+})->name('kerala-to-sivakasi');
+
+Route::get('/kerala-to-tenkasi-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-tenkasi');
+})->name('kerala-to-tenkasi');
+
+Route::get('/kerala-to-thanjavur-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-thanjavur');
+})->name('kerala-to-thanjavur');
+
+Route::get('/kerala-to-thiruvarur-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-thiruvarur');
+})->name('kerala-to-thiruvarur');
+
+Route::get('/kerala-to-thoothukudi-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-thoothukudi');
+})->name('kerala-to-thoothukudi');
+
+Route::get('/kerala-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-tirunelveli');
+})->name('kerala-to-tirunelveli');
+
+Route::get('/kerala-to-tiruppur-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-tiruppur');
+})->name('kerala-to-tiruppur');
+
+Route::get('/kerala-to-trichy-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-trichy');
+})->name('kerala-to-trichy');
+
+Route::get('/kerala-to-vellore-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-vellore');
+})->name('kerala-to-vellore');
+
+Route::get('/kerala-to-villupuram-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-villupuram');
+})->name('kerala-to-villupuram');
+
+Route::get('/kerala-to-virudhunagar-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-virudhunagar');
+})->name('kerala-to-virudhunagar');
+
+Route::get('/kerala-to-karaikal-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-karaikal');
+})->name('kerala-to-karaikal');
+
+Route::get('/kerala-to-kochi-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-kochi');
+})->name('kerala-to-kochi');
+
+Route::get('/kerala-to-tirupati-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-tirupati');
+})->name('kerala-to-tirupati');
+
+Route::get('/kerala-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-thiruvannamalai');
+})->name('kerala-to-thiruvannamalai');
+
+Route::get('/kerala-to-kerala-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-kerala');
+})->name('kerala-to-kerala');
+
+
+
+Route::get('/kochi-to-ariyalur-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-ariyalur');
+})->name('kochi-to-ariyalur');
+
+Route::get('/kochi-to-arani-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-arani');
+})->name('kochi-to-arani');
+
+Route::get('/kochi-to-arakkonam-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-arakkonam');
+})->name('kochi-to-arakkonam');
+
+Route::get('/kochi-to-kochi-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-kochi');
+})->name('kochi-to-kochi');
+
+Route::get('/kochi-to-chengalpattu-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-chengalpattu');
+})->name('kochi-to-chengalpattu');
+
+Route::get('/kochi-to-chennai-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-chennai');
+})->name('kochi-to-chennai');
+
+Route::get('/kochi-to-coimbatore-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-coimbatore');
+})->name('kochi-to-coimbatore');
+
+Route::get('/kochi-to-cuddalore-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-cuddalore');
+})->name('kochi-to-cuddalore');
+
+Route::get('/kochi-to-dharmapuri-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-dharmapuri');
+})->name('kochi-to-dharmapuri');
+
+Route::get('/kochi-to-dindigul-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-dindigul');
+})->name('kochi-to-dindigul');
+
+Route::get('/kochi-to-erode-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-erode');
+})->name('kochi-to-erode');
+
+Route::get('/kochi-to-hosur-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-hosur');
+})->name('kochi-to-hosur');
+
+Route::get('/kochi-to-kanchipuram-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-kanchipuram');
+})->name('kochi-to-kanchipuram');
+
+Route::get('/kochi-to-karur-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-karur');
+})->name('kochi-to-karur');
+
+Route::get('/kochi-to-krishnagiri-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-krishnagiri');
+})->name('kochi-to-krishnagiri');
+
+Route::get('/kochi-to-madurai-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-madurai');
+})->name('kochi-to-madurai');
+
+Route::get('/kochi-to-mayiladuthurai-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-mayiladuthurai');
+})->name('kochi-to-mayiladuthurai');
+
+Route::get('/kochi-to-nagapattinam-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-nagapattinam');
+})->name('kochi-to-nagapattinam');
+
+Route::get('/kochi-to-nagercoil-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-nagercoil');
+})->name('kochi-to-nagercoil');
+
+Route::get('/kochi-to-namakkal-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-namakkal');
+})->name('kochi-to-namakkal');
+
+Route::get('/kochi-to-perambalur-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-perambalur');
+})->name('kochi-to-perambalur');
+
+Route::get('/kochi-to-puducherry-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-puducherry');
+})->name('kochi-to-puducherry');
+
+Route::get('/kochi-to-pudukkottai-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-pudukkottai');
+})->name('kochi-to-pudukkottai');
+
+Route::get('/kochi-to-ramanathapuram-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-ramanathapuram');
+})->name('kochi-to-ramanathapuram');
+
+Route::get('/kochi-to-ranipet-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-ranipet');
+})->name('kochi-to-ranipet');
+
+Route::get('/kochi-to-salem-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-salem');
+})->name('kochi-to-salem');
+
+Route::get('/kochi-to-sivakasi-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-sivakasi');
+})->name('kochi-to-sivakasi');
+
+Route::get('/kochi-to-tenkasi-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-tenkasi');
+})->name('kochi-to-tenkasi');
+
+Route::get('/kochi-to-thanjavur-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-thanjavur');
+})->name('kochi-to-thanjavur');
+
+Route::get('/kochi-to-thiruvarur-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-thiruvarur');
+})->name('kochi-to-thiruvarur');
+
+Route::get('/kochi-to-thoothukudi-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-thoothukudi');
+})->name('kochi-to-thoothukudi');
+
+Route::get('/kochi-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-tirunelveli');
+})->name('kochi-to-tirunelveli');
+
+Route::get('/kochi-to-tiruppur-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-tiruppur');
+})->name('kochi-to-tiruppur');
+
+Route::get('/kochi-to-trichy-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-trichy');
+})->name('kochi-to-trichy');
+
+Route::get('/kochi-to-vellore-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-vellore');
+})->name('kochi-to-vellore');
+
+Route::get('/kochi-to-villupuram-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-villupuram');
+})->name('kochi-to-villupuram');
+
+Route::get('/kochi-to-virudhunagar-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-virudhunagar');
+})->name('kochi-to-virudhunagar');
+
+Route::get('/kochi-to-karaikal-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-karaikal');
+})->name('kochi-to-karaikal');
+
+Route::get('/kochi-to-kochi-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-kochi');
+})->name('kochi-to-kochi');
+
+Route::get('/kochi-to-tirupati-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-tirupati');
+})->name('kochi-to-tirupati');
+
+Route::get('/kochi-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-thiruvannamalai');
+})->name('kochi-to-thiruvannamalai');
+
+Route::get('/kochi-to-kerala-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-kerala');
+})->name('kochi-to-kerala');
+
+
+
+Route::get('/thiruvannamalai-to-ariyalur-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-ariyalur');
+})->name('thiruvannamalai-to-ariyalur');
+
+Route::get('/thiruvannamalai-to-arani-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-arani');
+})->name('thiruvannamalai-to-arani');
+
+Route::get('/thiruvannamalai-to-arakkonam-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-arakkonam');
+})->name('thiruvannamalai-to-arakkonam');
+
+Route::get('/thiruvannamalai-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-thiruvannamalai');
+})->name('thiruvannamalai-to-thiruvannamalai');
+
+Route::get('/thiruvannamalai-to-chengalpattu-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-chengalpattu');
+})->name('thiruvannamalai-to-chengalpattu');
+
+Route::get('/thiruvannamalai-to-chennai-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-chennai');
+})->name('thiruvannamalai-to-chennai');
+
+Route::get('/thiruvannamalai-to-coimbatore-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-coimbatore');
+})->name('thiruvannamalai-to-coimbatore');
+
+Route::get('/thiruvannamalai-to-cuddalore-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-cuddalore');
+})->name('thiruvannamalai-to-cuddalore');
+
+Route::get('/thiruvannamalai-to-dharmapuri-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-dharmapuri');
+})->name('thiruvannamalai-to-dharmapuri');
+
+Route::get('/thiruvannamalai-to-dindigul-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-dindigul');
+})->name('thiruvannamalai-to-dindigul');
+
+Route::get('/thiruvannamalai-to-erode-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-erode');
+})->name('thiruvannamalai-to-erode');
+
+Route::get('/thiruvannamalai-to-hosur-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-hosur');
+})->name('thiruvannamalai-to-hosur');
+
+Route::get('/thiruvannamalai-to-kanchipuram-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-kanchipuram');
+})->name('thiruvannamalai-to-kanchipuram');
+
+Route::get('/thiruvannamalai-to-karur-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-karur');
+})->name('thiruvannamalai-to-karur');
+
+Route::get('/thiruvannamalai-to-krishnagiri-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-krishnagiri');
+})->name('thiruvannamalai-to-krishnagiri');
+
+Route::get('/thiruvannamalai-to-madurai-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-madurai');
+})->name('thiruvannamalai-to-madurai');
+
+Route::get('/thiruvannamalai-to-mayiladuthurai-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-mayiladuthurai');
+})->name('thiruvannamalai-to-mayiladuthurai');
+
+Route::get('/thiruvannamalai-to-nagapattinam-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-nagapattinam');
+})->name('thiruvannamalai-to-nagapattinam');
+
+Route::get('/thiruvannamalai-to-nagercoil-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-nagercoil');
+})->name('thiruvannamalai-to-nagercoil');
+
+Route::get('/thiruvannamalai-to-namakkal-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-namakkal');
+})->name('thiruvannamalai-to-namakkal');
+
+Route::get('/thiruvannamalai-to-perambalur-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-perambalur');
+})->name('thiruvannamalai-to-perambalur');
+
+Route::get('/thiruvannamalai-to-puducherry-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-puducherry');
+})->name('thiruvannamalai-to-puducherry');
+
+Route::get('/thiruvannamalai-to-pudukkottai-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-pudukkottai');
+})->name('thiruvannamalai-to-pudukkottai');
+
+Route::get('/thiruvannamalai-to-ramanathapuram-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-ramanathapuram');
+})->name('thiruvannamalai-to-ramanathapuram');
+
+Route::get('/thiruvannamalai-to-ranipet-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-ranipet');
+})->name('thiruvannamalai-to-ranipet');
+
+Route::get('/thiruvannamalai-to-salem-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-salem');
+})->name('thiruvannamalai-to-salem');
+
+Route::get('/thiruvannamalai-to-sivakasi-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-sivakasi');
+})->name('thiruvannamalai-to-sivakasi');
+
+Route::get('/thiruvannamalai-to-tenkasi-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-tenkasi');
+})->name('thiruvannamalai-to-tenkasi');
+
+Route::get('/thiruvannamalai-to-thanjavur-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-thanjavur');
+})->name('thiruvannamalai-to-thanjavur');
+
+Route::get('/thiruvannamalai-to-thiruvarur-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-thiruvarur');
+})->name('thiruvannamalai-to-thiruvarur');
+
+Route::get('/thiruvannamalai-to-thoothukudi-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-thoothukudi');
+})->name('thiruvannamalai-to-thoothukudi');
+
+Route::get('/thiruvannamalai-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-tirunelveli');
+})->name('thiruvannamalai-to-tirunelveli');
+
+Route::get('/thiruvannamalai-to-tiruppur-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-tiruppur');
+})->name('thiruvannamalai-to-tiruppur');
+
+Route::get('/thiruvannamalai-to-trichy-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-trichy');
+})->name('thiruvannamalai-to-trichy');
+
+Route::get('/thiruvannamalai-to-vellore-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-vellore');
+})->name('thiruvannamalai-to-vellore');
+
+Route::get('/thiruvannamalai-to-villupuram-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-villupuram');
+})->name('thiruvannamalai-to-villupuram');
+
+Route::get('/thiruvannamalai-to-virudhunagar-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-virudhunagar');
+})->name('thiruvannamalai-to-virudhunagar');
+
+Route::get('/thiruvannamalai-to-karaikal-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-karaikal');
+})->name('thiruvannamalai-to-karaikal');
+
+Route::get('/thiruvannamalai-to-kochi-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-kochi');
+})->name('thiruvannamalai-to-kochi');
+
+Route::get('/thiruvannamalai-to-tirupati-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-tirupati');
+})->name('thiruvannamalai-to-tirupati');
+
+Route::get('/thiruvannamalai-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-thiruvannamalai');
+})->name('thiruvannamalai-to-thiruvannamalai');
+
+Route::get('/thiruvannamalai-to-kerala-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-kerala');
+})->name('thiruvannamalai-to-kerala');
+
+
+
+Route::get('/tirupati-to-ariyalur-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-ariyalur');
+})->name('tirupati-to-ariyalur');
+
+Route::get('/tirupati-to-arani-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-arani');
+})->name('tirupati-to-arani');
+
+Route::get('/tirupati-to-arakkonam-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-arakkonam');
+})->name('tirupati-to-arakkonam');
+
+Route::get('/tirupati-to-tirupati-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-tirupati');
+})->name('tirupati-to-tirupati');
+
+Route::get('/tirupati-to-chengalpattu-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-chengalpattu');
+})->name('tirupati-to-chengalpattu');
+
+Route::get('/tirupati-to-chennai-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-chennai');
+})->name('tirupati-to-chennai');
+
+Route::get('/tirupati-to-coimbatore-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-coimbatore');
+})->name('tirupati-to-coimbatore');
+
+Route::get('/tirupati-to-cuddalore-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-cuddalore');
+})->name('tirupati-to-cuddalore');
+
+Route::get('/tirupati-to-dharmapuri-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-dharmapuri');
+})->name('tirupati-to-dharmapuri');
+
+Route::get('/tirupati-to-dindigul-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-dindigul');
+})->name('tirupati-to-dindigul');
+
+Route::get('/tirupati-to-erode-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-erode');
+})->name('tirupati-to-erode');
+
+Route::get('/tirupati-to-hosur-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-hosur');
+})->name('tirupati-to-hosur');
+
+Route::get('/tirupati-to-kanchipuram-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-kanchipuram');
+})->name('tirupati-to-kanchipuram');
+
+Route::get('/tirupati-to-karur-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-karur');
+})->name('tirupati-to-karur');
+
+Route::get('/tirupati-to-krishnagiri-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-krishnagiri');
+})->name('tirupati-to-krishnagiri');
+
+Route::get('/tirupati-to-madurai-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-madurai');
+})->name('tirupati-to-madurai');
+
+Route::get('/tirupati-to-mayiladuthurai-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-mayiladuthurai');
+})->name('tirupati-to-mayiladuthurai');
+
+Route::get('/tirupati-to-nagapattinam-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-nagapattinam');
+})->name('tirupati-to-nagapattinam');
+
+Route::get('/tirupati-to-nagercoil-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-nagercoil');
+})->name('tirupati-to-nagercoil');
+
+Route::get('/tirupati-to-namakkal-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-namakkal');
+})->name('tirupati-to-namakkal');
+
+Route::get('/tirupati-to-perambalur-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-perambalur');
+})->name('tirupati-to-perambalur');
+
+Route::get('/tirupati-to-puducherry-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-puducherry');
+})->name('tirupati-to-puducherry');
+
+Route::get('/tirupati-to-pudukkottai-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-pudukkottai');
+})->name('tirupati-to-pudukkottai');
+
+Route::get('/tirupati-to-ramanathapuram-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-ramanathapuram');
+})->name('tirupati-to-ramanathapuram');
+
+Route::get('/tirupati-to-ranipet-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-ranipet');
+})->name('tirupati-to-ranipet');
+
+Route::get('/tirupati-to-salem-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-salem');
+})->name('tirupati-to-salem');
+
+Route::get('/tirupati-to-sivakasi-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-sivakasi');
+})->name('tirupati-to-sivakasi');
+
+Route::get('/tirupati-to-tenkasi-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-tenkasi');
+})->name('tirupati-to-tenkasi');
+
+Route::get('/tirupati-to-thanjavur-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-thanjavur');
+})->name('tirupati-to-thanjavur');
+
+Route::get('/tirupati-to-thiruvarur-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-thiruvarur');
+})->name('tirupati-to-thiruvarur');
+
+Route::get('/tirupati-to-thoothukudi-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-thoothukudi');
+})->name('tirupati-to-thoothukudi');
+
+Route::get('/tirupati-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-tirunelveli');
+})->name('tirupati-to-tirunelveli');
+
+Route::get('/tirupati-to-tiruppur-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-tiruppur');
+})->name('tirupati-to-tiruppur');
+
+Route::get('/tirupati-to-trichy-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-trichy');
+})->name('tirupati-to-trichy');
+
+Route::get('/tirupati-to-vellore-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-vellore');
+})->name('tirupati-to-vellore');
+
+Route::get('/tirupati-to-villupuram-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-villupuram');
+})->name('tirupati-to-villupuram');
+
+Route::get('/tirupati-to-virudhunagar-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-virudhunagar');
+})->name('tirupati-to-virudhunagar');
+
+Route::get('/tirupati-to-karaikal-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-karaikal');
+})->name('tirupati-to-karaikal');
+
+Route::get('/tirupati-to-kochi-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-kochi');
+})->name('tirupati-to-kochi');
+
+Route::get('/tirupati-to-tirupati-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-tirupati');
+})->name('tirupati-to-tirupati');
+
+Route::get('/tirupati-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-thiruvannamalai');
+})->name('tirupati-to-thiruvannamalai');
+
+Route::get('/tirupati-to-kerala-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-kerala');
+})->name('tirupati-to-kerala');
