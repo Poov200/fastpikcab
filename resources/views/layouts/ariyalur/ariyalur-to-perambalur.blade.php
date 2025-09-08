@@ -308,45 +308,12 @@
         </div>
     </section>
 
-    <footer class="bg-gray-800 text-white py-8" id="contact">
-        <div class="container mx-auto px-4 md:px-12">
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
-                <div>
-                    <h4 class="text-xl font-bold mb-4">Fastpik Cab</h4>
-                    <p class="text-sm text-gray-400">Your trusted partner for safe and reliable outstation travel.</p>
-                </div>
-                <div>
-                    <h4 class="text-xl font-bold mb-4">Quick Links</h4>
-                    <ul class="space-y-2 text-sm">
-                        <li><a href="/" class="hover:text-blue-400">Home</a></li>
-                        <li><a href="#services" class="hover:text-blue-400">Services</a></li>
-                        <li><a href="#about" class="hover:text-blue-400">About Us</a></li>
-                        <li><a href="#contact" class="hover:text-blue-400">Contact Us</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h4 class="text-xl font-bold mb-4">Contact Us</h4>
-                    <p class="text-sm text-gray-400">
-                        <i class="fas fa-phone mr-2"></i> +91-8825694157
-                    </p>
-                    <p class="text-sm text-gray-400">
-                        <i class="fas fa-envelope mr-2"></i> info@fastpikcab.com
-                    </p>
-                    <div class="flex space-x-4 mt-4 justify-center md:justify-start">
-                        <a href="#" class="text-gray-400 hover:text-blue-400"><i
-                                class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="text-gray-400 hover:text-blue-400"><i
-                                class="fab fa-twitter"></i></a>
-                        <a href="#" class="text-gray-400 hover:text-blue-400"><i
-                                class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="border-t border-gray-700 mt-8 pt-6 text-center text-sm text-gray-500">
-                <p>&copy; 2025 Fastpik Cab. All Rights Reserved.</p>
-            </div>
-        </div>
-    </footer>
+@include('layouts.footer')
+
+    <script src="{{ asset('js/app.js') }}"></script>
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
+        async defer></script>
 
 </body>
 
