@@ -1,31 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Karaikal to Puducherry Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Sivakasi to Puducherry Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Karaikal to Puducherry taxi, Karaikal to Puducherry one way taxi, Karaikal to Puducherry outstation cabs, Karaikal to Puducherry taxi fare, Karaikal to Puducherry cab fare, Karaikal to Puducherry round trip taxi, Karaikal to Puducherry car rental, Karaikal to Puducherry cab booking">
+        content="Sivakasi to Puducherry taxi, Sivakasi to Puducherry one way taxi, Sivakasi to Puducherry outstation cabs, Sivakasi to Puducherry taxi fare, Sivakasi to Puducherry cab fare, Sivakasi to Puducherry round trip taxi, Sivakasi to Puducherry car rental, Sivakasi to Puducherry cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Karaikal to Puducherry Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Sivakasi to Puducherry Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Karaikal to Puducherry. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Sivakasi to Puducherry. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/karaikal-to-puducherry-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/sivakasi-to-puducherry-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Karaikal to Puducherry Taxi Service">
+    <meta name="twitter:title" content="Sivakasi to Puducherry Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Karaikal to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Sivakasi to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/karaikal-to-puducherry-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/sivakasi-to-puducherry-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -63,17 +62,17 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Karaikal to Puducherry Taxi Service",
-                    "description": "Reliable taxi service connecting Karaikal to Puducherry with options for one-way, round-trip, and outstation travel.",
+                    "name": "Sivakasi to Puducherry Taxi Service",
+                    "description": "Reliable taxi service connecting Sivakasi to Puducherry with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Karaikal", "Puducherry"],
+                    "areaServed": ["Sivakasi", "Puducherry"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
                     }
                 },
                 "priceCurrency": "INR",
-                "priceValidUntil": "2025-12-31"
+                "priceValidUntil": "2024-12-31"
             }
         }
     </script>
@@ -82,8 +81,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Karaikal to Puducherry Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Karaikal to Puducherry. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Sivakasi to Puducherry Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Sivakasi to Puducherry. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +94,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Karaikal to Puducherry",
-                        "item": "https://www.fastpikcab.com/karaikal-to-puducherry-drop-taxi"
+                        "name": "Sivakasi to Puducherry",
+                        "item": "https://www.fastpikcab.com/sivakasi-to-puducherry-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Karaikal to Puducherry Taxi Service",
+                "name": "Sivakasi to Puducherry Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "2835",
-                    "highPrice": "4362",
+                    "lowPrice": "6000",
+                    "highPrice": "7500",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +167,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Karaikal to Puducherry Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Sivakasi to Puducherry Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,32 +175,32 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 145 - 170 km</span>
+                            <span><strong>Distance:</strong> Approximately 360 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 3 - 4 hours depending on traffic and breaks</span>
+                            <span><strong>Travel Time:</strong> 7 to 8 hours depending on traffic and route taken</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via East Coast Road (ECR).</span>
+                            <span><strong>Route:</strong> The journey primarily follows NH38 and NH32.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> Puducherry is a Union Territory with a unique blend of French and Tamil cultures, famous for its French Quarter and colonial buildings.</span>
+                            <span><strong>Note:</strong> Puducherry is known for its colonial French architecture and serene beaches.</span>
                         </li>
                     </ul>
                 </div>
                 <div>
-                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
+                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Tharangambadi (Tranquebar)</span>
-                            <span class="text-sm text-gray-500">A historical Danish town with a scenic fort and beach.</span>
+                            <span>Madurai</span>
+                            <span class="text-sm text-gray-500">A major city and cultural hub.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Chidambaram</span>
-                            <span class="text-sm text-gray-500">Known for the Thillai Nataraja Temple, a significant pilgrimage site.</span>
+                            <span>Villupuram</span>
+                            <span class="text-sm text-gray-500">A major road and rail junction.</span>
                         </div>
                     </div>
                 </div>
@@ -210,7 +209,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Karaikal to Puducherry Fare Structure</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Sivakasi to Puducherry Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
@@ -224,8 +223,8 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹2,835</td>
-                        <td class="px-6 py-4 text-center">₹4,300</td>
+                        <td class="px-6 py-4 text-center">₹6,000 - ₹7,000</td>
+                        <td class="px-6 py-4 text-center">₹12,000 - ₹14,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
@@ -236,8 +235,8 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹4,362</td>
-                        <td class="px-6 py-4 text-center">₹5,500</td>
+                        <td class="px-6 py-4 text-center">₹7,500 - ₹9,000</td>
+                        <td class="px-6 py-4 text-center">₹15,000 - ₹18,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
@@ -249,7 +248,7 @@
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
+                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops. Prices are indicative and subject to change.</p>
             </div>
         </div>
     </section>
@@ -261,5 +260,4 @@
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
-
 </html>
