@@ -4,28 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thoothukudi to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thoothukudi to Puducherry Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Thoothukudi to Perambalur taxi, Thoothukudi to Perambalur one way taxi, Thoothukudi to Perambalur outstation cabs, Thoothukudi to Perambalur taxi fare, Thoothukudi to Perambalur cab fare, Thoothukudi to Perambalur round trip taxi, Thoothukudi to Perambalur car rental, Thoothukudi to Perambalur cab booking">
+        content="Thoothukudi to Puducherry taxi, Thoothukudi to Puducherry one way taxi, Thoothukudi to Puducherry outstation cabs, Thoothukudi to Puducherry taxi fare, Thoothukudi to Puducherry cab fare, Thoothukudi to Puducherry round trip taxi, Thoothukudi to Puducherry car rental, Thoothukudi to Puducherry cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Thoothukudi to Perambalur Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Thoothukudi to Puducherry Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Thoothukudi to Perambalur. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Thoothukudi to Puducherry. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/thoothukudi-to-perambalur-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/thoothukudi-to-puducherry-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Thoothukudi to Perambalur Taxi Service">
+    <meta name="twitter:title" content="Thoothukudi to Puducherry Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Thoothukudi to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Thoothukudi to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/thoothukudi-to-perambalur-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/thoothukudi-to-puducherry-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -36,7 +36,7 @@
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
             "telephone": "+91-8825694157",
-            "priceRange": "$$",
+            "priceRange": "$$$",
             "address": {
                 "@type": "PostalAddress",
                 "streetAddress": "Throw Pathi Amman Kovil Street",
@@ -63,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Thoothukudi to Perambalur Taxi Service",
-                    "description": "Reliable taxi service connecting Thoothukudi to Perambalur with options for one-way, round-trip, and outstation travel.",
+                    "name": "Thoothukudi to Puducherry Taxi Service",
+                    "description": "Reliable taxi service connecting Thoothukudi to Puducherry with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Thoothukudi", "Perambalur"],
+                    "areaServed": ["Thoothukudi", "Puducherry"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -82,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Thoothukudi to Perambalur Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Thoothukudi to Perambalur. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Thoothukudi to Puducherry Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Thoothukudi to Puducherry. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Thoothukudi to Perambalur",
-                        "item": "https://www.fastpikcab.com/thoothukudi-to-perambalur-drop-taxi"
+                        "name": "Thoothukudi to Puducherry",
+                        "item": "https://www.fastpikcab.com/thoothukudi-to-puducherry-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Thoothukudi to Perambalur Taxi Service",
+                "name": "Thoothukudi to Puducherry Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "3900",
-                    "highPrice": "8000",
+                    "lowPrice": "8000",
+                    "highPrice": "16000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thoothukudi to Perambalur Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thoothukudi to Puducherry Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,19 +176,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 280 km</span>
+                            <span><strong>Distance:</strong> Approximately 450-470 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 5 - 6 hours depending on traffic and breaks</span>
+                            <span><strong>Travel Time:</strong> 8-9 hours depending on traffic and breaks</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via NH 38 and NH 45.</span>
+                            <span><strong>Route:</strong> The most common route is via NH 38 and NH 32.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> Perambalur is known for its agricultural landscape and rich fossil deposits.</span>
+                            <span><strong>Note:</strong> Puducherry is a popular tourist destination known for its French colonial architecture and beaches.</span>
                         </li>
                     </ul>
                 </div>
@@ -200,8 +200,8 @@
                             <span class="text-sm text-gray-500">Famous for the Meenakshi Amman Temple.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Trichy (Tiruchirappalli)</span>
-                            <span class="text-sm text-gray-500">Known for the Rockfort Temple.</span>
+                            <span>Tiruchirappalli (Trichy)</span>
+                            <span class="text-sm text-gray-500">Known for the Rockfort Temple and major transport hub.</span>
                         </div>
                     </div>
                 </div>
@@ -210,7 +210,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thoothukudi to Perambalur Fare Structure</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thoothukudi to Puducherry Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
@@ -224,8 +224,8 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹3,900</td>
-                        <td class="px-6 py-4 text-center">₹7,800</td>
+                        <td class="px-6 py-4 text-center">₹8,000</td>
+                        <td class="px-6 py-4 text-center">₹16,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
@@ -236,13 +236,13 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹5,200</td>
-                        <td class="px-6 py-4 text-center">₹10,400</td>
+                        <td class="px-6 py-4 text-center">₹10,500</td>
+                        <td class="px-6 py-4 text-center">₹21,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
                                 <li>Seating for up to 6 passengers</li>
-                                <li>Extra legroom for the journey</li>
+                                <li>Extra legroom for the long journey</li>
                             </ul>
                         </td>
                     </tr>
