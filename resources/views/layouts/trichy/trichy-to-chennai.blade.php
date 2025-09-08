@@ -4,28 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Vellore to Arani Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Trichy to Chennai Taxi Service | Book Online</title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Vellore to Arani taxi, Vellore to Arani one way taxi, Vellore to Arani outstation cabs, Vellore to Arani taxi fare, Vellore to Arani cab fare, Vellore to Arani round trip taxi, Vellore to Arani car rental, Vellore to Arani cab booking">
+        content="Trichy to Chennai taxi, Trichy to Chennai one way taxi, Trichy to Chennai outstation cabs, Trichy to Chennai taxi fare, Trichy to Chennai cab fare, Trichy to Chennai round trip taxi, Trichy to Chennai car rental, Trichy to Chennai cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Vellore to Arani Taxi Service">
+    <meta property="og:title" content="Fastpik Cab - Trichy to Chennai Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Vellore to Arani. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Trichy to Chennai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
-    <meta property="og:url" content="https://www.fastpikcab.com/vellore-to-arani-drop-taxi">
+    <meta property="og:url" content="https://www.fastpikcab.com/trichy-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Vellore to Arani Taxi Service">
+    <meta name="twitter:title" content="Trichy to Chennai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Vellore to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+        content="Book a reliable Trichy to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
-    <link rel="canonical" href="https://www.fastpikcab.com/vellore-to-arani-drop-taxi">
+    <link rel="canonical" href="https://www.fastpikcab.com/trichy-to-chennai-drop-taxi">
 
     <script type="application/ld+json">
         {
@@ -63,10 +63,10 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "name": "Vellore to Arani Taxi Service",
-                    "description": "Reliable taxi service connecting Vellore to Arani with options for one-way, round-trip, and outstation travel.",
+                    "name": "Trichy to Chennai Taxi Service",
+                    "description": "Reliable taxi service connecting Trichy to Chennai with options for one-way, round-trip, and outstation travel.",
                     "serviceType": "TaxiService",
-                    "areaServed": ["Vellore", "Arani"],
+                    "areaServed": ["Tiruchirappalli", "Chennai"],
                     "provider": {
                         "@type": "Organization",
                         "name": "Fastpik Cab"
@@ -82,8 +82,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Vellore to Arani Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Vellore to Arani. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "name": "Trichy to Chennai Taxi Service | Fastpik Cab",
+            "description": "Book affordable and reliable taxis from Trichy to Chennai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -95,19 +95,19 @@
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Vellore to Arani",
-                        "item": "https://www.fastpikcab.com/vellore-to-arani-drop-taxi"
+                        "name": "Trichy to Chennai",
+                        "item": "https://www.fastpikcab.com/trichy-to-chennai-drop-taxi"
                     }
                 ]
             },
             "mainEntityOfPage": {
                 "@type": "Product",
-                "name": "Vellore to Arani Taxi Service",
+                "name": "Trichy to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "1500",
-                    "highPrice": "2500",
+                    "lowPrice": "4500",
+                    "highPrice": "9000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -168,7 +168,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Vellore to Arani Route Details</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Trichy to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
@@ -176,19 +176,19 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 65 km</span>
+                            <span><strong>Distance:</strong> Approximately 330 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 1.5 - 2 hours depending on traffic and breaks</span>
+                            <span><strong>Travel Time:</strong> 5 - 6 hours depending on traffic and breaks</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via SH 4.</span>
+                            <span><strong>Route:</strong> The most common route is via NH 38 and NH 32.</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> Arani is known for its rice production and silk weaving industries.</span>
+                            <span><strong>Note:</strong> This is a major intercity route connecting two of Tamil Nadu's key cities.</span>
                         </li>
                     </ul>
                 </div>
@@ -196,12 +196,12 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Arcot</span>
-                            <span class="text-sm text-gray-500">A historical town with a rich past.</span>
+                            <span>Villupuram</span>
+                            <span class="text-sm text-gray-500">A major town and an important transit point.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Ranipet</span>
-                            <span class="text-sm text-gray-500">An important industrial hub.</span>
+                            <span>Chengalpattu</span>
+                            <span class="text-sm text-gray-500">A town on the outskirts of Chennai, known for its historical sites.</span>
                         </div>
                     </div>
                 </div>
@@ -210,7 +210,7 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Vellore to Arani Fare Structure</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Trichy to Chennai Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
@@ -224,8 +224,8 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹1,500</td>
-                        <td class="px-6 py-4 text-center">₹3,000</td>
+                        <td class="px-6 py-4 text-center">₹4,500</td>
+                        <td class="px-6 py-4 text-center">₹9,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
@@ -236,8 +236,8 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹2,000</td>
-                        <td class="px-6 py-4 text-center">₹4,000</td>
+                        <td class="px-6 py-4 text-center">₹6,000</td>
+                        <td class="px-6 py-4 text-center">₹11,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
