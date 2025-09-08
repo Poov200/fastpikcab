@@ -173,7 +173,7 @@
     }
     </script>
 
-    <link rel="icon" href="https://fastpikcab.com/img/FastPik Logo.png" type="image/x-icon" />
+   <link rel="icon" href="https://fastpikcab.com/img/FastPik Logo.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik Logo.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik Logo.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
