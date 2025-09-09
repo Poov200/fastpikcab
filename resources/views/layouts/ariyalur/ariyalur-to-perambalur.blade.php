@@ -10,11 +10,11 @@
         content="Book a reliable Ariyalur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ariyalur to Perambalur taxi, Ariyalur to Perambalur one way taxi, Ariyalur to Perambalur outstation cabs, Ariyalur to Perambalur taxi fare, Ariyalur to Perambalur cab fare, Ariyalur to Perambalur round trip taxi, Ariyalur to Perambalur car rental, Ariyalur to Perambalur cab booking">
+        content="Ariyalur to Perambalur taxi, Ariyalur to Perambalur cab, Ariyalur to Perambalur one way taxi, Ariyalur to Perambalur outstation cabs, Ariyalur to Perambalur taxi fare, Ariyalur to Perambalur cab fare, Ariyalur to Perambalur round trip taxi, Ariyalur to Perambalur car rental, Ariyalur to Perambalur cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Ariyalur to Perambalur Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Ariyalur to Perambalur Taxi Service">
     <meta property="og:description"
-        content="Reliable and affordable taxi service from Ariyalur to Perambalur. Book online for one-way, round-trip, or outstation travel.">
+        content="Reliable and affordable taxi service from Ariyalur to Perambalur. Book online for a quick and comfortable one-way or round-trip journey.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/ariyalur-to-perambalur-drop-taxi">
     <meta property="og:type" content="website">
@@ -22,96 +22,97 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ariyalur to Perambalur Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Ariyalur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Ariyalur to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/ariyalur-to-perambalur-drop-taxi">
 
     <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
-            "url": "https://www.fastpikcab.com/",
-            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
-            "image": "https://www.fastpikcab.com/img/heroimg.png",
-            "telephone": "+91-8825694157",
-            "priceRange": "$$",
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "Throw Pathi Amman Kovil Street",
-                "addressLocality": "Kalanjukuppam",
-                "addressRegion": "Tamil Nadu",
-                "postalCode": "607104",
-                "addressCountry": "IN"
-            },
-            "openingHoursSpecification": {
-                "@type": "OpeningHoursSpecification",
-                "dayOfWeek": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
-                ],
-                "opens": "00:00",
-                "closes": "23:59"
-            },
-            "makesOffer": {
-                "@type": "Offer",
-                "itemOffered": {
-                    "@type": "Service",
-                    "name": "Ariyalur to Perambalur Taxi Service",
-                    "description": "Reliable taxi service connecting Ariyalur to Perambalur with options for one-way, round-trip, and outstation travel.",
-                    "serviceType": "TaxiService",
-                    "areaServed": ["Ariyalur", "Perambalur"],
-                    "provider": {
-                        "@type": "Organization",
-                        "name": "Fastpik Cab"
-                    }
-                },
-                "priceCurrency": "INR",
-                "priceValidUntil": "2025-12-31"
-            }
-        }
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Fastpikcab",
+      "url": "https://www.fastpikcab.com/",
+      "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+      "image": "https://www.fastpikcab.com/img/heroimg.png",
+      "telephone": "+91-8825694157",
+      "priceRange": "$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Throw Pathi Amman Kovil Street",
+        "addressLocality": "Kalanjukuppam",
+        "addressRegion": "Tamil Nadu",
+        "postalCode": "607104",
+        "addressCountry": "IN"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Ariyalur to Perambalur Taxi Service",
+          "description": "Reliable taxi service connecting Ariyalur to Perambalur with options for one-way and round-trip travel.",
+          "serviceType": "TaxiService",
+          "areaServed": ["Ariyalur", "Perambalur"],
+          "provider": {
+            "@type": "Organization",
+            "name": "Fastpikcab"
+          }
+        },
+        "priceCurrency": "INR",
+        "priceValidUntil": "2026-12-31"
+      }
+    }
     </script>
 
     <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Ariyalur to Perambalur Taxi Service | Fastpik Cab",
-            "description": "Book affordable and reliable taxis from Ariyalur to Perambalur. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
-            "breadcrumb": {
-                "@type": "BreadcrumbList",
-                "itemListElement": [{
-                        "@type": "ListItem",
-                        "position": 1,
-                        "name": "Home",
-                        "item": "https://www.fastpikcab.com/"
-                    },
-                    {
-                        "@type": "ListItem",
-                        "position": 2,
-                        "name": "Ariyalur to Perambalur",
-                        "item": "https://www.fastpikcab.com/ariyalur-to-perambalur-drop-taxi"
-                    }
-                ]
-            },
-            "mainEntityOfPage": {
-                "@type": "Product",
-                "name": "Ariyalur to Perambalur Taxi Service",
-                "offers": {
-                    "@type": "AggregateOffer",
-                    "priceCurrency": "INR",
-                    "lowPrice": "1300",
-                    "highPrice": "2100",
-                    "offerCount": "Multiple price points based on vehicle type"
-                }
-            }
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Ariyalur to Perambalur Taxi Service | Fastpikcab",
+      "description": "Book affordable and reliable taxis from Ariyalur to Perambalur. Choose from sedan and SUV vehicles for a quick and comfortable ride.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.fastpikcab.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Ariyalur to Perambalur",
+            "item": "https://www.fastpikcab.com/ariyalur-to-perambalur-drop-taxi"
+          }
+        ]
+      },
+      "mainEntityOfPage": {
+        "@type": "Product",
+        "name": "Ariyalur to Perambalur Taxi Service",
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "1200",
+          "highPrice": "3000",
+          "offerCount": "Multiple price points based on vehicle type"
         }
+      }
+    }
     </script>
 
     <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
@@ -136,75 +137,10 @@
 
 <body>
 
-    <header class="bg-white shadow-md">
-        <nav class="container mx-auto px-4 py-4 flex justify-between items-center">
-            <div class="logo">
-                <a href="/" class="text-2xl font-bold text-blue-600">Fastpik Cab</a>
-            </div>
-            <div class="hidden md:flex space-x-6">
-                <a href="#booking" class="text-gray-600 hover:text-blue-600">Book Taxi</a>
-                <a href="#services" class="text-gray-600 hover:text-blue-600">Our Services</a>
-                <a href="#about" class="text-gray-600 hover:text-blue-600">About Us</a>
-                <a href="#contact" class="text-gray-600 hover:text-blue-600">Contact</a>
-            </div>
-            <button class="md:hidden text-gray-600 hover:text-blue-600">
-                <i class="fas fa-bars text-xl"></i>
-            </button>
-        </nav>
-    </header>
-
-    <section class="bg-gray-100 py-12 px-4 md:px-12" id="booking">
-        <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-            <div>
-                <h1 class="text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight mb-4">
-                    Reliable <span class="text-blue-600">Taxi Service</span> from Ariyalur to Perambalur
-                </h1>
-                <p class="text-lg text-gray-700 mb-6">
-                    Book a cab with Fastpik Cab for a safe, comfortable, and affordable journey. We offer one-way,
-                    round-trip, and outstation taxi services with transparent pricing.
-                </p>
-                <a href="#fare-structure"
-                    class="bg-blue-600 text-white font-semibold py-3 px-8 rounded-full shadow-lg hover:bg-blue-700 transition duration-300">
-                    Check Fares
-                </a>
-            </div>
-            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
-                <h2 class="text-2xl font-bold text-center text-gray-800 mb-6">Book Your Cab Now</h2>
-                <form action="/book-now" method="POST" class="space-y-4">
-                    <div>
-                        <label for="pickup" class="block text-sm font-medium text-gray-700">Pickup Location</label>
-                        <input type="text" id="pickup" name="pickup" placeholder="Ariyalur" required
-                            class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <div>
-                        <label for="drop" class="block text-sm font-medium text-gray-700">Drop Location</label>
-                        <input type="text" id="drop" name="drop" placeholder="Perambalur" required
-                            class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <div>
-                        <label for="date" class="block text-sm font-medium text-gray-700">Travel Date</label>
-                        <input type="date" id="date" name="date" required
-                            class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <div>
-                        <label for="car-type" class="block text-sm font-medium text-gray-700">Select Car Type</label>
-                        <select id="car-type" name="car-type"
-                            class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                            <option value="sedan">Sedan (Dzire, Etios)</option>
-                            <option value="suv">SUV (Innova, Xylo)</option>
-                        </select>
-                    </div>
-                    <button type="submit"
-                        class="w-full bg-blue-600 text-white font-semibold py-3 px-4 rounded-md hover:bg-blue-700 transition duration-300">
-                        Book Your Ride
-                    </button>
-                </form>
-            </div>
-        </div>
-    </section>
+    @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -233,6 +169,63 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Ariyalur to Perambalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Ariyalur to Perambalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Ariyalur to Perambalur</strong>? Fastpikcab provides safe, clean,
+            and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
+            Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on
+            time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Ariyalur and Perambalur is approximately <strong>40 km</strong>,
+            which usually takes about <strong>1–1.5 hours</strong> by road. The most common travel route
+            is via <strong>NH38</strong>, passing through <strong>Thuraiyur</strong>.
+            Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free.
+            We follow <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Ariyalur Railway Station taxi pickups</strong> for passengers heading towards
+            Perambalur.
+            Families, business professionals, students, and group travelers can benefit from our
+            <strong>short-distance taxi packages</strong>, which are cost-effective and convenient.
+        </p>
+
+        <p class="mb-4">
+            Apart from Perambalur, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
+            Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Ariyalur to Perambalur taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Ariyalur to Perambalur cab service</strong> and enjoy
+            a safe, reliable, and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Ariyalur to Perambalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -241,80 +234,84 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 30-35 km</span>
+                            <span><strong>Distance:</strong> Approximately 30 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 40 - 50 minutes depending on traffic</span>
+                            <span><strong>Travel Time:</strong> 45-60 minutes</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via NH 136.</span>
+                            <span><strong>Route:</strong> Direct route via NH81</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Note:</strong> A quick and direct journey connecting two district headquarters.</span>
                         </li>
                     </ul>
                 </div>
                 <div>
-                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">About Perambalur</h3>
-                    <div class="space-y-3">
-                        <p class="text-gray-700">Perambalur is a small town and the headquarters of the Perambalur district in Tamil Nadu. It is known for its agricultural economy, especially with crops like maize, cashew, and paddy. The town is also known for a few historical temples and natural attractions in its vicinity.</p>
-                    </div>
+                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Quick Journey</h3>
+                    <p class="text-gray-700">
+                        The trip from Ariyalur to Perambalur is a short, straightforward drive. Our service ensures you reach your destination quickly and comfortably without the hassle of public transport. Perfect for official work, personal errands, or connecting travel.
+                    </p>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12" id="fare-structure">
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Ariyalur to Perambalur Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden">
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>
                         <th class="px-6 py-4 text-left">Vehicle Type</th>
-                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                        <th class="px-6 py-4 text-center">One-Way Fare</th>
+                        <th class="px-6 py-4 text-center">Round-Trip Fare</th>
                         <th class="px-6 py-4 text-center">Features</th>
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹1,300</td>
-                        <td class="px-6 py-4 text-center">₹2,800</td>
+                        <td class="px-6 py-4 text-center">₹1,200</td>
+                        <td class="px-6 py-4 text-center">₹2,200</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
                                 <li>Up to 4 passengers</li>
-                                <li>Luggage capacity: 2 medium bags</li>
+                                <li>Ideal for short trips</li>
                             </ul>
                         </td>
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹2,100</td>
-                        <td class="px-6 py-4 text-center">₹3,900</td>
+                        <td class="px-6 py-4 text-center">₹1,600</td>
+                        <td class="px-6 py-4 text-center">₹3,000</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
                                 <li>Seating for up to 6 passengers</li>
-                                <li>Extra legroom for the journey</li>
+                                <li>More room for luggage</li>
                             </ul>
                         </td>
                     </tr>
+
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
+                <p class="text-sm text-gray-600">* Fares are based on a minimum charge for short-distance outstation travel. Tolls and taxes included.</p>
             </div>
         </div>
     </section>
 
-@include('layouts.footer')
+    @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
-
 </body>
 
 </html>
