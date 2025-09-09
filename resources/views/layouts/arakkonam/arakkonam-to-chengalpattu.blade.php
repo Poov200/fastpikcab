@@ -166,6 +166,63 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Arakkonam to Chengalpattu Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Arakkonam to Chengalpattu Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Arakkonam to Chengalpattu</strong>? Fastpikcab offers safe,
+            reliable, and well-maintained taxis for your journey. Whether it’s a one-way trip, round journey,
+            or an urgent travel requirement, our drivers are available <strong>24/7</strong> to ensure a
+            comfortable ride.
+        </p>
+
+        <p class="mb-4">
+            The distance between Arakkonam and Chengalpattu is approximately <strong>70 km</strong>, which
+            usually takes about <strong>1.5 to 2 hours</strong> by road. The route passes through
+            <strong>Kanchipuram and other major towns</strong>, giving you a smooth and scenic ride. Short
+            stopovers for meals or refreshments can also be arranged on request.
+        </p>
+
+        <p class="mb-4">
+            We provide a wide range of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>,
+            equipped with air-conditioning, spacious seating, and GPS tracking. With
+            <strong>transparent pricing</strong>, you only pay for what you see – no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also offers <strong>Arakkonam Railway Station taxi pickups</strong> for passengers
+            heading to Chengalpattu. For families, students, business travelers, or group trips, our
+            <strong>round-trip packages</strong> are highly economical and convenient.
+        </p>
+
+        <p class="mb-4">
+            Along with Chengalpattu, we provide taxi services across all major cities and districts in
+            Tamil Nadu including: Ariyalur, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+            Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Arakkonam to Chengalpattu taxi</strong> with Fastpikcab is quick and easy.
+            Simply book online through our website or call us at <strong>+91 88256 94157</strong>. Our
+            customer support team is available 24/7 to assist you with bookings, fare inquiries, and travel
+            guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Arakkonam to Chengalpattu cab service</strong> and enjoy a
+            reliable, affordable, and stress-free travel experience.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Arakkonam to Chengalpattu Route Details</h2>
