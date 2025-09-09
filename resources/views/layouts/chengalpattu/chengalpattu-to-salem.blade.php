@@ -168,6 +168,70 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chengalpattu to Salem Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Chengalpattu to Salem Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Chengalpattu to Salem</strong>? 
+            Fastpikcab provides safe, reliable, and affordable cab services 
+            for one-way trips, round journeys, and urgent travel needs. 
+            Our experienced drivers ensure a smooth and comfortable ride 
+            to your destination, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chengalpattu and Salem is approximately 
+            <strong>310 km</strong>, which usually takes around 
+            <strong>6–7 hours</strong> by road. The most common travel route 
+            is via <strong>NH38 and NH44</strong>, passing through 
+            <strong>Villupuram, Ulundurpet, Attur</strong> before reaching Salem. 
+            Stopovers for food, tea, or sightseeing can also be arranged.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicle options including 
+            <strong>Sedans, SUVs, and Premium Cars</strong>. 
+            All our cabs are <strong>air-conditioned, well-maintained, and GPS-enabled</strong>, 
+            ensuring safety and comfort throughout the journey. 
+            We follow <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chengalpattu railway station pickups</strong> 
+            and doorstep pickup services for passengers traveling to Salem. 
+            Families, business professionals, students, and tourists can benefit 
+            from our <strong>affordable intercity taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Salem, Fastpikcab also operates taxis across major cities 
+            and districts in Tamil Nadu including Chennai, Coimbatore, Cuddalore, 
+            Dharmapuri, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri, 
+            Madurai, Nagercoil, Namakkal, Perambalur, Pudukkottai, 
+            Ramanathapuram, Ranipet, Sivagangai, Tenkasi, Thanjavur, 
+            Thiruvannamalai, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, 
+            Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chengalpattu to Salem taxi</strong> is quick and easy. 
+            You can call us at <strong>+91 88256 94157</strong> or book online through our website. 
+            Our 24/7 customer support team will assist you with fares, routes, and booking details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a safe, reliable, and affordable 
+            <strong>Chengalpattu to Salem cab service</strong> and enjoy a stress-free ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Salem Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

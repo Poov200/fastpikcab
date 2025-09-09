@@ -168,6 +168,70 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chengalpattu to Tirunelveli Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Chengalpattu to Tirunelveli Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Chengalpattu to Tirunelveli</strong>? 
+            Fastpikcab provides safe, reliable, and budget-friendly cab services 
+            for one-way trips, round journeys, and long-distance travel needs. 
+            Our experienced drivers are available <strong>24/7</strong> to make 
+            your journey stress-free and comfortable.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chengalpattu and Tirunelveli is approximately 
+            <strong>650 km</strong>, which usually takes around 
+            <strong>11–12 hours</strong> by road. The preferred route is via 
+            <strong>NH44</strong>, passing through Villupuram, Trichy, Madurai, 
+            and Virudhunagar before reaching Tirunelveli. Short breaks for 
+            food, tea, or sightseeing can also be arranged on the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicle options including 
+            <strong>Sedans, SUVs, and Premium Cars</strong>. All our cars are 
+            <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring 
+            your travel is smooth and safe. We maintain 
+            <strong>transparent pricing</strong> with zero hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chengalpattu railway station pickups</strong> 
+            for passengers traveling towards Tirunelveli. Our 
+            <strong>long-distance taxi packages</strong> are highly suitable for 
+            families, tourists, and business travelers looking for affordable intercity travel.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tirunelveli, Fastpikcab operates taxi services across all major cities of Tamil Nadu including 
+            Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram, 
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, 
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, 
+            Thanjavur, Thiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tiruppur, Vellore, 
+            Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chengalpattu to Tirunelveli taxi</strong> with Fastpikcab is very simple. 
+            You can book online through our official website or call us directly at 
+            <strong>+91 88256 94157</strong>. Our customer support team is available 
+            round-the-clock to assist with fares, bookings, and travel details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chengalpattu to Tirunelveli cab service</strong> 
+            and enjoy a comfortable, safe, and pocket-friendly travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Tirunelveli Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

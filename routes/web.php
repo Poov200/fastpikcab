@@ -1395,9 +1395,9 @@ Route::get('/dharmapuri-to-tirupati-drop-taxi', function () {
     return view('layouts.dharmapuri.dharmapuri-to-tirupati');
 })->name('dharmapuri-to-tirupati');
 
-Route::get('/dharmapuri-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.dharmapuri.dharmapuri-to-tiruvannamalai');
-})->name('dharmapuri-to-tiruvannamalai');
+Route::get('/dharmapuri-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.dharmapuri.dharmapuri-to-thiruvannamalai');
+})->name('dharmapuri-to-thiruvannamalai');
 
 Route::get('/dharmapuri-to-kerala-drop-taxi', function () {
     return view('layouts.dharmapuri.dharmapuri-to-kerala');
@@ -1566,9 +1566,9 @@ Route::get('/dindigul-to-tirupati-drop-taxi', function () {
     return view('layouts.dindigul.dindigul-to-tirupati');
 })->name('dindigul-to-tirupati');
 
-Route::get('/dindigul-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.dindigul.dindigul-to-tiruvannamalai');
-})->name('dindigul-to-tiruvannamalai');
+Route::get('/dindigul-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.dindigul.dindigul-to-thiruvannamalai');
+})->name('dindigul-to-thiruvannamalai');
 
 Route::get('/dindigul-to-kerala-drop-taxi', function () {
     return view('layouts.dindigul.dindigul-to-kerala');
@@ -1738,9 +1738,9 @@ Route::get('/erode-to-tirupati-drop-taxi', function () {
     return view('layouts.erode.erode-to-tirupati');
 })->name('erode-to-tirupati');
 
-Route::get('/erode-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.erode.erode-to-tiruvannamalai');
-})->name('erode-to-tiruvannamalai');
+Route::get('/erode-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.erode.erode-to-thiruvannamalai');
+})->name('erode-to-thiruvannamalai');
 
 Route::get('/erode-to-kerala-drop-taxi', function () {
     return view('layouts.erode.erode-to-kerala');
@@ -1910,9 +1910,9 @@ Route::get('/hosur-to-tirupati-drop-taxi', function () {
     return view('layouts.hosur.hosur-to-tirupati');
 })->name('hosur-to-tirupati');
 
-Route::get('/hosur-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.hosur.hosur-to-tiruvannamalai');
-})->name('hosur-to-tiruvannamalai');
+Route::get('/hosur-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.hosur.hosur-to-thiruvannamalai');
+})->name('hosur-to-thiruvannamalai');
 
 Route::get('/hosur-to-kerala-drop-taxi', function () {
     return view('layouts.hosur.hosur-to-kerala');
@@ -2084,9 +2084,9 @@ Route::get('/kanchipuram-to-tirupati-drop-taxi', function () {
     return view('layouts.kanchipuram.kanchipuram-to-tirupati');
 })->name('kanchipuram-to-tirupati');
 
-Route::get('/kanchipuram-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.kanchipuram.kanchipuram-to-tiruvannamalai');
-})->name('kanchipuram-to-tiruvannamalai');
+Route::get('/kanchipuram-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.kanchipuram.kanchipuram-to-thiruvannamalai');
+})->name('kanchipuram-to-thiruvannamalai');
 
 Route::get('/kanchipuram-to-kerala-drop-taxi', function () {
     return view('layouts.kanchipuram.kanchipuram-to-kerala');
@@ -2256,9 +2256,9 @@ Route::get('/karur-to-tirupati-drop-taxi', function () {
     return view('layouts.karur.karur-to-tirupati');
 })->name('karur-to-tirupati');
 
-Route::get('/karur-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.karur.karur-to-tiruvannamalai');
-})->name('karur-to-tiruvannamalai');
+Route::get('/karur-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.karur.karur-to-thiruvannamalai');
+})->name('karur-to-thiruvannamalai');
 
 Route::get('/karur-to-kerala-drop-taxi', function () {
     return view('layouts.karur.karur-to-kerala');
@@ -2426,9 +2426,9 @@ Route::get('/krishnagiri-to-tirupati-drop-taxi', function () {
     return view('layouts.krishnagiri.krishnagiri-to-tirupati');
 })->name('krishnagiri-to-tirupati');
 
-Route::get('/krishnagiri-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.krishnagiri.krishnagiri-to-tiruvannamalai');
-})->name('krishnagiri-to-tiruvannamalai');
+Route::get('/krishnagiri-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.krishnagiri.krishnagiri-to-thiruvannamalai');
+})->name('krishnagiri-to-thiruvannamalai');
 
 Route::get('/krishnagiri-to-kerala-drop-taxi', function () {
     return view('layouts.krishnagiri.krishnagiri-to-kerala');
@@ -2596,9 +2596,9 @@ Route::get('/madurai-to-tirupati-drop-taxi', function () {
     return view('layouts.madurai.madurai-to-tirupati');
 })->name('madurai-to-tirupati');
 
-Route::get('/madurai-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.madurai.madurai-to-tiruvannamalai');
-})->name('madurai-to-tiruvannamalai');
+Route::get('/madurai-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.madurai.madurai-to-thiruvannamalai');
+})->name('madurai-to-thiruvannamalai');
 
 Route::get('/madurai-to-kerala-drop-taxi', function () {
     return view('layouts.madurai.madurai-to-kerala');
@@ -2766,9 +2766,9 @@ Route::get('/mayiladuthurai-to-tirupati-drop-taxi', function () {
     return view('layouts.mayiladuthurai.mayiladuthurai-to-tirupati');
 })->name('mayiladuthurai-to-tirupati');
 
-Route::get('/mayiladuthurai-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.mayiladuthurai.mayiladuthurai-to-tiruvannamalai');
-})->name('mayiladuthurai-to-tiruvannamalai');
+Route::get('/mayiladuthurai-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.mayiladuthurai.mayiladuthurai-to-thiruvannamalai');
+})->name('mayiladuthurai-to-thiruvannamalai');
 
 Route::get('/mayiladuthurai-to-kerala-drop-taxi', function () {
     return view('layouts.mayiladuthurai.mayiladuthurai-to-kerala');
@@ -2935,9 +2935,9 @@ Route::get('/nagapattinam-to-tirupati-drop-taxi', function () {
     return view('layouts.nagapattinam.nagapattinam-to-tirupati');
 })->name('nagapattinam-to-tirupati');
 
-Route::get('/nagapattinam-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.nagapattinam.nagapattinam-to-tiruvannamalai');
-})->name('nagapattinam-to-tiruvannamalai');
+Route::get('/nagapattinam-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.nagapattinam.nagapattinam-to-thiruvannamalai');
+})->name('nagapattinam-to-thiruvannamalai');
 
 Route::get('/nagapattinam-to-kerala-drop-taxi', function () {
     return view('layouts.nagapattinam.nagapattinam-to-kerala');
@@ -3104,9 +3104,9 @@ Route::get('/nagercoil-to-tirupati-drop-taxi', function () {
     return view('layouts.nagercoil.nagercoil-to-tirupati');
 })->name('nagercoil-to-tirupati');
 
-Route::get('/nagercoil-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.nagercoil.nagercoil-to-tiruvannamalai');
-})->name('nagercoil-to-tiruvannamalai');
+Route::get('/nagercoil-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.nagercoil.nagercoil-to-thiruvannamalai');
+})->name('nagercoil-to-thiruvannamalai');
 
 Route::get('/nagercoil-to-kerala-drop-taxi', function () {
     return view('layouts.nagercoil.nagercoil-to-kerala');
@@ -3273,9 +3273,9 @@ Route::get('/namakkal-to-tirupati-drop-taxi', function () {
     return view('layouts.namakkal.namakkal-to-tirupati');
 })->name('namakkal-to-tirupati');
 
-Route::get('/namakkal-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.namakkal.namakkal-to-tiruvannamalai');
-})->name('namakkal-to-tiruvannamalai');
+Route::get('/namakkal-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.namakkal.namakkal-to-thiruvannamalai');
+})->name('namakkal-to-thiruvannamalai');
 
 Route::get('/namakkal-to-kerala-drop-taxi', function () {
     return view('layouts.namakkal.namakkal-to-kerala');
@@ -3442,9 +3442,9 @@ Route::get('/perambalur-to-tirupati-drop-taxi', function () {
     return view('layouts.perambalur.perambalur-to-tirupati');
 })->name('perambalur-to-tirupati');
 
-Route::get('/perambalur-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.perambalur.perambalur-to-tiruvannamalai');
-})->name('perambalur-to-tiruvannamalai');
+Route::get('/perambalur-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.perambalur.perambalur-to-thiruvannamalai');
+})->name('perambalur-to-thiruvannamalai');
 
 Route::get('/perambalur-to-kerala-drop-taxi', function () {
     return view('layouts.perambalur.perambalur-to-kerala');
@@ -3611,9 +3611,9 @@ Route::get('/pudukkottai-to-tirupati-drop-taxi', function () {
     return view('layouts.pudukkottai.pudukkottai-to-tirupati');
 })->name('pudukkottai-to-tirupati');
 
-Route::get('/pudukkottai-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.pudukkottai.pudukkottai-to-tiruvannamalai');
-})->name('pudukkottai-to-tiruvannamalai');
+Route::get('/pudukkottai-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.pudukkottai.pudukkottai-to-thiruvannamalai');
+})->name('pudukkottai-to-thiruvannamalai');
 
 Route::get('/pudukkottai-to-kerala-drop-taxi', function () {
     return view('layouts.pudukkottai.pudukkottai-to-kerala');
@@ -3780,9 +3780,9 @@ Route::get('/ramanathapuram-to-tirupati-drop-taxi', function () {
     return view('layouts.ramanathapuram.ramanathapuram-to-tirupati');
 })->name('ramanathapuram-to-tirupati');
 
-Route::get('/ramanathapuram-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.ramanathapuram.ramanathapuram-to-tiruvannamalai');
-})->name('ramanathapuram-to-tiruvannamalai');
+Route::get('/ramanathapuram-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.ramanathapuram.ramanathapuram-to-thiruvannamalai');
+})->name('ramanathapuram-to-thiruvannamalai');
 
 Route::get('/ramanathapuram-to-kerala-drop-taxi', function () {
     return view('layouts.ramanathapuram.ramanathapuram-to-kerala');
@@ -3949,9 +3949,9 @@ Route::get('/ranipet-to-tirupati-drop-taxi', function () {
     return view('layouts.ranipet.ranipet-to-tirupati');
 })->name('ranipet-to-tirupati');
 
-Route::get('/ranipet-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.ranipet.ranipet-to-tiruvannamalai');
-})->name('ranipet-to-tiruvannamalai');
+Route::get('/ranipet-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.ranipet.ranipet-to-thiruvannamalai');
+})->name('ranipet-to-thiruvannamalai');
 
 Route::get('/ranipet-to-kerala-drop-taxi', function () {
     return view('layouts.ranipet.ranipet-to-kerala');
@@ -4119,9 +4119,9 @@ Route::get('/salem-to-tirupati-drop-taxi', function () {
     return view('layouts.salem.salem-to-tirupati');
 })->name('salem-to-tirupati');
 
-Route::get('/salem-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.salem.salem-to-tiruvannamalai');
-})->name('salem-to-tiruvannamalai');
+Route::get('/salem-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.salem.salem-to-thiruvannamalai');
+})->name('salem-to-thiruvannamalai');
 
 Route::get('/salem-to-kerala-drop-taxi', function () {
     return view('layouts.salem.salem-to-kerala');
@@ -4288,9 +4288,9 @@ Route::get('/sivakasi-to-tirupati-drop-taxi', function () {
     return view('layouts.sivakasi.sivakasi-to-tirupati');
 })->name('sivakasi-to-tirupati');
 
-Route::get('/sivakasi-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.sivakasi.sivakasi-to-tiruvannamalai');
-})->name('sivakasi-to-tiruvannamalai');
+Route::get('/sivakasi-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.sivakasi.sivakasi-to-thiruvannamalai');
+})->name('sivakasi-to-thiruvannamalai');
 
 Route::get('/sivakasi-to-kerala-drop-taxi', function () {
     return view('layouts.sivakasi.sivakasi-to-kerala');
@@ -4458,9 +4458,9 @@ Route::get('/tenkasi-to-tirupati-drop-taxi', function () {
     return view('layouts.tenkasi.tenkasi-to-tirupati');
 })->name('tenkasi-to-tirupati');
 
-Route::get('/tenkasi-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.tenkasi.tenkasi-to-tiruvannamalai');
-})->name('tenkasi-to-tiruvannamalai');
+Route::get('/tenkasi-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.tenkasi.tenkasi-to-thiruvannamalai');
+})->name('tenkasi-to-thiruvannamalai');
 
 Route::get('/tenkasi-to-kerala-drop-taxi', function () {
     return view('layouts.tenkasi.tenkasi-to-kerala');
@@ -4627,9 +4627,9 @@ Route::get('/thanjavur-to-tirupati-drop-taxi', function () {
     return view('layouts.thanjavur.thanjavur-to-tirupati');
 })->name('thanjavur-to-tirupati');
 
-Route::get('/thanjavur-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.thanjavur.thanjavur-to-tiruvannamalai');
-})->name('thanjavur-to-tiruvannamalai');
+Route::get('/thanjavur-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.thanjavur.thanjavur-to-thiruvannamalai');
+})->name('thanjavur-to-thiruvannamalai');
 
 Route::get('/thanjavur-to-kerala-drop-taxi', function () {
     return view('layouts.thanjavur.thanjavur-to-kerala');
@@ -4796,9 +4796,9 @@ Route::get('/thiruvarur-to-tirupati-drop-taxi', function () {
     return view('layouts.thiruvarur.thiruvarur-to-tirupati');
 })->name('thiruvarur-to-tirupati');
 
-Route::get('/thiruvarur-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.thiruvarur.thiruvarur-to-tiruvannamalai');
-})->name('thiruvarur-to-tiruvannamalai');
+Route::get('/thiruvarur-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.thiruvarur.thiruvarur-to-thiruvannamalai');
+})->name('thiruvarur-to-thiruvannamalai');
 
 Route::get('/thiruvarur-to-kerala-drop-taxi', function () {
     return view('layouts.thiruvarur.thiruvarur-to-kerala');
@@ -4966,9 +4966,9 @@ Route::get('/thoothukudi-to-tirupati-drop-taxi', function () {
     return view('layouts.thoothukudi.thoothukudi-to-tirupati');
 })->name('thoothukudi-to-tirupati');
 
-Route::get('/thoothukudi-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.thoothukudi.thoothukudi-to-tiruvannamalai');
-})->name('thoothukudi-to-tiruvannamalai');
+Route::get('/thoothukudi-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.thoothukudi.thoothukudi-to-thiruvannamalai');
+})->name('thoothukudi-to-thiruvannamalai');
 
 Route::get('/thoothukudi-to-kerala-drop-taxi', function () {
     return view('layouts.thoothukudi.thoothukudi-to-kerala');
@@ -5135,9 +5135,9 @@ Route::get('/tirunelveli-to-tirupati-drop-taxi', function () {
     return view('layouts.tirunelveli.tirunelveli-to-tirupati');
 })->name('tirunelveli-to-tirupati');
 
-Route::get('/tirunelveli-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.tirunelveli.tirunelveli-to-tiruvannamalai');
-})->name('tirunelveli-to-tiruvannamalai');
+Route::get('/tirunelveli-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.tirunelveli.tirunelveli-to-thiruvannamalai');
+})->name('tirunelveli-to-thiruvannamalai');
 
 Route::get('/tirunelveli-to-kerala-drop-taxi', function () {
     return view('layouts.tirunelveli.tirunelveli-to-kerala');
@@ -5305,9 +5305,9 @@ Route::get('/tiruppur-to-tirupati-drop-taxi', function () {
     return view('layouts.tiruppur.tiruppur-to-tirupati');
 })->name('tiruppur-to-tirupati');
 
-Route::get('/tiruppur-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.tiruppur.tiruppur-to-tiruvannamalai');
-})->name('tiruppur-to-tiruvannamalai');
+Route::get('/tiruppur-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.tiruppur.tiruppur-to-thiruvannamalai');
+})->name('tiruppur-to-thiruvannamalai');
 
 Route::get('/tiruppur-to-kerala-drop-taxi', function () {
     return view('layouts.tiruppur.tiruppur-to-kerala');
@@ -5474,9 +5474,9 @@ Route::get('/trichy-to-tirupati-drop-taxi', function () {
     return view('layouts.trichy.trichy-to-tirupati');
 })->name('trichy-to-tirupati');
 
-Route::get('/trichy-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.trichy.trichy-to-tiruvannamalai');
-})->name('trichy-to-tiruvannamalai');
+Route::get('/trichy-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.trichy.trichy-to-thiruvannamalai');
+})->name('trichy-to-thiruvannamalai');
 
 Route::get('/trichy-to-kerala-drop-taxi', function () {
     return view('layouts.trichy.trichy-to-kerala');
@@ -5644,9 +5644,9 @@ Route::get('/vellore-to-tirupati-drop-taxi', function () {
     return view('layouts.vellore.vellore-to-tirupati');
 })->name('vellore-to-tirupati');
 
-Route::get('/vellore-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.vellore.vellore-to-tiruvannamalai');
-})->name('vellore-to-tiruvannamalai');
+Route::get('/vellore-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.vellore.vellore-to-thiruvannamalai');
+})->name('vellore-to-thiruvannamalai');
 
 Route::get('/vellore-to-kerala-drop-taxi', function () {
     return view('layouts.vellore.vellore-to-kerala');
@@ -5813,9 +5813,9 @@ Route::get('/villupuram-to-tirupati-drop-taxi', function () {
     return view('layouts.villupuram.villupuram-to-tirupati');
 })->name('villupuram-to-tirupati');
 
-Route::get('/villupuram-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.villupuram.villupuram-to-tiruvannamalai');
-})->name('villupuram-to-tiruvannamalai');
+Route::get('/villupuram-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.villupuram.villupuram-to-thiruvannamalai');
+})->name('villupuram-to-thiruvannamalai');
 
 Route::get('/villupuram-to-kerala-drop-taxi', function () {
     return view('layouts.villupuram.villupuram-to-kerala');
@@ -5982,9 +5982,9 @@ Route::get('/virudhunagar-to-tirupati-drop-taxi', function () {
     return view('layouts.virudhunagar.virudhunagar-to-tirupati');
 })->name('virudhunagar-to-tirupati');
 
-Route::get('/virudhunagar-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.virudhunagar.virudhunagar-to-tiruvannamalai');
-})->name('virudhunagar-to-tiruvannamalai');
+Route::get('/virudhunagar-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.virudhunagar.virudhunagar-to-thiruvannamalai');
+})->name('virudhunagar-to-thiruvannamalai');
 
 Route::get('/virudhunagar-to-kerala-drop-taxi', function () {
     return view('layouts.virudhunagar.virudhunagar-to-kerala');
@@ -6152,9 +6152,9 @@ Route::get('/puducherry-to-tirupati-drop-taxi', function () {
     return view('layouts.puducherry.puducherry-to-tirupati');
 })->name('puducherry-to-tirupati');
 
-Route::get('/puducherry-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.puducherry.puducherry-to-tiruvannamalai');
-})->name('puducherry-to-tiruvannamalai');
+Route::get('/puducherry-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.puducherry.puducherry-to-thiruvannamalai');
+})->name('puducherry-to-thiruvannamalai');
 
 Route::get('/puducherry-to-kerala-drop-taxi', function () {
     return view('layouts.puducherry.puducherry-to-kerala');
@@ -6322,9 +6322,9 @@ Route::get('/arani-to-tirupati-drop-taxi', function () {
     return view('layouts.arani.arani-to-tirupati');
 })->name('arani-to-tirupati');
 
-Route::get('/arani-to-tiruvannamalai-drop-taxi', function () {
-    return view('layouts.arani.arani-to-tiruvannamalai');
-})->name('arani-to-tiruvannamalai');
+Route::get('/arani-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.arani.arani-to-thiruvannamalai');
+})->name('arani-to-thiruvannamalai');
 
 Route::get('/arani-to-kerala-drop-taxi', function () {
     return view('layouts.arani.arani-to-kerala');

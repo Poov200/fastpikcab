@@ -168,6 +168,61 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chengalpattu to Perambalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Affordable Chengalpattu to Perambalur Cab Booking
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a reliable <strong>Chengalpattu to Perambalur taxi service</strong>? Fastpikcab
+            offers comfortable, on-time, and budget-friendly cab services for one-way trips,
+            round trips, and business travel. Our professional drivers ensure a safe and smooth
+            journey every time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chengalpattu and Perambalur is approximately
+            <strong>230 km</strong>, and it usually takes about <strong>5–6 hours</strong> by road.
+            The most preferred route is via <strong>NH32 and NH38</strong>, passing through
+            <strong>Chennai – Villupuram – Trichy Highway</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple car options such as <strong>Sedans, SUVs, and Premium Cars</strong>
+            to suit your travel needs. All our cabs are well-maintained, air-conditioned, and equipped with GPS.
+            We follow <strong>transparent pricing</strong> – no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Whether you are traveling for family functions, office work, medical purposes,
+            or tourism, our <strong>Chengalpattu to Perambalur cab</strong> is the perfect choice.
+            We also provide <strong>doorstep pickup and drop</strong> facilities for your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab not only operates from Chengalpattu to Perambalur but also covers other major cities like:
+            Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Nagercoil, Namakkal, Pudukkottai, Salem, Thanjavur, Tiruvannamalai,
+            Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore, Villupuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chengalpattu to Perambalur cab</strong> is simple.
+            You can call us directly at <strong>+91 88256 94157</strong> or book online through
+            our website for instant confirmation. Our support team is available 24/7 to assist you.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chengalpattu to Perambalur taxi</strong> and enjoy
+            a safe, comfortable, and hassle-free journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Perambalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
