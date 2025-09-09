@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Arakkonam to Arani Taxi Service | Book Online</title>
+    <title>Arakkonam to Arani Taxi Service | Fastpikcab, Fast Cab & Speed Cab</title>
 
     <meta name="description"
-        content="Book a reliable Arakkonam to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Need a fast cab from Arakkonam to Arani? Book with Fastpikcab! Get instant, affordable fares for one-way, round-trip, and outstation travel. We offer comfortable, reliable, and swift taxi services for your journey.">
 
     <meta name="keywords"
-        content="Arakkonam to Arani taxi, Fastcab, Speed Cab, Fast cab, Fast taxi, Arakkonam to Arani one way taxi, Arakkonam to Arani outstation cabs, Arakkonam to Arani taxi fare, Arakkonam to Arani cab fare, Arakkonam to Arani round trip taxi, Arakkonam to Arani car rental, Arakkonam to Arani cab booking">
+        content="Arakkonam to Arani taxi, Arakkonam to Arani cab, Fastpikcab, Fast cab, Speed cab, Arakkonam to Arani one way taxi, Arakkonam to Arani outstation cabs, Arakkonam to Arani taxi fare, Arakkonam to Arani round trip taxi, Arakkonam to Arani car rental, Arakkonam to Arani cab booking, Arakkonam taxi, Arani taxi, quick cab, instant taxi booking">
 
     <meta property="og:title" content="Fastpikcab - Arakkonam to Arani Taxi Service">
     <meta property="og:description"
@@ -250,7 +250,8 @@
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
+                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability,
+                    tolls, and additional stops.</p>
             </div>
         </div>
     </section>
