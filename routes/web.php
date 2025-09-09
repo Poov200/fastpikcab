@@ -375,176 +375,176 @@ Route::get('/completed-bookings', [CommissionController::class, 'completedBookin
 //routes for chennai drop taxi service pages
 
 // 📌 Chennai to All Cities Routes
-Route::get('/chennai-to-ariyalur-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-ariyalur'); 
+Route::get('/chennai-to-ariyalur-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-ariyalur');
 })->name('chennai-to-ariyalur');
 
-Route::get('/chennai-to-arakkonam-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-arakkonam'); 
+Route::get('/chennai-to-arakkonam-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-arakkonam');
 })->name('chennai-to-arakkonam');
 
-Route::get('/chennai-to-arani-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-arani'); 
+Route::get('/chennai-to-arani-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-arani');
 })->name('chennai-to-arani');
 
-Route::get('/chennai-to-bangalore-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-bangalore'); 
+Route::get('/chennai-to-bangalore-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-bangalore');
 })->name('chennai-to-bangalore');
 
-Route::get('/chennai-to-chengalpattu-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-chengalpattu'); 
+Route::get('/chennai-to-chengalpattu-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-chengalpattu');
 })->name('chennai-to-chengalpattu');
 
-Route::get('/chennai-to-coimbatore-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-coimbatore'); 
+Route::get('/chennai-to-coimbatore-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-coimbatore');
 })->name('chennai-to-coimbatore');
 
-Route::get('/chennai-to-cuddalore-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-cuddalore'); 
+Route::get('/chennai-to-cuddalore-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-cuddalore');
 })->name('chennai-to-cuddalore');
 
-Route::get('/chennai-to-trichy-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-trichy'); 
+Route::get('/chennai-to-trichy-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-trichy');
 })->name('chennai-to-trichy');
 
-Route::get('/chennai-to-dharmapuri-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-dharmapuri'); 
+Route::get('/chennai-to-dharmapuri-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-dharmapuri');
 })->name('chennai-to-dharmapuri');
 
-Route::get('/chennai-to-dindigul-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-dindigul'); 
+Route::get('/chennai-to-dindigul-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-dindigul');
 })->name('chennai-to-dindigul');
 
-Route::get('/chennai-to-erode-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-erode'); 
+Route::get('/chennai-to-erode-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-erode');
 })->name('chennai-to-erode');
 
-Route::get('/chennai-to-hosur-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-hosur'); 
+Route::get('/chennai-to-hosur-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-hosur');
 })->name('chennai-to-hosur');
 
-Route::get('/chennai-to-kanchipuram-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-kanchipuram'); 
+Route::get('/chennai-to-kanchipuram-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-kanchipuram');
 })->name('chennai-to-kanchipuram');
 
-Route::get('/chennai-to-karur-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-karur'); 
+Route::get('/chennai-to-karur-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-karur');
 })->name('chennai-to-karur');
 
-Route::get('/chennai-to-krishnagiri-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-krishnagiri'); 
+Route::get('/chennai-to-krishnagiri-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-krishnagiri');
 })->name('chennai-to-krishnagiri');
 
-Route::get('/chennai-to-madurai-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-madurai'); 
+Route::get('/chennai-to-madurai-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-madurai');
 })->name('chennai-to-madurai');
 
-Route::get('/chennai-to-mayiladuthurai-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-mayiladuthurai'); 
+Route::get('/chennai-to-mayiladuthurai-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-mayiladuthurai');
 })->name('chennai-to-mayiladuthurai');
 
-Route::get('/chennai-to-nagapattinam-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-nagapattinam'); 
+Route::get('/chennai-to-nagapattinam-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-nagapattinam');
 })->name('chennai-to-nagapattinam');
 
-Route::get('/chennai-to-nagercoil-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-nagercoil'); 
+Route::get('/chennai-to-nagercoil-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-nagercoil');
 })->name('chennai-to-nagercoil');
 
-Route::get('/chennai-to-namakkal-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-namakkal'); 
+Route::get('/chennai-to-namakkal-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-namakkal');
 })->name('chennai-to-namakkal');
 
-Route::get('/chennai-to-perambalur-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-perambalur'); 
+Route::get('/chennai-to-perambalur-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-perambalur');
 })->name('chennai-to-perambalur');
 
-Route::get('/chennai-to-puducherry-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-puducherry'); 
+Route::get('/chennai-to-puducherry-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-puducherry');
 })->name('chennai-to-puducherry');
 
-Route::get('/chennai-to-pudukkottai-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-pudukkottai'); 
+Route::get('/chennai-to-pudukkottai-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-pudukkottai');
 })->name('chennai-to-pudukkottai');
 
-Route::get('/chennai-to-ramanathapuram-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-ramanathapuram'); 
+Route::get('/chennai-to-ramanathapuram-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-ramanathapuram');
 })->name('chennai-to-ramanathapuram');
 
-Route::get('/chennai-to-ranipet-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-ranipet'); 
+Route::get('/chennai-to-ranipet-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-ranipet');
 })->name('chennai-to-ranipet');
 
-Route::get('/chennai-to-salem-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-salem'); 
+Route::get('/chennai-to-salem-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-salem');
 })->name('chennai-to-salem');
 
-Route::get('/chennai-to-sivakasi-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-sivakasi'); 
+Route::get('/chennai-to-sivakasi-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-sivakasi');
 })->name('chennai-to-sivakasi');
 
-Route::get('/chennai-to-tenkasi-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-tenkasi'); 
+Route::get('/chennai-to-tenkasi-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-tenkasi');
 })->name('chennai-to-tenkasi');
 
-Route::get('/chennai-to-thanjavur-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-thanjavur'); 
+Route::get('/chennai-to-thanjavur-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-thanjavur');
 })->name('chennai-to-thanjavur');
 
-Route::get('/chennai-to-thiruvarur-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-thiruvarur'); 
+Route::get('/chennai-to-thiruvarur-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-thiruvarur');
 })->name('chennai-to-thiruvarur');
 
-Route::get('/chennai-to-thoothukudi-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-thoothukudi'); 
+Route::get('/chennai-to-thoothukudi-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-thoothukudi');
 })->name('chennai-to-thoothukudi');
 
-Route::get('/chennai-to-thiruvannamalai-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-thiruvannamalai'); 
+Route::get('/chennai-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-thiruvannamalai');
 })->name('chennai-to-thiruvannamalai');
 
-Route::get('/chennai-to-tirunelveli-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-tirunelveli'); 
+Route::get('/chennai-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-tirunelveli');
 })->name('chennai-to-tirunelveli');
 
-Route::get('/chennai-to-tiruppur-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-tiruppur'); 
+Route::get('/chennai-to-tiruppur-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-tiruppur');
 })->name('chennai-to-tiruppur');
 
-Route::get('/chennai-to-tiruchirappalli-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-tiruchirappalli'); 
+Route::get('/chennai-to-tiruchirappalli-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-tiruchirappalli');
 })->name('chennai-to-tiruchirappalli');
 
-Route::get('/chennai-to-tirupati-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-tirupati'); 
+Route::get('/chennai-to-tirupati-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-tirupati');
 })->name('chennai-to-tirupati');
 
-Route::get('/chennai-to-vellore-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-vellore'); 
+Route::get('/chennai-to-vellore-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-vellore');
 })->name('chennai-to-vellore');
 
-Route::get('/chennai-to-virudhunagar-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-virudhunagar'); 
+Route::get('/chennai-to-virudhunagar-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-virudhunagar');
 })->name('chennai-to-virudhunagar');
 
-Route::get('/chennai-to-karaikal-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-karaikal'); 
+Route::get('/chennai-to-karaikal-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-karaikal');
 })->name('chennai-to-karaikal');
 
-Route::get('/chennai-to-kochi-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-kochi'); 
+Route::get('/chennai-to-kochi-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-kochi');
 })->name('chennai-to-kochi');
 
-Route::get('/chennai-to-kerala-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-kerala'); 
+Route::get('/chennai-to-kerala-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-kerala');
 })->name('chennai-to-kerala');
 
-Route::get('/chennai-to-chennai-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-chennai'); 
+Route::get('/chennai-to-chennai-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-chennai');
 })->name('chennai-to-chennai');
 
-Route::get('/chennai-to-villupuram-drop-taxi', function () { 
-    return view('layouts.chennai.chennai-to-villupuram'); 
+Route::get('/chennai-to-villupuram-drop-taxi', function () {
+    return view('layouts.chennai.chennai-to-villupuram');
 })->name('chennai-to-villupuram');
 // End of Chennai to All Cities Routes
 
