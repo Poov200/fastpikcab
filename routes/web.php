@@ -712,6 +712,11 @@ Route::get('/arakkonam-to-kochi-drop-taxi', function () {
 Route::get('/arakkonam-to-kerala-drop-taxi', function () {
     return view('layouts.arakkonam.arakkonam-to-kerala');
 })->name('arakkonam-to-kerala');
+
+Route::get('/arakkonam-to-villupuram-drop-taxi', function () {
+    return view('layouts.arakkonam.arakkonam-to-villupuram');
+})->name('arakkonam-to-villupuram');
+
 // End of Arakkonam to All Cities Routes
 
 Route::get('/chengalpattu-to-villupuram-drop-taxi', function () {
