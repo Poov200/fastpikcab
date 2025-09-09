@@ -167,40 +167,56 @@
             </div>
         </div>
     </section>
-<section class="taxi-service py-5">
-  <div class="container">
-    <h2 class="text-3xl font-bold mb-4 text-center">Arakkonam to Bangalore Drop Taxi</h2>
-    <p class="text-lg mb-4 text-center">
-      <strong>Fastpik Cab</strong> is the best taxi service provider for one-way and round-trip travel at competitive prices.
-    </p>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Arakkonam to Arani Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Reliable Taxi Service Across Tamil Nadu
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a comfortable journey from <strong>Arakkonam to Arani</strong>? Fastpikcab provides safe,
+            clean, and well-maintained cabs for one-way trips, round journeys, and urgent taxi requests.
+            Our drivers are available 24/7 to ensure you reach your destination on time.
+        </p>
 
-    <ul class="list-disc list-inside mb-4">
-      <li>Book <strong>Arakkonam to Bangalore drop taxi</strong> with <strong>Fastpik Cab</strong> and save up to 50% on travel expenses.</li>
-      <li>Trusted cab service with experienced and punctual drivers. 24x7 customer support available.</li>
-      <li>For one-way travel, pay only for the one-way trip.</li>
-      <li>Fastpik Cab provides taxi services across major cities and districts in Tamil Nadu, Karnataka, Andhra Pradesh, Telangana, and Kerala.</li>
-    </ul>
+        <p class="mb-4">
+            The distance between Arakkonam and Arani is around <strong>90 km</strong>, which usually takes
+            <strong>2–3 hours</strong> via <strong>NH716 / SH4</strong>. Enjoy a smooth ride through towns
+            like <strong>Kanchipuram and Cheyyar</strong> with optional short stopovers for meals or sightseeing.
+        </p>
 
-    <p class="font-semibold mb-3">Service Areas Include:</p>
-    <p class="mb-4">
-      Arakkonam, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, Virudhunagar, Bangalore and surrounding areas.
-    </p>
+        <p class="mb-4">
+            Fastpikcab offers a variety of vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong>,
+            equipped with air-conditioning, spacious seating, and GPS tracking. Our transparent pricing ensures
+            there are no hidden charges.
+        </p>
 
-    <h3 class="text-2xl font-bold mb-3">FAQS</h3>
-    <ul class="list-disc list-inside mb-4">
-      <li><strong>Distance:</strong> Approximately 350 KM, around 7–8 hours of travel.</li>
-      <li><strong>Tariff One Way:</strong> Sedan 14/KM, SUV 19/KM. Bata Rs.300, toll, parking, and state permit extra. Minimum 130 KM.</li>
-      <li><strong>Tariff Round Trip:</strong> Sedan 13/KM, SUV 18/KM. Bata Rs.300, toll, parking, and state permit extra. Minimum 250 KM per day.</li>
-      <li><strong>Vehicle Types:</strong> Sedan – Etios, Swift, Xcent, Zest. SUV – Innova, Xylo, Tavera.</li>
-      <li><strong>Support:</strong> 24x7 via call or WhatsApp at <strong>+91 8825694157</strong> / <strong>+91 9597258671</strong>.</li>
-      <li><strong>Quick Booking:</strong> Call us directly at <strong>+91 8825694157</strong> / <strong>+91 9597258671</strong>.</li>
-      <li><strong>Cancel Policy:</strong> 24-hour cancellation policy. No charges if canceled before 24 hours of the trip.</li>
-    </ul>
+        <p class="mb-4">
+            We provide <strong>taxi pickups from Arakkonam Railway Station</strong> and other locations across
+            Tamil Nadu. Our services cover all major cities and districts including:
+        </p>
 
-    <p class="font-semibold text-center">
-      Email: <a href="mailto:fastpikcab@gmail.com" class="text-blue-600">fastpikcab@gmail.com</a>
-    </p>
-  </div>
+        <p class="mb-4 font-semibold">
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
+            Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking with Fastpikcab is quick and easy. Reserve your taxi online or call us at
+            <strong>+91 88256 94157</strong>. Our 24/7 customer support will assist you with bookings, fare inquiries,
+            and travel guidance.
+        </p>
+
+        <p>
+            Choose <strong>Fastpikcab</strong> for reliable, affordable, and comfortable taxi service across
+            Tamil Nadu. We ensure every trip is safe, punctual, and memorable.
+        </p>
+    </div>
 </section>
 
 

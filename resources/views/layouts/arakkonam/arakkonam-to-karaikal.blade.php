@@ -166,57 +166,7 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-10 text-gray-800">Arakkonam to Karaikal Taxi Service</h1>
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Book Arakkonam to Karaikal Taxi with Fastpikcab</h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Planning a comfortable journey from <strong>Arakkonam to Karaikal</strong>? Fastpikcab makes your travel
-                hassle-free with reliable, clean, and well-maintained cabs. Whether you are booking a one-way trip,
-                a round journey, or an urgent taxi from <strong>Arakkonam Railway Station to Karaikal</strong>, we are
-                available
-                24/7 to serve you.
-            </p>
-
-            <p class="mb-4">
-                The distance between Arakkonam and Karaikal is approximately <strong>300 km</strong>, which usually takes
-                about <strong>5 to 6 hours</strong> by road. Our experienced drivers ensure a safe and smooth ride
-                through major highways like <strong>NH48, NH32, and state highways</strong>, passing important towns such as
-                <strong>Kanchipuram, Tindivanam, and Puducherry</strong>. You can also request short stopovers for meals,
-                refreshments, or sightseeing during your trip.
-            </p>
-
-            <p class="mb-4">
-                Fastpikcab offers a wide range of vehicle options including <strong>Sedans, SUVs, and Premium
-                    cars</strong>,
-                depending on your group size and budget. All our vehicles are equipped with air-conditioning, spacious
-                seating,
-                and GPS tracking for a stress-free experience. With <strong>transparent pricing</strong> and no hidden
-                charges,
-                you only pay for what you see.
-            </p>
-
-            <p class="mb-4">
-                We also provide <strong>Arakkonam Railway Station taxi pickups</strong> for passengers arriving at any
-                time.
-                Just share your travel details, and our driver will be there on time to receive you and take
-                you directly to Karaikal. For families, students, business travelers, or group tours, our
-                <strong>round-trip taxi packages</strong> are highly cost-effective.
-            </p>
-
-            <p class="mb-4">
-                Booking with Fastpikcab is simple and quick. You can book online through our website or call us
-                at <strong>+91 88256 94157</strong>. Our customer support team is available 24/7 to assist with
-                bookings, fare inquiries, and travel guidance.
-            </p>
-
-            <p>
-                Choose Fastpikcab for your <strong>Arakkonam to Karaikal taxi service</strong> and enjoy a comfortable,
-                reliable, and affordable travel experience. We aim to make every trip safe, punctual, and
-                memorable for our customers.
-            </p>
-        </div>
-    </section>
+   arakkonam-to-karur.
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Arakkonam to Karaikal Route Details</h2>

@@ -188,7 +188,7 @@
                     </div>
 
                     <div>
-                        <label class="block text-gray-700 font-medium mb-2">Email</label>
+                        <label class="block text-gray-700 font-medium mb-2">Email (Optional)</label>
                         <input type="email" name="email" ng-model="booking.email" placeholder="Enter your email"
                             class="w-full px-4 py-2 border border-gray-300 rounded-lg">
                         <p ng-show="bookingForm.email.$invalid && bookingForm.email.$touched"
@@ -1328,6 +1328,8 @@
                             class="footer-link text-gray-400 hover:text-white">Thiruvannamalai</a></li>
                     <li><a href="{{ route('kerala-taxi-service') }}"
                             class="footer-link text-gray-400 hover:text-white">Kerala</a></li>
+                    <li><a href="{{ route('ariyalur-taxi-service') }}"
+                        class="footer-link text-gray-400 hover:text-white">Ariyalur</a></li>
                 </ul>
             </div>
         </div>

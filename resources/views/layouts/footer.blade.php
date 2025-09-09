@@ -203,6 +203,8 @@
                         class="footer-link text-gray-400 hover:text-white">Thiruvannamalai</a></li>
                 <li><a href="{{ route('kerala-taxi-service') }}"
                         class="footer-link text-gray-400 hover:text-white">Kerala</a></li>
+                <li><a href="{{ route('ariyalur-taxi-service') }}"
+                        class="footer-link text-gray-400 hover:text-white">Ariyalur</a></li>
             </ul>
         </div>
     </div>
