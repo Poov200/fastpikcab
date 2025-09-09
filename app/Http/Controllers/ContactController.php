@@ -27,33 +27,38 @@ class ContactController extends Controller
             'subject' => 'required|string|max:255',
             'message' => 'required|string',
         ]);
-      $adminemailid = env('MAIL_FROM_ADDRESS');
 
-    // Store the contact message in the database
-    $contactMessage = ContactMessage::create($request->all());
+        $adminEmail = env('MAIL_FROM_ADDRESS');
 
-try {
-    // Send email to admin
-    Mail::to($adminemailid)->send(new ContactFormMail($contactMessage, 'Admin'));
-} catch (\Exception $e) {
-    Log::error('Failed to send contact form mail to admin', [
-        'email' => $adminemailid,
-        'error' => $e->getMessage(),
-    ]);
-}
+        // Store the contact message first ✅
+        $contactMessage = ContactMessage::create($request->all());
 
-try {
-    // Send email to user (customer)
-    Mail::to($contactMessage->email)->send(new ContactFormMail($contactMessage, 'User'));
-} catch (\Exception $e) {
-    Log::error('Failed to send contact form mail to user', [
-        'email' => $contactMessage->email,
-        'error' => $e->getMessage(),
-    ]);
-}
-    // Return a response
-    return back()->with('success', 'Your message has been sent successfully.');
-}
+        // Try sending mail to admin
+        try {
+            if ($adminEmail) {
+                Mail::to($adminEmail)->send(new ContactFormMail($contactMessage, 'Admin'));
+            }
+        } catch (\Exception $e) {
+            Log::error('Failed to send contact form mail to admin', [
+                'email' => $adminEmail,
+                'error' => $e->getMessage(),
+            ]);
+        }
+
+        // Try sending mail to user
+        try {
+            Mail::to($contactMessage->email)->send(new ContactFormMail($contactMessage, 'User'));
+        } catch (\Exception $e) {
+            Log::error('Failed to send contact form mail to user', [
+                'email' => $contactMessage->email,
+                'error' => $e->getMessage(),
+            ]);
+        }
+
+        // Always return success ✅
+        return back()->with('success', 'Your message has been submitted successfully. We will contact you soon.');
+    }
+
 
 
     public function getAllContactMessages()
@@ -64,6 +69,4 @@ try {
         // Return the data to the view
         return response()->json($contactMessages);
     }
-
-
 }
