@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Karur to Madurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Madurai taxi, Karur to Madurai one way taxi, Karur to Madurai outstation cabs, Karur to Madurai taxi fare, Karur to Madurai cab fare, Karur to Madurai round trip taxi, Karur to Madurai car rental, Karur to Madurai cab booking">

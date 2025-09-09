@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Namakkal to Puducherry Taxi Service | Book Online</title>
+    <title>Fastpikcab - Namakkal to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Puducherry taxi, Namakkal to Puducherry one way taxi, Namakkal to Puducherry outstation cabs, Namakkal to Puducherry taxi fare, Namakkal to Puducherry cab fare, Namakkal to Puducherry round trip taxi, Namakkal to Puducherry car rental, Namakkal to Puducherry cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Salem to Madurai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Salem to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Madurai taxi, Salem to Madurai one way taxi, Salem to Madurai outstation cabs, Salem to Madurai taxi fare, Salem to Madurai cab fare, Salem to Madurai round trip taxi, Salem to Madurai car rental, Salem to Madurai cab booking">

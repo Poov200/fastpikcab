@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Puducherry to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpikcab - Puducherry to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Puducherry to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Puducherry to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. ">
 
     <meta name="keywords"
         content="Puducherry to Chengalpattu taxi, Puducherry to Chengalpattu one way taxi, Puducherry to Chengalpattu outstation cabs, Puducherry to Chengalpattu taxi fare, Puducherry to Chengalpattu cab fare, Puducherry to Chengalpattu round trip taxi, Puducherry to Chengalpattu car rental, Puducherry to Chengalpattu cab booking">

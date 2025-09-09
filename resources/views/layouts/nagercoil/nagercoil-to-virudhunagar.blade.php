@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagercoil to Virudhunagar Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagercoil to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Virudhunagar taxi, Nagercoil to Virudhunagar one way taxi, Nagercoil to Virudhunagar outstation cabs, Nagercoil to Virudhunagar taxi fare, Nagercoil to Virudhunagar cab fare, Nagercoil to Virudhunagar round trip taxi, Nagercoil to Virudhunagar car rental, Nagercoil to Virudhunagar cab booking">

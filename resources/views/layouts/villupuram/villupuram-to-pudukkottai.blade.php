@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Villupuram to Pudukkottai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Pudukkottai taxi, Villupuram to Pudukkottai one way taxi, Villupuram to Pudukkottai outstation cabs, Villupuram to Pudukkottai taxi fare, Villupuram to Pudukkottai cab fare, Villupuram to Pudukkottai round trip taxi, Villupuram to Pudukkottai car rental, Villupuram to Pudukkottai cab booking">

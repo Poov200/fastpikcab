@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Salem to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Salem to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Mayiladuthurai taxi, Salem to Mayiladuthurai one way taxi, Salem to Mayiladuthurai outstation cabs, Salem to Mayiladuthurai taxi fare, Salem to Mayiladuthurai cab fare, Salem to Mayiladuthurai round trip taxi, Salem to Mayiladuthurai car rental, Salem to Mayiladuthurai cab booking">

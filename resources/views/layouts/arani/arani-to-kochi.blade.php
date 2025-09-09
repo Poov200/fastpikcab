@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Arani to Kochi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Arani to Kochi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Kochi taxi, Arani to Kochi one way taxi, Arani to Kochi outstation cabs, Arani to Kochi taxi fare, Arani to Kochi cab fare, Arani to Kochi round trip taxi, Arani to Kochi car rental, Arani to Kochi cab booking">

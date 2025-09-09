@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ramanathapuram to Dharmapuri Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ramanathapuram to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Dharmapuri taxi, Ramanathapuram to Dharmapuri one way taxi, Ramanathapuram to Dharmapuri outstation cabs, Ramanathapuram to Dharmapuri taxi fare, Ramanathapuram to Dharmapuri cab fare, Ramanathapuram to Dharmapuri round trip taxi, Ramanathapuram to Dharmapuri car rental, Ramanathapuram to Dharmapuri cab booking">

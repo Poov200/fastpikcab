@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Nagercoil taxi, Ariyalur to Nagercoil one way taxi, Ariyalur to Nagercoil outstation cabs, Ariyalur to Nagercoil taxi fare, Ariyalur to Nagercoil cab fare, Ariyalur to Nagercoil round trip taxi, Ariyalur to Nagercoil car rental, Ariyalur to Nagercoil cab booking">

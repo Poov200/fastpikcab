@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Vellore Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to vellore taxi, kerala to vellore one way taxi, kerala to vellore outstation cabs, kerala to vellore taxi fare, kerala to vellore cab fare, kerala to vellore round trip taxi, kerala to vellore car rental, kerala to vellore cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Ramanathapuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Ramanathapuram taxi, Nagapattinam to Ramanathapuram one way taxi, Nagapattinam to Ramanathapuram outstation cabs, Nagapattinam to Ramanathapuram taxi fare, Nagapattinam to Ramanathapuram cab fare, Nagapattinam to Ramanathapuram round trip taxi, Nagapattinam to Ramanathapuram car rental, Nagapattinam to Ramanathapuram cab booking">

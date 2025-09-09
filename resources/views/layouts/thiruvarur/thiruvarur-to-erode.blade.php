@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Erode Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to erode taxi, thiruvarur to erode one way taxi, thiruvarur to erode outstation cabs, thiruvarur to erode taxi fare, thiruvarur to erode cab fare, thiruvarur to erode round trip taxi, thiruvarur to erode car rental, thiruvarur to erode cab booking">
 
     {{-- Open Graph Meta Tags --}}

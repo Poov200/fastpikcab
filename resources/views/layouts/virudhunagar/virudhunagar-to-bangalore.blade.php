@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Virudhunagar to Bangalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Bangalore taxi, Virudhunagar to Bangalore one way taxi, Virudhunagar to Bangalore outstation cabs, Virudhunagar to Bangalore taxi fare, Virudhunagar to Bangalore cab fare, Virudhunagar to Bangalore round trip taxi, Virudhunagar to Bangalore car rental, Virudhunagar to Bangalore cab booking">

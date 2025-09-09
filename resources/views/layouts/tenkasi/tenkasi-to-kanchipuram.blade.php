@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tenkasi to Kanchipuram Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tenkasi to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Kanchipuram taxi, Tenkasi to Kanchipuram one way taxi, Tenkasi to Kanchipuram outstation cabs, Tenkasi to Kanchipuram taxi fare, Tenkasi to Kanchipuram cab fare, Tenkasi to Kanchipuram round trip taxi, Tenkasi to Kanchipuram car rental, Tenkasi to Kanchipuram cab booking">

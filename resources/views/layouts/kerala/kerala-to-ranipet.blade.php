@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Ranipet Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to ranipet taxi, kerala to ranipet one way taxi, kerala to ranipet outstation cabs, kerala to ranipet taxi fare, kerala to ranipet cab fare, kerala to ranipet round trip taxi, kerala to ranipet car rental, kerala to ranipet cab booking">
 
     {{-- Open Graph Meta Tags --}}

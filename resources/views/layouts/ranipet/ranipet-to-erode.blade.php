@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ranipet to Erode Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ranipet to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Erode taxi, Ranipet to Erode one way taxi, Ranipet to Erode outstation cabs, Ranipet to Erode taxi fare, Ranipet to Erode cab fare, Ranipet to Erode round trip taxi, Ranipet to Erode car rental, Ranipet to Erode cab booking">

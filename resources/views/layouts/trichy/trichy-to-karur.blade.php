@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Trichy to Karur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Trichy to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Karur taxi, Trichy to Karur one way taxi, Trichy to Karur outstation cabs, Trichy to Karur taxi fare, Trichy to Karur cab fare, Trichy to Karur round trip taxi, Trichy to Karur car rental, Trichy to Karur cab booking">

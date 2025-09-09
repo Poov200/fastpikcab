@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Bangalore to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Bangalore to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Bangalore to Nagercoil taxi, Bangalore to Nagercoil one way taxi, Bangalore to Nagercoil outstation cabs, Bangalore to Nagercoil taxi fare, Bangalore to Nagercoil cab fare, Bangalore to Nagercoil round trip taxi, Bangalore to Nagercoil car rental, Bangalore to Nagercoil cab booking">

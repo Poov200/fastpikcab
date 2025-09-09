@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Arakkonam taxi, Tirupati to Arakkonam one way taxi, Tirupati to Arakkonam outstation cabs, Tirupati to Arakkonam taxi fare, Tirupati to Arakkonam cab fare, Tirupati to Arakkonam round trip taxi, Tirupati to Arakkonam car rental, Tirupati to Arakkonam cab booking">

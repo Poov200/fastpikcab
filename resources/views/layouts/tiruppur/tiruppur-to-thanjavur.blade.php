@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tiruppur to Thanjavur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tiruppur to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Thanjavur taxi, Tiruppur to Thanjavur one way taxi, Tiruppur to Thanjavur outstation cabs, Tiruppur to Thanjavur taxi fare, Tiruppur to Thanjavur cab fare, Tiruppur to Thanjavur round trip taxi, Tiruppur to Thanjavur car rental, Tiruppur to Thanjavur cab booking">

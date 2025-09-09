@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Thoothukudi Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Thoothukudi taxi, Ariyalur to Thoothukudi one way taxi, Ariyalur to Thoothukudi outstation cabs, Ariyalur to Thoothukudi taxi fare, Ariyalur to Thoothukudi cab fare, Ariyalur to Thoothukudi round trip taxi, Ariyalur to Thoothukudi car rental, Ariyalur to Thoothukudi cab booking">

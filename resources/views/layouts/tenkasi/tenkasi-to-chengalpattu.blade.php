@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tenkasi to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tenkasi to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Chengalpattu taxi, Tenkasi to Chengalpattu one way taxi, Tenkasi to Chengalpattu outstation cabs, Tenkasi to Chengalpattu taxi fare, Tenkasi to Chengalpattu cab fare, Tenkasi to Chengalpattu round trip taxi, Tenkasi to Chengalpattu car rental, Tenkasi to Chengalpattu cab booking">

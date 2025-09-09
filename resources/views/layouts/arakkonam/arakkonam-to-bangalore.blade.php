@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Arakkonam to Bangalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Arakkonam to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arakkonam to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arakkonam to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arakkonam to Bangalore taxi, Fastcab, Speed Cab, Fast cab, Fast taxi, Arakkonam to Bangalore one way taxi, Arakkonam to Bangalore outstation cabs, Arakkonam to Bangalore taxi fare, Arakkonam to Bangalore cab fare, Arakkonam to Bangalore round trip taxi, Arakkonam to Bangalore car rental, Arakkonam to Bangalore cab booking">

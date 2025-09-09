@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Mayiladuthurai to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpikcab - Mayiladuthurai to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Nagercoil taxi, Mayiladuthurai to Nagercoil one way taxi, Mayiladuthurai to Nagercoil outstation cabs, Mayiladuthurai to Nagercoil taxi fare, Mayiladuthurai to Nagercoil cab fare, Mayiladuthurai to Nagercoil round trip taxi, Mayiladuthurai to Nagercoil car rental, Mayiladuthurai to Nagercoil cab booking">

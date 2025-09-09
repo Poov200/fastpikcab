@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Virudhunagar to Namakkal Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Namakkal taxi, Virudhunagar to Namakkal one way taxi, Virudhunagar to Namakkal outstation cabs, Virudhunagar to Namakkal taxi fare, Virudhunagar to Namakkal cab fare, Virudhunagar to Namakkal round trip taxi, Virudhunagar to Namakkal car rental, Virudhunagar to Namakkal cab booking">

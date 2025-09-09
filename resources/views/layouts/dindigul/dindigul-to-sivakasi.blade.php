@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dindigul to Sivakasi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dindigul to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Sivakasi taxi, Dindigul to Sivakasi one way taxi, Dindigul to Sivakasi outstation cabs, Dindigul to Sivakasi taxi fare, Dindigul to Sivakasi cab fare, Dindigul to Sivakasi round trip taxi, Dindigul to Sivakasi car rental, Dindigul to Sivakasi cab booking">

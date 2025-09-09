@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi to Tirunelveli Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Sivakasi to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Tirunelveli taxi, Sivakasi to Tirunelveli one way taxi, Sivakasi to Tirunelveli outstation cabs, Sivakasi to Tirunelveli taxi fare, Sivakasi to Tirunelveli cab fare, Sivakasi to Tirunelveli round trip taxi, Sivakasi to Tirunelveli car rental, Sivakasi to Tirunelveli cab booking">

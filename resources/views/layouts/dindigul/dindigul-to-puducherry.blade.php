@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dindigul to Puducherry Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dindigul to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Puducherry taxi, Dindigul to Puducherry one way taxi, Dindigul to Puducherry outstation cabs, Dindigul to Puducherry taxi fare, Dindigul to Puducherry cab fare, Dindigul to Puducherry round trip taxi, Dindigul to Puducherry car rental, Dindigul to Puducherry cab booking">

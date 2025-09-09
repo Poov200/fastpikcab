@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Virudhunagar to Tenkasi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Tenkasi taxi, Virudhunagar to Tenkasi one way taxi, Virudhunagar to Tenkasi outstation cabs, Virudhunagar to Tenkasi taxi fare, Virudhunagar to Tenkasi cab fare, Virudhunagar to Tenkasi round trip taxi, Virudhunagar to Tenkasi car rental, Virudhunagar to Tenkasi cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Hosur to Arani Taxi Service | Book Online</title>
+    <title>Fastpikcab - Hosur to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Arani taxi, Hosur to Arani one way taxi, Hosur to Arani outstation cabs, Hosur to Arani taxi fare, Hosur to Arani cab fare, Hosur to Arani round trip taxi, Hosur to Arani car rental, Hosur to Arani cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Villupuram to Ranipet Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Ranipet taxi, Villupuram to Ranipet one way taxi, Villupuram to Ranipet outstation cabs, Villupuram to Ranipet taxi fare, Villupuram to Ranipet cab fare, Villupuram to Ranipet round trip taxi, Villupuram to Ranipet car rental, Villupuram to Ranipet cab booking">

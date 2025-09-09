@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ranipet to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ranipet to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Perambalur taxi, Ranipet to Perambalur one way taxi, Ranipet to Perambalur outstation cabs, Ranipet to Perambalur taxi fare, Ranipet to Perambalur cab fare, Ranipet to Perambalur round trip taxi, Ranipet to Perambalur car rental, Ranipet to Perambalur cab booking">

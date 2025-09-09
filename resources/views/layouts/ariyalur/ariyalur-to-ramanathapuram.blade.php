@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Ramanathapuram Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Ramanathapuram taxi, Ariyalur to Ramanathapuram one way taxi, Ariyalur to Ramanathapuram outstation cabs, Ariyalur to Ramanathapuram taxi fare, Ariyalur to Ramanathapuram cab fare, Ariyalur to Ramanathapuram round trip taxi, Ariyalur to Ramanathapuram car rental, Ariyalur to Ramanathapuram cab booking">

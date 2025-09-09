@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Trichy to Erode Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Trichy to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Erode taxi, Trichy to Erode one way taxi, Trichy to Erode outstation cabs, Trichy to Erode taxi fare, Trichy to Erode cab fare, Trichy to Erode round trip taxi, Trichy to Erode car rental, Trichy to Erode cab booking">

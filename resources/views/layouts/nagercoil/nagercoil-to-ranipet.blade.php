@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagercoil to Ranipet Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagercoil to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Ranipet taxi, Nagercoil to Ranipet one way taxi, Nagercoil to Ranipet outstation cabs, Nagercoil to Ranipet taxi fare, Nagercoil to Ranipet cab fare, Nagercoil to Ranipet round trip taxi, Nagercoil to Ranipet car rental, Nagercoil to Ranipet cab booking">

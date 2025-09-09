@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Chennai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Chennai taxi, Nagapattinam to Chennai one way taxi, Nagapattinam to Chennai outstation cabs, Nagapattinam to Chennai taxi fare, Nagapattinam to Chennai cab fare, Nagapattinam to Chennai round trip taxi, Nagapattinam to Chennai car rental, Nagapattinam to Chennai cab booking">

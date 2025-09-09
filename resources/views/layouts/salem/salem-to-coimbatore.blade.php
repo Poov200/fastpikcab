@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Salem to Coimbatore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Salem to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Coimbatore taxi, Salem to Coimbatore one way taxi, Salem to Coimbatore outstation cabs, Salem to Coimbatore taxi fare, Salem to Coimbatore cab fare, Salem to Coimbatore round trip taxi, Salem to Coimbatore car rental, Salem to Coimbatore cab booking">

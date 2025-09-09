@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Villupuram Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to villupuram taxi, kochi to villupuram one way taxi, kochi to villupuram outstation cabs, kochi to villupuram taxi fare, kochi to villupuram cab fare, kochi to villupuram round trip taxi, kochi to villupuram car rental, kochi to villupuram cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fastpikcab - Cuddalore to Ranipet Taxi Service | Book Online</title>
+  <title>Fastpikcab - Cuddalore to Ranipet Taxi Service </title>
 
   <meta name="description"
     content="Book a reliable Cuddalore to Ranipet taxi service with Fastpikcab. Affordable one-way, round-trip, and outstation cabs for a comfortable and safe journey." />

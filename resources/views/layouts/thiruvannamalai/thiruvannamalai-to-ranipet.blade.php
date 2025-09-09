@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Ranipet Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to ranipet taxi, thiruvannamalai to ranipet one way taxi, thiruvannamalai to ranipet outstation cabs, thiruvannamalai to ranipet taxi fare, thiruvannamalai to ranipet cab fare, thiruvannamalai to ranipet round trip taxi, thiruvannamalai to ranipet car rental, thiruvannamalai to ranipet cab booking">
 
     {{-- Open Graph Meta Tags --}}

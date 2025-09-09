@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Thoothukudi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Thoothukudi taxi, Nagapattinam to Thoothukudi one way taxi, Nagapattinam to Thoothukudi outstation cabs, Nagapattinam to Thoothukudi taxi fare, Nagapattinam to Thoothukudi cab fare, Nagapattinam to Thoothukudi round trip taxi, Nagapattinam to Thoothukudi car rental, Nagapattinam to Thoothukudi cab booking">

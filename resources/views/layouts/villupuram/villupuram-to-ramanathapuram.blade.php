@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Villupuram to Ramanathapuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Ramanathapuram taxi, Villupuram to Ramanathapuram one way taxi, Villupuram to Ramanathapuram outstation cabs, Villupuram to Ramanathapuram taxi fare, Villupuram to Ramanathapuram cab fare, Villupuram to Ramanathapuram round trip taxi, Villupuram to Ramanathapuram car rental, Villupuram to Ramanathapuram cab booking">

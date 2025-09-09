@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Trichy to Tirunelveli Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Trichy to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Tirunelveli taxi, Trichy to Tirunelveli one way taxi, Trichy to Tirunelveli outstation cabs, Trichy to Tirunelveli taxi fare, Trichy to Tirunelveli cab fare, Trichy to Tirunelveli round trip taxi, Trichy to Tirunelveli car rental, Trichy to Tirunelveli cab booking">

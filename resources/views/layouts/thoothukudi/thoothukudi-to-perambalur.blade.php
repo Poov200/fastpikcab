@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thoothukudi to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thoothukudi to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thoothukudi to Perambalur taxi, Thoothukudi to Perambalur one way taxi, Thoothukudi to Perambalur outstation cabs, Thoothukudi to Perambalur taxi fare, Thoothukudi to Perambalur cab fare, Thoothukudi to Perambalur round trip taxi, Thoothukudi to Perambalur car rental, Thoothukudi to Perambalur cab booking">

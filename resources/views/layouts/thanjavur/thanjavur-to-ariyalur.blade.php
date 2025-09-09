@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Thanjavur to Ariyalur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Thanjavur to Ariyalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thanjavur to Ariyalur taxi, Thanjavur to Ariyalur one way taxi, Thanjavur to Ariyalur outstation cabs, Thanjavur to Ariyalur taxi fare, Thanjavur to Ariyalur cab fare, Thanjavur to Ariyalur round trip taxi, Thanjavur to Ariyalur car rental, Thanjavur to Ariyalur cab booking">

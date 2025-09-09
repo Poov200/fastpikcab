@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ranipet to Madurai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ranipet to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Madurai taxi, Ranipet to Madurai one way taxi, Ranipet to Madurai outstation cabs, Ranipet to Madurai taxi fare, Ranipet to Madurai cab fare, Ranipet to Madurai round trip taxi, Ranipet to Madurai car rental, Ranipet to Madurai cab booking">

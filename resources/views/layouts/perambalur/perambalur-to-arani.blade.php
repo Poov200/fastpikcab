@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Perambalur to Arani Taxi Service | Book Online</title>
+    <title>Fastpikcab - Perambalur to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Arani taxi, Perambalur to Arani one way taxi, Perambalur to Arani outstation cabs, Perambalur to Arani taxi fare, Perambalur to Arani cab fare, Perambalur to Arani round trip taxi, Perambalur to Arani car rental, Perambalur to Arani cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Madurai to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpikcab - Madurai to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Chengalpattu taxi, Madurai to Chengalpattu one way taxi, Madurai to Chengalpattu outstation cabs, Madurai to Chengalpattu taxi fare, Madurai to Chengalpattu cab fare, Madurai to Chengalpattu round trip taxi, Madurai to Chengalpattu car rental, Madurai to Chengalpattu cab booking">

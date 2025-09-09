@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi to Kanchipuram Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Sivakasi to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Kanchipuram taxi, Sivakasi to Kanchipuram one way taxi, Sivakasi to Kanchipuram outstation cabs, Sivakasi to Kanchipuram taxi fare, Sivakasi to Kanchipuram cab fare, Sivakasi to Kanchipuram round trip taxi, Sivakasi to Kanchipuram car rental, Sivakasi to Kanchipuram cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Puducherry to Thanjavur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Puducherry to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Puducherry to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Puducherry to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Puducherry to Thanjavur taxi, Puducherry to Thanjavur one way taxi, Puducherry to Thanjavur outstation cabs, Puducherry to Thanjavur taxi fare, Puducherry to Thanjavur cab fare, Puducherry to Thanjavur round trip taxi, Puducherry to Thanjavur car rental, Puducherry to Thanjavur cab booking">

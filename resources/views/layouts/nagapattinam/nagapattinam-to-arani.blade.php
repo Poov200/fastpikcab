@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Arani Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Arani taxi, Nagapattinam to Arani one way taxi, Nagapattinam to Arani outstation cabs, Nagapattinam to Arani taxi fare, Nagapattinam to Arani cab fare, Nagapattinam to Arani round trip taxi, Nagapattinam to Arani car rental, Nagapattinam to Arani cab booking">

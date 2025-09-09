@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Cuddalore to Madurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Cuddalore to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Cuddalore to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Cuddalore to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Cuddalore to Madurai taxi, Cuddalore to Madurai one way taxi, Cuddalore to Madurai outstation cabs, Cuddalore to Madurai taxi fare, Cuddalore to Madurai cab fare, Cuddalore to Madurai round trip taxi, Cuddalore to Madurai car rental, Cuddalore to Madurai cab booking">

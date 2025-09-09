@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dharmapuri to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dharmapuri to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Mayiladuthurai taxi, Dharmapuri to Mayiladuthurai one way taxi, Dharmapuri to Mayiladuthurai outstation cabs, Dharmapuri to Mayiladuthurai taxi fare, Dharmapuri to Mayiladuthurai cab fare, Dharmapuri to Mayiladuthurai round trip taxi, Dharmapuri to Mayiladuthurai car rental, Dharmapuri to Mayiladuthurai cab booking">

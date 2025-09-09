@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Coimbatore to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Coimbatore to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Perambalur taxi, Coimbatore to Perambalur one way taxi, Coimbatore to Perambalur outstation cabs, Coimbatore to Perambalur taxi fare, Coimbatore to Perambalur cab fare, Coimbatore to Perambalur round trip taxi, Coimbatore to Perambalur car rental, Coimbatore to Perambalur cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Coimbatore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Coimbatore taxi, Nagapattinam to Coimbatore one way taxi, Nagapattinam to Coimbatore outstation cabs, Nagapattinam to Coimbatore taxi fare, Nagapattinam to Coimbatore cab fare, Nagapattinam to Coimbatore round trip taxi, Nagapattinam to Coimbatore car rental, Nagapattinam to Coimbatore cab booking">

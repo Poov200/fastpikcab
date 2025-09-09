@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Arani to Pudukkottai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Arani to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Pudukkottai taxi, Arani to Pudukkottai one way taxi, Arani to Pudukkottai outstation cabs, Arani to Pudukkottai taxi fare, Arani to Pudukkottai cab fare, Arani to Pudukkottai round trip taxi, Arani to Pudukkottai car rental, Arani to Pudukkottai cab booking">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Perambalur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to perambalur taxi, kochi to perambalur one way taxi, kochi to perambalur outstation cabs, kochi to perambalur taxi fare, kochi to perambalur cab fare, kochi to perambalur round trip taxi, kochi to perambalur car rental, kochi to perambalur cab booking">
 
     {{-- Open Graph Meta Tags --}}

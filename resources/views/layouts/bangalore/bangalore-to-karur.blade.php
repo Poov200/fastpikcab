@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Karur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Bangalore to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Bangalore to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Bangalore to Karur taxi, Bangalore to Karur one way taxi, Bangalore to Karur outstation cabs, Bangalore to Karur taxi fare, Bangalore to Karur cab fare, Bangalore to Karur round trip taxi, Bangalore to Karur car rental, Bangalore to Karur cab booking">

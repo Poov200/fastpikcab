@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Mayiladuthurai to Erode Taxi Service | Book Online</title>
+    <title>Fastpikcab - Mayiladuthurai to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Erode taxi, Mayiladuthurai to Erode one way taxi, Mayiladuthurai to Erode outstation cabs, Mayiladuthurai to Erode taxi fare, Mayiladuthurai to Erode cab fare, Mayiladuthurai to Erode round trip taxi, Mayiladuthurai to Erode car rental, Mayiladuthurai to Erode cab booking">

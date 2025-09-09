@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Virudhunagar to Tirunelveli Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Tirunelveli taxi, Virudhunagar to Tirunelveli one way taxi, Virudhunagar to Tirunelveli outstation cabs, Virudhunagar to Tirunelveli taxi fare, Virudhunagar to Tirunelveli cab fare, Virudhunagar to Tirunelveli round trip taxi, Virudhunagar to Tirunelveli car rental, Virudhunagar to Tirunelveli cab booking">

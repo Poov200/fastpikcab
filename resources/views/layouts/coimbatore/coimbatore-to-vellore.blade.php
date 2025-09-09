@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Coimbatore to Vellore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Coimbatore to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Vellore taxi, Coimbatore to Vellore one way taxi, Coimbatore to Vellore outstation cabs, Coimbatore to Vellore taxi fare, Coimbatore to Vellore cab fare, Coimbatore to Vellore round trip taxi, Coimbatore to Vellore car rental, Coimbatore to Vellore cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Coimbatore to Cuddalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Coimbatore to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Cuddalore taxi, Coimbatore to Cuddalore one way taxi, Coimbatore to Cuddalore outstation cabs, Coimbatore to Cuddalore taxi fare, Coimbatore to Cuddalore cab fare, Coimbatore to Cuddalore round trip taxi, Coimbatore to Cuddalore car rental, Coimbatore to Cuddalore cab booking">

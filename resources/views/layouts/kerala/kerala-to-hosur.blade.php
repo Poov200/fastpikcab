@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Hosur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to hosur taxi, kerala to hosur one way taxi, kerala to hosur outstation cabs, kerala to hosur taxi fare, kerala to hosur cab fare, kerala to hosur round trip taxi, kerala to hosur car rental, kerala to hosur cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Thiruvarur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to thiruvarur taxi, kochi to thiruvarur one way taxi, kochi to thiruvarur outstation cabs, kochi to thiruvarur taxi fare, kochi to thiruvarur cab fare, kochi to thiruvarur round trip taxi, kochi to thiruvarur car rental, kochi to thiruvarur cab booking">
 
     {{-- Open Graph Meta Tags --}}

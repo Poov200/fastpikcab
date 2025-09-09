@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Coimbatore to Tirunelveli Taxi Service | Book Online</title>
+    <title>Fastpikcab - Coimbatore to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Tirunelveli taxi, Coimbatore to Tirunelveli one way taxi, Coimbatore to Tirunelveli outstation cabs, Coimbatore to Tirunelveli taxi fare, Coimbatore to Tirunelveli cab fare, Coimbatore to Tirunelveli round trip taxi, Coimbatore to Tirunelveli car rental, Coimbatore to Tirunelveli cab booking">

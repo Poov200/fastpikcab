@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Virudhunagar to Madurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Madurai taxi, Virudhunagar to Madurai one way taxi, Virudhunagar to Madurai outstation cabs, Virudhunagar to Madurai taxi fare, Virudhunagar to Madurai cab fare, Virudhunagar to Madurai round trip taxi, Virudhunagar to Madurai car rental, Virudhunagar to Madurai cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Karaikal to Krishnagiri Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Karaikal to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Krishnagiri taxi, Karaikal to Krishnagiri one way taxi, Karaikal to Krishnagiri outstation cabs, Karaikal to Krishnagiri taxi fare, Karaikal to Krishnagiri cab fare, Karaikal to Krishnagiri round trip taxi, Karaikal to Krishnagiri car rental, Karaikal to Krishnagiri cab booking">

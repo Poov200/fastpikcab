@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Arakkonam taxi, Erode to Arakkonam one way taxi, Erode to Arakkonam outstation cabs, Erode to Arakkonam taxi fare, Erode to Arakkonam cab fare, Erode to Arakkonam round trip taxi, Erode to Arakkonam car rental, Erode to Arakkonam cab booking">

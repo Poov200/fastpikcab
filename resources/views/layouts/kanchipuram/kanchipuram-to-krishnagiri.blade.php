@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Kanchipuram to Krishnagiri Taxi Service | Book Online</title>
+    <title>Fastpikcab - Kanchipuram to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Krishnagiri taxi, Kanchipuram to Krishnagiri one way taxi, Kanchipuram to Krishnagiri outstation cabs, Kanchipuram to Krishnagiri taxi fare, Kanchipuram to Krishnagiri cab fare, Kanchipuram to Krishnagiri round trip taxi, Kanchipuram to Krishnagiri car rental, Kanchipuram to Krishnagiri cab booking">

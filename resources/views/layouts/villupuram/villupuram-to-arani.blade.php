@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Villupuram to Arani Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Arani taxi, Villupuram to Arani one way taxi, Villupuram to Arani outstation cabs, Villupuram to Arani taxi fare, Villupuram to Arani cab fare, Villupuram to Arani round trip taxi, Villupuram to Arani car rental, Villupuram to Arani cab booking">

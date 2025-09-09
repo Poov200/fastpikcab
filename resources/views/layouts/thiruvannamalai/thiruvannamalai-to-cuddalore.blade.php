@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Cuddalore Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to cuddalore taxi, thiruvannamalai to cuddalore one way taxi, thiruvannamalai to cuddalore outstation cabs, thiruvannamalai to cuddalore taxi fare, thiruvannamalai to cuddalore cab fare, thiruvannamalai to cuddalore round trip taxi, thiruvannamalai to cuddalore car rental, thiruvannamalai to cuddalore cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Cuddalore Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Cuddalore. Book online for one-way, round-trip, or outstation travel.">

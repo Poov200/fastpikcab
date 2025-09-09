@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Mayiladuthurai to Thanjavur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Mayiladuthurai to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Thanjavur taxi, Mayiladuthurai to Thanjavur one way taxi, Mayiladuthurai to Thanjavur outstation cabs, Mayiladuthurai to Thanjavur taxi fare, Mayiladuthurai to Thanjavur cab fare, Mayiladuthurai to Thanjavur round trip taxi, Mayiladuthurai to Thanjavur car rental, Mayiladuthurai to Thanjavur cab booking">

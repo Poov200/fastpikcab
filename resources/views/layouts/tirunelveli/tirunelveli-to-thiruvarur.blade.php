@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirunelveli to Thiruvarur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirunelveli to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Thiruvarur taxi, Tirunelveli to Thiruvarur one way taxi, Tirunelveli to Thiruvarur outstation cabs, Tirunelveli to Thiruvarur taxi fare, Tirunelveli to Thiruvarur cab fare, Tirunelveli to Thiruvarur round trip taxi, Tirunelveli to Thiruvarur car rental, Tirunelveli to Thiruvarur cab booking">

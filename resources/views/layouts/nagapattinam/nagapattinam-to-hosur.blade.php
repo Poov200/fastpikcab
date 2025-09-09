@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Hosur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Hosur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Hosur taxi, Nagapattinam to Hosur one way taxi, Nagapattinam to Hosur outstation cabs, Nagapattinam to Hosur taxi fare, Nagapattinam to Hosur cab fare, Nagapattinam to Hosur round trip taxi, Nagapattinam to Hosur car rental, Nagapattinam to Hosur cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Cuddalore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Cuddalore taxi, Tirupati to Cuddalore one way taxi, Tirupati to Cuddalore outstation cabs, Tirupati to Cuddalore taxi fare, Tirupati to Cuddalore cab fare, Tirupati to Cuddalore round trip taxi, Tirupati to Cuddalore car rental, Tirupati to Cuddalore cab booking">

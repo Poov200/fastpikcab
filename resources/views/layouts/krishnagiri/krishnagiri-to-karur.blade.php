@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Krishnagiri to Karur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Krishnagiri to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Karur taxi, Krishnagiri to Karur one way taxi, Krishnagiri to Karur outstation cabs, Krishnagiri to Karur taxi fare, Krishnagiri to Karur cab fare, Krishnagiri to Karur round trip taxi, Krishnagiri to Karur car rental, Krishnagiri to Karur cab booking">

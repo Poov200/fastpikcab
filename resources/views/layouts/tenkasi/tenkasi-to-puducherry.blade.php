@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tenkasi to Puducherry Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tenkasi to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Puducherry taxi, Tenkasi to Puducherry one way taxi, Tenkasi to Puducherry outstation cabs, Tenkasi to Puducherry taxi fare, Tenkasi to Puducherry cab fare, Tenkasi to Puducherry round trip taxi, Tenkasi to Puducherry car rental, Tenkasi to Puducherry cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Krishnagiri Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Krishnagiri taxi, Tirupati to Krishnagiri one way taxi, Tirupati to Krishnagiri outstation cabs, Tirupati to Krishnagiri taxi fare, Tirupati to Krishnagiri cab fare, Tirupati to Krishnagiri round trip taxi, Tirupati to Krishnagiri car rental, Tirupati to Krishnagiri cab booking">

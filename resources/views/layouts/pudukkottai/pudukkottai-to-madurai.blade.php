@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Pudukkottai to Madurai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Pudukkottai to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Madurai taxi, Pudukkottai to Madurai one way taxi, Pudukkottai to Madurai outstation cabs, Pudukkottai to Madurai taxi fare, Pudukkottai to Madurai cab fare, Pudukkottai to Madurai round trip taxi, Pudukkottai to Madurai car rental, Pudukkottai to Madurai cab booking">

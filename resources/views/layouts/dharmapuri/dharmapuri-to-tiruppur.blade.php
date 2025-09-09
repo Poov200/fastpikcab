@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dharmapuri to Tiruppur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dharmapuri to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Tiruppur taxi, Dharmapuri to Tiruppur one way taxi, Dharmapuri to Tiruppur outstation cabs, Dharmapuri to Tiruppur taxi fare, Dharmapuri to Tiruppur cab fare, Dharmapuri to Tiruppur round trip taxi, Dharmapuri to Tiruppur car rental, Dharmapuri to Tiruppur cab booking">

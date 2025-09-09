@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Villupuram to Bangalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Bangalore taxi, Villupuram to Bangalore one way taxi, Villupuram to Bangalore outstation cabs, Villupuram to Bangalore taxi fare, Villupuram to Bangalore cab fare, Villupuram to Bangalore round trip taxi, Villupuram to Bangalore car rental, Villupuram to Bangalore cab booking">

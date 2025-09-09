@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Arani to Cuddalore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Arani to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Cuddalore taxi, Arani to Cuddalore one way taxi, Arani to Cuddalore outstation cabs, Arani to Cuddalore taxi fare, Arani to Cuddalore cab fare, Arani to Cuddalore round trip taxi, Arani to Cuddalore car rental, Arani to Cuddalore cab booking">

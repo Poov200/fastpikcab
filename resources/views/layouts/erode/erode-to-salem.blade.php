@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Salem Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Salem taxi, Erode to Salem one way taxi, Erode to Salem outstation cabs, Erode to Salem taxi fare, Erode to Salem cab fare, Erode to Salem round trip taxi, Erode to Salem car rental, Erode to Salem cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ranipet to Thiruvarur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ranipet to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Thiruvarur taxi, Ranipet to Thiruvarur one way taxi, Ranipet to Thiruvarur outstation cabs, Ranipet to Thiruvarur taxi fare, Ranipet to Thiruvarur cab fare, Ranipet to Thiruvarur round trip taxi, Ranipet to Thiruvarur car rental, Ranipet to Thiruvarur cab booking">

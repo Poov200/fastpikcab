@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Kanchipuram to Cuddalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Kanchipuram to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Cuddalore taxi, Kanchipuram to Cuddalore one way taxi, Kanchipuram to Cuddalore outstation cabs, Kanchipuram to Cuddalore taxi fare, Kanchipuram to Cuddalore cab fare, Kanchipuram to Cuddalore round trip taxi, Kanchipuram to Cuddalore car rental, Kanchipuram to Cuddalore cab booking">

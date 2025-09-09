@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Arakkonam to Hosur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Arakkonam to Hosur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arakkonam to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arakkonam to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arakkonam to Hosur taxi, Arakkonam to Hosur one way taxi, Arakkonam to Hosur outstation cabs, Arakkonam to Hosur taxi fare, Arakkonam to Hosur cab fare, Arakkonam to Hosur round trip taxi, Arakkonam to Hosur car rental, Arakkonam to Hosur cab booking">

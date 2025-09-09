@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Erode Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to erode taxi, thiruvannamalai to erode one way taxi, thiruvannamalai to erode outstation cabs, thiruvannamalai to erode taxi fare, thiruvannamalai to erode cab fare, thiruvannamalai to erode round trip taxi, thiruvannamalai to erode car rental, thiruvannamalai to erode cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Erode Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Erode. Book online for one-way, round-trip, or outstation travel.">

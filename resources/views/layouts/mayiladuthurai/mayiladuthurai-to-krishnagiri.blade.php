@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Mayiladuthurai to Krishnagiri Taxi Service | Book Online</title>
+    <title>Fastpikcab - Mayiladuthurai to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Krishnagiri taxi, Mayiladuthurai to Krishnagiri one way taxi, Mayiladuthurai to Krishnagiri outstation cabs, Mayiladuthurai to Krishnagiri taxi fare, Mayiladuthurai to Krishnagiri cab fare, Mayiladuthurai to Krishnagiri round trip taxi, Mayiladuthurai to Krishnagiri car rental, Mayiladuthurai to Krishnagiri cab booking">

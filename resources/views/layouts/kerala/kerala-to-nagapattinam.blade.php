@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Nagapattinam Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to nagapattinam taxi, kerala to nagapattinam one way taxi, kerala to nagapattinam outstation cabs, kerala to nagapattinam taxi fare, kerala to nagapattinam cab fare, kerala to nagapattinam round trip taxi, kerala to nagapattinam car rental, kerala to nagapattinam cab booking">
 
     {{-- Open Graph Meta Tags --}}

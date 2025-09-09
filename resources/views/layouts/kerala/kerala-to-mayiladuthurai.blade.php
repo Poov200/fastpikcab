@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Mayiladuthurai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to mayiladuthurai taxi, kerala to mayiladuthurai one way taxi, kerala to mayiladuthurai outstation cabs, kerala to mayiladuthurai taxi fare, kerala to mayiladuthurai cab fare, kerala to mayiladuthurai round trip taxi, kerala to mayiladuthurai car rental, kerala to mayiladuthurai cab booking">
 
     {{-- Open Graph Meta Tags --}}

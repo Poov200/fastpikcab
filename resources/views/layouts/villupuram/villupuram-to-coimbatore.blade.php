@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Villupuram to Coimbatore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Coimbatore Taxi Service </title>
 
     <meta name="description"
         content="Book a reliable Villupuram to Coimbatore taxi service with Fastpikcab. Affordable one-way, round-trip, and outstation cab options with comfortable rides for your journey.">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Sivakasi to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Mayiladuthurai taxi, Sivakasi to Mayiladuthurai one way taxi, Sivakasi to Mayiladuthurai outstation cabs, Sivakasi to Mayiladuthurai taxi fare, Sivakasi to Mayiladuthurai cab fare, Sivakasi to Mayiladuthurai round trip taxi, Sivakasi to Mayiladuthurai car rental, Sivakasi to Mayiladuthurai cab booking">

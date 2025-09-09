@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Tiruppur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to tiruppur taxi, thiruvannamalai to tiruppur one way taxi, thiruvannamalai to tiruppur outstation cabs, thiruvannamalai to tiruppur taxi fare, thiruvannamalai to tiruppur cab fare, thiruvannamalai to tiruppur round trip taxi, thiruvannamalai to tiruppur car rental, thiruvannamalai to tiruppur cab booking">
 
     {{-- Open Graph Meta Tags --}}

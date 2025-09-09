@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Trichy to Dharmapuri Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Trichy to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Dharmapuri taxi, Trichy to Dharmapuri one way taxi, Trichy to Dharmapuri outstation cabs, Trichy to Dharmapuri taxi fare, Trichy to Dharmapuri cab fare, Trichy to Dharmapuri round trip taxi, Trichy to Dharmapuri car rental, Trichy to Dharmapuri cab booking">

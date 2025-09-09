@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Tiruppur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to tiruppur taxi, kerala to tiruppur one way taxi, kerala to tiruppur outstation cabs, kerala to tiruppur taxi fare, kerala to tiruppur cab fare, kerala to tiruppur round trip taxi, kerala to tiruppur car rental, kerala to tiruppur cab booking">
 
     {{-- Open Graph Meta Tags --}}

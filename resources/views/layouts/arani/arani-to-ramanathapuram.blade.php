@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Arani to Ramanathapuram Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Arani to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Ramanathapuram taxi, Arani to Ramanathapuram one way taxi, Arani to Ramanathapuram outstation cabs, Arani to Ramanathapuram taxi fare, Arani to Ramanathapuram cab fare, Arani to Ramanathapuram round trip taxi, Arani to Ramanathapuram car rental, Arani to Ramanathapuram cab booking">

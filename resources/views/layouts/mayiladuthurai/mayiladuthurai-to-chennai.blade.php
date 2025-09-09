@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Mayiladuthurai to Chennai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Mayiladuthurai to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Chennai taxi, Mayiladuthurai to Chennai one way taxi, Mayiladuthurai to Chennai outstation cabs, Mayiladuthurai to Chennai taxi fare, Mayiladuthurai to Chennai cab fare, Mayiladuthurai to Chennai round trip taxi, Mayiladuthurai to Chennai car rental, Mayiladuthurai to Chennai cab booking">

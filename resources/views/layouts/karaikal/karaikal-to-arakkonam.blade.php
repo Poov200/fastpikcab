@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Karaikal to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Karaikal to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Arakkonam taxi, Karaikal to Arakkonam one way taxi, Karaikal to Arakkonam outstation cabs, Karaikal to Arakkonam taxi fare, Karaikal to Arakkonam cab fare, Karaikal to Arakkonam round trip taxi, Karaikal to Arakkonam car rental, Karaikal to Arakkonam cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Sivakasi to Thiruvannamalai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Sivakasi to Thiruvannamalai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Thiruvannamalai taxi, Sivakasi to Thiruvannamalai one way taxi, Sivakasi to Thiruvannamalai outstation cabs, Sivakasi to Thiruvannamalai taxi fare, Sivakasi to Thiruvannamalai cab fare, Sivakasi to Thiruvannamalai round trip taxi, Sivakasi to Thiruvannamalai car rental, Sivakasi to Thiruvannamalai cab booking">

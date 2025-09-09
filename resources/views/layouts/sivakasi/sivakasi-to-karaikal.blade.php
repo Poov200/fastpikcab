@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Sivakasi to Karaikal Taxi Service | Book Online</title>
+    <title>Fastpikcab - Sivakasi to Karaikal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Karaikal taxi, Sivakasi to Karaikal one way taxi, Sivakasi to Karaikal outstation cabs, Sivakasi to Karaikal taxi fare, Sivakasi to Karaikal cab fare, Sivakasi to Karaikal round trip taxi, Sivakasi to Karaikal car rental, Sivakasi to Karaikal cab booking">
@@ -295,7 +295,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">₹4,800</td>

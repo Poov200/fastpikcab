@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Thoothukudi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to thoothukudi taxi, thiruvarur to thoothukudi one way taxi, thiruvarur to thoothukudi outstation cabs, thiruvarur to thoothukudi taxi fare, thiruvarur to thoothukudi cab fare, thiruvarur to thoothukudi round trip taxi, thiruvarur to thoothukudi car rental, thiruvarur to thoothukudi cab booking">
 
     {{-- Open Graph Meta Tags --}}

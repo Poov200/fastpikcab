@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ramanathapuram to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ramanathapuram to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Nagercoil taxi, Ramanathapuram to Nagercoil one way taxi, Ramanathapuram to Nagercoil outstation cabs, Ramanathapuram to Nagercoil taxi fare, Ramanathapuram to Nagercoil cab fare, Ramanathapuram to Nagercoil round trip taxi, Ramanathapuram to Nagercoil car rental, Ramanathapuram to Nagercoil cab booking">

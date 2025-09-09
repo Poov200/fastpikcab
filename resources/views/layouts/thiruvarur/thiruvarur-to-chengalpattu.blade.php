@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Chengalpattu Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to chengalpattu taxi, thiruvarur to chengalpattu one way taxi, thiruvarur to chengalpattu outstation cabs, thiruvarur to chengalpattu taxi fare, thiruvarur to chengalpattu cab fare, thiruvarur to chengalpattu round trip taxi, thiruvarur to chengalpattu car rental, thiruvarur to chengalpattu cab booking">
 
     {{-- Open Graph Meta Tags --}}

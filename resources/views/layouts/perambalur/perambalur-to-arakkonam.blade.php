@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Perambalur to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpikcab - Perambalur to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Arakkonam taxi, Perambalur to Arakkonam one way taxi, Perambalur to Arakkonam outstation cabs, Perambalur to Arakkonam taxi fare, Perambalur to Arakkonam cab fare, Perambalur to Arakkonam round trip taxi, Perambalur to Arakkonam car rental, Perambalur to Arakkonam cab booking">

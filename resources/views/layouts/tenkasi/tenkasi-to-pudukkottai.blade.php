@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tenkasi to Pudukkottai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tenkasi to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Pudukkottai taxi, Tenkasi to Pudukkottai one way taxi, Tenkasi to Pudukkottai outstation cabs, Tenkasi to Pudukkottai taxi fare, Tenkasi to Pudukkottai cab fare, Tenkasi to Pudukkottai round trip taxi, Tenkasi to Pudukkottai car rental, Tenkasi to Pudukkottai cab booking">

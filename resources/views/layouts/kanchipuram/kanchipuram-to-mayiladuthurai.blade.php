@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Kanchipuram to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Kanchipuram to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Mayiladuthurai taxi, Kanchipuram to Mayiladuthurai one way taxi, Kanchipuram to Mayiladuthurai outstation cabs, Kanchipuram to Mayiladuthurai taxi fare, Kanchipuram to Mayiladuthurai cab fare, Kanchipuram to Mayiladuthurai round trip taxi, Kanchipuram to Mayiladuthurai car rental, Kanchipuram to Mayiladuthurai cab booking">

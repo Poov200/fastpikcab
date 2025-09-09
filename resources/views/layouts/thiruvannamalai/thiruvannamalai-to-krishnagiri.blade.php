@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Krishnagiri Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to krishnagiri taxi, thiruvannamalai to krishnagiri one way taxi, thiruvannamalai to krishnagiri outstation cabs, thiruvannamalai to krishnagiri taxi fare, thiruvannamalai to krishnagiri cab fare, thiruvannamalai to krishnagiri round trip taxi, thiruvannamalai to krishnagiri car rental, thiruvannamalai to krishnagiri cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Krishnagiri Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Krishnagiri. Book online for one-way, round-trip, or outstation travel.">

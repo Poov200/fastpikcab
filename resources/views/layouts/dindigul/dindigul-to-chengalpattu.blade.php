@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dindigul to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dindigul to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Chengalpattu taxi, Dindigul to Chengalpattu one way taxi, Dindigul to Chengalpattu outstation cabs, Dindigul to Chengalpattu taxi fare, Dindigul to Chengalpattu cab fare, Dindigul to Chengalpattu round trip taxi, Dindigul to Chengalpattu car rental, Dindigul to Chengalpattu cab booking">

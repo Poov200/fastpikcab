@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagercoil to Nagapattinam Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagercoil to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Nagapattinam taxi, Nagercoil to Nagapattinam one way taxi, Nagercoil to Nagapattinam outstation cabs, Nagercoil to Nagapattinam taxi fare, Nagercoil to Nagapattinam cab fare, Nagercoil to Nagapattinam round trip taxi, Nagercoil to Nagapattinam car rental, Nagercoil to Nagapattinam cab booking">

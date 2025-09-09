@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tiruppur to Arani Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tiruppur to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Arani taxi, Tiruppur to Arani one way taxi, Tiruppur to Arani outstation cabs, Tiruppur to Arani taxi fare, Tiruppur to Arani cab fare, Tiruppur to Arani round trip taxi, Tiruppur to Arani car rental, Tiruppur to Arani cab booking">

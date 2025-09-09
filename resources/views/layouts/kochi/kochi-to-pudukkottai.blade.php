@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Pudukkottai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to pudukkottai taxi, kochi to pudukkottai one way taxi, kochi to pudukkottai outstation cabs, kochi to pudukkottai taxi fare, kochi to pudukkottai cab fare, kochi to pudukkottai round trip taxi, kochi to pudukkottai car rental, kochi to pudukkottai cab booking">
 
     {{-- Open Graph Meta Tags --}}

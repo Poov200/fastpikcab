@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Hosur to Salem Taxi Service | Book Online</title>
+    <title>Fastpikcab - Hosur to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Salem taxi, Hosur to Salem one way taxi, Hosur to Salem outstation cabs, Hosur to Salem taxi fare, Hosur to Salem cab fare, Hosur to Salem round trip taxi, Hosur to Salem car rental, Hosur to Salem cab booking">

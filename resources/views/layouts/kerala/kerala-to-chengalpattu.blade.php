@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Chengalpattu Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to chengalpattu taxi, kerala to chengalpattu one way taxi, kerala to chengalpattu outstation cabs, kerala to chengalpattu taxi fare, kerala to chengalpattu cab fare, kerala to chengalpattu round trip taxi, kerala to chengalpattu car rental, kerala to chengalpattu cab booking">
 
     {{-- Open Graph Meta Tags --}}

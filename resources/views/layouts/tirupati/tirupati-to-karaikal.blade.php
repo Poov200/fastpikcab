@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Karaikal Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Karaikal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Karaikal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Karaikal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Karaikal taxi, Tirupati to Karaikal one way taxi, Tirupati to Karaikal outstation cabs, Tirupati to Karaikal taxi fare, Tirupati to Karaikal cab fare, Tirupati to Karaikal round trip taxi, Tirupati to Karaikal car rental, Tirupati to Karaikal cab booking">

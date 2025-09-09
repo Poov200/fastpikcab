@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Coimbatore to Sivakasi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Coimbatore to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Sivakasi taxi, Coimbatore to Sivakasi one way taxi, Coimbatore to Sivakasi outstation cabs, Coimbatore to Sivakasi taxi fare, Coimbatore to Sivakasi cab fare, Coimbatore to Sivakasi round trip taxi, Coimbatore to Sivakasi car rental, Coimbatore to Sivakasi cab booking">

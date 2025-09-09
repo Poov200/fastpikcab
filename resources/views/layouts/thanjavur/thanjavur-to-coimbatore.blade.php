@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thanjavur to Coimbatore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thanjavur to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thanjavur to Coimbatore taxi, Thanjavur to Coimbatore one way taxi, Thanjavur to Coimbatore outstation cabs, Thanjavur to Coimbatore taxi fare, Thanjavur to Coimbatore cab fare, Thanjavur to Coimbatore round trip taxi, Thanjavur to Coimbatore car rental, Thanjavur to Coimbatore cab booking">

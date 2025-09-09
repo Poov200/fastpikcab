@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Ariyalur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Ariyalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Ariyalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to ariyalur taxi, kochi to ariyalur one way taxi, kochi to ariyalur outstation cabs, kochi to ariyalur taxi fare, kochi to ariyalur cab fare, kochi to ariyalur round trip taxi, kochi to ariyalur car rental, kochi to ariyalur cab booking">
 
     {{-- Open Graph Meta Tags --}}

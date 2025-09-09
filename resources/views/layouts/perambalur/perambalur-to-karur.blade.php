@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Perambalur to Karur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Perambalur to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Karur taxi, Perambalur to Karur one way taxi, Perambalur to Karur outstation cabs, Perambalur to Karur taxi fare, Perambalur to Karur cab fare, Perambalur to Karur round trip taxi, Perambalur to Karur car rental, Perambalur to Karur cab booking, Karur taxi service">

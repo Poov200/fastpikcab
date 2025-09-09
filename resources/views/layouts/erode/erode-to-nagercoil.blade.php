@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Nagercoil taxi, Erode to Nagercoil one way taxi, Erode to Nagercoil outstation cabs, Erode to Nagercoil taxi fare, Erode to Nagercoil cab fare, Erode to Nagercoil round trip taxi, Erode to Nagercoil car rental, Erode to Nagercoil cab booking">

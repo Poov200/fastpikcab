@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Villupuram to Trichy Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Trichy taxi, Villupuram to Trichy one way taxi, Villupuram to Trichy outstation cabs, Villupuram to Trichy taxi fare, Villupuram to Trichy cab fare, Villupuram to Trichy round trip taxi, Villupuram to Trichy car rental, Villupuram to Trichy cab booking">

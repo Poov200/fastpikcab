@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Arakkonam to Thanjavur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Arakkonam to Thanjavur Taxi Service </title>
 
     <meta name="description"
         content="Book a reliable Arakkonam to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Hosur to Karaikal Taxi Service | Book Online</title>
+    <title>Fastpikcab - Hosur to Karaikal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Karaikal taxi, Hosur to Karaikal one way taxi, Hosur to Karaikal outstation cabs, Hosur to Karaikal taxi fare, Hosur to Karaikal cab fare, Hosur to Karaikal round trip taxi, Hosur to Karaikal car rental, Hosur to Karaikal cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Nagapattinam Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Nagapattinam taxi, Erode to Nagapattinam one way taxi, Erode to Nagapattinam outstation cabs, Erode to Nagapattinam taxi fare, Erode to Nagapattinam cab fare, Erode to Nagapattinam round trip taxi, Erode to Nagapattinam car rental, Erode to Nagapattinam cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Ranipet Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Ranipet taxi, Tirupati to Ranipet one way taxi, Tirupati to Ranipet outstation cabs, Tirupati to Ranipet taxi fare, Tirupati to Ranipet cab fare, Tirupati to Ranipet round trip taxi, Tirupati to Ranipet car rental, Tirupati to Ranipet cab booking">

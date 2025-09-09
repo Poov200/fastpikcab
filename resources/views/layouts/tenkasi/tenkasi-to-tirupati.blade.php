@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Tenkasi to Tirupati Taxi Service | Book Online</title>
+    <title>Fastpikcab - Tenkasi to Tirupati Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Tirupati taxi, Tenkasi to Tirupati one way taxi, Tenkasi to Tirupati outstation cabs, Tenkasi to Tirupati taxi fare, Tenkasi to Tirupati cab fare, Tenkasi to Tirupati round trip taxi, Tenkasi to Tirupati car rental, Tenkasi to Tirupati cab booking">
@@ -295,7 +295,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">₹9,500</td>

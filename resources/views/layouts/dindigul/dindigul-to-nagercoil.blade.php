@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dindigul to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dindigul to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Nagercoil taxi, Dindigul to Nagercoil one way taxi, Dindigul to Nagercoil outstation cabs, Dindigul to Nagercoil taxi fare, Dindigul to Nagercoil cab fare, Dindigul to Nagercoil round trip taxi, Dindigul to Nagercoil car rental, Dindigul to Nagercoil cab booking">

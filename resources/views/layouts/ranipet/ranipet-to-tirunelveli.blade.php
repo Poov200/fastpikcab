@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ranipet to Tirunelveli Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ranipet to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Tirunelveli taxi, Ranipet to Tirunelveli one way taxi, Ranipet to Tirunelveli outstation cabs, Ranipet to Tirunelveli taxi fare, Ranipet to Tirunelveli cab fare, Ranipet to Tirunelveli round trip taxi, Ranipet to Tirunelveli car rental, Ranipet to Tirunelveli cab booking">

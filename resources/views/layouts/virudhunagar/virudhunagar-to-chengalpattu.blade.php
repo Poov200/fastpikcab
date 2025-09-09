@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Virudhunagar to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Chengalpattu taxi, Virudhunagar to Chengalpattu one way taxi, Virudhunagar to Chengalpattu outstation cabs, Virudhunagar to Chengalpattu taxi fare, Virudhunagar to Chengalpattu cab fare, Virudhunagar to Chengalpattu round trip taxi, Virudhunagar to Chengalpattu car rental, Virudhunagar to Chengalpattu cab booking">

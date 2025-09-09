@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Vellore to Virudhunagar Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Vellore to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Virudhunagar taxi, Vellore to Virudhunagar one way taxi, Vellore to Virudhunagar outstation cabs, Vellore to Virudhunagar taxi fare, Vellore to Virudhunagar cab fare, Vellore to Virudhunagar round trip taxi, Vellore to Virudhunagar car rental, Vellore to Virudhunagar cab booking">

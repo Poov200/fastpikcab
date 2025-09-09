@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Madurai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to madurai taxi, kerala to madurai one way taxi, kerala to madurai outstation cabs, kerala to madurai taxi fare, kerala to madurai cab fare, kerala to madurai round trip taxi, kerala to madurai car rental, kerala to madurai cab booking">
 
     {{-- Open Graph Meta Tags --}}

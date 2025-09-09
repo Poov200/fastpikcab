@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Pudukkottai to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Pudukkottai to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Perambalur taxi, Pudukkottai to Perambalur one way taxi, Pudukkottai to Perambalur outstation cabs, Pudukkottai to Perambalur taxi fare, Pudukkottai to Perambalur cab fare, Pudukkottai to Perambalur round trip taxi, Pudukkottai to Perambalur car rental, Pudukkottai to Perambalur cab booking">

@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thanjavur Local Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thanjavur Local Taxi Service </title>
     <meta name="description"
-        content="Book a reliable Thanjavur local taxi service with Fastpik Cab. Get affordable fares for city tours, airport transfers, and hourly rentals. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur local taxi service with Fastpik Cab. Get affordable fares for city tours, airport transfers, and hourly rentals. ">
     <meta name="keywords"
         content="Thanjavur local taxi, Thanjavur city cabs, Thanjavur taxi fare, Thanjavur cab booking, Thanjavur airport taxi, Thanjavur railway station taxi, Thanjavur car rental, taxi in Thanjavur">
     <meta property="og:title" content="Fastpik Cab - Thanjavur Local Taxi Service">

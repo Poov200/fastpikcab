@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Puducherry to Tiruppur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Puducherry to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Puducherry to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Puducherry to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Puducherry to Tiruppur taxi, Puducherry to Tiruppur one way taxi, Puducherry to Tiruppur outstation cabs, Puducherry to Tiruppur taxi fare, Puducherry to Tiruppur cab fare, Puducherry to Tiruppur round trip taxi, Puducherry to Tiruppur car rental, Puducherry to Tiruppur cab booking">

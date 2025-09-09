@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dharmapuri to Tenkasi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dharmapuri to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Tenkasi taxi, Dharmapuri to Tenkasi one way taxi, Dharmapuri to Tenkasi outstation cabs, Dharmapuri to Tenkasi taxi fare, Dharmapuri to Tenkasi cab fare, Dharmapuri to Tenkasi round trip taxi, Dharmapuri to Tenkasi car rental, Dharmapuri to Tenkasi cab booking">

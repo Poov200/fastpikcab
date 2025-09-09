@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Salem to Trichy Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Salem to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Trichy taxi, Salem to Trichy one way taxi, Salem to Trichy outstation cabs, Salem to Trichy taxi fare, Salem to Trichy cab fare, Salem to Trichy round trip taxi, Salem to Trichy car rental, Salem to Trichy cab booking">

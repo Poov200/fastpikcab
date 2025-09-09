@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Kochi Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to kochi taxi, thiruvannamalai to kochi one way taxi, thiruvannamalai to kochi outstation cabs, thiruvannamalai to kochi taxi fare, thiruvannamalai to kochi cab fare, thiruvannamalai to kochi round trip taxi, thiruvannamalai to kochi car rental, thiruvannamalai to kochi cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Kochi Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Kochi. Book online for one-way, round-trip, or outstation travel.">

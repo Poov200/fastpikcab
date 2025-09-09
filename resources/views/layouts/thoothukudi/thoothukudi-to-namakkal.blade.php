@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thoothukudi to Namakkal Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thoothukudi to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thoothukudi to Namakkal taxi, Thoothukudi to Namakkal one way taxi, Thoothukudi to Namakkal outstation cabs, Thoothukudi to Namakkal taxi fare, Thoothukudi to Namakkal cab fare, Thoothukudi to Namakkal round trip taxi, Thoothukudi to Namakkal car rental, Thoothukudi to Namakkal cab booking">

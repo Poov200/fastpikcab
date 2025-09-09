@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Krishnagiri to Tenkasi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Krishnagiri to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Tenkasi taxi, Krishnagiri to Tenkasi one way taxi, Krishnagiri to Tenkasi outstation cabs, Krishnagiri to Tenkasi taxi fare, Krishnagiri to Tenkasi cab fare, Krishnagiri to Tenkasi round trip taxi, Krishnagiri to Tenkasi car rental, Krishnagiri to Tenkasi cab booking">

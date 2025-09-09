@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dindigul to Tenkasi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dindigul to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Tenkasi taxi, Dindigul to Tenkasi one way taxi, Dindigul to Tenkasi outstation cabs, Dindigul to Tenkasi taxi fare, Dindigul to Tenkasi cab fare, Dindigul to Tenkasi round trip taxi, Dindigul to Tenkasi car rental, Dindigul to Tenkasi cab booking">

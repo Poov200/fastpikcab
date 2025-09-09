@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Coimbatore to Kerala Taxi Service | Book Online</title>
+    <title>Fastpikcab - Coimbatore to Kerala Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Kerala taxi, Coimbatore to Kerala one way taxi, Coimbatore to Kerala outstation cabs, Coimbatore to Kerala taxi fare, Coimbatore to Kerala cab fare, Coimbatore to Kerala round trip taxi, Coimbatore to Kerala car rental, Coimbatore to Kerala cab booking">

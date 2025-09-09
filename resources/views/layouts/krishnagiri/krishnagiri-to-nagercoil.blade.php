@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Krishnagiri to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpikcab - Krishnagiri to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Nagercoil taxi, Krishnagiri to Nagercoil one way taxi, Krishnagiri to Nagercoil outstation cabs, Krishnagiri to Nagercoil taxi fare, Krishnagiri to Nagercoil cab fare, Krishnagiri to Nagercoil round trip taxi, Krishnagiri to Nagercoil car rental, Krishnagiri to Nagercoil cab booking">

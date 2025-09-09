@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Chengalpattu to Vellore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Chengalpattu to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chengalpattu to Vellore taxi, Chengalpattu to Vellore one way taxi, Chengalpattu to Vellore outstation cabs, Chengalpattu to Vellore taxi fare, Chengalpattu to Vellore cab fare, Chengalpattu to Vellore round trip taxi, Chengalpattu to Vellore car rental, Chengalpattu to Vellore cab booking">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Tirunelveli Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to tirunelveli taxi, kochi to tirunelveli one way taxi, kochi to tirunelveli outstation cabs, kochi to tirunelveli taxi fare, kochi to tirunelveli cab fare, kochi to tirunelveli round trip taxi, kochi to tirunelveli car rental, kochi to tirunelveli cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tiruppur to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tiruppur to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Arakkonam taxi, Tiruppur to Arakkonam one way taxi, Tiruppur to Arakkonam outstation cabs, Tiruppur to Arakkonam taxi fare, Tiruppur to Arakkonam cab fare, Tiruppur to Arakkonam round trip taxi, Tiruppur to Arakkonam car rental, Tiruppur to Arakkonam cab booking">

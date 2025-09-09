@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Dindigul Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to dindigul taxi, kerala to dindigul one way taxi, kerala to dindigul outstation cabs, kerala to dindigul taxi fare, kerala to dindigul cab fare, kerala to dindigul round trip taxi, kerala to dindigul car rental, kerala to dindigul cab booking">
 
     {{-- Open Graph Meta Tags --}}

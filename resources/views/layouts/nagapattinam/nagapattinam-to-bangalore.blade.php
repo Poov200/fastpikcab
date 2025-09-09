@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Bangalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Bangalore taxi, Nagapattinam to Bangalore one way taxi, Nagapattinam to Bangalore outstation cabs, Nagapattinam to Bangalore taxi fare, Nagapattinam to Bangalore cab fare, Nagapattinam to Bangalore round trip taxi, Nagapattinam to Bangalore car rental, Nagapattinam to Bangalore cab booking">

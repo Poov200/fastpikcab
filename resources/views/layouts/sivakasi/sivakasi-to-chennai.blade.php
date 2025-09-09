@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi to Chennai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Sivakasi to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Chennai taxi, Sivakasi to Chennai one way taxi, Sivakasi to Chennai outstation cabs, Sivakasi to Chennai taxi fare, Sivakasi to Chennai cab fare, Sivakasi to Chennai round trip taxi, Sivakasi to Chennai car rental, Sivakasi to Chennai cab booking">

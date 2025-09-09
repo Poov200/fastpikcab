@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Madurai Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to madurai taxi, thiruvannamalai to madurai one way taxi, thiruvannamalai to madurai outstation cabs, thiruvannamalai to madurai taxi fare, thiruvannamalai to madurai cab fare, thiruvannamalai to madurai round trip taxi, thiruvannamalai to madurai car rental, thiruvannamalai to madurai cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Madurai Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Madurai. Book online for one-way, round-trip, or outstation travel.">

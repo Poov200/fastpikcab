@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Cuddalore to Bangalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Cuddalore to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Cuddalore to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Cuddalore to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Cuddalore to Bangalore taxi, Cuddalore to Bangalore one way taxi, Cuddalore to Bangalore outstation cabs, Cuddalore to Bangalore taxi fare, Cuddalore to Bangalore cab fare, Cuddalore to Bangalore round trip taxi, Cuddalore to Bangalore car rental, Cuddalore to Bangalore cab booking">

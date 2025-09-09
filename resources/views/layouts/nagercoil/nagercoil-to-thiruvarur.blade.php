@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagercoil to Thiruvarur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagercoil to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Thiruvarur taxi, Nagercoil to Thiruvarur one way taxi, Nagercoil to Thiruvarur outstation cabs, Nagercoil to Thiruvarur taxi fare, Nagercoil to Thiruvarur cab fare, Nagercoil to Thiruvarur round trip taxi, Nagercoil to Thiruvarur car rental, Nagercoil to Thiruvarur cab booking">

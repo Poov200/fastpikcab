@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Karur to Karaikal Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Karaikal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Karaikal taxi, Karur to Karaikal one way taxi, Karur to Karaikal outstation cabs, Karur to Karaikal taxi fare, Karur to Karaikal cab fare, Karur to Karaikal round trip taxi, Karur to Karaikal car rental, Karur to Karaikal cab booking">

@@ -7,7 +7,7 @@
     <title>Thiruvannamalai to Puducherry Taxi Service | Fastpik Cab</title>
 
     <meta name="description"
-        content="Book a reliable Thiruvannamalai to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thiruvannamalai to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="thiruvannamalai to puducherry taxi, thiruvannamalai to puducherry one way taxi, thiruvannamalai to puducherry outstation cabs, thiruvannamalai to puducherry taxi fare, thiruvannamalai to puducherry cab fare, thiruvannamalai to puducherry round trip taxi, thiruvannamalai to puducherry car rental, thiruvannamalai to puducherry cab booking">
 

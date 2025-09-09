@@ -7,7 +7,7 @@
     <title>Thiruvannamalai to Namakkal Taxi Service | Fastpik Cab</title>
 
     <meta name="description"
-        content="Book a reliable Thiruvannamalai to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thiruvannamalai to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="thiruvannamalai to namakkal taxi, thiruvannamalai to namakkal one way taxi, thiruvannamalai to namakkal outstation cabs, thiruvannamalai to namakkal taxi fare, thiruvannamalai to namakkal cab fare, thiruvannamalai to namakkal round trip taxi, thiruvannamalai to namakkal car rental, thiruvannamalai to namakkal cab booking">
 

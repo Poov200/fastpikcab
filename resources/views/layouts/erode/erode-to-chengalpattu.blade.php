@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Chengalpattu taxi, Erode to Chengalpattu one way taxi, Erode to Chengalpattu outstation cabs, Erode to Chengalpattu taxi fare, Erode to Chengalpattu cab fare, Erode to Chengalpattu round trip taxi, Erode to Chengalpattu car rental, Erode to Chengalpattu cab booking">

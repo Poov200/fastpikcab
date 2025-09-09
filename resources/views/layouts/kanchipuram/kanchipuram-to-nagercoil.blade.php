@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Kanchipuram to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpikcab - Kanchipuram to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Nagercoil taxi, Kanchipuram to Nagercoil one way taxi, Kanchipuram to Nagercoil outstation cabs, Kanchipuram to Nagercoil taxi fare, Kanchipuram to Nagercoil cab fare, Kanchipuram to Nagercoil round trip taxi, Kanchipuram to Nagercoil car rental, Kanchipuram to Nagercoil cab booking">

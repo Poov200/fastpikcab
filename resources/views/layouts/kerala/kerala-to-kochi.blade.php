@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Kochi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to kochi taxi, kerala to kochi one way taxi, kerala to kochi outstation cabs, kerala to kochi taxi fare, kerala to kochi cab fare, kerala to kochi round trip taxi, kerala to kochi car rental, kerala to kochi cab booking">
 
     {{-- Open Graph Meta Tags --}}
