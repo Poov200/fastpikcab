@@ -168,6 +168,64 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Ariyalur to Ramanathapuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Ariyalur to Ramanathapuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Ariyalur to Ramanathapuram</strong>? Fastpikcab provides safe, clean,
+            and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
+            Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on
+            time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Ariyalur and Ramanathapuram is approximately <strong>380 km</strong>,
+            which usually takes about <strong>8–9 hours</strong> by road. The most common travel route
+            is via <strong>NH38</strong>, passing through <strong>Trichy, Madurai, and Paramakudi</strong>.
+            Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free.
+            We follow <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Ariyalur Railway Station taxi pickups</strong> for passengers heading towards
+            Ramanathapuram.
+            Families, business professionals, students, and group travelers can benefit from our
+            <strong>long-distance taxi packages</strong>, which are cost-effective for intercity travel.
+        </p>
+
+        <p class="mb-4">
+            Apart from Ramanathapuram, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
+            Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Ariyalur to Ramanathapuram taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Ariyalur to Ramanathapuram cab service</strong> and enjoy
+            a safe, reliable, and comfortable long-distance travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Ariyalur to Ramanathapuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
