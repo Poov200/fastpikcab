@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,90 +22,89 @@
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/puducherry-to-dharmapuri-drop-taxi">
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Fastpikcab",
-      "url": "https://www.fastpikcab.com/",
-      "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
-      "image": "https://www.fastpikcab.com/img/heroimg.png",
-      "telephone": "+91-8825694157",
-      "priceRange": "$$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Throw Pathi Amman Kovil Street",
-        "addressLocality": "Kalanjukuppam",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "607104",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Puducherry to Dharmapuri Taxi Service",
-          "description": "Reliable taxi service connecting Puducherry to Dharmapuri with options for one-way and round-trip travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Puducherry", "Dharmapuri"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Fastpikcab"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2025-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpikcab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Puducherry to Dharmapuri Taxi Service",
+                    "description": "Reliable taxi service connecting Puducherry to Dharmapuri with options for one-way and round-trip travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Puducherry", "Dharmapuri"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpikcab"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2025-12-31"
+            }
+        }
     </script>
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Puducherry to Dharmapuri Taxi Service | Fastpikcab",
-      "description": "Book affordable and reliable taxis from Puducherry to Dharmapuri. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.fastpikcab.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Puducherry to Dharmapuri",
-            "item": "https://www.fastpikcab.com/puducherry-to-dharmapuri-drop-taxi"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Puducherry to Dharmapuri Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "3600",
-          "highPrice": "6000",
-          "offerCount": "Multiple price points based on vehicle type"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Puducherry to Dharmapuri Taxi Service | Fastpikcab",
+            "description": "Book affordable and reliable taxis from Puducherry to Dharmapuri. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Puducherry to Dharmapuri",
+                        "item": "https://www.fastpikcab.com/puducherry-to-dharmapuri-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Puducherry to Dharmapuri Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "3600",
+                    "highPrice": "6000",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
         }
-      }
-    }
     </script>
     <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
@@ -122,6 +122,7 @@
         }
     </style>
 </head>
+
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
@@ -236,10 +237,12 @@
             </div>
         </div>
     </section>
+    @include('layouts.routes')
     @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
+
 </html>

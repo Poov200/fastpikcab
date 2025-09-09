@@ -315,6 +315,7 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>

@@ -28,91 +28,90 @@
     <link rel="canonical" href="https://www.fastpikcab.com/arakkonam-to-nagercoil-drop-taxi">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Fastpikcab",
-      "url": "https://www.fastpikcab.com/",
-      "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
-      "image": "https://www.fastpikcab.com/img/heroimg.png",
-      "telephone": "+91-8825694157",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Throw Pathi Amman Kovil Street",
-        "addressLocality": "Kalanjukuppam",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "607104",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Arakkonam to Nagercoil Taxi Service",
-          "description": "Reliable taxi service connecting Arakkonam to Nagercoil with options for one-way, round-trip, and outstation travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Arakkonam", "Nagercoil"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Fastpikcab"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2024-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpikcab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Arakkonam to Nagercoil Taxi Service",
+                    "description": "Reliable taxi service connecting Arakkonam to Nagercoil with options for one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Arakkonam", "Nagercoil"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpikcab"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2024-12-31"
+            }
+        }
     </script>
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Arakkonam to Nagercoil Taxi Service | Fastpikcab",
-      "description": "Book affordable and reliable taxis from Arakkonam to Nagercoil. Choose from sedan and SUV vehicles for a comfortable travel.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.fastpikcab.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Arakkonam to Nagercoil",
-            "item": "https://www.fastpikcab.com/arakkonam-to-nagercoil-drop-taxi"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Arakkonam to Nagercoil Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "11000",
-          "highPrice": "14500",
-          "offerCount": "Multiple price points based on vehicle type"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Arakkonam to Nagercoil Taxi Service | Fastpikcab",
+            "description": "Book affordable and reliable taxis from Arakkonam to Nagercoil. Choose from sedan and SUV vehicles for a comfortable travel.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Arakkonam to Nagercoil",
+                        "item": "https://www.fastpikcab.com/arakkonam-to-nagercoil-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Arakkonam to Nagercoil Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "11000",
+                    "highPrice": "14500",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
         }
-      }
-    }
     </script>
 
     <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
@@ -255,6 +254,7 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>

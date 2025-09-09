@@ -258,6 +258,7 @@ Here's the HTML code, which you can save as an `.html` file. Remember that this 
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>

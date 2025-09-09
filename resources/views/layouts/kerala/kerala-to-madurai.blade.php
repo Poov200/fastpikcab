@@ -75,9 +75,18 @@
             "description": "Book affordable and reliable taxis from Kerala to Madurai. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
-                "itemListElement": [
-                    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.fastpikcab.com/"},
-                    {"@type": "ListItem", "position": 2, "name": "Kerala to Madurai", "item": "https://www.fastpikcab.com/kerala-to-madurai-drop-taxi"}
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kerala to Madurai",
+                        "item": "https://www.fastpikcab.com/kerala-to-madurai-drop-taxi"
+                    }
                 ]
             },
             "mainEntityOfPage": {
@@ -235,6 +244,7 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>
