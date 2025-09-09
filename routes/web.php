@@ -210,6 +210,10 @@ Route::get('/kerala-taxi-service', function () {
     return view('layouts.kerala.kerala-taxi-service');
 })->name('kerala-taxi-service');
 
+Route::get('/ariyalur-taxi-service', function () {
+    return view('layouts.ariyalur.ariyalur-taxi-service');
+})->name('ariyalur-taxi-service');
+
 
 Route::get('/adminlogin', function () {
     return view('layouts.admin.adminLogin');
@@ -7349,3 +7353,172 @@ Route::get('/tirupati-to-thiruvannamalai-drop-taxi', function () {
 Route::get('/tirupati-to-kerala-drop-taxi', function () {
     return view('layouts.tirupati.tirupati-to-kerala');
 })->name('tirupati-to-kerala');
+
+
+Route::get('/ariyalur-to-ariyalur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-ariyalur');
+})->name('ariyalur-to-ariyalur');
+
+Route::get('/ariyalur-to-arani-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-arani');
+})->name('ariyalur-to-arani');
+
+Route::get('/ariyalur-to-arakkonam-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-arakkonam');
+})->name('ariyalur-to-arakkonam');
+
+Route::get('/ariyalur-to-ariyalur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-ariyalur');
+})->name('ariyalur-to-ariyalur');
+
+Route::get('/ariyalur-to-chengalpattu-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-chengalpattu');
+})->name('ariyalur-to-chengalpattu');
+
+Route::get('/ariyalur-to-chennai-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-chennai');
+})->name('ariyalur-to-chennai');
+
+Route::get('/ariyalur-to-coimbatore-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-coimbatore');
+})->name('ariyalur-to-coimbatore');
+
+Route::get('/ariyalur-to-cuddalore-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-cuddalore');
+})->name('ariyalur-to-cuddalore');
+
+Route::get('/ariyalur-to-dharmapuri-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-dharmapuri');
+})->name('ariyalur-to-dharmapuri');
+
+Route::get('/ariyalur-to-dindigul-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-dindigul');
+})->name('ariyalur-to-dindigul');
+
+Route::get('/ariyalur-to-erode-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-erode');
+})->name('ariyalur-to-erode');
+
+Route::get('/ariyalur-to-hosur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-hosur');
+})->name('ariyalur-to-hosur');
+
+Route::get('/ariyalur-to-kanchipuram-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-kanchipuram');
+})->name('ariyalur-to-kanchipuram');
+
+Route::get('/ariyalur-to-karur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-karur');
+})->name('ariyalur-to-karur');
+
+Route::get('/ariyalur-to-krishnagiri-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-krishnagiri');
+})->name('ariyalur-to-krishnagiri');
+
+Route::get('/ariyalur-to-madurai-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-madurai');
+})->name('ariyalur-to-madurai');
+
+Route::get('/ariyalur-to-mayiladuthurai-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-mayiladuthurai');
+})->name('ariyalur-to-mayiladuthurai');
+
+Route::get('/ariyalur-to-nagapattinam-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-nagapattinam');
+})->name('ariyalur-to-nagapattinam');
+
+Route::get('/ariyalur-to-nagercoil-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-nagercoil');
+})->name('ariyalur-to-nagercoil');
+
+Route::get('/ariyalur-to-namakkal-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-namakkal');
+})->name('ariyalur-to-namakkal');
+
+Route::get('/ariyalur-to-perambalur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-perambalur');
+})->name('ariyalur-to-perambalur');
+
+Route::get('/ariyalur-to-puducherry-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-puducherry');
+})->name('ariyalur-to-puducherry');
+
+Route::get('/ariyalur-to-pudukkottai-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-pudukkottai');
+})->name('ariyalur-to-pudukkottai');
+
+Route::get('/ariyalur-to-ramanathapuram-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-ramanathapuram');
+})->name('ariyalur-to-ramanathapuram');
+
+Route::get('/ariyalur-to-ranipet-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-ranipet');
+})->name('ariyalur-to-ranipet');
+
+Route::get('/ariyalur-to-salem-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-salem');
+})->name('ariyalur-to-salem');
+
+Route::get('/ariyalur-to-sivakasi-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-sivakasi');
+})->name('ariyalur-to-sivakasi');
+
+Route::get('/ariyalur-to-tenkasi-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-tenkasi');
+})->name('ariyalur-to-tenkasi');
+
+Route::get('/ariyalur-to-thanjavur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-thanjavur');
+})->name('ariyalur-to-thanjavur');
+
+Route::get('/ariyalur-to-thiruvarur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-thiruvarur');
+})->name('ariyalur-to-thiruvarur');
+
+Route::get('/ariyalur-to-thoothukudi-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-thoothukudi');
+})->name('ariyalur-to-thoothukudi');
+
+Route::get('/ariyalur-to-tirunelveli-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-tirunelveli');
+})->name('ariyalur-to-tirunelveli');
+
+Route::get('/ariyalur-to-tiruppur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-tiruppur');
+})->name('ariyalur-to-tiruppur');
+
+Route::get('/ariyalur-to-trichy-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-trichy');
+})->name('ariyalur-to-trichy');
+
+Route::get('/ariyalur-to-vellore-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-vellore');
+})->name('ariyalur-to-vellore');
+
+Route::get('/ariyalur-to-villupuram-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-villupuram');
+})->name('ariyalur-to-villupuram');
+
+Route::get('/ariyalur-to-virudhunagar-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-virudhunagar');
+})->name('ariyalur-to-virudhunagar');
+
+Route::get('/ariyalur-to-karaikal-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-karaikal');
+})->name('ariyalur-to-karaikal');
+
+Route::get('/ariyalur-to-kochi-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-kochi');
+})->name('ariyalur-to-kochi');
+
+Route::get('/ariyalur-to-ariyalur-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-ariyalur');
+})->name('ariyalur-to-ariyalur');
+
+Route::get('/ariyalur-to-thiruvannamalai-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-thiruvannamalai');
+})->name('ariyalur-to-thiruvannamalai');
+
+Route::get('/ariyalur-to-kerala-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-kerala');
+})->name('ariyalur-to-kerala');
