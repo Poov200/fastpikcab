@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Trichy taxi, Dindigul to Trichy one way taxi, Dindigul to Trichy outstation cabs, Dindigul to Trichy taxi fare, Dindigul to Trichy cab fare, Dindigul to Trichy round trip taxi, Dindigul to Trichy car rental, Dindigul to Trichy cab booking">

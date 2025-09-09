@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Pudukkottai taxi, Hosur to Pudukkottai one way taxi, Hosur to Pudukkottai outstation cabs, Hosur to Pudukkottai taxi fare, Hosur to Pudukkottai cab fare, Hosur to Pudukkottai round trip taxi, Hosur to Pudukkottai car rental, Hosur to Pudukkottai cab booking">

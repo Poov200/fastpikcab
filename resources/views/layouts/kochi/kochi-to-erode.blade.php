@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Erode Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to erode taxi, kochi to erode one way taxi, kochi to erode outstation cabs, kochi to erode taxi fare, kochi to erode cab fare, kochi to erode round trip taxi, kochi to erode car rental, kochi to erode cab booking">
 
     {{-- Open Graph Meta Tags --}}

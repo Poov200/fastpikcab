@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Arani taxi, Vellore to Arani one way taxi, Vellore to Arani outstation cabs, Vellore to Arani taxi fare, Vellore to Arani cab fare, Vellore to Arani round trip taxi, Vellore to Arani car rental, Vellore to Arani cab booking">

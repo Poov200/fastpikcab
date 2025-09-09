@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Karaikal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Karaikal taxi, Dindigul to Karaikal one way taxi, Dindigul to Karaikal outstation cabs, Dindigul to Karaikal taxi fare, Dindigul to Karaikal cab fare, Dindigul to Karaikal round trip taxi, Dindigul to Karaikal car rental, Dindigul to Karaikal cab booking">

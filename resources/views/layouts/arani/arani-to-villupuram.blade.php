@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Arani to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Villupuram taxi, Arani to Villupuram one way taxi, Arani to Villupuram outstation cabs, Arani to Villupuram taxi fare, Arani to Villupuram cab fare, Arani to Villupuram round trip taxi, Arani to Villupuram car rental, Arani to Villupuram cab booking">

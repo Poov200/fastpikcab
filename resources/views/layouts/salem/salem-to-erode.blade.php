@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Erode taxi, Salem to Erode one way taxi, Salem to Erode outstation cabs, Salem to Erode taxi fare, Salem to Erode cab fare, Salem to Erode round trip taxi, Salem to Erode car rental, Salem to Erode cab booking">

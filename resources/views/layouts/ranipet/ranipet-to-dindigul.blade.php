@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ranipet to Dindigul Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Dindigul taxi, Ranipet to Dindigul one way taxi, Ranipet to Dindigul outstation cabs, Ranipet to Dindigul taxi fare, Ranipet to Dindigul cab fare, Ranipet to Dindigul round trip taxi, Ranipet to Dindigul car rental, Ranipet to Dindigul cab booking">

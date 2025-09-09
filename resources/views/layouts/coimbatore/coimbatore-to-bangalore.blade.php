@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Bangalore taxi, Coimbatore to Bangalore one way taxi, Coimbatore to Bangalore outstation cabs, Coimbatore to Bangalore taxi fare, Coimbatore to Bangalore cab fare, Coimbatore to Bangalore round trip taxi, Coimbatore to Bangalore car rental, Coimbatore to Bangalore cab booking">

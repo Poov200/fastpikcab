@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Madurai taxi, Krishnagiri to Madurai one way taxi, Krishnagiri to Madurai outstation cabs, Krishnagiri to Madurai taxi fare, Krishnagiri to Madurai cab fare, Krishnagiri to Madurai round trip taxi, Krishnagiri to Madurai car rental, Krishnagiri to Madurai cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Thiruvannamalai to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thiruvannamalai to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thiruvannamalai to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thiruvannamalai to Trichy taxi, Thiruvannamalai to Trichy one way taxi, Thiruvannamalai to Trichy outstation cabs, Thiruvannamalai to Trichy taxi fare, Thiruvannamalai to Trichy cab fare, Thiruvannamalai to Trichy round trip taxi, Thiruvannamalai to Trichy car rental, Thiruvannamalai to Trichy cab booking">

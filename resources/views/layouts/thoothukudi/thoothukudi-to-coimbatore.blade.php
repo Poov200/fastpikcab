@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thoothukudi to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thoothukudi to Coimbatore taxi, Thoothukudi to Coimbatore one way taxi, Thoothukudi to Coimbatore outstation cabs, Thoothukudi to Coimbatore taxi fare, Thoothukudi to Coimbatore cab fare, Thoothukudi to Coimbatore round trip taxi, Thoothukudi to Coimbatore car rental, Thoothukudi to Coimbatore cab booking">

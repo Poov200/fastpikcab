@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Arani to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Tirunelveli taxi, Arani to Tirunelveli one way taxi, Arani to Tirunelveli outstation cabs, Arani to Tirunelveli taxi fare, Arani to Tirunelveli cab fare, Arani to Tirunelveli round trip taxi, Arani to Tirunelveli car rental, Arani to Tirunelveli cab booking">

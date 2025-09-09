@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Sivakasi taxi, Villupuram to Sivakasi one way taxi, Villupuram to Sivakasi outstation cabs, Villupuram to Sivakasi taxi fare, Villupuram to Sivakasi cab fare, Villupuram to Sivakasi round trip taxi, Villupuram to Sivakasi car rental, Villupuram to Sivakasi cab booking">

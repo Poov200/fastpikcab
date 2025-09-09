@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Thiruvarur taxi, Tiruppur to Thiruvarur one way taxi, Tiruppur to Thiruvarur outstation cabs, Tiruppur to Thiruvarur taxi fare, Tiruppur to Thiruvarur cab fare, Tiruppur to Thiruvarur round trip taxi, Tiruppur to Thiruvarur car rental, Tiruppur to Thiruvarur cab booking">

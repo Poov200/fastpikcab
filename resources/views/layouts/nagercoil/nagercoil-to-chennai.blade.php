@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Chennai taxi, Nagercoil to Chennai one way taxi, Nagercoil to Chennai outstation cabs, Nagercoil to Chennai taxi fare, Nagercoil to Chennai cab fare, Nagercoil to Chennai round trip taxi, Nagercoil to Chennai car rental, Nagercoil to Chennai cab booking">

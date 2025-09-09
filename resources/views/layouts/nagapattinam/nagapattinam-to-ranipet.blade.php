@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagapattinam to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Ranipet taxi, Nagapattinam to Ranipet one way taxi, Nagapattinam to Ranipet outstation cabs, Nagapattinam to Ranipet taxi fare, Nagapattinam to Ranipet cab fare, Nagapattinam to Ranipet round trip taxi, Nagapattinam to Ranipet car rental, Nagapattinam to Ranipet cab booking">

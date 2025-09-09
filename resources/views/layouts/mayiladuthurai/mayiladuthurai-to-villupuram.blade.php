@@ -7,7 +7,7 @@
     <title>Fastpikcab - Mayiladuthurai to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Villupuram taxi, Mayiladuthurai to Villupuram one way taxi, Mayiladuthurai to Villupuram outstation cabs, Mayiladuthurai to Villupuram taxi fare, Mayiladuthurai to Villupuram cab fare, Mayiladuthurai to Villupuram round trip taxi, Mayiladuthurai to Villupuram car rental, Mayiladuthurai to Villupuram cab booking">

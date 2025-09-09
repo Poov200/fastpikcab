@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Nagercoil taxi, Salem to Nagercoil one way taxi, Salem to Nagercoil outstation cabs, Salem to Nagercoil taxi fare, Salem to Nagercoil cab fare, Salem to Nagercoil round trip taxi, Salem to Nagercoil car rental, Salem to Nagercoil cab booking">

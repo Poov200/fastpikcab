@@ -7,7 +7,7 @@
     <title>Fastpikcab - Mayiladuthurai to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Bangalore taxi, Mayiladuthurai to Bangalore one way taxi, Mayiladuthurai to Bangalore outstation cabs, Mayiladuthurai to Bangalore taxi fare, Mayiladuthurai to Bangalore cab fare, Mayiladuthurai to Bangalore round trip taxi, Mayiladuthurai to Bangalore car rental, Mayiladuthurai to Bangalore cab booking">

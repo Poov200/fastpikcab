@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Thiruvarur taxi, Namakkal to Thiruvarur one way taxi, Namakkal to Thiruvarur outstation cabs, Namakkal to Thiruvarur taxi fare, Namakkal to Thiruvarur cab fare, Namakkal to Thiruvarur round trip taxi, Namakkal to Thiruvarur car rental, Namakkal to Thiruvarur cab booking">

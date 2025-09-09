@@ -7,7 +7,7 @@
     <title>Fastpikcab - Arakkonam to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arakkonam to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arakkonam to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arakkonam to Pudukkottai taxi, Arakkonam to Pudukkottai one way taxi, Arakkonam to Pudukkottai outstation cabs, Arakkonam to Pudukkottai taxi fare, Arakkonam to Pudukkottai cab fare, Arakkonam to Pudukkottai round trip taxi, Arakkonam to Pudukkottai car rental, Arakkonam to Pudukkottai cab booking">

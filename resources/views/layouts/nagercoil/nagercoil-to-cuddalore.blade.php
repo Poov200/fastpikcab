@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Cuddalore taxi, Nagercoil to Cuddalore one way taxi, Nagercoil to Cuddalore outstation cabs, Nagercoil to Cuddalore taxi fare, Nagercoil to Cuddalore cab fare, Nagercoil to Cuddalore round trip taxi, Nagercoil to Cuddalore car rental, Nagercoil to Cuddalore cab booking">

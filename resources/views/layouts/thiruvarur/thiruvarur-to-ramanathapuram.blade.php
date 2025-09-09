@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Ramanathapuram Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to ramanathapuram taxi, thiruvarur to ramanathapuram one way taxi, thiruvarur to ramanathapuram outstation cabs, thiruvarur to ramanathapuram taxi fare, thiruvarur to ramanathapuram cab fare, thiruvarur to ramanathapuram round trip taxi, thiruvarur to ramanathapuram car rental, thiruvarur to ramanathapuram cab booking">
 
     {{-- Open Graph Meta Tags --}}

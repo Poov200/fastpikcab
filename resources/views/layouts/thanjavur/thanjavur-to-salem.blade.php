@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fastpik Cab - Thanjavur to Salem Taxi Service </title>
     <meta name="description"
-        content="Book a reliable Thanjavur to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="Thanjavur to Salem taxi, Thanjavur to Salem one way taxi, Thanjavur to Salem outstation cabs, Thanjavur to Salem taxi fare, Thanjavur to Salem cab fare, Thanjavur to Salem round trip taxi, Thanjavur to Salem car rental, Thanjavur to Salem cab booking">
     <meta property="og:title" content="Fastpik Cab - Thanjavur to Salem Taxi Service">

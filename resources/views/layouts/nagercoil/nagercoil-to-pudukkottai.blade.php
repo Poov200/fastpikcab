@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Pudukkottai taxi, Nagercoil to Pudukkottai one way taxi, Nagercoil to Pudukkottai outstation cabs, Nagercoil to Pudukkottai taxi fare, Nagercoil to Pudukkottai cab fare, Nagercoil to Pudukkottai round trip taxi, Nagercoil to Pudukkottai car rental, Nagercoil to Pudukkottai cab booking">

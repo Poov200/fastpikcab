@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Bangalore taxi, Dharmapuri to Bangalore one way taxi, Dharmapuri to Bangalore outstation cabs, Dharmapuri to Bangalore taxi fare, Dharmapuri to Bangalore cab fare, Dharmapuri to Bangalore round trip taxi, Dharmapuri to Bangalore car rental, Dharmapuri to Bangalore cab booking">

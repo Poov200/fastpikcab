@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Tiruppur taxi, Kanchipuram to Tiruppur one way taxi, Kanchipuram to Tiruppur outstation cabs, Kanchipuram to Tiruppur taxi fare, Kanchipuram to Tiruppur cab fare, Kanchipuram to Tiruppur round trip taxi, Kanchipuram to Tiruppur car rental, Kanchipuram to Tiruppur cab booking">

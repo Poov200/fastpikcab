@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Sivakasi taxi, Hosur to Sivakasi one way taxi, Hosur to Sivakasi outstation cabs, Hosur to Sivakasi taxi fare, Hosur to Sivakasi cab fare, Hosur to Sivakasi round trip taxi, Hosur to Sivakasi car rental, Hosur to Sivakasi cab booking">

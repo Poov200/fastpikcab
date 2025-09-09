@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Namakkal taxi, Tenkasi to Namakkal one way taxi, Tenkasi to Namakkal outstation cabs, Tenkasi to Namakkal taxi fare, Tenkasi to Namakkal cab fare, Tenkasi to Namakkal round trip taxi, Tenkasi to Namakkal car rental, Tenkasi to Namakkal cab booking">

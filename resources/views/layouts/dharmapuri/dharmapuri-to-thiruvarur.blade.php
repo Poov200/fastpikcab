@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Thiruvarur taxi, Dharmapuri to Thiruvarur one way taxi, Dharmapuri to Thiruvarur outstation cabs, Dharmapuri to Thiruvarur taxi fare, Dharmapuri to Thiruvarur cab fare, Dharmapuri to Thiruvarur round trip taxi, Dharmapuri to Thiruvarur car rental, Dharmapuri to Thiruvarur cab booking">

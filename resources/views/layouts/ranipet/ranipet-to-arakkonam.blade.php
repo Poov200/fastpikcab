@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ranipet to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Arakkonam taxi, Ranipet to Arakkonam one way taxi, Ranipet to Arakkonam outstation cabs, Ranipet to Arakkonam taxi fare, Ranipet to Arakkonam cab fare, Ranipet to Arakkonam round trip taxi, Ranipet to Arakkonam car rental, Ranipet to Arakkonam cab booking">

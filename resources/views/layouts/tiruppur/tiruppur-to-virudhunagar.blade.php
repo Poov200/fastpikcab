@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Virudhunagar taxi, Tiruppur to Virudhunagar one way taxi, Tiruppur to Virudhunagar outstation cabs, Tiruppur to Virudhunagar taxi fare, Tiruppur to Virudhunagar cab fare, Tiruppur to Virudhunagar round trip taxi, Tiruppur to Virudhunagar car rental, Tiruppur to Virudhunagar cab booking">

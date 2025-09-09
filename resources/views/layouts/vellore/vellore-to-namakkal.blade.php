@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Namakkal taxi, Vellore to Namakkal one way taxi, Vellore to Namakkal outstation cabs, Vellore to Namakkal taxi fare, Vellore to Namakkal cab fare, Vellore to Namakkal round trip taxi, Vellore to Namakkal car rental, Vellore to Namakkal cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Thanjavur taxi, Kanchipuram to Thanjavur one way taxi, Kanchipuram to Thanjavur outstation cabs, Kanchipuram to Thanjavur taxi fare, Kanchipuram to Thanjavur cab fare, Kanchipuram to Thanjavur round trip taxi, Kanchipuram to Thanjavur car rental, Kanchipuram to Thanjavur cab booking">

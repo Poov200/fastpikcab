@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Krishnagiri taxi, Erode to Krishnagiri one way taxi, Erode to Krishnagiri outstation cabs, Erode to Krishnagiri taxi fare, Erode to Krishnagiri cab fare, Erode to Krishnagiri round trip taxi, Erode to Krishnagiri car rental, Erode to Krishnagiri cab booking">

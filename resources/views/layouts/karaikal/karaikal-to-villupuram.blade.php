@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Villupuram taxi, Karaikal to Villupuram one way taxi, Karaikal to Villupuram outstation cabs, Karaikal to Villupuram taxi fare, Karaikal to Villupuram cab fare, Karaikal to Villupuram round trip taxi, Karaikal to Villupuram car rental, Karaikal to Villupuram cab booking">

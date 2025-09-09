@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Dharmapuri taxi, Salem to Dharmapuri one way taxi, Salem to Dharmapuri outstation cabs, Salem to Dharmapuri taxi fare, Salem to Dharmapuri cab fare, Salem to Dharmapuri round trip taxi, Salem to Dharmapuri car rental, Salem to Dharmapuri cab booking">

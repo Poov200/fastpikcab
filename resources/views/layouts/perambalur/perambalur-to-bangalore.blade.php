@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Bangalore taxi, Perambalur to Bangalore one way taxi, Perambalur to Bangalore outstation cabs, Perambalur to Bangalore taxi fare, Perambalur to Bangalore cab fare, Perambalur to Bangalore round trip taxi, Perambalur to Bangalore car rental, Perambalur to Bangalore cab booking">

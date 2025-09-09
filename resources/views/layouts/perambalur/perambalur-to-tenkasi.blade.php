@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Tenkasi taxi, Perambalur to Tenkasi one way taxi, Perambalur to Tenkasi outstation cabs, Perambalur to Tenkasi taxi fare, Perambalur to Tenkasi cab fare, Perambalur to Tenkasi round trip taxi, Perambalur to Tenkasi car rental, Perambalur to Tenkasi cab booking">

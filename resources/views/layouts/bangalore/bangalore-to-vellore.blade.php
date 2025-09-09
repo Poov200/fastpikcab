@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Bangalore to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Bangalore to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Bangalore to Vellore taxi, Bangalore to Vellore one way taxi, Bangalore to Vellore outstation cabs, Bangalore to Vellore taxi fare, Bangalore to Vellore cab fare, Bangalore to Vellore round trip taxi, Bangalore to Vellore car rental, Bangalore to Vellore cab booking">

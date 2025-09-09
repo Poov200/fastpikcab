@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Bangalore taxi, Karur to Bangalore one way taxi, Karur to Bangalore outstation cabs, Karur to Bangalore taxi fare, Karur to Bangalore cab fare, Karur to Bangalore round trip taxi, Karur to Bangalore car rental, Karur to Bangalore cab booking">

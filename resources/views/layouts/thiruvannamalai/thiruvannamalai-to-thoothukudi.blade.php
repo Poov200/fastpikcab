@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Thoothukudi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to thoothukudi taxi, thiruvannamalai to thoothukudi one way taxi, thiruvannamalai to thoothukudi outstation cabs, thiruvannamalai to thoothukudi taxi fare, thiruvannamalai to thoothukudi cab fare, thiruvannamalai to thoothukudi round trip taxi, thiruvannamalai to thoothukudi car rental, thiruvannamalai to thoothukudi cab booking">
 
     {{-- Open Graph Meta Tags --}}

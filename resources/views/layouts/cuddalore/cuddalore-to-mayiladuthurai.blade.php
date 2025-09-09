@@ -7,7 +7,7 @@
     <title>Fastpikcab - Cuddalore to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Cuddalore to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Cuddalore to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Cuddalore to Mayiladuthurai taxi, Cuddalore to Mayiladuthurai one way taxi, Cuddalore to Mayiladuthurai outstation cabs, Cuddalore to Mayiladuthurai taxi fare, Cuddalore to Mayiladuthurai cab fare, Cuddalore to Mayiladuthurai round trip taxi, Cuddalore to Mayiladuthurai car rental, Cuddalore to Mayiladuthurai cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Virudhunagar to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Erode taxi, Virudhunagar to Erode one way taxi, Virudhunagar to Erode outstation cabs, Virudhunagar to Erode taxi fare, Virudhunagar to Erode cab fare, Virudhunagar to Erode round trip taxi, Virudhunagar to Erode car rental, Virudhunagar to Erode cab booking">

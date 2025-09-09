@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Trichy taxi, Karaikal to Trichy one way taxi, Karaikal to Trichy outstation cabs, Karaikal to Trichy taxi fare, Karaikal to Trichy cab fare, Karaikal to Trichy round trip taxi, Karaikal to Trichy car rental, Karaikal to Trichy cab booking">

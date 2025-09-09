@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Cuddalore taxi, Tenkasi to Cuddalore one way taxi, Tenkasi to Cuddalore outstation cabs, Tenkasi to Cuddalore taxi fare, Tenkasi to Cuddalore cab fare, Tenkasi to Cuddalore round trip taxi, Tenkasi to Cuddalore car rental, Tenkasi to Cuddalore cab booking">

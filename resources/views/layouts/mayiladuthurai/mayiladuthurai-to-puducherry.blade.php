@@ -7,7 +7,7 @@
     <title>Fastpikcab - Mayiladuthurai to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Puducherry taxi, Mayiladuthurai to Puducherry one way taxi, Mayiladuthurai to Puducherry outstation cabs, Mayiladuthurai to Puducherry taxi fare, Mayiladuthurai to Puducherry cab fare, Mayiladuthurai to Puducherry round trip taxi, Mayiladuthurai to Puducherry car rental, Mayiladuthurai to Puducherry cab booking">

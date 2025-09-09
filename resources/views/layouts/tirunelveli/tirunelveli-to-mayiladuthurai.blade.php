@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Mayiladuthurai taxi, Tirunelveli to Mayiladuthurai one way taxi, Tirunelveli to Mayiladuthurai outstation cabs, Tirunelveli to Mayiladuthurai taxi fare, Tirunelveli to Mayiladuthurai cab fare, Tirunelveli to Mayiladuthurai round trip taxi, Tirunelveli to Mayiladuthurai car rental, Tirunelveli to Mayiladuthurai cab booking">

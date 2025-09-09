@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Pudukkottai taxi, Karur to Pudukkottai one way taxi, Karur to Pudukkottai outstation cabs, Karur to Pudukkottai taxi fare, Karur to Pudukkottai cab fare, Karur to Pudukkottai round trip taxi, Karur to Pudukkottai car rental, Karur to Pudukkottai cab booking">

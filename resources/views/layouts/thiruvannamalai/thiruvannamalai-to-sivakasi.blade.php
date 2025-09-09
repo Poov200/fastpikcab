@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Sivakasi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to sivakasi taxi, thiruvannamalai to sivakasi one way taxi, thiruvannamalai to sivakasi outstation cabs, thiruvannamalai to sivakasi taxi fare, thiruvannamalai to sivakasi cab fare, thiruvannamalai to sivakasi round trip taxi, thiruvannamalai to sivakasi car rental, thiruvannamalai to sivakasi cab booking">
 
     {{-- Open Graph Meta Tags --}}

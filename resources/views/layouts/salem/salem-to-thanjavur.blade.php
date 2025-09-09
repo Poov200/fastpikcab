@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Thanjavur taxi, Salem to Thanjavur one way taxi, Salem to Thanjavur outstation cabs, Salem to Thanjavur taxi fare, Salem to Thanjavur cab fare, Salem to Thanjavur round trip taxi, Salem to Thanjavur car rental, Salem to Thanjavur cab booking">

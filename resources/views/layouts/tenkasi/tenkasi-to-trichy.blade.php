@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Trichy taxi, Tenkasi to Trichy one way taxi, Tenkasi to Trichy outstation cabs, Tenkasi to Trichy taxi fare, Tenkasi to Trichy cab fare, Tenkasi to Trichy round trip taxi, Tenkasi to Trichy car rental, Tenkasi to Trichy cab booking">

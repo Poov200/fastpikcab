@@ -7,7 +7,7 @@
     <title>Fastpikcab - Madurai to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Trichy taxi, Madurai to Trichy one way taxi, Madurai to Trichy outstation cabs, Madurai to Trichy taxi fare, Madurai to Trichy cab fare, Madurai to Trichy round trip taxi, Madurai to Trichy car rental, Madurai to Trichy cab booking">

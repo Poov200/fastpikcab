@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Tenkasi taxi, Ariyalur to Tenkasi one way taxi, Ariyalur to Tenkasi outstation cabs, Ariyalur to Tenkasi taxi fare, Ariyalur to Tenkasi cab fare, Ariyalur to Tenkasi round trip taxi, Ariyalur to Tenkasi car rental, Ariyalur to Tenkasi cab booking">

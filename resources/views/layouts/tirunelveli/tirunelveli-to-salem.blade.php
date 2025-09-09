@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Salem taxi, Tirunelveli to Salem one way taxi, Tirunelveli to Salem outstation cabs, Tirunelveli to Salem taxi fare, Tirunelveli to Salem cab fare, Tirunelveli to Salem round trip taxi, Tirunelveli to Salem car rental, Tirunelveli to Salem cab booking">

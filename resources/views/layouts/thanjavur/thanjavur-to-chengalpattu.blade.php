@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thanjavur to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thanjavur to Chengalpattu taxi, Thanjavur to Chengalpattu one way taxi, Thanjavur to Chengalpattu outstation cabs, Thanjavur to Chengalpattu taxi fare, Thanjavur to Chengalpattu cab fare, Thanjavur to Chengalpattu round trip taxi, Thanjavur to Chengalpattu car rental, Thanjavur to Chengalpattu cab booking">

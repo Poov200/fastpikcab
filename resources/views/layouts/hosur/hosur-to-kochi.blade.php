@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Kochi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Kochi taxi, Hosur to Kochi one way taxi, Hosur to Kochi outstation cabs, Hosur to Kochi taxi fare, Hosur to Kochi cab fare, Hosur to Kochi round trip taxi, Hosur to Kochi car rental, Hosur to Kochi cab booking, Kochi taxi service, Hosur cab service">

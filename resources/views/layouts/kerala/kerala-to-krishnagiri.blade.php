@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Krishnagiri Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to krishnagiri taxi, kerala to krishnagiri one way taxi, kerala to krishnagiri outstation cabs, kerala to krishnagiri taxi fare, kerala to krishnagiri cab fare, kerala to krishnagiri round trip taxi, kerala to krishnagiri car rental, kerala to krishnagiri cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Virudhunagar taxi, Dharmapuri to Virudhunagar one way taxi, Dharmapuri to Virudhunagar outstation cabs, Dharmapuri to Virudhunagar taxi fare, Dharmapuri to Virudhunagar cab fare, Dharmapuri to Virudhunagar round trip taxi, Dharmapuri to Virudhunagar car rental, Dharmapuri to Virudhunagar cab booking">

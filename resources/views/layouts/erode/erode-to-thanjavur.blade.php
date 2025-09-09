@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Thanjavur taxi, Erode to Thanjavur one way taxi, Erode to Thanjavur outstation cabs, Erode to Thanjavur taxi fare, Erode to Thanjavur cab fare, Erode to Thanjavur round trip taxi, Erode to Thanjavur car rental, Erode to Thanjavur cab booking">

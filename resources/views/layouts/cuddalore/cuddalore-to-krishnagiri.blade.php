@@ -7,7 +7,7 @@
     <title>Fastpikcab - Cuddalore to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Cuddalore to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Cuddalore to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Cuddalore to Krishnagiri taxi, Cuddalore to Krishnagiri one way taxi, Cuddalore to Krishnagiri outstation cabs, Cuddalore to Krishnagiri taxi fare, Cuddalore to Krishnagiri cab fare, Cuddalore to Krishnagiri round trip taxi, Cuddalore to Krishnagiri car rental, Cuddalore to Krishnagiri cab booking">

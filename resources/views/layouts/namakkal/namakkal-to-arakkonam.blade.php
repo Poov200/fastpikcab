@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Arakkonam taxi, Namakkal to Arakkonam one way taxi, Namakkal to Arakkonam outstation cabs, Namakkal to Arakkonam taxi fare, Namakkal to Arakkonam cab fare, Namakkal to Arakkonam round trip taxi, Namakkal to Arakkonam car rental, Namakkal to Arakkonam cab booking">

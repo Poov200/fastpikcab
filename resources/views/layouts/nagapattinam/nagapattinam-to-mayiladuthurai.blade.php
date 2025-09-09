@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagapattinam to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Mayiladuthurai taxi, Nagapattinam to Mayiladuthurai one way taxi, Nagapattinam to Mayiladuthurai outstation cabs, Nagapattinam to Mayiladuthurai taxi fare, Nagapattinam to Mayiladuthurai cab fare, Nagapattinam to Mayiladuthurai round trip taxi, Nagapattinam to Mayiladuthurai car rental, Nagapattinam to Mayiladuthurai cab booking">

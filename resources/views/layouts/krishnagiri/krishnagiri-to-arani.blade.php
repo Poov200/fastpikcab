@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Arani taxi, Krishnagiri to Arani one way taxi, Krishnagiri to Arani outstation cabs, Krishnagiri to Arani taxi fare, Krishnagiri to Arani cab fare, Krishnagiri to Arani round trip taxi, Krishnagiri to Arani car rental, Krishnagiri to Arani cab booking">

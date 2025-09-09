@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Trichy to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Thiruvarur taxi, Trichy to Thiruvarur one way taxi, Trichy to Thiruvarur outstation cabs, Trichy to Thiruvarur taxi fare, Trichy to Thiruvarur cab fare, Trichy to Thiruvarur round trip taxi, Trichy to Thiruvarur car rental, Trichy to Thiruvarur cab booking">

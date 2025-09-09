@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Nagapattinam taxi, Kanchipuram to Nagapattinam one way taxi, Kanchipuram to Nagapattinam outstation cabs, Kanchipuram to Nagapattinam taxi fare, Kanchipuram to Nagapattinam cab fare, Kanchipuram to Nagapattinam round trip taxi, Kanchipuram to Nagapattinam car rental, Kanchipuram to Nagapattinam cab booking">

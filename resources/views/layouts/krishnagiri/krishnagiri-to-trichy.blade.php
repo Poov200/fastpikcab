@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Trichy taxi, Krishnagiri to Trichy one way taxi, Krishnagiri to Trichy outstation cabs, Krishnagiri to Trichy taxi fare, Krishnagiri to Trichy cab fare, Krishnagiri to Trichy round trip taxi, Krishnagiri to Trichy car rental, Krishnagiri to Trichy cab booking">

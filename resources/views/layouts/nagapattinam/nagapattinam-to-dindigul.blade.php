@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagapattinam to Dindigul Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Dindigul taxi, Nagapattinam to Dindigul one way taxi, Nagapattinam to Dindigul outstation cabs, Nagapattinam to Dindigul taxi fare, Nagapattinam to Dindigul cab fare, Nagapattinam to Dindigul round trip taxi, Nagapattinam to Dindigul car rental, Nagapattinam to Dindigul cab booking">

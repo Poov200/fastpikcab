@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Bangalore taxi, Tirunelveli to Bangalore one way taxi, Tirunelveli to Bangalore outstation cabs, Tirunelveli to Bangalore taxi fare, Tirunelveli to Bangalore cab fare, Tirunelveli to Bangalore round trip taxi, Tirunelveli to Bangalore car rental, Tirunelveli to Bangalore cab booking">

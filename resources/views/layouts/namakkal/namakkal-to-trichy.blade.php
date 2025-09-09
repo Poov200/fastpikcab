@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagapattinam to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Trichy taxi, Nagapattinam to Trichy one way taxi, Nagapattinam to Trichy outstation cabs, Nagapattinam to Trichy taxi fare, Nagapattinam to Trichy cab fare, Nagapattinam to Trichy round trip taxi, Nagapattinam to Trichy car rental, Nagapattinam to Trichy cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Vellore taxi, Perambalur to Vellore one way taxi, Perambalur to Vellore outstation cabs, Perambalur to Vellore taxi fare, Perambalur to Vellore cab fare, Perambalur to Vellore round trip taxi, Perambalur to Vellore car rental, Perambalur to Vellore cab booking">

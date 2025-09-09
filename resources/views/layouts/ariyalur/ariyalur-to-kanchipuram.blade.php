@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Kanchipuram taxi, Ariyalur to Kanchipuram one way taxi, Ariyalur to Kanchipuram outstation cabs, Ariyalur to Kanchipuram taxi fare, Ariyalur to Kanchipuram cab fare, Ariyalur to Kanchipuram round trip taxi, Ariyalur to Kanchipuram car rental, Ariyalur to Kanchipuram cab booking">

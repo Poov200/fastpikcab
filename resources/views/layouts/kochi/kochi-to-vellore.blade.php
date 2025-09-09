@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Vellore Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to vellore taxi, kochi to vellore one way taxi, kochi to vellore outstation cabs, kochi to vellore taxi fare, kochi to vellore cab fare, kochi to vellore round trip taxi, kochi to vellore car rental, kochi to vellore cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Sivakasi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to sivakasi taxi, kochi to sivakasi one way taxi, kochi to sivakasi outstation cabs, kochi to sivakasi taxi fare, kochi to sivakasi cab fare, kochi to sivakasi round trip taxi, kochi to sivakasi car rental, kochi to sivakasi cab booking">
 
     {{-- Open Graph Meta Tags --}}

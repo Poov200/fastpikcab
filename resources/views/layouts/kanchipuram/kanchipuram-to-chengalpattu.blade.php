@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Chengalpattu taxi, Kanchipuram to Chengalpattu one way taxi, Kanchipuram to Chengalpattu outstation cabs, Kanchipuram to Chengalpattu taxi fare, Kanchipuram to Chengalpattu cab fare, Kanchipuram to Chengalpattu round trip taxi, Kanchipuram to Chengalpattu car rental, Kanchipuram to Chengalpattu cab booking">

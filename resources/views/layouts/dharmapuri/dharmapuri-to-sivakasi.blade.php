@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Sivakasi taxi, Dharmapuri to Sivakasi one way taxi, Dharmapuri to Sivakasi outstation cabs, Dharmapuri to Sivakasi taxi fare, Dharmapuri to Sivakasi cab fare, Dharmapuri to Sivakasi round trip taxi, Dharmapuri to Sivakasi car rental, Dharmapuri to Sivakasi cab booking">

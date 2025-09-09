@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Kerala Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Kerala taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Kerala taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to kerala taxi, thiruvannamalai to kerala one way taxi, thiruvannamalai to kerala outstation cabs, thiruvannamalai to kerala taxi fare, thiruvannamalai to kerala cab fare, thiruvannamalai to kerala round trip taxi, thiruvannamalai to kerala car rental, thiruvannamalai to kerala cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Kerala Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Kerala. Book online for one-way, round-trip, or outstation travel.">

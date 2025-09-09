@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Thanjavur taxi, Ariyalur to Thanjavur one way taxi, Ariyalur to Thanjavur outstation cabs, Ariyalur to Thanjavur taxi fare, Ariyalur to Thanjavur cab fare, Ariyalur to Thanjavur round trip taxi, Ariyalur to Thanjavur car rental, Ariyalur to Thanjavur cab booking">

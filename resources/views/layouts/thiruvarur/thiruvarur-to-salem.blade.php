@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Salem Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to salem taxi, thiruvarur to salem one way taxi, thiruvarur to salem outstation cabs, thiruvarur to salem taxi fare, thiruvarur to salem cab fare, thiruvarur to salem round trip taxi, thiruvarur to salem car rental, thiruvarur to salem cab booking">
 
     {{-- Open Graph Meta Tags --}}

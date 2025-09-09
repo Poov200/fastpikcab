@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Nagapattinam taxi, Ariyalur to Nagapattinam one way taxi, Ariyalur to Nagapattinam outstation cabs, Ariyalur to Nagapattinam taxi fare, Ariyalur to Nagapattinam cab fare, Ariyalur to Nagapattinam round trip taxi, Ariyalur to Nagapattinam car rental, Ariyalur to Nagapattinam cab booking">

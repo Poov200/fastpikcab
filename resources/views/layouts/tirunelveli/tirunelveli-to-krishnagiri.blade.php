@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Krishnagiri taxi, Tirunelveli to Krishnagiri one way taxi, Tirunelveli to Krishnagiri outstation cabs, Tirunelveli to Krishnagiri taxi fare, Tirunelveli to Krishnagiri cab fare, Tirunelveli to Krishnagiri round trip taxi, Tirunelveli to Krishnagiri car rental, Tirunelveli to Krishnagiri cab booking">

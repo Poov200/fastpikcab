@@ -7,7 +7,7 @@
     <title>Fastpikcab - Arani to Karaikal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Karaikal taxi, Arani to Karaikal one way taxi, Arani to Karaikal outstation cabs, Arani to Karaikal taxi fare, Arani to Karaikal cab fare, Arani to Karaikal round trip taxi, Arani to Karaikal car rental, Arani to Karaikal cab booking">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Salem Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to salem taxi, kerala to salem one way taxi, kerala to salem outstation cabs, kerala to salem taxi fare, kerala to salem cab fare, kerala to salem round trip taxi, kerala to salem car rental, kerala to salem cab booking">
 
     {{-- Open Graph Meta Tags --}}

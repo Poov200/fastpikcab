@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Tiruppur taxi, Vellore to Tiruppur one way taxi, Vellore to Tiruppur outstation cabs, Vellore to Tiruppur taxi fare, Vellore to Tiruppur cab fare, Vellore to Tiruppur round trip taxi, Vellore to Tiruppur car rental, Vellore to Tiruppur cab booking">

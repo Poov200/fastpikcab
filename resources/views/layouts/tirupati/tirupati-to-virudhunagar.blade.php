@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Virudhunagar taxi, Tirupati to Virudhunagar one way taxi, Tirupati to Virudhunagar outstation cabs, Tirupati to Virudhunagar taxi fare, Tirupati to Virudhunagar cab fare, Tirupati to Virudhunagar round trip taxi, Tirupati to Virudhunagar car rental, Tirupati to Virudhunagar cab booking">

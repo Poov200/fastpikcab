@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Cuddalore taxi, Vellore to Cuddalore one way taxi, Vellore to Cuddalore outstation cabs, Vellore to Cuddalore taxi fare, Vellore to Cuddalore cab fare, Vellore to Cuddalore round trip taxi, Vellore to Cuddalore car rental, Vellore to Cuddalore cab booking">

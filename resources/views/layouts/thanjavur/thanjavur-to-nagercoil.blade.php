@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thanjavur to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thanjavur to Nagercoil taxi, Thanjavur to Nagercoil one way taxi, Thanjavur to Nagercoil outstation cabs, Thanjavur to Nagercoil taxi fare, Thanjavur to Nagercoil cab fare, Thanjavur to Nagercoil round trip taxi, Thanjavur to Nagercoil car rental, Thanjavur to Nagercoil cab booking">

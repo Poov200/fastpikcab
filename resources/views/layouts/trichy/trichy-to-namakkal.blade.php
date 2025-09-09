@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Trichy to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Namakkal taxi, Trichy to Namakkal one way taxi, Trichy to Namakkal outstation cabs, Trichy to Namakkal taxi fare, Trichy to Namakkal cab fare, Trichy to Namakkal round trip taxi, Trichy to Namakkal car rental, Trichy to Namakkal cab booking">

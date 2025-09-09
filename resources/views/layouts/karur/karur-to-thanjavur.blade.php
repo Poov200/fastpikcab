@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Thanjavur taxi, Karur to Thanjavur one way taxi, Karur to Thanjavur outstation cabs, Karur to Thanjavur taxi fare, Karur to Thanjavur cab fare, Karur to Thanjavur round trip taxi, Karur to Thanjavur car rental, Karur to Thanjavur cab booking">

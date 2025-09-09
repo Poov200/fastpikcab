@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Arakkonam taxi, Salem to Arakkonam one way taxi, Salem to Arakkonam outstation cabs, Salem to Arakkonam taxi fare, Salem to Arakkonam cab fare, Salem to Arakkonam round trip taxi, Salem to Arakkonam car rental, Salem to Arakkonam cab booking">

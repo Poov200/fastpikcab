@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thoothukudi to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thoothukudi to Nagercoil taxi, Thoothukudi to Nagercoil one way taxi, Thoothukudi to Nagercoil outstation cabs, Thoothukudi to Nagercoil taxi fare, Thoothukudi to Nagercoil cab fare, Thoothukudi to Nagercoil round trip taxi, Thoothukudi to Nagercoil car rental, Thoothukudi to Nagercoil cab booking">

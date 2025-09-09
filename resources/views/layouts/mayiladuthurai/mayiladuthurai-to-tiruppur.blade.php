@@ -7,7 +7,7 @@
     <title>Fastpikcab - Mayiladuthurai to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Tiruppur taxi, Mayiladuthurai to Tiruppur one way taxi, Mayiladuthurai to Tiruppur outstation cabs, Mayiladuthurai to Tiruppur taxi fare, Mayiladuthurai to Tiruppur cab fare, Mayiladuthurai to Tiruppur round trip taxi, Mayiladuthurai to Tiruppur car rental, Mayiladuthurai to Tiruppur cab booking">

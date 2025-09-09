@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Pudukkottai taxi, Namakkal to Pudukkottai one way taxi, Namakkal to Pudukkottai outstation cabs, Namakkal to Pudukkottai taxi fare, Namakkal to Pudukkottai cab fare, Namakkal to Pudukkottai round trip taxi, Namakkal to Pudukkottai car rental, Namakkal to Pudukkottai cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Tiruppur taxi, Hosur to Tiruppur one way taxi, Hosur to Tiruppur outstation cabs, Hosur to Tiruppur taxi fare, Hosur to Tiruppur cab fare, Hosur to Tiruppur round trip taxi, Hosur to Tiruppur car rental, Hosur to Tiruppur cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Mayiladuthurai to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Ranipet taxi, Mayiladuthurai to Ranipet one way taxi, Mayiladuthurai to Ranipet outstation cabs, Mayiladuthurai to Ranipet taxi fare, Mayiladuthurai to Ranipet cab fare, Mayiladuthurai to Ranipet round trip taxi, Mayiladuthurai to Ranipet car rental, Mayiladuthurai to Ranipet cab booking">

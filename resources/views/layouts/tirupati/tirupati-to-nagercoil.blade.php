@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Nagercoil taxi, Tirupati to Nagercoil one way taxi, Tirupati to Nagercoil outstation cabs, Tirupati to Nagercoil taxi fare, Tirupati to Nagercoil cab fare, Tirupati to Nagercoil round trip taxi, Tirupati to Nagercoil car rental, Tirupati to Nagercoil cab booking">

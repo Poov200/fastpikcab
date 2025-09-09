@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Ramanathapuram taxi, Kanchipuram to Ramanathapuram one way taxi, Kanchipuram to Ramanathapuram outstation cabs, Kanchipuram to Ramanathapuram taxi fare, Kanchipuram to Ramanathapuram cab fare, Kanchipuram to Ramanathapuram round trip taxi, Kanchipuram to Ramanathapuram car rental, Kanchipuram to Ramanathapuram cab booking">

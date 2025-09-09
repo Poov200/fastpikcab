@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Puducherry taxi, Hosur to Puducherry one way taxi, Hosur to Puducherry outstation cabs, Hosur to Puducherry taxi fare, Hosur to Puducherry cab fare, Hosur to Puducherry round trip taxi, Hosur to Puducherry car rental, Hosur to Puducherry cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagapattinam to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Sivakasi taxi, Nagapattinam to Sivakasi one way taxi, Nagapattinam to Sivakasi outstation cabs, Nagapattinam to Sivakasi taxi fare, Nagapattinam to Sivakasi cab fare, Nagapattinam to Sivakasi round trip taxi, Nagapattinam to Sivakasi car rental, Nagapattinam to Sivakasi cab booking">

@@ -8,7 +8,7 @@
 <title>Fastpikcab - Hosur to Thiruvannamalai Taxi Service </title>
 
 <meta name="description"
-    content="Book a reliable Hosur to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    content="Book a reliable Hosur to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
 <meta name="keywords"
     content="Hosur to Thiruvannamalai taxi, Hosur to Thiruvannamalai one way taxi, Hosur to Thiruvannamalai outstation cabs, Hosur to Thiruvannamalai taxi fare, Hosur to Thiruvannamalai cab fare, Hosur to Thiruvannamalai round trip taxi, Hosur to Thiruvannamalai car rental, Hosur to Thiruvannamalai cab booking">

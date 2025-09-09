@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Thiruvarur taxi, Kanchipuram to Thiruvarur one way taxi, Kanchipuram to Thiruvarur outstation cabs, Kanchipuram to Thiruvarur taxi fare, Kanchipuram to Thiruvarur cab fare, Kanchipuram to Thiruvarur round trip taxi, Kanchipuram to Thiruvarur car rental, Kanchipuram to Thiruvarur cab booking">

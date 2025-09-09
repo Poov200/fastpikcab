@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Salem taxi, Namakkal to Salem one way taxi, Namakkal to Salem outstation cabs, Namakkal to Salem taxi fare, Namakkal to Salem cab fare, Namakkal to Salem round trip taxi, Namakkal to Salem car rental, Namakkal to Salem cab booking">

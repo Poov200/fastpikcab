@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Nagapattinam taxi, Tenkasi to Nagapattinam one way taxi, Tenkasi to Nagapattinam outstation cabs, Tenkasi to Nagapattinam taxi fare, Tenkasi to Nagapattinam cab fare, Tenkasi to Nagapattinam round trip taxi, Tenkasi to Nagapattinam car rental, Tenkasi to Nagapattinam cab booking">

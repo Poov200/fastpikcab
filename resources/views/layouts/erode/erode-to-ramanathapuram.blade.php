@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Ramanathapuram taxi, Erode to Ramanathapuram one way taxi, Erode to Ramanathapuram outstation cabs, Erode to Ramanathapuram taxi fare, Erode to Ramanathapuram cab fare, Erode to Ramanathapuram round trip taxi, Erode to Ramanathapuram car rental, Erode to Ramanathapuram cab booking">

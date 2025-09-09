@@ -7,7 +7,7 @@
     <title>Fastpikcab - Virudhunagar to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Karur taxi, Virudhunagar to Karur one way taxi, Virudhunagar to Karur outstation cabs, Virudhunagar to Karur taxi fare, Virudhunagar to Karur cab fare, Virudhunagar to Karur round trip taxi, Virudhunagar to Karur car rental, Virudhunagar to Karur cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Erode taxi, Tenkasi to Erode one way taxi, Tenkasi to Erode outstation cabs, Tenkasi to Erode taxi fare, Tenkasi to Erode cab fare, Tenkasi to Erode round trip taxi, Tenkasi to Erode car rental, Tenkasi to Erode cab booking">

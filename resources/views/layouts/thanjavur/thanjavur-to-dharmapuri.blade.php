@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thanjavur to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thanjavur to Dharmapuri taxi, Thanjavur to Dharmapuri one way taxi, Thanjavur to Dharmapuri outstation cabs, Thanjavur to Dharmapuri taxi fare, Thanjavur to Dharmapuri cab fare, Thanjavur to Dharmapuri round trip taxi, Thanjavur to Dharmapuri car rental, Thanjavur to Dharmapuri cab booking">

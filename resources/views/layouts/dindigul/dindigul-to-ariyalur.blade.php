@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Ariyalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Ariyalur taxi, Dindigul to Ariyalur one way taxi, Dindigul to Ariyalur outstation cabs, Dindigul to Ariyalur taxi fare, Dindigul to Ariyalur cab fare, Dindigul to Ariyalur round trip taxi, Dindigul to Ariyalur car rental, Dindigul to Ariyalur cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Arakkonam taxi, Ariyalur to Arakkonam one way taxi, Ariyalur to Arakkonam outstation cabs, Ariyalur to Arakkonam taxi fare, Ariyalur to Arakkonam cab fare, Ariyalur to Arakkonam round trip taxi, Ariyalur to Arakkonam car rental, Ariyalur to Arakkonam cab booking">

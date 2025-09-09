@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ranipet to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Arani taxi, Ranipet to Arani one way taxi, Ranipet to Arani outstation cabs, Ranipet to Arani taxi fare, Ranipet to Arani cab fare, Ranipet to Arani round trip taxi, Ranipet to Arani car rental, Ranipet to Arani cab booking">

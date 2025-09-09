@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Thanjavur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to thanjavur taxi, kerala to thanjavur one way taxi, kerala to thanjavur outstation cabs, kerala to thanjavur taxi fare, kerala to thanjavur cab fare, kerala to thanjavur round trip taxi, kerala to thanjavur car rental, kerala to thanjavur cab booking">
 
     {{-- Open Graph Meta Tags --}}

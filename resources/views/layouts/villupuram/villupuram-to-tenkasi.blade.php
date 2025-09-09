@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Tenkasi taxi, Villupuram to Tenkasi one way taxi, Villupuram to Tenkasi outstation cabs, Villupuram to Tenkasi taxi fare, Villupuram to Tenkasi cab fare, Villupuram to Tenkasi round trip taxi, Villupuram to Tenkasi car rental, Villupuram to Tenkasi cab booking">

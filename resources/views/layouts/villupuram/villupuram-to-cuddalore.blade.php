@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Cuddalore taxi, Villupuram to Cuddalore one way taxi, Villupuram to Cuddalore outstation cabs, Villupuram to Cuddalore taxi fare, Villupuram to Cuddalore cab fare, Villupuram to Cuddalore round trip taxi, Villupuram to Cuddalore car rental, Villupuram to Cuddalore cab booking">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Thoothukudi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to thoothukudi taxi, kochi to thoothukudi one way taxi, kochi to thoothukudi outstation cabs, kochi to thoothukudi taxi fare, kochi to thoothukudi cab fare, kochi to thoothukudi round trip taxi, kochi to thoothukudi car rental, kochi to thoothukudi cab booking">
 
     {{-- Open Graph Meta Tags --}}

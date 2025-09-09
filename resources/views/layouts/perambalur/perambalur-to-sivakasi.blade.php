@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Sivakasi taxi, Perambalur to Sivakasi one way taxi, Perambalur to Sivakasi outstation cabs, Perambalur to Sivakasi taxi fare, Perambalur to Sivakasi cab fare, Perambalur to Sivakasi round trip taxi, Perambalur to Sivakasi car rental, Perambalur to Sivakasi cab booking">

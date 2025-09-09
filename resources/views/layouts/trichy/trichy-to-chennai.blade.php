@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Trichy to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Chennai taxi, Trichy to Chennai one way taxi, Trichy to Chennai outstation cabs, Trichy to Chennai taxi fare, Trichy to Chennai cab fare, Trichy to Chennai round trip taxi, Trichy to Chennai car rental, Trichy to Chennai cab booking">

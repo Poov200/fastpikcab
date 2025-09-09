@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Tirunelveli taxi, Tenkasi to Tirunelveli one way taxi, Tenkasi to Tirunelveli outstation cabs, Tenkasi to Tirunelveli taxi fare, Tenkasi to Tirunelveli cab fare, Tenkasi to Tirunelveli round trip taxi, Tenkasi to Tirunelveli car rental, Tenkasi to Tirunelveli cab booking">

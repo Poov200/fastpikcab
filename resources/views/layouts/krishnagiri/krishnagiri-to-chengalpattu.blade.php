@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Chengalpattu taxi, Krishnagiri to Chengalpattu one way taxi, Krishnagiri to Chengalpattu outstation cabs, Krishnagiri to Chengalpattu taxi fare, Krishnagiri to Chengalpattu cab fare, Krishnagiri to Chengalpattu round trip taxi, Krishnagiri to Chengalpattu car rental, Krishnagiri to Chengalpattu cab booking">

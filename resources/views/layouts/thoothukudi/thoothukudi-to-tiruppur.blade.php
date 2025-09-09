@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thoothukudi to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thoothukudi to Tiruppur taxi, Thoothukudi to Tiruppur one way taxi, Thoothukudi to Tiruppur outstation cabs, Thoothukudi to Tiruppur taxi fare, Thoothukudi to Tiruppur cab fare, Thoothukudi to Tiruppur round trip taxi, Thoothukudi to Tiruppur car rental, Thoothukudi to Tiruppur cab booking">

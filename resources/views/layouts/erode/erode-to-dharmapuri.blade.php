@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Dharmapuri taxi, Erode to Dharmapuri one way taxi, Erode to Dharmapuri outstation cabs, Erode to Dharmapuri taxi fare, Erode to Dharmapuri cab fare, Erode to Dharmapuri round trip taxi, Erode to Dharmapuri car rental, Erode to Dharmapuri cab booking">

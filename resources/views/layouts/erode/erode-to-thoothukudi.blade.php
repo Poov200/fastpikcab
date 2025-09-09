@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Thoothukudi taxi, Erode to Thoothukudi one way taxi, Erode to Thoothukudi outstation cabs, Erode to Thoothukudi taxi fare, Erode to Thoothukudi cab fare, Erode to Thoothukudi round trip taxi, Erode to Thoothukudi car rental, Erode to Thoothukudi cab booking">

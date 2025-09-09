@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Thanjavur taxi, Tirunelveli to Thanjavur one way taxi, Tirunelveli to Thanjavur outstation cabs, Tirunelveli to Thanjavur taxi fare, Tirunelveli to Thanjavur cab fare, Tirunelveli to Thanjavur round trip taxi, Tirunelveli to Thanjavur car rental, Tirunelveli to Thanjavur cab booking">

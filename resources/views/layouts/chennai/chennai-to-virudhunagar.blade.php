@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chennai to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chennai to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chennai to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chennai to Virudhunagar taxi, Chennai Airport to Virudhunagar taxi, Chennai to Virudhunagar one way taxi, Chennai to Virudhunagar outstation cabs, Chennai to Virudhunagar taxi fare, Chennai to Virudhunagar cab fare, Chennai to Virudhunagar round trip taxi, Chennai to Virudhunagar car rental, Chennai to Virudhunagar cab booking">

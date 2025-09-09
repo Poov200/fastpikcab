@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Virudhunagar Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to virudhunagar taxi, thiruvannamalai to virudhunagar one way taxi, thiruvannamalai to virudhunagar outstation cabs, thiruvannamalai to virudhunagar taxi fare, thiruvannamalai to virudhunagar cab fare, thiruvannamalai to virudhunagar round trip taxi, thiruvannamalai to virudhunagar car rental, thiruvannamalai to virudhunagar cab booking">
 
     {{-- Open Graph Meta Tags --}}

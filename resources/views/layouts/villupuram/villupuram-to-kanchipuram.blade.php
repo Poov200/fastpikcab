@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Kanchipuram taxi, Villupuram to Kanchipuram one way taxi, Villupuram to Kanchipuram outstation cabs, Villupuram to Kanchipuram taxi fare, Villupuram to Kanchipuram cab fare, Villupuram to Kanchipuram round trip taxi, Villupuram to Kanchipuram car rental, Villupuram to Kanchipuram cab booking">

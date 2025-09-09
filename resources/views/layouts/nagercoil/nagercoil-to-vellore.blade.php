@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Vellore taxi, Nagercoil to Vellore one way taxi, Nagercoil to Vellore outstation cabs, Nagercoil to Vellore taxi fare, Nagercoil to Vellore cab fare, Nagercoil to Vellore round trip taxi, Nagercoil to Vellore car rental, Nagercoil to Vellore cab booking">

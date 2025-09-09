@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Thiruvannamalai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Thiruvannamalai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Thiruvannamalai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Thiruvannamalai taxi, Karaikal to Thiruvannamalai one way taxi, Karaikal to Thiruvannamalai outstation cabs, Karaikal to Thiruvannamalai taxi fare, Karaikal to Thiruvannamalai cab fare, Karaikal to Thiruvannamalai round trip taxi, Karaikal to Thiruvannamalai car rental, Karaikal to Thiruvannamalai cab booking">

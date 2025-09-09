@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Chennai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to chennai taxi, kerala to chennai one way taxi, kerala to chennai outstation cabs, kerala to chennai taxi fare, kerala to chennai cab fare, kerala to chennai round trip taxi, kerala to chennai car rental, kerala to chennai cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Chengalpattu taxi, Namakkal to Chengalpattu one way taxi, Namakkal to Chengalpattu outstation cabs, Namakkal to Chengalpattu taxi fare, Namakkal to Chengalpattu cab fare, Namakkal to Chengalpattu round trip taxi, Namakkal to Chengalpattu car rental, Namakkal to Chengalpattu cab booking">

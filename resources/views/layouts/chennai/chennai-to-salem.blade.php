@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chennai to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chennai to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chennai to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chennai to Salem taxi, Chennai Airport to Salem taxi, Chennai to Salem one way taxi, Chennai to Salem outstation cabs, Chennai to Salem taxi fare, Chennai to Salem cab fare, Chennai to Salem round trip taxi, Chennai to Salem car rental, Chennai to Salem cab booking">

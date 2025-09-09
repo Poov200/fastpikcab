@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chengalpattu to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. ">
 
     <meta name="keywords"
         content="Chengalpattu to Dharmapuri taxi, Chengalpattu to Dharmapuri one way taxi, Chengalpattu to Dharmapuri cab, Chengalpattu to Dharmapuri taxi fare, Chengalpattu to Dharmapuri cab fare, Chengalpattu to Dharmapuri car rental, Chengalpattu to Dharmapuri cab booking">

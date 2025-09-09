@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Thiruvarur taxi, Coimbatore to Thiruvarur one way taxi, Coimbatore to Thiruvarur outstation cabs, Coimbatore to Thiruvarur taxi fare, Coimbatore to Thiruvarur cab fare, Coimbatore to Thiruvarur round trip taxi, Coimbatore to Thiruvarur car rental, Coimbatore to Thiruvarur cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Madurai taxi, Villupuram to Madurai one way taxi, Villupuram to Madurai outstation cabs, Villupuram to Madurai taxi fare, Villupuram to Madurai cab fare, Villupuram to Madurai round trip taxi, Villupuram to Madurai car rental, Villupuram to Madurai cab booking">

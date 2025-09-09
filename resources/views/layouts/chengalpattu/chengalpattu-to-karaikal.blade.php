@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chengalpattu to Karaikal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chengalpattu to Karaikal taxi, Chengalpattu to Karaikal one way taxi, Chengalpattu to Karaikal outstation cabs, Chengalpattu to Karaikal taxi fare, Chengalpattu to Karaikal cab fare, Chengalpattu to Karaikal round trip taxi, Chengalpattu to Karaikal car rental, Chengalpattu to Karaikal cab booking">

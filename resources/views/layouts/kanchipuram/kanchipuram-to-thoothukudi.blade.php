@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Thoothukudi taxi, Kanchipuram to Thoothukudi one way taxi, Kanchipuram to Thoothukudi outstation cabs, Kanchipuram to Thoothukudi taxi fare, Kanchipuram to Thoothukudi cab fare, Kanchipuram to Thoothukudi round trip taxi, Kanchipuram to Thoothukudi car rental, Kanchipuram to Thoothukudi cab booking">

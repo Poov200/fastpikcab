@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chennai to Ariyalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chennai to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chennai to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chennai to Ariyalur taxi, Chennai to Ariyalur one way taxi, Chennai to Ariyalur outstation cabs, Chennai to Ariyalur taxi fare, Chennai to Ariyalur cab fare, Chennai to Ariyalur round trip taxi, Chennai to Ariyalur car rental, Chennai to Ariyalur cab booking">

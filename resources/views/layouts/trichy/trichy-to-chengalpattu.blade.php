@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Trichy to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Chengalpattu taxi, Trichy to Chengalpattu one way taxi, Trichy to Chengalpattu outstation cabs, Trichy to Chengalpattu taxi fare, Trichy to Chengalpattu cab fare, Trichy to Chengalpattu round trip taxi, Trichy to Chengalpattu car rental, Trichy to Chengalpattu cab booking">

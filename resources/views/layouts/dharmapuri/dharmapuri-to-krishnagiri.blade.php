@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Krishnagiri taxi, Dharmapuri to Krishnagiri one way taxi, Dharmapuri to Krishnagiri outstation cabs, Dharmapuri to Krishnagiri taxi fare, Dharmapuri to Krishnagiri cab fare, Dharmapuri to Krishnagiri round trip taxi, Dharmapuri to Krishnagiri car rental, Dharmapuri to Krishnagiri cab booking">

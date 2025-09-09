@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Villupuram Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to villupuram taxi, kerala to villupuram one way taxi, kerala to villupuram outstation cabs, kerala to villupuram taxi fare, kerala to villupuram cab fare, kerala to villupuram round trip taxi, kerala to villupuram car rental, kerala to villupuram cab booking">
 
     {{-- Open Graph Meta Tags --}}

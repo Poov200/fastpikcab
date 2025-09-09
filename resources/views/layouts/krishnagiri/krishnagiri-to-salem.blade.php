@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Salem taxi, Krishnagiri to Salem one way taxi, Krishnagiri to Salem outstation cabs, Krishnagiri to Salem taxi fare, Krishnagiri to Salem cab fare, Krishnagiri to Salem round trip taxi, Krishnagiri to Salem car rental, Krishnagiri to Salem cab booking">

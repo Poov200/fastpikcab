@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Tirunelveli Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to tirunelveli taxi, thiruvannamalai to tirunelveli one way taxi, thiruvannamalai to tirunelveli outstation cabs, thiruvannamalai to tirunelveli taxi fare, thiruvannamalai to tirunelveli cab fare, thiruvannamalai to tirunelveli round trip taxi, thiruvannamalai to tirunelveli car rental, thiruvannamalai to tirunelveli cab booking">
 
     {{-- Open Graph Meta Tags --}}

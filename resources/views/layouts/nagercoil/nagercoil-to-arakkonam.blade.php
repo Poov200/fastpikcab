@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Arakkonam taxi, Nagercoil to Arakkonam one way taxi, Nagercoil to Arakkonam outstation cabs, Nagercoil to Arakkonam taxi fare, Nagercoil to Arakkonam cab fare, Nagercoil to Arakkonam round trip taxi, Nagercoil to Arakkonam car rental, Nagercoil to Arakkonam cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Cuddalore to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Cuddalore to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Cuddalore to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Cuddalore to Arani taxi, Cuddalore to Arani one way taxi, Cuddalore to Arani outstation cabs, Cuddalore to Arani taxi fare, Cuddalore to Arani cab fare, Cuddalore to Arani round trip taxi, Cuddalore to Arani car rental, Cuddalore to Arani cab booking">

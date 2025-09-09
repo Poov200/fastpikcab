@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Thiruvarur taxi, Erode to Thiruvarur one way taxi, Erode to Thiruvarur outstation cabs, Erode to Thiruvarur taxi fare, Erode to Thiruvarur cab fare, Erode to Thiruvarur round trip taxi, Erode to Thiruvarur car rental, Erode to Thiruvarur cab booking">

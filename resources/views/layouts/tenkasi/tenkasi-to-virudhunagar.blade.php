@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Virudhunagar taxi, Tenkasi to Virudhunagar one way taxi, Tenkasi to Virudhunagar outstation cabs, Tenkasi to Virudhunagar taxi fare, Tenkasi to Virudhunagar cab fare, Tenkasi to Virudhunagar round trip taxi, Tenkasi to Virudhunagar car rental, Tenkasi to Virudhunagar cab booking">

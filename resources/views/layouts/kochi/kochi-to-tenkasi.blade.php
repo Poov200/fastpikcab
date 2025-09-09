@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Tenkasi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to tenkasi taxi, kochi to tenkasi one way taxi, kochi to tenkasi outstation cabs, kochi to tenkasi taxi fare, kochi to tenkasi cab fare, kochi to tenkasi round trip taxi, kochi to tenkasi car rental, kochi to tenkasi cab booking">
 
     {{-- Open Graph Meta Tags --}}

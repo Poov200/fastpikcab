@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul Local Taxi & Outstation Services</title>
 
     <meta name="description"
-        content="Book a reliable Dindigul local taxi service or outstation cabs with Fastpikcab. Get affordable fares for one-way, round-trip, and city tours within Dindigul. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul local taxi service or outstation cabs with Fastpikcab. Get affordable fares for one-way, round-trip, and city tours within Dindigul. ">
 
     <meta name="keywords"
         content="Dindigul local taxi, Dindigul city taxi, Dindigul car rental, Dindigul taxi service, Dindigul cab booking, local cab in Dindigul, Dindigul outstation taxi, Fastpikcab Dindigul">

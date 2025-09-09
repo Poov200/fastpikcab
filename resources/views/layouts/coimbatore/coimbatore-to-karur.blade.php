@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Karur taxi, Coimbatore to Karur one way taxi, Coimbatore to Karur outstation cabs, Coimbatore to Karur taxi fare, Coimbatore to Karur cab fare, Coimbatore to Karur round trip taxi, Coimbatore to Karur car rental, Coimbatore to Karur cab booking">

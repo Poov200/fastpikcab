@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Pudukkottai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to pudukkottai taxi, thiruvarur to pudukkottai one way taxi, thiruvarur to pudukkottai outstation cabs, thiruvarur to pudukkottai taxi fare, thiruvarur to pudukkottai cab fare, thiruvarur to pudukkottai round trip taxi, thiruvarur to pudukkottai car rental, thiruvarur to pudukkottai cab booking">
 
     {{-- Open Graph Meta Tags --}}

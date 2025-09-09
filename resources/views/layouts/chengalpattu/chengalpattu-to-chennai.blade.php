@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chengalpattu to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Chennai taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Chennai taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. ">
 
     <meta name="keywords"
         content="Chengalpattu to Chennai taxi, Chengalpattu to Chennai one way taxi, Chengalpattu to Chennai cab, Chengalpattu to Chennai taxi fare, Chengalpattu to Chennai cab fare, Chengalpattu to Chennai car rental, Chengalpattu to Chennai cab booking">

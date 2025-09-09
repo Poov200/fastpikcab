@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Villupuram taxi, Perambalur to Villupuram one way taxi, Perambalur to Villupuram outstation cabs, Perambalur to Villupuram taxi fare, Perambalur to Villupuram cab fare, Perambalur to Villupuram round trip taxi, Perambalur to Villupuram car rental, Perambalur to Villupuram cab booking">

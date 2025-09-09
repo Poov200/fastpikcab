@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Thiruvannamalai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Thiruvannamalai taxi, Coimbatore to Thiruvannamalai one way taxi, Coimbatore to Thiruvannamalai outstation cabs, Coimbatore to Thiruvannamalai taxi fare, Coimbatore to Thiruvannamalai cab fare, Coimbatore to Thiruvannamalai round trip taxi, Coimbatore to Thiruvannamalai car rental, Coimbatore to Thiruvannamalai cab booking">

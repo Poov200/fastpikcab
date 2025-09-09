@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Arani to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Sivakasi taxi, Arani to Sivakasi one way taxi, Arani to Sivakasi outstation cabs, Arani to Sivakasi taxi fare, Arani to Sivakasi cab fare, Arani to Sivakasi round trip taxi, Arani to Sivakasi car rental, Arani to Sivakasi cab booking">

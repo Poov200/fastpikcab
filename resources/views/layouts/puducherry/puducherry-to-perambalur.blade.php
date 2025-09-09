@@ -7,7 +7,7 @@
     <title>Fastpikcab - Puducherry to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Puducherry to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Puducherry to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Puducherry to Perambalur taxi, Puducherry to Perambalur one way taxi, Puducherry to Perambalur outstation cabs, Puducherry to Perambalur taxi fare, Puducherry to Perambalur cab fare, Puducherry to Perambalur round trip taxi, Puducherry to Perambalur car rental, Puducherry to Perambalur cab booking">

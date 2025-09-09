@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Sivakasi taxi, Karaikal to Sivakasi one way taxi, Karaikal to Sivakasi outstation cabs, Karaikal to Sivakasi taxi fare, Karaikal to Sivakasi cab fare, Karaikal to Sivakasi round trip taxi, Karaikal to Sivakasi car rental, Karaikal to Sivakasi cab booking">

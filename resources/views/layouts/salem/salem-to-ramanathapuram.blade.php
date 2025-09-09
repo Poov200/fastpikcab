@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Ramanathapuram taxi, Salem to Ramanathapuram one way taxi, Salem to Ramanathapuram outstation cabs, Salem to Ramanathapuram taxi fare, Salem to Ramanathapuram cab fare, Salem to Ramanathapuram round trip taxi, Salem to Ramanathapuram car rental, Salem to Ramanathapuram cab booking">

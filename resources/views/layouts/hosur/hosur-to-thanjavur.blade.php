@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Thanjavur taxi, Hosur to Thanjavur one way taxi, Hosur to Thanjavur outstation cabs, Hosur to Thanjavur taxi fare, Hosur to Thanjavur cab fare, Hosur to Thanjavur round trip taxi, Hosur to Thanjavur car rental, Hosur to Thanjavur cab booking">

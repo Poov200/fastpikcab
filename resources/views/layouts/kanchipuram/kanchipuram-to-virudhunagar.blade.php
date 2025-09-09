@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Virudhunagar taxi, Kanchipuram to Virudhunagar one way taxi, Kanchipuram to Virudhunagar outstation cabs, Kanchipuram to Virudhunagar taxi fare, Kanchipuram to Virudhunagar cab fare, Kanchipuram to Virudhunagar round trip taxi, Kanchipuram to Virudhunagar car rental, Kanchipuram to Virudhunagar cab booking">

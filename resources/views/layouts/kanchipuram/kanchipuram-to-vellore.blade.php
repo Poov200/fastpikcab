@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Vellore taxi, Kanchipuram to Vellore one way taxi, Kanchipuram to Vellore outstation cabs, Kanchipuram to Vellore taxi fare, Kanchipuram to Vellore cab fare, Kanchipuram to Vellore round trip taxi, Kanchipuram to Vellore car rental, Kanchipuram to Vellore cab booking">

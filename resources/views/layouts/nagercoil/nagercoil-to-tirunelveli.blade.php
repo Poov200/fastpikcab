@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Tirunelveli taxi, Nagercoil to Tirunelveli one way taxi, Nagercoil to Tirunelveli outstation cabs, Nagercoil to Tirunelveli taxi fare, Nagercoil to Tirunelveli cab fare, Nagercoil to Tirunelveli round trip taxi, Nagercoil to Tirunelveli car rental, Nagercoil to Tirunelveli cab booking">

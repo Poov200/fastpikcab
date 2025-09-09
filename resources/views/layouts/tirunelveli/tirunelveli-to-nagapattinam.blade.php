@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Nagapattinam taxi, Tirunelveli to Nagapattinam one way taxi, Tirunelveli to Nagapattinam outstation cabs, Tirunelveli to Nagapattinam taxi fare, Tirunelveli to Nagapattinam cab fare, Tirunelveli to Nagapattinam round trip taxi, Tirunelveli to Nagapattinam car rental, Tirunelveli to Nagapattinam cab booking">

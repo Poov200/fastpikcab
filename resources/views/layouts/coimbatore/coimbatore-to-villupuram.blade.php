@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Villupuram taxi, Coimbatore to Villupuram one way taxi, Coimbatore to Villupuram outstation cabs, Coimbatore to Villupuram taxi fare, Coimbatore to Villupuram cab fare, Coimbatore to Villupuram round trip taxi, Coimbatore to Villupuram car rental, Coimbatore to Villupuram cab booking">

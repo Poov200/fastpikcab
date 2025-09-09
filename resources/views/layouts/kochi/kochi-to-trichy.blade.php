@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Trichy Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to trichy taxi, kochi to trichy one way taxi, kochi to trichy outstation cabs, kochi to trichy taxi fare, kochi to trichy cab fare, kochi to trichy round trip taxi, kochi to trichy car rental, kochi to trichy cab booking">
 
     {{-- Open Graph Meta Tags --}}

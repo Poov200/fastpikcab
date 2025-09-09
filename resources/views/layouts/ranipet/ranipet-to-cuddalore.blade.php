@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ranipet to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Cuddalore taxi, Ranipet to Cuddalore one way taxi, Ranipet to Cuddalore outstation cabs, Ranipet to Cuddalore taxi fare, Ranipet to Cuddalore cab fare, Ranipet to Cuddalore round trip taxi, Ranipet to Cuddalore car rental, Ranipet to Cuddalore cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chengalpattu to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chengalpattu to Ranipet taxi, Chengalpattu to Ranipet one way taxi, Chengalpattu to Ranipet outstation cabs, Chengalpattu to Ranipet taxi fare, Chengalpattu to Ranipet cab fare, Chengalpattu to Ranipet round trip taxi, Chengalpattu to Ranipet car rental, Chengalpattu to Ranipet cab booking">

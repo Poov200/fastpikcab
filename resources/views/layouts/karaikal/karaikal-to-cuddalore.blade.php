@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Cuddalore taxi, Karaikal to Cuddalore one way taxi, Karaikal to Cuddalore outstation cabs, Karaikal to Cuddalore taxi fare, Karaikal to Cuddalore cab fare, Karaikal to Cuddalore round trip taxi, Karaikal to Cuddalore car rental, Karaikal to Cuddalore cab booking">

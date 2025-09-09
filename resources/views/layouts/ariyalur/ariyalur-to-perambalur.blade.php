@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Perambalur taxi, Ariyalur to Perambalur one way taxi, Ariyalur to Perambalur outstation cabs, Ariyalur to Perambalur taxi fare, Ariyalur to Perambalur cab fare, Ariyalur to Perambalur round trip taxi, Ariyalur to Perambalur car rental, Ariyalur to Perambalur cab booking">

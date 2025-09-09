@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Chengalpattu taxi, Villupuram to Chengalpattu one way taxi, Villupuram to Chengalpattu outstation cabs, Villupuram to Chengalpattu taxi fare, Villupuram to Chengalpattu cab fare, Villupuram to Chengalpattu round trip taxi, Villupuram to Chengalpattu car rental, Villupuram to Chengalpattu cab booking">

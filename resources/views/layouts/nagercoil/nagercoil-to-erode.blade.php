@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Erode taxi, Nagercoil to Erode one way taxi, Nagercoil to Erode outstation cabs, Nagercoil to Erode taxi fare, Nagercoil to Erode cab fare, Nagercoil to Erode round trip taxi, Nagercoil to Erode car rental, Nagercoil to Erode cab booking">

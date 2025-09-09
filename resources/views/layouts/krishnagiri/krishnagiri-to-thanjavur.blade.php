@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Thanjavur taxi, Krishnagiri to Thanjavur one way taxi, Krishnagiri to Thanjavur outstation cabs, Krishnagiri to Thanjavur taxi fare, Krishnagiri to Thanjavur cab fare, Krishnagiri to Thanjavur round trip taxi, Krishnagiri to Thanjavur car rental, Krishnagiri to Thanjavur cab booking">

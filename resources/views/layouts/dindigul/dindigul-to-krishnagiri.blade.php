@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Krishnagiri taxi, Dindigul to Krishnagiri one way taxi, Dindigul to Krishnagiri outstation cabs, Dindigul to Krishnagiri taxi fare, Dindigul to Krishnagiri cab fare, Dindigul to Krishnagiri round trip taxi, Dindigul to Krishnagiri car rental, Dindigul to Krishnagiri cab booking">

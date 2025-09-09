@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Cuddalore taxi, Dindigul to Cuddalore one way taxi, Dindigul to Cuddalore outstation cabs, Dindigul to Cuddalore taxi fare, Dindigul to Cuddalore cab fare, Dindigul to Cuddalore round trip taxi, Dindigul to Cuddalore car rental, Dindigul to Cuddalore cab booking">

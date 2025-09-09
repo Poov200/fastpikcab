@@ -7,7 +7,7 @@
     <title>Fastpikcab - Virudhunagar to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Ranipet taxi, Virudhunagar to Ranipet one way taxi, Virudhunagar to Ranipet outstation cabs, Virudhunagar to Ranipet taxi fare, Virudhunagar to Ranipet cab fare, Virudhunagar to Ranipet round trip taxi, Virudhunagar to Ranipet car rental, Virudhunagar to Ranipet cab booking">

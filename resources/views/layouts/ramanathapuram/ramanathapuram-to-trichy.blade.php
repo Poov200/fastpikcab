@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ramanathapuram to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Trichy taxi, Ramanathapuram to Trichy one way taxi, Ramanathapuram to Trichy outstation cabs, Ramanathapuram to Trichy taxi fare, Ramanathapuram to Trichy cab fare, Ramanathapuram to Trichy round trip taxi, Ramanathapuram to Trichy car rental, Ramanathapuram to Trichy cab booking">

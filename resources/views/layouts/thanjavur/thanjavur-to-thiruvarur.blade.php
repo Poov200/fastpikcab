@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fastpik Cab - Thanjavur to Thiruvarur Taxi Service </title>
     <meta name="description"
-        content="Book a reliable Thanjavur to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="Thanjavur to Thiruvarur taxi, Thanjavur to Thiruvarur one way taxi, Thanjavur to Thiruvarur outstation cabs, Thanjavur to Thiruvarur taxi fare, Thanjavur to Thiruvarur cab fare, Thanjavur to Thiruvarur round trip taxi, Thanjavur to Thiruvarur car rental, Thanjavur to Thiruvarur cab booking">
     <meta property="og:title" content="Fastpik Cab - Thanjavur to Thiruvarur Taxi Service">

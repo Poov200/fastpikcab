@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Arakkonam Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to arakkonam taxi, thiruvannamalai to arakkonam one way taxi, thiruvannamalai to arakkonam outstation cabs, thiruvannamalai to arakkonam taxi fare, thiruvannamalai to arakkonam cab fare, thiruvannamalai to arakkonam round trip taxi, thiruvannamalai to arakkonam car rental, thiruvannamalai to arakkonam cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Arakkonam Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Arakkonam. Book online for one-way, round-trip, or outstation travel.">

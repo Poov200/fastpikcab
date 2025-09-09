@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagapattinam to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Thiruvarur taxi, Nagapattinam to Thiruvarur one way taxi, Nagapattinam to Thiruvarur outstation cabs, Nagapattinam to Thiruvarur taxi fare, Nagapattinam to Thiruvarur cab fare, Nagapattinam to Thiruvarur round trip taxi, Nagapattinam to Thiruvarur car rental, Nagapattinam to Thiruvarur cab booking">

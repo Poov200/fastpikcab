@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Puducherry taxi, Salem to Puducherry one way taxi, Salem to Puducherry outstation cabs, Salem to Puducherry taxi fare, Salem to Puducherry cab fare, Salem to Puducherry round trip taxi, Salem to Puducherry car rental, Salem to Puducherry cab booking">

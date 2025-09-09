@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Coimbatore taxi, Dharmapuri to Coimbatore one way taxi, Dharmapuri to Coimbatore outstation cabs, Dharmapuri to Coimbatore taxi fare, Dharmapuri to Coimbatore cab fare, Dharmapuri to Coimbatore round trip taxi, Dharmapuri to Coimbatore car rental, Dharmapuri to Coimbatore cab booking">

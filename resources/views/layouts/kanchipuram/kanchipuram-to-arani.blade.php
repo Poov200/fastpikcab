@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Arani taxi, Kanchipuram to Arani one way taxi, Kanchipuram to Arani outstation cabs, Kanchipuram to Arani taxi fare, Kanchipuram to Arani cab fare, Kanchipuram to Arani round trip taxi, Kanchipuram to Arani car rental, Kanchipuram to Arani cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Thoothukudi taxi, Hosur to Thoothukudi one way taxi, Hosur to Thoothukudi outstation cabs, Hosur to Thoothukudi taxi fare, Hosur to Thoothukudi cab fare, Hosur to Thoothukudi round trip taxi, Hosur to Thoothukudi car rental, Hosur to Thoothukudi cab booking">

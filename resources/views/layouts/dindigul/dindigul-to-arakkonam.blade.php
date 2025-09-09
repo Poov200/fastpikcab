@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Arakkonam taxi, Dindigul to Arakkonam one way taxi, Dindigul to Arakkonam outstation cabs, Dindigul to Arakkonam taxi fare, Dindigul to Arakkonam cab fare, Dindigul to Arakkonam round trip taxi, Dindigul to Arakkonam car rental, Dindigul to Arakkonam cab booking">

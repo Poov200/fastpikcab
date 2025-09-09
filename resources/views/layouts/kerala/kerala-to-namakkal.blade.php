@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Namakkal Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to namakkal taxi, kerala to namakkal one way taxi, kerala to namakkal outstation cabs, kerala to namakkal taxi fare, kerala to namakkal cab fare, kerala to namakkal round trip taxi, kerala to namakkal car rental, kerala to namakkal cab booking">
 
     {{-- Open Graph Meta Tags --}}

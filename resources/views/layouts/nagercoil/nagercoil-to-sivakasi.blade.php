@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Sivakasi taxi, Nagercoil to Sivakasi one way taxi, Nagercoil to Sivakasi outstation cabs, Nagercoil to Sivakasi taxi fare, Nagercoil to Sivakasi cab fare, Nagercoil to Sivakasi round trip taxi, Nagercoil to Sivakasi car rental, Nagercoil to Sivakasi cab booking">

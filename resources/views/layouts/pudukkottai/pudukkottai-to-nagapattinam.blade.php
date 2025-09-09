@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Pudukkottai to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Nagapattinam taxi, Pudukkottai to Nagapattinam one way taxi, Pudukkottai to Nagapattinam outstation cabs, Pudukkottai to Nagapattinam taxi fare, Pudukkottai to Nagapattinam cab fare, Pudukkottai to Nagapattinam round trip taxi, Pudukkottai to Nagapattinam car rental, Pudukkottai to Nagapattinam cab booking">

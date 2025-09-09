@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Thoothukudi taxi, Tenkasi to Thoothukudi one way taxi, Tenkasi to Thoothukudi outstation cabs, Tenkasi to Thoothukudi taxi fare, Tenkasi to Thoothukudi cab fare, Tenkasi to Thoothukudi round trip taxi, Tenkasi to Thoothukudi car rental, Tenkasi to Thoothukudi cab booking">

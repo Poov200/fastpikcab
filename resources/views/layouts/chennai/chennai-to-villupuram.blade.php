@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chennai to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chennai to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chennai to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chennai to Villupuram taxi, Chennai Airport to Villupuram taxi, Chennai to Villupuram one way taxi, Chennai to Villupuram outstation cabs, Chennai to Villupuram taxi fare, Chennai to Villupuram cab fare, Chennai to Villupuram round trip taxi, Chennai to Villupuram car rental, Chennai to Villupuram cab booking">

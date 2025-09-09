@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Ramanathapuram taxi, Coimbatore to Ramanathapuram one way taxi, Coimbatore to Ramanathapuram outstation cabs, Coimbatore to Ramanathapuram taxi fare, Coimbatore to Ramanathapuram cab fare, Coimbatore to Ramanathapuram round trip taxi, Coimbatore to Ramanathapuram car rental, Coimbatore to Ramanathapuram cab booking">

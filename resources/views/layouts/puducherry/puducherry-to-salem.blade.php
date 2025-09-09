@@ -7,7 +7,7 @@
     <title>Fastpikcab - Puducherry to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Puducherry to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Puducherry to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Puducherry to Salem taxi, Puducherry to Salem one way taxi, Puducherry to Salem outstation cabs, Puducherry to Salem taxi fare, Puducherry to Salem cab fare, Puducherry to Salem round trip taxi, Puducherry to Salem car rental, Puducherry to Salem cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Salem taxi, Karur to Salem one way taxi, Karur to Salem outstation cabs, Karur to Salem taxi fare, Karur to Salem cab fare, Karur to Salem round trip taxi, Karur to Salem car rental, Karur to Salem cab booking">

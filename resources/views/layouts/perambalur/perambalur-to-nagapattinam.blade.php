@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Nagapattinam taxi, Perambalur to Nagapattinam one way taxi, Perambalur to Nagapattinam outstation cabs, Perambalur to Nagapattinam taxi fare, Perambalur to Nagapattinam cab fare, Perambalur to Nagapattinam round trip taxi, Perambalur to Nagapattinam car rental, Perambalur to Nagapattinam cab booking">

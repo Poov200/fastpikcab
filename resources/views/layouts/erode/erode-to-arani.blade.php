@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Arani taxi, Erode to Arani one way taxi, Erode to Arani outstation cabs, Erode to Arani taxi fare, Erode to Arani cab fare, Erode to Arani round trip taxi, Erode to Arani car rental, Erode to Arani cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagapattinam to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Cuddalore taxi, Nagapattinam to Cuddalore one way taxi, Nagapattinam to Cuddalore outstation cabs, Nagapattinam to Cuddalore taxi fare, Nagapattinam to Cuddalore cab fare, Nagapattinam to Cuddalore round trip taxi, Nagapattinam to Cuddalore car rental, Nagapattinam to Cuddalore cab booking">

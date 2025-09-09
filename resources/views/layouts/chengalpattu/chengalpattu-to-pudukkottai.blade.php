@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chengalpattu to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chengalpattu to Pudukkottai taxi, Chengalpattu to Pudukkottai one way taxi, Chengalpattu to Pudukkottai outstation cabs, Chengalpattu to Pudukkottai taxi fare, Chengalpattu to Pudukkottai cab fare, Chengalpattu to Pudukkottai round trip taxi, Chengalpattu to Pudukkottai car rental, Chengalpattu to Pudukkottai cab booking">

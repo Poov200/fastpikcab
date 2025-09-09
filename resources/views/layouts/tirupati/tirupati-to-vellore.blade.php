@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Vellore taxi, Tirupati to Vellore one way taxi, Tirupati to Vellore outstation cabs, Tirupati to Vellore taxi fare, Tirupati to Vellore cab fare, Tirupati to Vellore round trip taxi, Tirupati to Vellore car rental, Tirupati to Vellore cab booking">

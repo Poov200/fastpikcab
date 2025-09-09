@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Villupuram Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to villupuram taxi, thiruvarur to villupuram one way taxi, thiruvarur to villupuram outstation cabs, thiruvarur to villupuram taxi fare, thiruvarur to villupuram cab fare, thiruvarur to villupuram round trip taxi, thiruvarur to villupuram car rental, thiruvarur to villupuram cab booking">
 
     {{-- Open Graph Meta Tags --}}

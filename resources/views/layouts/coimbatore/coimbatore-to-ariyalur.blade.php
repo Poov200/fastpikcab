@@ -8,7 +8,7 @@
 <title>Fastpikcab - Coimbatore to Ariyalur Taxi Service </title>
 
 <meta name="description"
-    content="Book a reliable Coimbatore to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    content="Book a reliable Coimbatore to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
 <meta name="keywords"
     content="Coimbatore to Ariyalur taxi, Coimbatore to Ariyalur one way taxi, Coimbatore to Ariyalur outstation cabs, Coimbatore to Ariyalur taxi fare, Coimbatore to Ariyalur cab fare, Coimbatore to Ariyalur round trip taxi, Coimbatore to Ariyalur car rental, Coimbatore to Ariyalur cab booking">

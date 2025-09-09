@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Sivakasi taxi, Ariyalur to Sivakasi one way taxi, Ariyalur to Sivakasi outstation cabs, Ariyalur to Sivakasi taxi fare, Ariyalur to Sivakasi cab fare, Ariyalur to Sivakasi round trip taxi, Ariyalur to Sivakasi car rental, Ariyalur to Sivakasi cab booking">

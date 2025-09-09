@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Nagapattinam taxi, Karur to Nagapattinam one way taxi, Karur to Nagapattinam outstation cabs, Karur to Nagapattinam taxi fare, Karur to Nagapattinam cab fare, Karur to Nagapattinam round trip taxi, Karur to Nagapattinam car rental, Karur to Nagapattinam cab booking">

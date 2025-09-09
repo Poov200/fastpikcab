@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ranipet to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Vellore taxi, Ranipet to Vellore one way taxi, Ranipet to Vellore outstation cabs, Ranipet to Vellore taxi fare, Ranipet to Vellore cab fare, Ranipet to Vellore round trip taxi, Ranipet to Vellore car rental, Ranipet to Vellore cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Namakkal taxi, Erode to Namakkal one way taxi, Erode to Namakkal outstation cabs, Erode to Namakkal taxi fare, Erode to Namakkal cab fare, Erode to Namakkal round trip taxi, Erode to Namakkal car rental, Erode to Namakkal cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Kanchipuram taxi, Nagercoil to Kanchipuram one way taxi, Nagercoil to Kanchipuram outstation cabs, Nagercoil to Kanchipuram taxi fare, Nagercoil to Kanchipuram cab fare, Nagercoil to Kanchipuram round trip taxi, Nagercoil to Kanchipuram car rental, Nagercoil to Kanchipuram cab booking">

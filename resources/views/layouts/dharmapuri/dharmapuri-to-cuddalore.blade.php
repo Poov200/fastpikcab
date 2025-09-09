@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Cuddalore taxi, Dharmapuri to Cuddalore one way taxi, Dharmapuri to Cuddalore outstation cabs, Dharmapuri to Cuddalore taxi fare, Dharmapuri to Cuddalore cab fare, Dharmapuri to Cuddalore round trip taxi, Dharmapuri to Cuddalore car rental, Dharmapuri to Cuddalore cab booking">

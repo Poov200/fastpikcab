@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Karur taxi, Tenkasi to Karur one way taxi, Tenkasi to Karur outstation cabs, Tenkasi to Karur taxi fare, Tenkasi to Karur cab fare, Tenkasi to Karur round trip taxi, Tenkasi to Karur car rental, Tenkasi to Karur cab booking">

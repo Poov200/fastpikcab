@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Cuddalore taxi, Salem to Cuddalore one way taxi, Salem to Cuddalore outstation cabs, Salem to Cuddalore taxi fare, Salem to Cuddalore cab fare, Salem to Cuddalore round trip taxi, Salem to Cuddalore car rental, Salem to Cuddalore cab booking">

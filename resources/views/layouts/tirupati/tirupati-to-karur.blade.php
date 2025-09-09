@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Karur taxi, Tirupati to Karur one way taxi, Tirupati to Karur outstation cabs, Tirupati to Karur taxi fare, Tirupati to Karur cab fare, Tirupati to Karur round trip taxi, Tirupati to Karur car rental, Tirupati to Karur cab booking">

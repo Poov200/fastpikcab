@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Virudhunagar taxi, Dindigul to Virudhunagar one way taxi, Dindigul to Virudhunagar outstation cabs, Dindigul to Virudhunagar taxi fare, Dindigul to Virudhunagar cab fare, Dindigul to Virudhunagar round trip taxi, Dindigul to Virudhunagar car rental, Dindigul to Virudhunagar cab booking">

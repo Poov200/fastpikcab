@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Dharmapuri taxi, Vellore to Dharmapuri one way taxi, Vellore to Dharmapuri outstation cabs, Vellore to Dharmapuri taxi fare, Vellore to Dharmapuri cab fare, Vellore to Dharmapuri round trip taxi, Vellore to Dharmapuri car rental, Vellore to Dharmapuri cab booking">

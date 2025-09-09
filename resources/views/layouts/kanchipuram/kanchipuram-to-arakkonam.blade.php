@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Arakkonam taxi, Kanchipuram to Arakkonam one way taxi, Kanchipuram to Arakkonam outstation cabs, Kanchipuram to Arakkonam taxi fare, Kanchipuram to Arakkonam cab fare, Kanchipuram to Arakkonam round trip taxi, Kanchipuram to Arakkonam car rental, Kanchipuram to Arakkonam cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Arani to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Salem taxi, Arani to Salem one way taxi, Arani to Salem outstation cabs, Arani to Salem taxi fare, Arani to Salem cab fare, Arani to Salem round trip taxi, Arani to Salem car rental, Arani to Salem cab booking">

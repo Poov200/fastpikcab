@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Trichy (Tiruchirappalli) taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Trichy (Tiruchirappalli) taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Trichy taxi, Kanchipuram to Trichy one way taxi, Kanchipuram to Trichy outstation cabs, Kanchipuram to Trichy taxi fare, Kanchipuram to Trichy cab fare, Kanchipuram to Trichy round trip taxi, Kanchipuram to Trichy car rental, Kanchipuram to Trichy cab booking">

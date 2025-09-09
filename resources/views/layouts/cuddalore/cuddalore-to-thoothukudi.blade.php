@@ -7,7 +7,7 @@
     <title>Fastpikcab - Cuddalore to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Cuddalore to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Cuddalore to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Cuddalore to Thoothukudi taxi, Cuddalore to Thoothukudi one way taxi, Cuddalore to Thoothukudi outstation cabs, Cuddalore to Thoothukudi taxi fare, Cuddalore to Thoothukudi cab fare, Cuddalore to Thoothukudi round trip taxi, Cuddalore to Thoothukudi car rental, Cuddalore to Thoothukudi cab booking">

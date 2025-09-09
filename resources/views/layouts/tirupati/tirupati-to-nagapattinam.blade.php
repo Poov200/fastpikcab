@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Nagapattinam taxi, Tirupati to Nagapattinam one way taxi, Tirupati to Nagapattinam outstation cabs, Tirupati to Nagapattinam taxi fare, Tirupati to Nagapattinam cab fare, Tirupati to Nagapattinam round trip taxi, Tirupati to Nagapattinam car rental, Tirupati to Nagapattinam cab booking">

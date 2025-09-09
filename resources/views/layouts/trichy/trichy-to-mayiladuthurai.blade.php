@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Trichy to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Mayiladuthurai taxi, Trichy to Mayiladuthurai one way taxi, Trichy to Mayiladuthurai outstation cabs, Trichy to Mayiladuthurai taxi fare, Trichy to Mayiladuthurai cab fare, Trichy to Mayiladuthurai round trip taxi, Trichy to Mayiladuthurai car rental, Trichy to Mayiladuthurai cab booking">

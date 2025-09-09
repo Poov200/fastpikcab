@@ -7,7 +7,7 @@
     <title>Fastpikcab - Mayiladuthurai to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Arakkonam taxi, Mayiladuthurai to Arakkonam one way taxi, Mayiladuthurai to Arakkonam outstation cabs, Mayiladuthurai to Arakkonam taxi fare, Mayiladuthurai to Arakkonam cab fare, Mayiladuthurai to Arakkonam round trip taxi, Mayiladuthurai to Arakkonam car rental, Mayiladuthurai to Arakkonam cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ramanathapuram to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Thoothukudi taxi, Ramanathapuram to Thoothukudi one way taxi, Ramanathapuram to Thoothukudi outstation cabs, Ramanathapuram to Thoothukudi taxi fare, Ramanathapuram to Thoothukudi cab fare, Ramanathapuram to Thoothukudi round trip taxi, Ramanathapuram to Thoothukudi car rental, Ramanathapuram to Thoothukudi cab booking">

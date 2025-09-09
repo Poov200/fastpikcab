@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Dharmapuri taxi, Karur to Dharmapuri one way taxi, Karur to Dharmapuri outstation cabs, Karur to Dharmapuri taxi fare, Karur to Dharmapuri cab fare, Karur to Dharmapuri round trip taxi, Karur to Dharmapuri car rental, Karur to Dharmapuri cab booking">

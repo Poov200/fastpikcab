@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Bangalore to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Bangalore to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Bangalore to Tenkasi taxi, Bangalore to Tenkasi one way taxi, Bangalore to Tenkasi outstation cabs, Bangalore to Tenkasi taxi fare, Bangalore to Tenkasi cab fare, Bangalore to Tenkasi round trip taxi, Bangalore to Tenkasi car rental, Bangalore to Tenkasi cab booking">

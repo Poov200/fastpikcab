@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Coimbatore taxi, Karaikal to Coimbatore one way taxi, Karaikal to Coimbatore outstation cabs, Karaikal to Coimbatore taxi fare, Karaikal to Coimbatore cab fare, Karaikal to Coimbatore round trip taxi, Karaikal to Coimbatore car rental, Karaikal to Coimbatore cab booking">

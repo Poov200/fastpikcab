@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Tiruppur taxi, Coimbatore to Tiruppur one way taxi, Coimbatore to Tiruppur outstation cabs, Coimbatore to Tiruppur taxi fare, Coimbatore to Tiruppur cab fare, Coimbatore to Tiruppur round trip taxi, Coimbatore to Tiruppur car rental, Coimbatore to Tiruppur cab booking">

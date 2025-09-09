@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Trichy to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Ranipet taxi, Trichy to Ranipet one way taxi, Trichy to Ranipet outstation cabs, Trichy to Ranipet taxi fare, Trichy to Ranipet cab fare, Trichy to Ranipet round trip taxi, Trichy to Ranipet car rental, Trichy to Ranipet cab booking">

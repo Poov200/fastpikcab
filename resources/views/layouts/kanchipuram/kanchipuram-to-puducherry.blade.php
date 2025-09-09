@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Puducherry taxi, Kanchipuram to Puducherry one way taxi, Kanchipuram to Puducherry outstation cabs, Kanchipuram to Puducherry taxi fare, Kanchipuram to Puducherry cab fare, Kanchipuram to Puducherry round trip taxi, Kanchipuram to Puducherry car rental, Kanchipuram to Puducherry cab booking">

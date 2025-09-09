@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Erode taxi, Tiruppur to Erode one way taxi, Tiruppur to Erode outstation cabs, Tiruppur to Erode taxi fare, Tiruppur to Erode cab fare, Tiruppur to Erode round trip taxi, Tiruppur to Erode car rental, Tiruppur to Erode cab booking">

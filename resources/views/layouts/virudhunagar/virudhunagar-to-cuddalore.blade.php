@@ -7,7 +7,7 @@
     <title>Fastpikcab - Virudhunagar to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Cuddalore taxi, Virudhunagar to Cuddalore one way taxi, Virudhunagar to Cuddalore outstation cabs, Virudhunagar to Cuddalore taxi fare, Virudhunagar to Cuddalore cab fare, Virudhunagar to Cuddalore round trip taxi, Virudhunagar to Cuddalore car rental, Virudhunagar to Cuddalore cab booking">

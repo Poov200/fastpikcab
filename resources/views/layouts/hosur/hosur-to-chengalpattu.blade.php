@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Chengalpattu taxi, Hosur to Chengalpattu one way taxi, Hosur to Chengalpattu outstation cabs, Hosur to Chengalpattu taxi fare, Hosur to Chengalpattu cab fare, Hosur to Chengalpattu round trip taxi, Hosur to Chengalpattu car rental, Hosur to Chengalpattu cab booking">

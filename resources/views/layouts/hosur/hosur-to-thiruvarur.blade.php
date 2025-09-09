@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Thiruvarur taxi, Hosur to Thiruvarur one way taxi, Hosur to Thiruvarur outstation cabs, Hosur to Thiruvarur taxi fare, Hosur to Thiruvarur cab fare, Hosur to Thiruvarur round trip taxi, Hosur to Thiruvarur car rental, Hosur to Thiruvarur cab booking">

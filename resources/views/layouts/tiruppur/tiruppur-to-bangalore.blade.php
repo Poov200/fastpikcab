@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Bangalore taxi, Tiruppur to Bangalore one way taxi, Tiruppur to Bangalore outstation cabs, Tiruppur to Bangalore taxi fare, Tiruppur to Bangalore cab fare, Tiruppur to Bangalore round trip taxi, Tiruppur to Bangalore car rental, Tiruppur to Bangalore cab booking">

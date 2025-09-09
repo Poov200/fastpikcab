@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Erode taxi, Dindigul to Erode one way taxi, Dindigul to Erode outstation cabs, Dindigul to Erode taxi fare, Dindigul to Erode cab fare, Dindigul to Erode round trip taxi, Dindigul to Erode car rental, Dindigul to Erode cab booking">

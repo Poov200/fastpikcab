@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thanjavur to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thanjavur to Arakkonam taxi, Thanjavur to Arakkonam one way taxi, Thanjavur to Arakkonam outstation cabs, Thanjavur to Arakkonam taxi fare, Thanjavur to Arakkonam cab fare, Thanjavur to Arakkonam round trip taxi, Thanjavur to Arakkonam car rental, Thanjavur to Arakkonam cab booking">

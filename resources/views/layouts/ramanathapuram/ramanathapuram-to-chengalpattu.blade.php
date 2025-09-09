@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ramanathapuram to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Chengalpattu taxi, Ramanathapuram to Chengalpattu one way taxi, Ramanathapuram to Chengalpattu outstation cabs, Ramanathapuram to Chengalpattu taxi fare, Ramanathapuram to Chengalpattu cab fare, Ramanathapuram to Chengalpattu round trip taxi, Ramanathapuram to Chengalpattu car rental, Ramanathapuram to Chengalpattu cab booking">

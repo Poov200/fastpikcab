@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Villupuram taxi, Ariyalur to Villupuram one way taxi, Ariyalur to Villupuram outstation cabs, Ariyalur to Villupuram taxi fare, Ariyalur to Villupuram cab fare, Ariyalur to Villupuram round trip taxi, Ariyalur to Villupuram car rental, Ariyalur to Villupuram cab booking">

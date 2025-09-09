@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Tiruppur taxi, Ariyalur to Tiruppur one way taxi, Ariyalur to Tiruppur outstation cabs, Ariyalur to Tiruppur taxi fare, Ariyalur to Tiruppur cab fare, Ariyalur to Tiruppur round trip taxi, Ariyalur to Tiruppur car rental, Ariyalur to Tiruppur cab booking">

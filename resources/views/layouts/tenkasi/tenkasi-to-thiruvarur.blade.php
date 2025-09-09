@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Thiruvarur taxi, Tenkasi to Thiruvarur one way taxi, Tenkasi to Thiruvarur outstation cabs, Tenkasi to Thiruvarur taxi fare, Tenkasi to Thiruvarur cab fare, Tenkasi to Thiruvarur round trip taxi, Tenkasi to Thiruvarur car rental, Tenkasi to Thiruvarur cab booking">

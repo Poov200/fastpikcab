@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Pudukkottai taxi, Tirupati to Pudukkottai one way taxi, Tirupati to Pudukkottai outstation cabs, Tirupati to Pudukkottai taxi fare, Tirupati to Pudukkottai cab fare, Tirupati to Pudukkottai round trip taxi, Tirupati to Pudukkottai car rental, Tirupati to Pudukkottai cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Dharmapuri taxi, Namakkal to Dharmapuri one way taxi, Namakkal to Dharmapuri outstation cabs, Namakkal to Dharmapuri taxi fare, Namakkal to Dharmapuri cab fare, Namakkal to Dharmapuri round trip taxi, Namakkal to Dharmapuri car rental, Namakkal to Dharmapuri cab booking">

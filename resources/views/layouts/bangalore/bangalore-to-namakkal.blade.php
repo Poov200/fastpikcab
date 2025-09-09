@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Bangalore to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Bangalore to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Bangalore to Namakkal taxi, Bangalore to Namakkal one way taxi, Bangalore to Namakkal outstation cabs, Bangalore to Namakkal taxi fare, Bangalore to Namakkal cab fare, Bangalore to Namakkal round trip taxi, Bangalore to Namakkal car rental, Bangalore to Namakkal cab booking">

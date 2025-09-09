@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Hosur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Hosur taxi, Kanchipuram to Hosur one way taxi, Kanchipuram to Hosur outstation cabs, Kanchipuram to Hosur taxi fare, Kanchipuram to Hosur cab fare, Kanchipuram to Hosur round trip taxi, Kanchipuram to Hosur car rental, Kanchipuram to Hosur cab booking">

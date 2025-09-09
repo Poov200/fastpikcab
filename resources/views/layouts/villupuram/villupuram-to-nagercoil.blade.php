@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Nagercoil taxi, Villupuram to Nagercoil one way taxi, Villupuram to Nagercoil outstation cabs, Villupuram to Nagercoil taxi fare, Villupuram to Nagercoil cab fare, Villupuram to Nagercoil round trip taxi, Villupuram to Nagercoil car rental, Villupuram to Nagercoil cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Cuddalore to Tirupati Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Cuddalore to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Cuddalore to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Cuddalore to Tirupati taxi, Cuddalore to Tirupati one way taxi, Cuddalore to Tirupati outstation cabs, Cuddalore to Tirupati taxi fare, Cuddalore to Tirupati cab fare, Cuddalore to Tirupati round trip taxi, Cuddalore to Tirupati car rental, Cuddalore to Tirupati cab booking">

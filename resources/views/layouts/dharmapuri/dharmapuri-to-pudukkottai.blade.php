@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Pudukkottai taxi, Dharmapuri to Pudukkottai one way taxi, Dharmapuri to Pudukkottai outstation cabs, Dharmapuri to Pudukkottai taxi fare, Dharmapuri to Pudukkottai cab fare, Dharmapuri to Pudukkottai round trip taxi, Dharmapuri to Pudukkottai car rental, Dharmapuri to Pudukkottai cab booking">

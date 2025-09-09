@@ -7,7 +7,7 @@
     <title>Fastpikcab - Madurai to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Tirunelveli taxi, Madurai to Tirunelveli one way taxi, Madurai to Tirunelveli outstation cabs, Madurai to Tirunelveli taxi fare, Madurai to Tirunelveli cab fare, Madurai to Tirunelveli round trip taxi, Madurai to Tirunelveli car rental, Madurai to Tirunelveli cab booking">

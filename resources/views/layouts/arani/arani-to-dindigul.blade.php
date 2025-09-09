@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Arani to Dindigul Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Dindigul taxi, Arani to Dindigul one way taxi, Arani to Dindigul outstation cabs, Arani to Dindigul taxi fare, Arani to Dindigul cab fare, Arani to Dindigul round trip taxi, Arani to Dindigul car rental, Arani to Dindigul cab booking">

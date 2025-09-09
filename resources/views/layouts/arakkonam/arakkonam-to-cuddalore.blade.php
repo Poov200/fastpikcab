@@ -7,7 +7,7 @@
     <title>Fastpikcab - Arakkonam to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arakkonam to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arakkonam to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arakkonam to Cuddalore taxi, Arakkonam to Cuddalore one way taxi, Arakkonam to Cuddalore outstation cabs, Arakkonam to Cuddalore taxi fare, Arakkonam to Cuddalore cab fare, Arakkonam to Cuddalore round trip taxi, Arakkonam to Cuddalore car rental, Arakkonam to Cuddalore cab booking">

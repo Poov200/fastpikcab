@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Virudhunagar taxi, Ariyalur to Virudhunagar one way taxi, Ariyalur to Virudhunagar outstation cabs, Ariyalur to Virudhunagar taxi fare, Ariyalur to Virudhunagar cab fare, Ariyalur to Virudhunagar round trip taxi, Ariyalur to Virudhunagar car rental, Ariyalur to Virudhunagar cab booking">

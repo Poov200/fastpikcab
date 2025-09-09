@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Arani taxi, Namakkal to Arani one way taxi, Namakkal to Arani outstation cabs, Namakkal to Arani taxi fare, Namakkal to Arani cab fare, Namakkal to Arani round trip taxi, Namakkal to Arani car rental, Namakkal to Arani cab booking">

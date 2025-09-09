@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Pudukkottai to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Trichy taxi, Pudukkottai to Trichy one way taxi, Pudukkottai to Trichy outstation cabs, Pudukkottai to Trichy taxi fare, Pudukkottai to Trichy cab fare, Pudukkottai to Trichy round trip taxi, Pudukkottai to Trichy car rental, Pudukkottai to Trichy cab booking">

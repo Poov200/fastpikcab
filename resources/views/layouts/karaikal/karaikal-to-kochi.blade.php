@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Kochi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Kochi taxi, Karaikal to Kochi one way taxi, Karaikal to Kochi outstation cabs, Karaikal to Kochi taxi fare, Karaikal to Kochi cab fare, Karaikal to Kochi round trip taxi, Karaikal to Kochi car rental, Karaikal to Kochi cab booking">

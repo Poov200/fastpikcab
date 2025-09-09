@@ -7,7 +7,7 @@
     <title>Fastpikcab - Virudhunagar to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Thoothukudi taxi, Virudhunagar to Thoothukudi one way taxi, Virudhunagar to Thoothukudi outstation cabs, Virudhunagar to Thoothukudi taxi fare, Virudhunagar to Thoothukudi cab fare, Virudhunagar to Thoothukudi round trip taxi, Virudhunagar to Thoothukudi car rental, Virudhunagar to Thoothukudi cab booking">

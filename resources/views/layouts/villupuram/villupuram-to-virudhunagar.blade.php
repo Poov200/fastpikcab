@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Virudhunagar taxi, Villupuram to Virudhunagar one way taxi, Villupuram to Virudhunagar outstation cabs, Villupuram to Virudhunagar taxi fare, Villupuram to Virudhunagar cab fare, Villupuram to Virudhunagar round trip taxi, Villupuram to Virudhunagar car rental, Villupuram to Virudhunagar cab booking">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Puducherry Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to puducherry taxi, kerala to puducherry one way taxi, kerala to puducherry outstation cabs, kerala to puducherry taxi fare, kerala to puducherry cab fare, kerala to puducherry round trip taxi, kerala to puducherry car rental, kerala to puducherry cab booking">
 
     {{-- Open Graph Meta Tags --}}

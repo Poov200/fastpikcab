@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Tirunelveli taxi, Hosur to Tirunelveli one way taxi, Hosur to Tirunelveli outstation cabs, Hosur to Tirunelveli taxi fare, Hosur to Tirunelveli cab fare, Hosur to Tirunelveli round trip taxi, Hosur to Tirunelveli car rental, Hosur to Tirunelveli cab booking">

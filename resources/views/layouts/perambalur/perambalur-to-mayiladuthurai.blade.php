@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Mayiladuthurai taxi, Perambalur to Mayiladuthurai one way taxi, Perambalur to Mayiladuthurai outstation cabs, Perambalur to Mayiladuthurai taxi fare, Perambalur to Mayiladuthurai cab fare, Perambalur to Mayiladuthurai round trip taxi, Perambalur to Mayiladuthurai car rental, Perambalur to Mayiladuthurai cab booking">

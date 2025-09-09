@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Tirupati Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Tirupati taxi, Ariyalur to Tirupati one way taxi, Ariyalur to Tirupati outstation cabs, Ariyalur to Tirupati taxi fare, Ariyalur to Tirupati cab fare, Ariyalur to Tirupati round trip taxi, Ariyalur to Tirupati car rental, Ariyalur to Tirupati cab booking">

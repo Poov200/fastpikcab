@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Thoothukudi taxi, Tirupati to Thoothukudi one way taxi, Tirupati to Thoothukudi outstation cabs, Tirupati to Thoothukudi taxi fare, Tirupati to Thoothukudi cab fare, Tirupati to Thoothukudi round trip taxi, Tirupati to Thoothukudi car rental, Tirupati to Thoothukudi cab booking">

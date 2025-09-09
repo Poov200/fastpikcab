@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Thiruvannamalai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Thiruvannamalai taxi, Kanchipuram to Thiruvannamalai one way taxi, Kanchipuram to Thiruvannamalai outstation cabs, Kanchipuram to Thiruvannamalai taxi fare, Kanchipuram to Thiruvannamalai cab fare, Kanchipuram to Thiruvannamalai round trip taxi, Kanchipuram to Thiruvannamalai car rental, Kanchipuram to Thiruvannamalai cab booking">

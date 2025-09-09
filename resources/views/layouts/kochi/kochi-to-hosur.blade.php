@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Hosur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to hosur taxi, kochi to hosur one way taxi, kochi to hosur outstation cabs, kochi to hosur taxi fare, kochi to hosur cab fare, kochi to hosur round trip taxi, kochi to hosur car rental, kochi to hosur cab booking">
 
     {{-- Open Graph Meta Tags --}}

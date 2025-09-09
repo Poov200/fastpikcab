@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Puducherry taxi, Erode to Puducherry one way taxi, Erode to Puducherry outstation cabs, Erode to Puducherry taxi fare, Erode to Puducherry cab fare, Erode to Puducherry round trip taxi, Erode to Puducherry car rental, Erode to Puducherry cab booking">

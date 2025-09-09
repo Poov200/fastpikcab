@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Thiruvannamalai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Thiruvannamalai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Thiruvannamalai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to thiruvannamalai taxi, thiruvarur to thiruvannamalai one way taxi, thiruvarur to thiruvannamalai outstation cabs, thiruvarur to thiruvannamalai taxi fare, thiruvarur to thiruvannamalai cab fare, thiruvarur to thiruvannamalai round trip taxi, thiruvarur to thiruvannamalai car rental, thiruvarur to thiruvannamalai cab booking">
 
     {{-- Open Graph Meta Tags --}}

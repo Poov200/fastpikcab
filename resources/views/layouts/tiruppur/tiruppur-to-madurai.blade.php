@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Madurai taxi, Tiruppur to Madurai one way taxi, Tiruppur to Madurai outstation cabs, Tiruppur to Madurai taxi fare, Tiruppur to Madurai cab fare, Tiruppur to Madurai round trip taxi, Tiruppur to Madurai car rental, Tiruppur to Madurai cab booking">

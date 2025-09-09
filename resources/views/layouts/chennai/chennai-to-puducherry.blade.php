@@ -7,7 +7,7 @@
     <title>Fastpikcab - Chennai to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chennai to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chennai to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chennai to Puducherry taxi, Chennai to Puducherry one way taxi, Chennai to Puducherry outstation cabs, Chennai to Puducherry taxi fare, Chennai to Puducherry cab fare, Chennai to Puducherry round trip taxi, Chennai to Puducherry car rental, Chennai to Puducherry cab booking">

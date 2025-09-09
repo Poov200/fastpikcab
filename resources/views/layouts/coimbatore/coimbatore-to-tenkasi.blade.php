@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Tenkasi taxi, Coimbatore to Tenkasi one way taxi, Coimbatore to Tenkasi outstation cabs, Coimbatore to Tenkasi taxi fare, Coimbatore to Tenkasi cab fare, Coimbatore to Tenkasi round trip taxi, Coimbatore to Tenkasi car rental, Coimbatore to Tenkasi cab booking">

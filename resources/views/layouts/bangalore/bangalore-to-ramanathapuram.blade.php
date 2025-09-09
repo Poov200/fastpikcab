@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Bangalore to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Bangalore to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Bangalore to Ramanathapuram taxi, Bangalore to Ramanathapuram one way taxi, Bangalore to Ramanathapuram outstation cabs, Bangalore to Ramanathapuram taxi fare, Bangalore to Ramanathapuram cab fare, Bangalore to Ramanathapuram round trip taxi, Bangalore to Ramanathapuram car rental, Bangalore to Ramanathapuram cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Perambalur taxi, Dharmapuri to Perambalur one way taxi, Dharmapuri to Perambalur outstation cabs, Dharmapuri to Perambalur taxi fare, Dharmapuri to Perambalur cab fare, Dharmapuri to Perambalur round trip taxi, Dharmapuri to Perambalur car rental, Dharmapuri to Perambalur cab booking">

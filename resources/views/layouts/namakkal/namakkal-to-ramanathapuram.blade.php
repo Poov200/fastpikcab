@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Ramanathapuram taxi, Namakkal to Ramanathapuram one way taxi, Namakkal to Ramanathapuram outstation cabs, Namakkal to Ramanathapuram taxi fare, Namakkal to Ramanathapuram cab fare, Namakkal to Ramanathapuram round trip taxi, Namakkal to Ramanathapuram car rental, Namakkal to Ramanathapuram cab booking">

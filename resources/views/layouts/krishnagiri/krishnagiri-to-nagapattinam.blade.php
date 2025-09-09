@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Nagapattinam taxi, Krishnagiri to Nagapattinam one way taxi, Krishnagiri to Nagapattinam outstation cabs, Krishnagiri to Nagapattinam taxi fare, Krishnagiri to Nagapattinam cab fare, Krishnagiri to Nagapattinam round trip taxi, Krishnagiri to Nagapattinam car rental, Krishnagiri to Nagapattinam cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Ranipet taxi, Kanchipuram to Ranipet one way taxi, Kanchipuram to Ranipet outstation cabs, Kanchipuram to Ranipet taxi fare, Kanchipuram to Ranipet cab fare, Kanchipuram to Ranipet round trip taxi, Kanchipuram to Ranipet car rental, Kanchipuram to Ranipet cab booking">

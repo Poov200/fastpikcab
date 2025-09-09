@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Tirunelveli taxi, Tirupati to Tirunelveli one way taxi, Tirupati to Tirunelveli outstation cabs, Tirupati to Tirunelveli taxi fare, Tirupati to Tirunelveli cab fare, Tirupati to Tirunelveli round trip taxi, Tirupati to Tirunelveli car rental, Tirupati to Tirunelveli cab booking">

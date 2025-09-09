@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ranipet to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Chennai taxi, Ranipet to Chennai one way taxi, Ranipet to Chennai outstation cabs, Ranipet to Chennai taxi fare, Ranipet to Chennai cab fare, Ranipet to Chennai round trip taxi, Ranipet to Chennai car rental, Ranipet to Chennai cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Karaikal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Karaikal taxi, Kanchipuram to Karaikal one way taxi, Kanchipuram to Karaikal outstation cabs, Kanchipuram to Karaikal taxi fare, Kanchipuram to Karaikal cab fare, Kanchipuram to Karaikal round trip taxi, Kanchipuram to Karaikal car rental, Kanchipuram to Karaikal cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Tirunelveli taxi, Ariyalur to Tirunelveli one way taxi, Ariyalur to Tirunelveli outstation cabs, Ariyalur to Tirunelveli taxi fare, Ariyalur to Tirunelveli cab fare, Ariyalur to Tirunelveli round trip taxi, Ariyalur to Tirunelveli car rental, Ariyalur to Tirunelveli cab booking">

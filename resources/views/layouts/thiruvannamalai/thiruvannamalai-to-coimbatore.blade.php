@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Coimbatore Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to coimbatore taxi, thiruvannamalai to coimbatore one way taxi, thiruvannamalai to coimbatore outstation cabs, thiruvannamalai to coimbatore taxi fare, thiruvannamalai to coimbatore cab fare, thiruvannamalai to coimbatore round trip taxi, thiruvannamalai to coimbatore car rental, thiruvannamalai to coimbatore cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Coimbatore Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Coimbatore. Book online for one-way, round-trip, or outstation travel.">

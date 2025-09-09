@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Tiruppur taxi, Namakkal to Tiruppur one way taxi, Namakkal to Tiruppur outstation cabs, Namakkal to Tiruppur taxi fare, Namakkal to Tiruppur cab fare, Namakkal to Tiruppur round trip taxi, Namakkal to Tiruppur car rental, Namakkal to Tiruppur cab booking">

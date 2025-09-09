@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Pudukkottai to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Ranipet taxi, Pudukkottai to Ranipet one way taxi, Pudukkottai to Ranipet outstation cabs, Pudukkottai to Ranipet taxi fare, Pudukkottai to Ranipet cab fare, Pudukkottai to Ranipet round trip taxi, Pudukkottai to Ranipet car rental, Pudukkottai to Ranipet cab booking">

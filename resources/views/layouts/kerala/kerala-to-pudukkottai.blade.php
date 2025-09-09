@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Pudukkottai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to pudukkottai taxi, kerala to pudukkottai one way taxi, kerala to pudukkottai outstation cabs, kerala to pudukkottai taxi fare, kerala to pudukkottai cab fare, kerala to pudukkottai round trip taxi, kerala to pudukkottai car rental, kerala to pudukkottai cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Villupuram taxi, Tiruppur to Villupuram one way taxi, Tiruppur to Villupuram outstation cabs, Tiruppur to Villupuram taxi fare, Tiruppur to Villupuram cab fare, Tiruppur to Villupuram round trip taxi, Tiruppur to Villupuram car rental, Tiruppur to Villupuram cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Perambalur taxi, Tiruppur to Perambalur one way taxi, Tiruppur to Perambalur outstation cabs, Tiruppur to Perambalur taxi fare, Tiruppur to Perambalur cab fare, Tiruppur to Perambalur round trip taxi, Tiruppur to Perambalur car rental, Tiruppur to Perambalur cab booking">

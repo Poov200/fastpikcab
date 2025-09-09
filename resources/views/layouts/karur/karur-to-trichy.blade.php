@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Trichy taxi, Karur to Tiruchirappalli taxi, Karur to Trichy one way taxi, Karur to Trichy outstation cabs, Karur to Trichy taxi fare, Karur to Trichy cab fare, Karur to Trichy round trip taxi, Karur to Trichy car rental, Karur to Trichy cab booking">

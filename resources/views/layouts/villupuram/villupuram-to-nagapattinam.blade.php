@@ -7,7 +7,7 @@
     <title>Fastpikcab - Villupuram to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Nagapattinam taxi, Villupuram to Nagapattinam one way taxi, Villupuram to Nagapattinam outstation cabs, Villupuram to Nagapattinam taxi fare, Villupuram to Nagapattinam cab fare, Villupuram to Nagapattinam round trip taxi, Villupuram to Nagapattinam car rental, Villupuram to Nagapattinam cab booking">

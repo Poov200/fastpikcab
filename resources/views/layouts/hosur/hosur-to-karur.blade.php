@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Karur taxi, Hosur to Karur one way taxi, Hosur to Karur outstation cabs, Hosur to Karur taxi fare, Hosur to Karur cab fare, Hosur to Karur round trip taxi, Hosur to Karur car rental, Hosur to Karur cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Thoothukudi taxi, Dharmapuri to Thoothukudi one way taxi, Dharmapuri to Thoothukudi outstation cabs, Dharmapuri to Thoothukudi taxi fare, Dharmapuri to Thoothukudi cab fare, Dharmapuri to Thoothukudi round trip taxi, Dharmapuri to Thoothukudi car rental, Dharmapuri to Thoothukudi cab booking">

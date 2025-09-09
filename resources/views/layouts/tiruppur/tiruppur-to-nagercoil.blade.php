@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Nagercoil taxi, Tiruppur to Nagercoil one way taxi, Tiruppur to Nagercoil outstation cabs, Tiruppur to Nagercoil taxi fare, Tiruppur to Nagercoil cab fare, Tiruppur to Nagercoil round trip taxi, Tiruppur to Nagercoil car rental, Tiruppur to Nagercoil cab booking">

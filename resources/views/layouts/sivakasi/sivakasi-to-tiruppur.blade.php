@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Sivakasi to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Tiruppur taxi, Sivakasi to Tiruppur one way taxi, Sivakasi to Tiruppur outstation cabs, Sivakasi to Tiruppur taxi fare, Sivakasi to Tiruppur cab fare, Sivakasi to Tiruppur round trip taxi, Sivakasi to Tiruppur car rental, Sivakasi to Tiruppur cab booking">

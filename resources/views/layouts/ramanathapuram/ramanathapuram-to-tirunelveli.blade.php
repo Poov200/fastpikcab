@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ramanathapuram to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Tirunelveli taxi, Ramanathapuram to Tirunelveli one way taxi, Ramanathapuram to Tirunelveli outstation cabs, Ramanathapuram to Tirunelveli taxi fare, Ramanathapuram to Tirunelveli cab fare, Ramanathapuram to Tirunelveli round trip taxi, Ramanathapuram to Tirunelveli car rental, Ramanathapuram to Tirunelveli cab booking">

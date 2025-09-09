@@ -7,7 +7,7 @@
     <title>Fastpikcab - Tenkasi to Tirupati Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Tirupati taxi, Tenkasi to Tirupati one way taxi, Tenkasi to Tirupati outstation cabs, Tenkasi to Tirupati taxi fare, Tenkasi to Tirupati cab fare, Tenkasi to Tirupati round trip taxi, Tenkasi to Tirupati car rental, Tenkasi to Tirupati cab booking">

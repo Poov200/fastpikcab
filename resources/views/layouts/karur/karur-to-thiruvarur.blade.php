@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Thiruvarur taxi, Karur to Thiruvarur one way taxi, Karur to Thiruvarur outstation cabs, Karur to Thiruvarur taxi fare, Karur to Thiruvarur cab fare, Karur to Thiruvarur round trip taxi, Karur to Thiruvarur car rental, Karur to Thiruvarur cab booking">

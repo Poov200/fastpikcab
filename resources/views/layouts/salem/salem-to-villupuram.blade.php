@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Villupuram taxi, Salem to Villupuram one way taxi, Salem to Villupuram outstation cabs, Salem to Villupuram taxi fare, Salem to Villupuram cab fare, Salem to Villupuram round trip taxi, Salem to Villupuram car rental, Salem to Villupuram cab booking">

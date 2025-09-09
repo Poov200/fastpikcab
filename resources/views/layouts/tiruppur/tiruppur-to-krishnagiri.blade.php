@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tiruppur to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Krishnagiri taxi, Tiruppur to Krishnagiri one way taxi, Tiruppur to Krishnagiri outstation cabs, Tiruppur to Krishnagiri taxi fare, Tiruppur to Krishnagiri cab fare, Tiruppur to Krishnagiri round trip taxi, Tiruppur to Krishnagiri car rental, Tiruppur to Krishnagiri cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Salem taxi, Kanchipuram to Salem one way taxi, Kanchipuram to Salem outstation cabs, Kanchipuram to Salem taxi fare, Kanchipuram to Salem cab fare, Kanchipuram to Salem round trip taxi, Kanchipuram to Salem car rental, Kanchipuram to Salem cab booking">

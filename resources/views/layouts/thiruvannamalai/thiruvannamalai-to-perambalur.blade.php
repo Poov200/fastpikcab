@@ -7,7 +7,7 @@
     <title>Thiruvannamalai to Perambalur Taxi Service | Fastpik Cab</title>
 
     <meta name="description"
-        content="Book a reliable Thiruvannamalai to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thiruvannamalai to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="thiruvannamalai to perambalur taxi, thiruvannamalai to perambalur one way taxi, thiruvannamalai to perambalur outstation cabs, thiruvannamalai to perambalur taxi fare, thiruvannamalai to perambalur cab fare, thiruvannamalai to perambalur round trip taxi, thiruvannamalai to perambalur car rental, thiruvannamalai to perambalur cab booking">
 

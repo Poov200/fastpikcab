@@ -7,7 +7,7 @@
     <title>Fastpikcab - Virudhunagar to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Krishnagiri taxi, Virudhunagar to Krishnagiri one way taxi, Virudhunagar to Krishnagiri outstation cabs, Virudhunagar to Krishnagiri taxi fare, Virudhunagar to Krishnagiri cab fare, Virudhunagar to Krishnagiri round trip taxi, Virudhunagar to Krishnagiri car rental, Virudhunagar to Krishnagiri cab booking">

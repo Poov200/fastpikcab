@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Hosur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Hosur taxi, Salem to Hosur one way taxi, Salem to Hosur outstation cabs, Salem to Hosur taxi fare, Salem to Hosur cab fare, Salem to Hosur round trip taxi, Salem to Hosur car rental, Salem to Hosur cab booking">

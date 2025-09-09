@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Ramanathapuram taxi, Vellore to Ramanathapuram one way taxi, Vellore to Ramanathapuram outstation cabs, Vellore to Ramanathapuram taxi fare, Vellore to Ramanathapuram cab fare, Vellore to Ramanathapuram round trip taxi, Vellore to Ramanathapuram car rental, Vellore to Ramanathapuram cab booking">

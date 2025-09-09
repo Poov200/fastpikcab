@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Namakkal taxi, Tirupati to Namakkal one way taxi, Tirupati to Namakkal outstation cabs, Tirupati to Namakkal taxi fare, Tirupati to Namakkal cab fare, Tirupati to Namakkal round trip taxi, Tirupati to Namakkal car rental, Tirupati to Namakkal cab booking">

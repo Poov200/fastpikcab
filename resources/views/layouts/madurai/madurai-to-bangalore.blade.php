@@ -7,7 +7,7 @@
     <title>Fastpikcab - Madurai to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Bangalore taxi, Madurai to Bangalore one way taxi, Madurai to Bangalore outstation cabs, Madurai to Bangalore taxi fare, Madurai to Bangalore cab fare, Madurai to Bangalore round trip taxi, Madurai to Bangalore car rental, Madurai to Bangalore cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Madurai taxi, Hosur to Madurai one way taxi, Hosur to Madurai outstation cabs, Hosur to Madurai taxi fare, Hosur to Madurai cab fare, Hosur to Madurai round trip taxi, Hosur to Madurai car rental, Hosur to Madurai cab booking">

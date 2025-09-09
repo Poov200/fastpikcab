@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Tiruppur taxi, Tirunelveli to Tiruppur one way taxi, Tirunelveli to Tiruppur outstation cabs, Tirunelveli to Tiruppur taxi fare, Tirunelveli to Tiruppur cab fare, Tirunelveli to Tiruppur round trip taxi, Tirunelveli to Tiruppur car rental, Tirunelveli to Tiruppur cab booking">

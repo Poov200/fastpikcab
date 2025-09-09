@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Arani to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Thanjavur taxi, Arani to Thanjavur one way taxi, Arani to Thanjavur outstation cabs, Arani to Thanjavur taxi fare, Arani to Thanjavur cab fare, Arani to Thanjavur round trip taxi, Arani to Thanjavur car rental, Arani to Thanjavur cab booking">

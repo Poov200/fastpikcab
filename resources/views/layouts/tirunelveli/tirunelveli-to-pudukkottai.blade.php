@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Pudukkottai taxi, Tirunelveli to Pudukkottai one way taxi, Tirunelveli to Pudukkottai outstation cabs, Tirunelveli to Pudukkottai taxi fare, Tirunelveli to Pudukkottai cab fare, Tirunelveli to Pudukkottai round trip taxi, Tirunelveli to Pudukkottai car rental, Tirunelveli to Pudukkottai cab booking">

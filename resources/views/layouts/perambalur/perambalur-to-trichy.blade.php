@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Trichy taxi, Perambalur to Trichy one way taxi, Perambalur to Trichy outstation cabs, Perambalur to Trichy taxi fare, Perambalur to Trichy cab fare, Perambalur to Trichy round trip taxi, Perambalur to Trichy car rental, Perambalur to Trichy cab booking">

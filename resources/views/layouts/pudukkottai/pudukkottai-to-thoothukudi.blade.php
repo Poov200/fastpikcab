@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Pudukkottai to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Thoothukudi taxi, Pudukkottai to Thoothukudi one way taxi, Pudukkottai to Thoothukudi outstation cabs, Pudukkottai to Thoothukudi taxi fare, Pudukkottai to Thoothukudi cab fare, Pudukkottai to Thoothukudi round trip taxi, Pudukkottai to Thoothukudi car rental, Pudukkottai to Thoothukudi cab booking">

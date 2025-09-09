@@ -7,7 +7,7 @@
     <title>Fastpikcab - Perambalur to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Kanchipuram taxi, Perambalur to Kanchipuram one way taxi, Perambalur to Kanchipuram outstation cabs, Perambalur to Kanchipuram taxi fare, Perambalur to Kanchipuram cab fare, Perambalur to Kanchipuram round trip taxi, Perambalur to Kanchipuram car rental, Perambalur to Kanchipuram cab booking">

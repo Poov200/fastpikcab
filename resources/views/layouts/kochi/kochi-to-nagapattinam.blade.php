@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Nagapattinam Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to nagapattinam taxi, kochi to nagapattinam one way taxi, kochi to nagapattinam outstation cabs, kochi to nagapattinam taxi fare, kochi to nagapattinam cab fare, kochi to nagapattinam round trip taxi, kochi to nagapattinam car rental, kochi to nagapattinam cab booking">
 
     {{-- Open Graph Meta Tags --}}

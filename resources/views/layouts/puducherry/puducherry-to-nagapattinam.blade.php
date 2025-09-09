@@ -7,7 +7,7 @@
     <title>Fastpikcab - Puducherry to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Puducherry to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Puducherry to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Puducherry to Nagapattinam taxi, Puducherry to Nagapattinam one way taxi, Puducherry to Nagapattinam outstation cabs, Puducherry to Nagapattinam taxi fare, Puducherry to Nagapattinam cab fare, Puducherry to Nagapattinam round trip taxi, Puducherry to Nagapattinam car rental, Puducherry to Nagapattinam cab booking">

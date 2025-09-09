@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagercoil to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Coimbatore taxi, Nagercoil to Coimbatore one way taxi, Nagercoil to Coimbatore outstation cabs, Nagercoil to Coimbatore taxi fare, Nagercoil to Coimbatore cab fare, Nagercoil to Coimbatore round trip taxi, Nagercoil to Coimbatore car rental, Nagercoil to Coimbatore cab booking">

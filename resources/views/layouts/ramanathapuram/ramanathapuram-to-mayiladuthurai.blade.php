@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ramanathapuram to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Mayiladuthurai taxi, Ramanathapuram to Mayiladuthurai one way taxi, Ramanathapuram to Mayiladuthurai outstation cabs, Ramanathapuram to Mayiladuthurai taxi fare, Ramanathapuram to Mayiladuthurai cab fare, Ramanathapuram to Mayiladuthurai round trip taxi, Ramanathapuram to Mayiladuthurai car rental, Ramanathapuram to Mayiladuthurai cab booking">

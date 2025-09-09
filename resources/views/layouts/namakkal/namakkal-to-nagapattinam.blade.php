@@ -7,7 +7,7 @@
     <title>Fastpikcab - Namakkal to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Nagapattinam taxi, Namakkal to Nagapattinam one way taxi, Namakkal to Nagapattinam outstation cabs, Namakkal to Nagapattinam taxi fare, Namakkal to Nagapattinam cab fare, Namakkal to Nagapattinam round trip taxi, Namakkal to Nagapattinam car rental, Namakkal to Nagapattinam cab booking">

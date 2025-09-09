@@ -7,7 +7,7 @@
     <title>Fastpikcab - Nagapattinam to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Vellore taxi, Nagapattinam to Vellore one way taxi, Nagapattinam to Vellore outstation cabs, Nagapattinam to Vellore taxi fare, Nagapattinam to Vellore cab fare, Nagapattinam to Vellore round trip taxi, Nagapattinam to Vellore car rental, Nagapattinam to Vellore cab booking">

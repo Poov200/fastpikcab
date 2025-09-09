@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Nagapattinam taxi, Dharmapuri to Nagapattinam one way taxi, Dharmapuri to Nagapattinam outstation cabs, Dharmapuri to Nagapattinam taxi fare, Dharmapuri to Nagapattinam cab fare, Dharmapuri to Nagapattinam round trip taxi, Dharmapuri to Nagapattinam car rental, Dharmapuri to Nagapattinam cab booking">

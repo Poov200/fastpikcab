@@ -7,7 +7,7 @@
     <title>Fastpikcab - Madurai to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Perambalur taxi, Madurai to Perambalur one way taxi, Madurai to Perambalur outstation cabs, Madurai to Perambalur taxi fare, Madurai to Perambalur cab fare, Madurai to Perambalur round trip taxi, Madurai to Perambalur car rental, Madurai to Perambalur cab booking">

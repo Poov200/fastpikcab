@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Dharmapuri Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to dharmapuri taxi, kerala to dharmapuri one way taxi, kerala to dharmapuri outstation cabs, kerala to dharmapuri taxi fare, kerala to dharmapuri cab fare, kerala to dharmapuri round trip taxi, kerala to dharmapuri car rental, kerala to dharmapuri cab booking">
 
     {{-- Open Graph Meta Tags --}}

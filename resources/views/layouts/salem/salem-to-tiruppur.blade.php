@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Tiruppur taxi, Salem to Tiruppur one way taxi, Salem to Tiruppur outstation cabs, Salem to Tiruppur taxi fare, Salem to Tiruppur cab fare, Salem to Tiruppur round trip taxi, Salem to Tiruppur car rental, Salem to Tiruppur cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Sivakasi taxi, Krishnagiri to Sivakasi one way taxi, Krishnagiri to Sivakasi outstation cabs, Krishnagiri to Sivakasi taxi fare, Krishnagiri to Sivakasi cab fare, Krishnagiri to Sivakasi round trip taxi, Krishnagiri to Sivakasi car rental, Krishnagiri to Sivakasi cab booking">

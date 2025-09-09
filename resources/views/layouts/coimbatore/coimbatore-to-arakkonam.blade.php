@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Arakkonam taxi, Coimbatore to Arakkonam one way taxi, Coimbatore to Arakkonam outstation cabs, Coimbatore to Arakkonam taxi fare, Coimbatore to Arakkonam cab fare, Coimbatore to Arakkonam round trip taxi, Coimbatore to Arakkonam car rental, Coimbatore to Arakkonam cab booking">

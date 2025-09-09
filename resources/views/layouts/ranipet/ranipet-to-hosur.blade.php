@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ranipet to Hosur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Hosur taxi, Ranipet to Hosur one way taxi, Ranipet to Hosur outstation cabs, Ranipet to Hosur taxi fare, Ranipet to Hosur cab fare, Ranipet to Hosur round trip taxi, Ranipet to Hosur car rental, Ranipet to Hosur cab booking">

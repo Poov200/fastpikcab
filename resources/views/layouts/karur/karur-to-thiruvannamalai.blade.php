@@ -8,7 +8,7 @@
 <title>Fastpikcab - Karur to Thiruvannamalai Taxi Service </title>
 
 <meta name="description"
-    content="Book a reliable Karur to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    content="Book a reliable Karur to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
 <meta name="keywords"
     content="Karur to Thiruvannamalai taxi, Karur to Thiruvannamalai one way taxi, Karur to Thiruvannamalai outstation cabs, Karur to Thiruvannamalai taxi fare, Karur to Thiruvannamalai cab fare, Karur to Thiruvannamalai round trip taxi, Karur to Thiruvannamalai car rental, Karur to Thiruvannamalai cab booking">

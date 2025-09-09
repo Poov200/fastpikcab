@@ -7,7 +7,7 @@
     <title>Fastpikcab - Coimbatore to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Coimbatore to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Coimbatore to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Coimbatore to Namakkal taxi, Coimbatore to Namakkal one way taxi, Coimbatore to Namakkal outstation cabs, Coimbatore to Namakkal taxi fare, Coimbatore to Namakkal cab fare, Coimbatore to Namakkal round trip taxi, Coimbatore to Namakkal car rental, Coimbatore to Namakkal cab booking">

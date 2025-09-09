@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Mayiladuthurai taxi, Karaikal to Mayiladuthurai one way taxi, Karaikal to Mayiladuthurai outstation cabs, Karaikal to Mayiladuthurai taxi fare, Karaikal to Mayiladuthurai cab fare, Karaikal to Mayiladuthurai round trip taxi, Karaikal to Mayiladuthurai car rental, Karaikal to Mayiladuthurai cab booking">

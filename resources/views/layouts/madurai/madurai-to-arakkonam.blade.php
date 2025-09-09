@@ -7,7 +7,7 @@
     <title>Fastpikcab - Madurai to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Arakkonam taxi, Madurai to Arakkonam one way taxi, Madurai to Arakkonam outstation cabs, Madurai to Arakkonam taxi fare, Madurai to Arakkonam cab fare, Madurai to Arakkonam round trip taxi, Madurai to Arakkonam car rental, Madurai to Arakkonam cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Namakkal taxi, Ariyalur to Namakkal one way taxi, Ariyalur to Namakkal outstation cabs, Ariyalur to Namakkal taxi fare, Ariyalur to Namakkal cab fare, Ariyalur to Namakkal round trip taxi, Ariyalur to Namakkal car rental, Ariyalur to Namakkal cab booking">

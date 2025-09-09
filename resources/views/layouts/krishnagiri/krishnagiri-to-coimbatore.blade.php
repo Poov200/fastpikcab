@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Coimbatore taxi, Krishnagiri to Coimbatore one way taxi, Krishnagiri to Coimbatore outstation cabs, Krishnagiri to Coimbatore taxi fare, Krishnagiri to Coimbatore cab fare, Krishnagiri to Coimbatore round trip taxi, Krishnagiri to Coimbatore car rental, Krishnagiri to Coimbatore cab booking">

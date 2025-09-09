@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Villupuram taxi, Vellore to Villupuram one way taxi, Vellore to Villupuram outstation cabs, Vellore to Villupuram taxi fare, Vellore to Villupuram cab fare, Vellore to Villupuram round trip taxi, Vellore to Villupuram car rental, Vellore to Villupuram cab booking">

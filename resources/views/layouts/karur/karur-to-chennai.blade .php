@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Chennai taxi, Karur to Chennai one way taxi, Karur to Chennai outstation cabs, Karur to Chennai taxi fare, Karur to Chennai cab fare, Karur to Chennai round trip taxi, Karur to Chennai car rental, Karur to Chennai cab booking">

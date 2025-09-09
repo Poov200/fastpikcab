@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Ariyalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Ariyalur taxi, Dharmapuri to Ariyalur one way taxi, Dharmapuri to Ariyalur outstation cabs, Dharmapuri to Ariyalur taxi fare, Dharmapuri to Ariyalur cab fare, Dharmapuri to Ariyalur round trip taxi, Dharmapuri to Ariyalur car rental, Dharmapuri to Ariyalur cab booking">

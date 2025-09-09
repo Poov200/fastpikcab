@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Trichy to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Sivakasi taxi, Trichy to Sivakasi one way taxi, Trichy to Sivakasi outstation cabs, Trichy to Sivakasi taxi fare, Trichy to Sivakasi cab fare, Trichy to Sivakasi round trip taxi, Trichy to Sivakasi car rental, Trichy to Sivakasi cab booking">

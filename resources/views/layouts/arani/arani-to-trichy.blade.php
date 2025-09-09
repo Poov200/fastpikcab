@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Arani to Trichy (Tiruchirappalli) Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Trichy taxi, Arani to Tiruchirappalli one way taxi, Arani to Trichy outstation cabs, Arani to Trichy taxi fare, Arani to Trichy cab fare, Arani to Trichy round trip taxi, Arani to Tiruchirappalli car rental, Arani to Trichy cab booking">

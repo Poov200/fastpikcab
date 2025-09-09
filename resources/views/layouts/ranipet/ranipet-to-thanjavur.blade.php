@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ranipet to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Thanjavur taxi, Ranipet to Thanjavur one way taxi, Ranipet to Thanjavur outstation cabs, Ranipet to Thanjavur taxi fare, Ranipet to Thanjavur cab fare, Ranipet to Thanjavur round trip taxi, Ranipet to Thanjavur car rental, Ranipet to Thanjavur cab booking">

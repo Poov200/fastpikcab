@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Vellore taxi, Hosur to Vellore one way taxi, Hosur to Vellore outstation cabs, Hosur to Vellore taxi fare, Hosur to Vellore cab fare, Hosur to Vellore round trip taxi, Hosur to Vellore car rental, Hosur to Vellore cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dharmapuri to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Chennai taxi, Dharmapuri to Chennai one way taxi, Dharmapuri to Chennai outstation cabs, Dharmapuri to Chennai taxi fare, Dharmapuri to Chennai cab fare, Dharmapuri to Chennai round trip taxi, Dharmapuri to Chennai car rental, Dharmapuri to Chennai cab booking">

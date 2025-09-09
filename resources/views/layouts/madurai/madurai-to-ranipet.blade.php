@@ -7,7 +7,7 @@
     <title>Fastpikcab - Madurai to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Ranipet taxi, Madurai to Ranipet one way taxi, Madurai to Ranipet outstation cabs, Madurai to Ranipet taxi fare, Madurai to Ranipet cab fare, Madurai to Ranipet round trip taxi, Madurai to Ranipet car rental, Madurai to Ranipet cab booking">

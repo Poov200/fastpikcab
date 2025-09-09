@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Pudukkottai to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Tenkasi taxi, Pudukkottai to Tenkasi one way taxi, Pudukkottai to Tenkasi outstation cabs, Pudukkottai to Tenkasi taxi fare, Pudukkottai to Tenkasi cab fare, Pudukkottai to Tenkasi round trip taxi, Pudukkottai to Tenkasi car rental, Pudukkottai to Tenkasi cab booking">

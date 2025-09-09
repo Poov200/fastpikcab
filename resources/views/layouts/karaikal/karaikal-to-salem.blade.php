@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Salem taxi, Karaikal to Salem one way taxi, Karaikal to Salem outstation cabs, Karaikal to Salem taxi fare, Karaikal to Salem cab fare, Karaikal to Salem round trip taxi, Karaikal to Salem car rental, Karaikal to Salem cab booking">

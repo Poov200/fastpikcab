@@ -7,7 +7,7 @@
     <title>Fastpikcab - Dindigul to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Tiruppur taxi, Dindigul to Tiruppur one way taxi, Dindigul to Tiruppur outstation cabs, Dindigul to Tiruppur taxi fare, Dindigul to Tiruppur cab fare, Dindigul to Tiruppur round trip taxi, Dindigul to Tiruppur car rental, Dindigul to Tiruppur cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Tenkasi to Kochi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Kochi taxi, Tenkasi to Kochi one way taxi, Tenkasi to Kochi outstation cabs, Tenkasi to Kochi taxi fare, Tenkasi to Kochi cab fare, Tenkasi to Kochi round trip taxi, Tenkasi to Kochi car rental, Tenkasi to Kochi cab booking">

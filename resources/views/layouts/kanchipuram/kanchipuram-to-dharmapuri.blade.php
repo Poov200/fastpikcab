@@ -7,7 +7,7 @@
     <title>Fastpikcab - Kanchipuram to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Dharmapuri taxi, Kanchipuram to Dharmapuri one way taxi, Kanchipuram to Dharmapuri outstation cabs, Kanchipuram to Dharmapuri taxi fare, Kanchipuram to Dharmapuri cab fare, Kanchipuram to Dharmapuri round trip taxi, Kanchipuram to Dharmapuri car rental, Kanchipuram to Dharmapuri cab booking">

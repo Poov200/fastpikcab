@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirupati to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Villupuram taxi, Tirupati to Villupuram one way taxi, Tirupati to Villupuram outstation cabs, Tirupati to Villupuram taxi fare, Tirupati to Villupuram cab fare, Tirupati to Villupuram round trip taxi, Tirupati to Villupuram car rental, Tirupati to Villupuram cab booking">

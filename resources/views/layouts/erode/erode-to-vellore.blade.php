@@ -7,7 +7,7 @@
     <title>Fastpikcab - Erode to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Vellore taxi, Erode to Vellore one way taxi, Erode to Vellore outstation cabs, Erode to Vellore taxi fare, Erode to Vellore cab fare, Erode to Vellore round trip taxi, Erode to Vellore car rental, Erode to Vellore cab booking">

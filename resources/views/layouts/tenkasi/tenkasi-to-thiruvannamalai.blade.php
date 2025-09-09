@@ -7,7 +7,7 @@
     <title>Fastpikcab - Tenkasi to Thiruvannamalai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Thiruvannamalai taxi, Tenkasi to Thiruvannamalai one way taxi, Tenkasi to Thiruvannamalai outstation cabs, Tenkasi to Thiruvannamalai taxi fare, Tenkasi to Thiruvannamalai cab fare, Tenkasi to Thiruvannamalai round trip taxi, Tenkasi to Thiruvannamalai car rental, Tenkasi to Thiruvannamalai cab booking">

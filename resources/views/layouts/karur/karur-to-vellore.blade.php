@@ -7,7 +7,7 @@
     <title>Fastpikcab - Karur to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Vellore taxi, Karur to Vellore one way taxi, Karur to Vellore outstation cabs, Karur to Vellore taxi fare, Karur to Vellore cab fare, Karur to Vellore round trip taxi, Karur to Vellore car rental, Karur to Vellore cab booking">

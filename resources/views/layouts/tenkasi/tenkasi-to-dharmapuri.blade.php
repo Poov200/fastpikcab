@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tenkasi to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Dharmapuri taxi, Tenkasi to Dharmapuri one way taxi, Tenkasi to Dharmapuri outstation cabs, Tenkasi to Dharmapuri taxi fare, Tenkasi to Dharmapuri cab fare, Tenkasi to Dharmapuri round trip taxi, Tenkasi to Dharmapuri car rental, Tenkasi to Dharmapuri cab booking">

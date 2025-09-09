@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ariyalur to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Salem taxi, Ariyalur to Salem one way taxi, Ariyalur to Salem outstation cabs, Ariyalur to Salem taxi fare, Ariyalur to Salem cab fare, Ariyalur to Salem round trip taxi, Ariyalur to Salem car rental, Ariyalur to Salem cab booking">

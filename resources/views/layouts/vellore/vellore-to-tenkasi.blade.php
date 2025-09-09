@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Tenkasi taxi, Vellore to Tenkasi one way taxi, Vellore to Tenkasi outstation cabs, Vellore to Tenkasi taxi fare, Vellore to Tenkasi cab fare, Vellore to Tenkasi round trip taxi, Vellore to Tenkasi car rental, Vellore to Tenkasi cab booking">

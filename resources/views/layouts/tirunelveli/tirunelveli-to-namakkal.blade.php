@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Tirunelveli to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Namakkal taxi, Tirunelveli to Namakkal one way taxi, Tirunelveli to Namakkal outstation cabs, Tirunelveli to Namakkal taxi fare, Tirunelveli to Namakkal cab fare, Tirunelveli to Namakkal round trip taxi, Tirunelveli to Namakkal car rental, Tirunelveli to Namakkal cab booking">

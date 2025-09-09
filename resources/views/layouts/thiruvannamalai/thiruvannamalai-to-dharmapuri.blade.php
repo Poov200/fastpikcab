@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Dharmapuri Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to dharmapuri taxi, thiruvannamalai to dharmapuri one way taxi, thiruvannamalai to dharmapuri outstation cabs, thiruvannamalai to dharmapuri taxi fare, thiruvannamalai to dharmapuri cab fare, thiruvannamalai to dharmapuri round trip taxi, thiruvannamalai to dharmapuri car rental, thiruvannamalai to dharmapuri cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Dharmapuri Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Dharmapuri. Book online for one-way, round-trip, or outstation travel.">

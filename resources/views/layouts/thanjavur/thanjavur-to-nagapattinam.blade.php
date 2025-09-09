@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thanjavur to Nagapattinam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thanjavur to Nagapattinam taxi, Thanjavur to Nagapattinam one way taxi, Thanjavur to Nagapattinam outstation cabs, Thanjavur to Nagapattinam taxi fare, Thanjavur to Nagapattinam cab fare, Thanjavur to Nagapattinam round trip taxi, Thanjavur to Nagapattinam car rental, Thanjavur to Nagapattinam cab booking">

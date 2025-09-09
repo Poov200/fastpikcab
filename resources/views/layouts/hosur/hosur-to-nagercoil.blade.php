@@ -7,7 +7,7 @@
     <title>Fastpikcab - Hosur to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Hosur to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Hosur to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Hosur to Nagercoil taxi, Hosur to Nagercoil one way taxi, Hosur to Nagercoil outstation cabs, Hosur to Nagercoil taxi fare, Hosur to Nagercoil cab fare, Hosur to Nagercoil round trip taxi, Hosur to Nagercoil car rental, Hosur to Nagercoil cab booking">

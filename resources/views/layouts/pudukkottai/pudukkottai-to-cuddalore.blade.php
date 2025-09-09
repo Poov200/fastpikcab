@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Pudukkottai to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Cuddalore taxi, Pudukkottai to Cuddalore one way taxi, Pudukkottai to Cuddalore outstation cabs, Pudukkottai to Cuddalore taxi fare, Pudukkottai to Cuddalore cab fare, Pudukkottai to Cuddalore round trip taxi, Pudukkottai to Cuddalore car rental, Pudukkottai to Cuddalore cab booking">

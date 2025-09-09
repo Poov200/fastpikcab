@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Thoothukudi to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thoothukudi to Mayiladuthurai taxi, Thoothukudi to Mayiladuthurai one way taxi, Thoothukudi to Mayiladuthurai outstation cabs, Thoothukudi to Mayiladuthurai taxi fare, Thoothukudi to Mayiladuthurai cab fare, Thoothukudi to Mayiladuthurai round trip taxi, Thoothukudi to Mayiladuthurai car rental, Thoothukudi to Mayiladuthurai cab booking">

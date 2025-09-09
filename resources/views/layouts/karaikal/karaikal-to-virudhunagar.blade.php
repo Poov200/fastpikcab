@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Karaikal to Virudhunagar Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Virudhunagar taxi, Karaikal to Virudhunagar one way taxi, Karaikal to Virudhunagar outstation cabs, Karaikal to Virudhunagar taxi fare, Karaikal to Virudhunagar cab fare, Karaikal to Virudhunagar round trip taxi, Karaikal to Virudhunagar car rental, Karaikal to Virudhunagar cab booking">

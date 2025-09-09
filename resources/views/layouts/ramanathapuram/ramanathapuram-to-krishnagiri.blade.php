@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Ramanathapuram to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Krishnagiri taxi, Ramanathapuram to Krishnagiri one way taxi, Ramanathapuram to Krishnagiri outstation cabs, Ramanathapuram to Krishnagiri taxi fare, Ramanathapuram to Krishnagiri cab fare, Ramanathapuram to Krishnagiri round trip taxi, Ramanathapuram to Krishnagiri car rental, Ramanathapuram to Krishnagiri cab booking">

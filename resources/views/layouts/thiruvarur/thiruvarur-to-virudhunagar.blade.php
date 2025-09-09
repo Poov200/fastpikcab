@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Virudhunagar Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to virudhunagar taxi, thiruvarur to virudhunagar one way taxi, thiruvarur to virudhunagar outstation cabs, thiruvarur to virudhunagar taxi fare, thiruvarur to virudhunagar cab fare, thiruvarur to virudhunagar round trip taxi, thiruvarur to virudhunagar car rental, thiruvarur to virudhunagar cab booking">
 
     {{-- Open Graph Meta Tags --}}

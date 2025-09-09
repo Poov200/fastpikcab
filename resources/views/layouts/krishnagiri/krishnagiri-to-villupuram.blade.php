@@ -7,7 +7,7 @@
     <title>Fastpikcab - Krishnagiri to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Villupuram taxi, Krishnagiri to Villupuram one way taxi, Krishnagiri to Villupuram outstation cabs, Krishnagiri to Villupuram taxi fare, Krishnagiri to Villupuram cab fare, Krishnagiri to Villupuram round trip taxi, Krishnagiri to Villupuram car rental, Krishnagiri to Villupuram cab booking">

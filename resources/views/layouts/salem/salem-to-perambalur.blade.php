@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Salem to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Perambalur taxi, Salem to Perambalur one way taxi, Salem to Perambalur outstation cabs, Salem to Perambalur taxi fare, Salem to Perambalur cab fare, Salem to Perambalur round trip taxi, Salem to Perambalur car rental, Salem to Perambalur cab booking">

@@ -7,7 +7,7 @@
     <title>Fastpikcab - Madurai to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Chennai taxi, Madurai to Chennai one way taxi, Madurai to Chennai outstation cabs, Madurai to Chennai taxi fare, Madurai to Chennai cab fare, Madurai to Chennai round trip taxi, Madurai to Chennai car rental, Madurai to Chennai cab booking">

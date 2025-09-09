@@ -7,7 +7,7 @@
     <title>Fastpik Cab - Vellore to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Thiruvarur taxi, Vellore to Thiruvarur one way taxi, Vellore to Thiruvarur outstation cabs, Vellore to Thiruvarur taxi fare, Vellore to Thiruvarur cab fare, Vellore to Thiruvarur round trip taxi, Vellore to Thiruvarur car rental, Vellore to Thiruvarur cab booking">
