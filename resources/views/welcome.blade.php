@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
- <head>
+<head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FastpikCab | Online Taxi Booking & Cab Service | Affordable, Safe Rides</title>
 
@@ -11,7 +11,8 @@
     <meta name="keywords"
         content="FastpikCab,Fastpikcab taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
     <meta name="author" content="Fastpikcab" />
-    <meta name="robots" content="index, follow"> <link rel="canonical" href="https://fastpikcab.com/" />
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://fastpikcab.com/" />
 
     <meta property="og:title" content="Fastpikcab - Online Taxi Booking & Cab Service" />
     <meta property="og:description"
@@ -33,10 +34,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet" />
     <script src="https://cdn.tailwindcss.com"></script>
- <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
- </head>
+</head>
 
 
 <body>
@@ -123,7 +124,8 @@
             <div class="flex flex-col md:flex-row items-center">
                 <div class="md:w-1/2 mb-10 md:mb-0">
                     <h1 class="text-4xl md:text-5xl font-bold mb-6">Your Reliable Taxi Service Partner</h1>
-                    <p class="text-xl mb-8 text-gray-300">Fast, safe, and comfortable rides whenever you need them. Book
+                    <p class="text-xl mb-8 text-gray-300">Fast, safe, and comfortable rides whenever you need them.
+                        Book
                         your taxi in seconds and enjoy the journey.</p>
                     <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
                         <a href="#booking"
@@ -151,20 +153,21 @@
 
             <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-8">
                 <form name="bookingForm" class="grid grid-cols-1 md:grid-cols-2 gap-6"
-                      ng-submit="submitBooking(bookingForm.$valid)" novalidate>
+                    ng-submit="submitBooking(bookingForm.$valid)" novalidate>
 
                     <div class="md:col-span-2 flex items-center space-x-4">
                         <label class="font-medium text-gray-700">Trip Type:</label>
                         <label><input type="radio" ng-model="booking.tripType" value="oneway"
-                                        ng-change="calculateassigned_amount()" class="mr-1"> One Way</label>
+                                ng-change="calculateassigned_amount()" class="mr-1"> One Way</label>
                         <label><input type="radio" ng-model="booking.tripType" value="round"
-                                        ng-change="calculateassigned_amount()" class="mr-1"> Round Trip</label>
+                                ng-change="calculateassigned_amount()" class="mr-1"> Round Trip</label>
                     </div>
 
                     <div ng-show="booking.tripType === 'round'">
                         <label class="block text-gray-700 font-medium mb-2">Number of Days</label>
-                        <select name="no_of_days" ng-model="booking.no_of_days" ng-change="calculateassigned_amount()"
-                                class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <select name="no_of_days" ng-model="booking.no_of_days"
+                            ng-change="calculateassigned_amount()"
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                             <option value="">Select Days</option>
                             <option value="1">1</option>
                             <option value="2">2</option>
@@ -173,87 +176,90 @@
                             <option value="5">5</option>
                         </select>
                         <p ng-show="bookingForm.no_of_days.$invalid && bookingForm.no_of_days.$touched"
-                           class="text-red-500 text-sm mt-1">Number of days is required.</p>
+                            class="text-red-500 text-sm mt-1">Number of days is required.</p>
                     </div>
 
                     <div>
                         <label class="block text-gray-700 font-medium mb-2">Name</label>
                         <input type="text" name="name" ng-model="booking.name" placeholder="Enter your name"
-                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                         <p ng-show="bookingForm.name.$invalid && bookingForm.name.$touched"
-                           class="text-red-500 text-sm mt-1">Name is required.</p>
+                            class="text-red-500 text-sm mt-1">Name is required.</p>
                     </div>
 
                     <div>
                         <label class="block text-gray-700 font-medium mb-2">Email</label>
                         <input type="email" name="email" ng-model="booking.email" placeholder="Enter your email"
-                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                         <p ng-show="bookingForm.email.$invalid && bookingForm.email.$touched"
-                           class="text-red-500 text-sm mt-1">Invalid email format.</p>
+                            class="text-red-500 text-sm mt-1">Invalid email format.</p>
                     </div>
 
                     <div class="md:col-span-2">
                         <label class="block text-gray-700 font-medium mb-2">Contact Number</label>
-                        <input type="tel" name="contact" ng-model="booking.contact" placeholder="Enter contact number"
-                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                        <input type="tel" name="contact" ng-model="booking.contact"
+                            placeholder="Enter contact number"
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                         <p ng-show="bookingForm.contact.$invalid && bookingForm.contact.$touched"
-                           class="text-red-500 text-sm mt-1">Contact number is required.</p>
+                            class="text-red-500 text-sm mt-1">Contact number is required.</p>
                     </div>
 
                     <div>
                         <label class="block text-gray-700 font-medium mb-2">Pickup Location</label>
                         <input id="pickup" type="text" name="pickup" ng-model="booking.pickup"
-                               placeholder="Enter pickup address"
-                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            placeholder="Enter pickup address"
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                         <p ng-show="bookingForm.pickup.$invalid && bookingForm.pickup.$touched"
-                           class="text-red-500 text-sm mt-1">Pickup location is required.</p>
-                        <p ng-show="pickupRequired && !booking.pickup" class="text-red-500 text-sm mt-1">Please select a valid pickup location from the map.</p>
+                            class="text-red-500 text-sm mt-1">Pickup location is required.</p>
+                        <p ng-show="pickupRequired && !booking.pickup" class="text-red-500 text-sm mt-1">Please select
+                            a valid pickup location from the map.</p>
                     </div>
 
                     <div>
                         <label class="block text-gray-700 font-medium mb-2">Drop Location</label>
                         <input id="destination" type="text" name="destination" ng-model="booking.destination"
-                               placeholder="Enter destination address"
-                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            placeholder="Enter destination address"
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                         <p ng-show="bookingForm.destination.$invalid && bookingForm.destination.$touched"
-                           class="text-red-500 text-sm mt-1">Drop location is required.</p>
-                        <p ng-show="dropRequired && !booking.destination" class="text-red-500 text-sm mt-1">Please select a valid drop location from the map.</p>
+                            class="text-red-500 text-sm mt-1">Drop location is required.</p>
+                        <p ng-show="dropRequired && !booking.destination" class="text-red-500 text-sm mt-1">Please
+                            select a valid drop location from the map.</p>
                     </div>
 
                     <div>
                         <label class="block text-gray-700 font-medium mb-2">Date</label>
                         <input type="date" name="date" ng-model="booking.date"
-                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                         <p ng-show="bookingForm.date.$invalid && bookingForm.date.$touched"
-                           class="text-red-500 text-sm mt-1">Date is required.</p>
+                            class="text-red-500 text-sm mt-1">Date is required.</p>
                     </div>
 
                     <div>
                         <label class="block text-gray-700 font-medium mb-2">Time</label>
                         <input type="time" name="time" ng-model="booking.time"
-                               class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                         <p ng-show="bookingForm.time.$invalid && bookingForm.time.$touched"
-                           class="text-red-500 text-sm mt-1">Time is required.</p>
+                            class="text-red-500 text-sm mt-1">Time is required.</p>
                     </div>
 
-                     <div>
-                    <label class="block text-gray-700 font-medium mb-2">Vehicle Type</label>
-                    <select ng-model="booking.vehicle" class="w-full px-4 py-2 border border-gray-300 rounded-lg"
+                    <div>
+                        <label class="block text-gray-700 font-medium mb-2">Vehicle Type</label>
+                        <select ng-model="booking.vehicle" class="w-full px-4 py-2 border border-gray-300 rounded-lg"
                             required>
-                        <option value="">Select Vehicle</option>
-                        <option value="Sedan">Sedan</option>
-                        <option value="suv">SUV</option>
-                        {{-- <option value="premium">MPV</option> --}}
-                        {{-- <option value="van">Minivan</option> --}}
-                    </select>
-                    <p ng-show="bookingForm.vehicle.$invalid && bookingForm.vehicle.$touched"
-                       class="text-red-500 text-sm mt-1">Vehicle type is required.</p>
-                </div>
+                            <option value="">Select Vehicle</option>
+                            <option value="Sedan">Sedan</option>
+                            <option value="suv">SUV</option>
+                            {{-- <option value="premium">MPV</option> --}}
+                            {{-- <option value="van">Minivan</option> --}}
+                        </select>
+                        <p ng-show="bookingForm.vehicle.$invalid && bookingForm.vehicle.$touched"
+                            class="text-red-500 text-sm mt-1">Vehicle type is required.</p>
+                    </div>
 
                     <div>
                         <label class="block text-gray-700 font-medium mb-2">Number of Passengers</label>
                         <select name="passengers" ng-model="booking.passengers"
-                                class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
                             <option value="">Select Passengers</option>
                             <option value="1">1</option>
                             <option value="2">2</option>
@@ -262,17 +268,18 @@
                             <option value="5+">5+</option>
                         </select>
                         <p ng-show="bookingForm.passengers.$invalid && bookingForm.passengers.$touched"
-                           class="text-red-500 text-sm mt-1">Number of passengers is required.</p>
+                            class="text-red-500 text-sm mt-1">Number of passengers is required.</p>
                     </div>
 
                     <p class="mt-4 text-lg font-semibold text-gray-800">Distance: @{{ booking.distance }}</p>
-                    <p class="mt-2 text-lg font-semibold text-gray-800">Estimated Price: @{{ assigned_amount | currency:'₹' }}</p>
+                    <p class="mt-2 text-lg font-semibold text-gray-800">Estimated Price: @{{ assigned_amount | currency: '₹' }}</p>
 
                     <div class="md:col-span-2">
-                        <p ng-show="showMissingFieldsMessage" class="text-red-500 text-center mb-4">Please fill in all the required fields and select valid pickup and drop locations.</p>
+                        <p ng-show="showMissingFieldsMessage" class="text-red-500 text-center mb-4">Please fill in all
+                            the required fields and select valid pickup and drop locations.</p>
                         <button type="submit"
-                                class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300"
-                                ng-disabled="bookingForm.$invalid || isSubmitting || !booking.pickup || !booking.destination">
+                            class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300"
+                            ng-disabled="bookingForm.$invalid || isSubmitting || !booking.pickup || !booking.destination">
                             <span ng-if="!isSubmitting">Book Now</span>
                             <span ng-if="isSubmitting">Booking...</span>
                         </button>
@@ -712,26 +719,26 @@
     </section>
 
 
-{{-- route to the booking section --}}
+    {{-- route to the booking section --}}
 
     <section class="cab-routes-section">
-  <div class="container">
-    <div class="header-row">
-      <div class="header-cell">CAB ROUTES</div>
-      <div class="header-cell">EXTRA COST</div>
-      <div class="header-cell">CAB COST</div>
-      <div class="header-cell action-header"></div>
-    </div>
+        <div class="container">
+            <div class="header-row">
+                <div class="header-cell">CAB ROUTES</div>
+                <div class="header-cell">EXTRA COST</div>
+                <div class="header-cell">CAB COST</div>
+                <div class="header-cell action-header"></div>
+            </div>
 
-    <div id="routes-container" class="routes-list">
-      <div class="loading-message">Loading cab routes...</div>
-    </div>
+            <div id="routes-container" class="routes-list">
+                <div class="loading-message">Loading cab routes...</div>
+            </div>
 
-    <div class="error-message" id="error-message" style="display:none;">
-      Failed to load routes. Please try again later.
-    </div>
-  </div>
-</section>
+            <div class="error-message" id="error-message" style="display:none;">
+                Failed to load routes. Please try again later.
+            </div>
+        </div>
+    </section>
 
 
     <script>
@@ -766,7 +773,8 @@
                             const extraCostCol = document.createElement('div');
                             extraCostCol.classList.add('route-col', 'extra-cost');
                             const extraCostDetails = document.createElement('p');
-                            extraCostDetails.textContent = routeData.description || 'Details not available.'; // Use API data or default
+                            extraCostDetails.textContent = routeData.description ||
+                                'Details not available.'; // Use API data or default
                             extraCostCol.appendChild(extraCostDetails);
                             routeItem.appendChild(extraCostCol);
 
@@ -775,13 +783,15 @@
                             cabCostCol.classList.add('route-col', 'cab-cost');
                             const currentPrice = document.createElement('span');
                             currentPrice.classList.add('current-price');
-                            currentPrice.textContent = `Rs ${parseFloat(routeData.pricing).toLocaleString('en-IN')}*`; // Format as Indian Rupee
+                            currentPrice.textContent =
+                                `Rs ${parseFloat(routeData.pricing).toLocaleString('en-IN')}*`; // Format as Indian Rupee
                             cabCostCol.appendChild(currentPrice);
 
                             if (routeData.old_pricing) {
                                 const oldPrice = document.createElement('span');
                                 oldPrice.classList.add('old-price');
-                                oldPrice.textContent = `Rs. ${parseFloat(routeData.old_pricing).toLocaleString('en-IN')}`;
+                                oldPrice.textContent =
+                                    `Rs. ${parseFloat(routeData.old_pricing).toLocaleString('en-IN')}`;
                                 cabCostCol.appendChild(oldPrice);
                             }
                             const onwardsText = document.createElement('span');
@@ -820,179 +830,196 @@
 
 
     <!-- Pricing Cards -->
- <section>
-   <div id="pricing" class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 px-4">
+    <section>
+        <div id="pricing" class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 px-4">
 
-  <!-- Sedan Card -->
-  <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card flex flex-col">
-    <div class="bg-gray-900 text-white p-6 text-center">
-      <h3 class="text-xl font-bold">🚗 Sedan</h3>
-      <p class="mt-2 text-sm">Etios, Swift, Zest, Xcent</p>
-    </div>
-    <div class="p-6 flex-grow flex flex-col justify-between">
-      <ul class="mb-6 space-y-4 text-sm">
-        <li>👥 Capacity: Up to 4 passengers</li>
-        <li>⏱️ Free Cancellation: Within 10 minutes of booking</li>
-        <li>🧳 Luggage: Fits 3 mid-size suitcases</li>
-        <li>📏 One Way Min: <span id="sedan-oneway-min-km">--</span>KM</li>
-        <li>🔁 Round Trip Min: <span id="sedan-roundtrip-min-km">--</span>KM</li>
-        <li>💰 One Way Rate: <span id="sedan-oneway-rate">₹--/km</span></li>
-        <li>💰 Round Trip Rate: <span id="sedan-roundtrip-rate">₹--/km</span></li>
-        <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
-      </ul>
-      <button href="#booking"
-        class="w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-3 px-6 rounded-lg transition duration-300">
-      <a href="#booking"> Book Now</a>
-      </button>
-    </div>
-  </div>
-
-  <!-- SUV Card -->
-  <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card flex flex-col">
-    <div class="bg-yellow-400 text-gray-900 p-6 text-center relative">
-      <div class="absolute top-0 right-0 bg-gray-900 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">
-        POPULAR
-      </div>
-      <h3 class="text-xl font-bold">🚙 SUV</h3>
-      <p class="mt-2 text-sm">Xylo, INNOVA, XUV 700, ENJOY</p>
-    </div>
-    <div class="p-6 flex-grow flex flex-col justify-between">
-      <ul class="mb-6 space-y-4 text-sm">
-        <li>👥 Capacity: Up to 6 passengers</li>
-        <li>⏱️ Free Cancellation: Within 20 minutes of booking</li>
-        <li>🧳 Luggage: Fits 4 mid-size suitcases</li>
-        <li>📏 One Way Min: <span id="suv-oneway-min-km">--</span>KM</li>
-        <li>🔁 Round Trip Min: <span id="suv-roundtrip-min-km">--</span>KM</li>
-        <li>💰 One Way Rate: <span id="suv-oneway-rate">₹--/km</span></li>
-        <li>💰 Round Trip Rate: <span id="suv-roundtrip-rate">₹--/km</span></li>
-        <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
-      </ul>
-      <button href="#booking"
-        class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300">
-       <a href="#booking"> Book Now</a>
-      </button>
-    </div>
-  </div>
-</div>
-
-
-
-    <div class="bg-white rounded-lg shadow-md p-8">
-        <h3 class="text-2xl font-semibold mb-6">Additional Charges</h3>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div>
-                <h4 class="text-lg font-medium mb-4 text-gray-900">Standard Fees</h4>
-                <ul class="space-y-3">
-                    <li class="flex justify-between"><span class="text-gray-600">Waiting Time (per
-                            Hour)</span><span class="font-medium" id="waiting-charge">Rs.120</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">Demand and Place</span><span
-                            class="font-medium">Taxi Price Will Be Changed</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">Over Luggage Charge</span><span
-                            class="font-medium" id="luggage-charge">Rs.300</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">Toll/Permit/Tax</span><span
-                            class="font-medium">Extra</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">Hill Station Charges</span><span
-                            class="font-medium" id="hill-station-charge">Rs.300</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">GST</span><span
-                            class="font-medium">Included in Tariff</span></li>
-                </ul>
+            <!-- Sedan Card -->
+            <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card flex flex-col">
+                <div class="bg-gray-900 text-white p-6 text-center">
+                    <h3 class="text-xl font-bold">🚗 Sedan</h3>
+                    <p class="mt-2 text-sm">Etios, Swift, Zest, Xcent</p>
+                </div>
+                <div class="p-6 flex-grow flex flex-col justify-between">
+                    <ul class="mb-6 space-y-4 text-sm">
+                        <li>👥 Capacity: Up to 4 passengers</li>
+                        <li>⏱️ Free Cancellation: Within 10 minutes of booking</li>
+                        <li>🧳 Luggage: Fits 3 mid-size suitcases</li>
+                        <li>📏 One Way Min: <span id="sedan-oneway-min-km">--</span>KM</li>
+                        <li>🔁 Round Trip Min: <span id="sedan-roundtrip-min-km">--</span>KM</li>
+                        <li>💰 One Way Rate: <span id="sedan-oneway-rate">₹--/km</span></li>
+                        <li>💰 Round Trip Rate: <span id="sedan-roundtrip-rate">₹--/km</span></li>
+                        <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
+                    </ul>
+                    <button href="#booking"
+                        class="w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-3 px-6 rounded-lg transition duration-300">
+                        <a href="#booking"> Book Now</a>
+                    </button>
+                </div>
             </div>
-            <div>
-                <h4 class="text-lg font-medium mb-4 text-gray-900">Trip & Cab Info</h4>
-                <ul class="space-y-3">
-                    <li class="flex justify-between"><span class="text-gray-600">One Way (Min <span
-                                id="oneway-min-km-all">--</span> kms)</span><span class="font-medium"
-                            id="oneway-driver-bata">Driver Bata Rs.300/- (Rs.600/- if above 400 kms)</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">Round Trip (Min <span
-                                id="roundtrip-min-km-all">--</span> kms/day)</span><span class="font-medium"
-                            id="roundtrip-driver-bata">Driver Bata Rs.300/day (Rs.600/day if >500 kms)</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">SEDAN Capacity</span><span
-                            class="font-medium">4 persons, 3 mid-size suitcases</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">SUV Capacity</span><span
-                            class="font-medium">7 persons, 4 mid-size suitcases</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">Specific Cab Models</span><span
-                            class="font-medium">Innova, Etios – rates may vary</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">1 Day Definition</span><span
-                            class="font-medium">Calendar day (12AM–12AM)</span></li>
-                    <li class="flex justify-between"><span class="text-gray-600">Call Us</span><span
-                            class="font-medium">+91 8825694157</span></li>
 
-                </ul>
+            <!-- SUV Card -->
+            <div class="bg-white rounded-lg shadow-lg overflow-hidden pricing-card flex flex-col">
+                <div class="bg-yellow-400 text-gray-900 p-6 text-center relative">
+                    <div
+                        class="absolute top-0 right-0 bg-gray-900 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">
+                        POPULAR
+                    </div>
+                    <h3 class="text-xl font-bold">🚙 SUV</h3>
+                    <p class="mt-2 text-sm">Xylo, INNOVA, XUV 700, ENJOY</p>
+                </div>
+                <div class="p-6 flex-grow flex flex-col justify-between">
+                    <ul class="mb-6 space-y-4 text-sm">
+                        <li>👥 Capacity: Up to 6 passengers</li>
+                        <li>⏱️ Free Cancellation: Within 20 minutes of booking</li>
+                        <li>🧳 Luggage: Fits 4 mid-size suitcases</li>
+                        <li>📏 One Way Min: <span id="suv-oneway-min-km">--</span>KM</li>
+                        <li>🔁 Round Trip Min: <span id="suv-roundtrip-min-km">--</span>KM</li>
+                        <li>💰 One Way Rate: <span id="suv-oneway-rate">₹--/km</span></li>
+                        <li>💰 Round Trip Rate: <span id="suv-roundtrip-rate">₹--/km</span></li>
+                        <li class="text-xs text-gray-500">* Toll, Parking, State Permit extra</li>
+                    </ul>
+                    <button href="#booking"
+                        class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300">
+                        <a href="#booking"> Book Now</a>
+                    </button>
+                </div>
             </div>
         </div>
 
-    </div>
-    </div>
-</section>
 
 
-<script>
-    fetch('/pricings')
-        .then(response => response.json())
-        .then(data => {
-            let sedanOneway, sedanRoundtrip;
-            let suvOneway, suvRoundtrip;
+        <div class="bg-white rounded-lg shadow-md p-8">
+            <h3 class="text-2xl font-semibold mb-6">Additional Charges</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <h4 class="text-lg font-medium mb-4 text-gray-900">Standard Fees</h4>
+                    <ul class="space-y-3">
+                        <li class="flex justify-between"><span class="text-gray-600">Waiting Time (per
+                                Hour)</span><span class="font-medium" id="waiting-charge">Rs.120</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">Demand and Place</span><span
+                                class="font-medium">Taxi Price Will Be Changed</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">Over Luggage Charge</span><span
+                                class="font-medium" id="luggage-charge">Rs.300</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">Toll/Permit/Tax</span><span
+                                class="font-medium">Extra</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">Hill Station Charges</span><span
+                                class="font-medium" id="hill-station-charge">Rs.300</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">GST</span><span
+                                class="font-medium">Included in Tariff</span></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-lg font-medium mb-4 text-gray-900">Trip & Cab Info</h4>
+                    <ul class="space-y-3">
+                        <li class="flex justify-between"><span class="text-gray-600">One Way (Min <span
+                                    id="oneway-min-km-all">--</span> kms)</span><span class="font-medium"
+                                id="oneway-driver-bata">Driver Bata Rs.300/- (Rs.600/- if above 400 kms)</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">Round Trip (Min <span
+                                    id="roundtrip-min-km-all">--</span> kms/day)</span><span class="font-medium"
+                                id="roundtrip-driver-bata">Driver Bata Rs.300/day (Rs.600/day if >500 kms)</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">SEDAN Capacity</span><span
+                                class="font-medium">4 persons, 3 mid-size suitcases</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">SUV Capacity</span><span
+                                class="font-medium">7 persons, 4 mid-size suitcases</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">Specific Cab Models</span><span
+                                class="font-medium">Innova, Etios – rates may vary</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">1 Day Definition</span><span
+                                class="font-medium">Calendar day (12AM–12AM)</span></li>
+                        <li class="flex justify-between"><span class="text-gray-600">Call Us</span><span
+                                class="font-medium">+91 8825694157</span></li>
 
-            data.forEach(pricing => {
-                if (pricing.vehicle_type === 'Sedan') {
-                    if (pricing.trip_type === 'One-way') {
-                        document.getElementById('sedan-oneway-rate').textContent = `₹${pricing.base_price_per_km}/km`;
-                        document.getElementById('sedan-oneway-min-km').textContent = pricing.minimum_distance;
-                        sedanOneway = pricing;
-                    } else if (pricing.trip_type === 'Round Trip') {
-                        document.getElementById('sedan-roundtrip-rate').textContent = `₹${pricing.base_price_per_km}/km`;
-                        document.getElementById('sedan-roundtrip-min-km').textContent = pricing.minimum_distance;
-                        sedanRoundtrip = pricing;
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        </div>
+    </section>
+
+
+    <script>
+        fetch('/pricings')
+            .then(response => response.json())
+            .then(data => {
+                let sedanOneway, sedanRoundtrip;
+                let suvOneway, suvRoundtrip;
+
+                data.forEach(pricing => {
+                    if (pricing.vehicle_type === 'Sedan') {
+                        if (pricing.trip_type === 'One-way') {
+                            document.getElementById('sedan-oneway-rate').textContent =
+                                `₹${pricing.base_price_per_km}/km`;
+                            document.getElementById('sedan-oneway-min-km').textContent = pricing
+                                .minimum_distance;
+                            sedanOneway = pricing;
+                        } else if (pricing.trip_type === 'Round Trip') {
+                            document.getElementById('sedan-roundtrip-rate').textContent =
+                                `₹${pricing.base_price_per_km}/km`;
+                            document.getElementById('sedan-roundtrip-min-km').textContent = pricing
+                                .minimum_distance;
+                            sedanRoundtrip = pricing;
+                        }
+                    } else if (pricing.vehicle_type === 'SUV') {
+                        if (pricing.trip_type === 'One-way') {
+                            document.getElementById('suv-oneway-rate').textContent =
+                                `₹${pricing.base_price_per_km}/km`;
+                            document.getElementById('suv-oneway-min-km').textContent = pricing.minimum_distance;
+                            suvOneway = pricing;
+                        } else if (pricing.trip_type === 'Round Trip') {
+                            document.getElementById('suv-roundtrip-rate').textContent =
+                                `₹${pricing.base_price_per_km}/km`;
+                            document.getElementById('suv-roundtrip-min-km').textContent = pricing
+                                .minimum_distance;
+                            suvRoundtrip = pricing;
+                        }
+                        // Apply SUV pricing to MPV
+                        const mpvOnewayRateElement = document.getElementById('mpv-oneway-rate');
+                        if (mpvOnewayRateElement && suvOneway) {
+                            mpvOnewayRateElement.textContent = `₹${suvOneway.base_price_per_km}/km`;
+                            document.getElementById('mpv-oneway-min-km').textContent = suvOneway
+                                .minimum_distance;
+                        }
+                        const mpvRoundtripRateElement = document.getElementById('mpv-roundtrip-rate');
+                        if (mpvRoundtripRateElement && suvRoundtrip) {
+                            mpvRoundtripRateElement.textContent = `₹${suvRoundtrip.base_price_per_km}/km`;
+                            document.getElementById('mpv-roundtrip-min-km').textContent = suvRoundtrip
+                                .minimum_distance;
+                        }
+                        // Get additional charges from SUV data (assuming it's the same for MPV)
+                        document.getElementById('waiting-charge').textContent =
+                            `₹${pricing.waiting_charge_per_hour}`;
+                        document.getElementById('luggage-charge').textContent =
+                            `₹${pricing.luggage_charge_per_kg}/kg`;
+                        document.getElementById('hill-station-charge').textContent =
+                            `₹${pricing.hill_station_charge}`;
                     }
-                } else if (pricing.vehicle_type === 'SUV') {
-                    if (pricing.trip_type === 'One-way') {
-                        document.getElementById('suv-oneway-rate').textContent = `₹${pricing.base_price_per_km}/km`;
-                        document.getElementById('suv-oneway-min-km').textContent = pricing.minimum_distance;
-                        suvOneway = pricing;
-                    } else if (pricing.trip_type === 'Round Trip') {
-                        document.getElementById('suv-roundtrip-rate').textContent = `₹${pricing.base_price_per_km}/km`;
-                        document.getElementById('suv-roundtrip-min-km').textContent = pricing.minimum_distance;
-                        suvRoundtrip = pricing;
-                    }
-                    // Apply SUV pricing to MPV
-                    const mpvOnewayRateElement = document.getElementById('mpv-oneway-rate');
-                    if (mpvOnewayRateElement && suvOneway) {
-                        mpvOnewayRateElement.textContent = `₹${suvOneway.base_price_per_km}/km`;
-                        document.getElementById('mpv-oneway-min-km').textContent = suvOneway.minimum_distance;
-                    }
-                    const mpvRoundtripRateElement = document.getElementById('mpv-roundtrip-rate');
-                    if (mpvRoundtripRateElement && suvRoundtrip) {
-                        mpvRoundtripRateElement.textContent = `₹${suvRoundtrip.base_price_per_km}/km`;
-                        document.getElementById('mpv-roundtrip-min-km').textContent = suvRoundtrip.minimum_distance;
-                    }
-                    // Get additional charges from SUV data (assuming it's the same for MPV)
-                    document.getElementById('waiting-charge').textContent = `₹${pricing.waiting_charge_per_hour}`;
-                    document.getElementById('luggage-charge').textContent = `₹${pricing.luggage_charge_per_kg}/kg`;
-                    document.getElementById('hill-station-charge').textContent = `₹${pricing.hill_station_charge}`;
+                });
+
+                // Set the general minimum distance and driver bata info (using Sedan data)
+                if (sedanOneway) {
+                    document.getElementById('oneway-min-km-all').textContent = sedanOneway.minimum_distance;
+                    const driverBataOneWay = parseInt(sedanOneway.minimum_distance) > 400 ?
+                        `₹${sedanOneway.driver_beta_500}` : `₹${sedanOneway.driver_beta_300}`;
+                    document.getElementById('oneway-driver-bata').textContent =
+                        `Driver Bata ${driverBataOneWay} (₹600/- if above 400 kms)`;
                 }
+                if (sedanRoundtrip) {
+                    document.getElementById('roundtrip-min-km-all').textContent = sedanRoundtrip.minimum_distance;
+                    const driverBataRoundTrip = parseInt(sedanRoundtrip.minimum_distance) > 500 ?
+                        `₹${sedanRoundtrip.driver_beta_500}/day` : `₹${sedanRoundtrip.driver_beta_300}/day`;
+                    document.getElementById('roundtrip-driver-bata').textContent =
+                        `Driver Bata ${driverBataRoundTrip} (₹600/day if >500 kms)`;
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching pricing data:', error);
             });
-
-            // Set the general minimum distance and driver bata info (using Sedan data)
-            if (sedanOneway) {
-                document.getElementById('oneway-min-km-all').textContent = sedanOneway.minimum_distance;
-                const driverBataOneWay = parseInt(sedanOneway.minimum_distance) > 400 ? `₹${sedanOneway.driver_beta_500}` : `₹${sedanOneway.driver_beta_300}`;
-                document.getElementById('oneway-driver-bata').textContent = `Driver Bata ${driverBataOneWay} (₹600/- if above 400 kms)`;
-            }
-            if (sedanRoundtrip) {
-                document.getElementById('roundtrip-min-km-all').textContent = sedanRoundtrip.minimum_distance;
-                const driverBataRoundTrip = parseInt(sedanRoundtrip.minimum_distance) > 500 ? `₹${sedanRoundtrip.driver_beta_500}/day` : `₹${sedanRoundtrip.driver_beta_300}/day`;
-                document.getElementById('roundtrip-driver-bata').textContent = `Driver Bata ${driverBataRoundTrip} (₹600/day if >500 kms)`;
-            }
-        })
-        .catch(error => {
-            console.error('Error fetching pricing data:', error);
-        });
-</script>
+    </script>
 
 
 
 
- <section class="testimonials-section">
+    <section class="testimonials-section">
         <div class="container">
             <h2 class="section-title">What Our Customers Say</h2>
             <p class="section-subtitle">Hear directly from those who've experienced our exceptional service.</p>
@@ -1006,67 +1033,68 @@
         </div>
     </section>
 
-<script>
-    fetch('/testimonial')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            return response.json();
-        })
-        .then(data => {
-            const testimonialsContainer = document.getElementById('testimonials-container');
-            testimonialsContainer.innerHTML = ''; // Clear loading message
+    <script>
+        fetch('/testimonial')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                const testimonialsContainer = document.getElementById('testimonials-container');
+                testimonialsContainer.innerHTML = ''; // Clear loading message
 
-            if (data && data.length > 0) {
-                data.forEach(testimonial => {
-                    const testimonialCard = document.createElement('div');
-                    testimonialCard.classList.add('testimonial-card');
+                if (data && data.length > 0) {
+                    data.forEach(testimonial => {
+                        const testimonialCard = document.createElement('div');
+                        testimonialCard.classList.add('testimonial-card');
 
-                    // Star Rating
-                    const starRatingDiv = document.createElement('div');
-                    starRatingDiv.classList.add('star-rating');
-                    for (let i = 0; i < testimonial.rating; i++) {
-                        const starIcon = document.createElement('span');
-                        starIcon.classList.add('star');
-                        starIcon.innerHTML = '&#9733;'; // Unicode for a solid star
-                        starRatingDiv.appendChild(starIcon);
-                    }
-                    testimonialCard.appendChild(starRatingDiv);
+                        // Star Rating
+                        const starRatingDiv = document.createElement('div');
+                        starRatingDiv.classList.add('star-rating');
+                        for (let i = 0; i < testimonial.rating; i++) {
+                            const starIcon = document.createElement('span');
+                            starIcon.classList.add('star');
+                            starIcon.innerHTML = '&#9733;'; // Unicode for a solid star
+                            starRatingDiv.appendChild(starIcon);
+                        }
+                        testimonialCard.appendChild(starRatingDiv);
 
-                    // Message (content)
-                    const contentParagraph = document.createElement('p');
-                    contentParagraph.classList.add('testimonial-content');
-                    contentParagraph.textContent = `"${testimonial.message}"`; // Use 'message' property
-                    testimonialCard.appendChild(contentParagraph);
+                        // Message (content)
+                        const contentParagraph = document.createElement('p');
+                        contentParagraph.classList.add('testimonial-content');
+                        contentParagraph.textContent = `"${testimonial.message}"`; // Use 'message' property
+                        testimonialCard.appendChild(contentParagraph);
 
-                    // Name
-                    const authorParagraph = document.createElement('p');
-                    authorParagraph.classList.add('testimonial-author');
-                    authorParagraph.textContent = `- ${testimonial.name}`; // Use 'name' property
-                    testimonialCard.appendChild(authorParagraph);
+                        // Name
+                        const authorParagraph = document.createElement('p');
+                        authorParagraph.classList.add('testimonial-author');
+                        authorParagraph.textContent = `- ${testimonial.name}`; // Use 'name' property
+                        testimonialCard.appendChild(authorParagraph);
 
-                    // Optional: Position (if you want to display it)
-                    if (testimonial.position) {
-                        const positionParagraph = document.createElement('p');
-                        positionParagraph.classList.add('testimonial-position');
-                        positionParagraph.textContent = testimonial.position;
-                        testimonialCard.appendChild(positionParagraph);
-                    }
+                        // Optional: Position (if you want to display it)
+                        if (testimonial.position) {
+                            const positionParagraph = document.createElement('p');
+                            positionParagraph.classList.add('testimonial-position');
+                            positionParagraph.textContent = testimonial.position;
+                            testimonialCard.appendChild(positionParagraph);
+                        }
 
-                    testimonialsContainer.appendChild(testimonialCard);
-                });
-            } else {
-                testimonialsContainer.textContent = 'No testimonials found yet. Be the first to share your experience!';
-                testimonialsContainer.classList.add('no-testimonials');
-            }
-        })
-        .catch(error => {
-            console.error('Error fetching testimonials:', error);
-            document.getElementById('testimonials-container').innerHTML = ''; // Clear loading message
-            document.getElementById('error-message').style.display = 'block'; // Show error message
-        });
-</script>
+                        testimonialsContainer.appendChild(testimonialCard);
+                    });
+                } else {
+                    testimonialsContainer.textContent =
+                        'No testimonials found yet. Be the first to share your experience!';
+                    testimonialsContainer.classList.add('no-testimonials');
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching testimonials:', error);
+                document.getElementById('testimonials-container').innerHTML = ''; // Clear loading message
+                document.getElementById('error-message').style.display = 'block'; // Show error message
+            });
+    </script>
 
 
 
@@ -1102,7 +1130,7 @@
                     <p class="text-gray-400 mb-4">Your trusted taxi service partner since 2025. We're committed to
                         providing safe, reliable, and comfortable transportation.</p>
                     <div class="flex space-x-4">
-                        <a href="#"
+                        <a href="https://www.facebook.com/share/19y3UEM333/"
                             class="social-icon bg-gray-800 hover:bg-gray-700 h-10 w-10 rounded-full flex items-center justify-center">
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="currentColor"
                                 viewBox="0 0 24 24">
@@ -1110,7 +1138,7 @@
                                     d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z" />
                             </svg>
                         </a>
-                        <a href="#"
+                        <a href="https://x.com/fastpikcab"
                             class="social-icon bg-gray-800 hover:bg-gray-700 h-10 w-10 rounded-full flex items-center justify-center">
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="currentColor"
                                 viewBox="0 0 24 24">
@@ -1118,7 +1146,7 @@
                                     d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z" />
                             </svg>
                         </a>
-                        <a href="#"
+                        <a href="https://www.instagram.com/fastpikcab/"
                             class="social-icon bg-gray-800 hover:bg-gray-700 h-10 w-10 rounded-full flex items-center justify-center">
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="currentColor"
                                 viewBox="0 0 24 24">
@@ -1126,7 +1154,7 @@
                                     d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
                             </svg>
                         </a>
-                        <a href="#"
+                        <a href="https://www.youtube.com/channel/UCWdbO2ADl_gnnP1QP7hMW_Q"
                             class="social-icon bg-gray-800 hover:bg-gray-700 h-10 w-10 rounded-full flex items-center justify-center">
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="currentColor"
                                 viewBox="0 0 24 24">
@@ -1214,54 +1242,93 @@
             </div>
         </div>
         <div class="bg-gray-800 py-8">
-        <div class="container mx-auto px-4">
-            <h3 class="text-lg font-semibold mb-6 relative">
-                Our Cities
-                <span class="absolute bottom-0 left-0 w-10 h-1 bg-yellow-400 -mb-2"></span>
-            </h3>
-            <ul class="flex flex-wrap items-center space-x-4 space-y-2 lg:space-y-0">
-                <li><a href="{{ route('chennai-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Chennai</a></li>
-                <li><a href="{{ route('coimbatore-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Coimbatore</a></li>
-                <li><a href="{{ route('madurai-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Madurai</a></li>
-                <li><a href="{{ route('trichy-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Tiruchirappalli (Trichy)</a></li>
-                <li><a href="{{ route('salem-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Salem</a></li>
-                <li><a href="{{ route('tirunelveli-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Tirunelveli</a></li>
-                <li><a href="{{ route('erode-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Erode</a></li>
-                <li><a href="{{ route('vellore-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Vellore</a></li>
-                <li><a href="{{ route('thoothukudi-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Thoothukudi (Tuticorin)</a></li>
-                <li><a href="{{ route('thanjavur-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Thanjavur</a></li>
-                <li><a href="{{ route('dindigul-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Dindigul</a></li>
-                <li><a href="{{ route('cuddalore-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Cuddalore</a></li>
-                <li><a href="{{ route('kanchipuram-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Kanchipuram</a></li>
-                <li><a href="{{ route('nagercoil-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Nagercoil</a></li>
-                <li><a href="{{ route('karur-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Karur</a></li>
-                <li><a href="{{ route('tiruppur-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Tiruppur</a></li>
-                <li><a href="{{ route('sivakasi-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Sivakasi</a></li>
-                <li><a href="{{ route('hosur-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Hosur</a></li>
-                <li><a href="{{ route('krishnagiri-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Krishnagiri</a></li>
-                <li><a href="{{ route('namakkal-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Namakkal</a></li>
-                <li><a href="{{ route('villupuram-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Villupuram</a></li>
-                <li><a href="{{ route('pudukkottai-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Pudukkottai</a></li>
-                <li><a href="{{ route('nagapattinam-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Nagapattinam</a></li>
-                <li><a href="{{ route('arakkonam-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Arakkonam</a></li>
-                <li><a href="{{ route('chengalpattu-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Chengalpattu</a></li>
-                <li><a href="{{ route('mayiladuthurai-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Mayiladuthurai</a></li>
-                <li><a href="{{ route('thiruvarur-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Thiruvarur</a></li>
-                <li><a href="{{ route('arani-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Arani</a></li>
-                <li><a href="{{ route('ranipet-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Ranipet</a></li>
-                <li><a href="{{ route('perambalur-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Perambalur</a></li>
-                <li><a href="{{ route('tenkasi-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Tenkasi</a></li>
-                <li><a href="{{ route('virudhunagar-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Virudhunagar</a></li>
-                <li><a href="{{ route('ramanathapuram-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Ramanathapuram</a></li>
-                <li><a href="{{ route('dharmapuri-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Dharmapuri</a></li>
-                <li><a href="{{ route('karaikal-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Karaikal</a></li>
-                <li><a href="{{ route('kochi-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Kochi</a></li>
-                <li><a href="{{ route('tirupati-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Tirupati</a></li>
-                <li><a href="{{ route('thiruvannamalai-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Thiruvannamalai</a></li>
-                <li><a href="{{ route('kerala-taxi-service') }}" class="footer-link text-gray-400 hover:text-white">Kerala</a></li>
-            </ul>
+            <div class="container mx-auto px-4">
+                <h3 class="text-lg font-semibold mb-6 relative">
+                    Our Cities
+                    <span class="absolute bottom-0 left-0 w-10 h-1 bg-yellow-400 -mb-2"></span>
+                </h3>
+                <ul class="flex flex-wrap items-center space-x-4 space-y-2 lg:space-y-0">
+                    <li><a href="{{ route('chennai-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Chennai</a></li>
+                    <li><a href="{{ route('coimbatore-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Coimbatore</a></li>
+                    <li><a href="{{ route('madurai-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Madurai</a></li>
+                    <li><a href="{{ route('trichy-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Tiruchirappalli (Trichy)</a></li>
+                    <li><a href="{{ route('salem-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Salem</a></li>
+                    <li><a href="{{ route('tirunelveli-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Tirunelveli</a></li>
+                    <li><a href="{{ route('erode-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Erode</a></li>
+                    <li><a href="{{ route('vellore-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Vellore</a></li>
+                    <li><a href="{{ route('thoothukudi-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Thoothukudi (Tuticorin)</a></li>
+                    <li><a href="{{ route('thanjavur-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Thanjavur</a></li>
+                    <li><a href="{{ route('dindigul-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Dindigul</a></li>
+                    <li><a href="{{ route('cuddalore-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Cuddalore</a></li>
+                    <li><a href="{{ route('kanchipuram-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Kanchipuram</a></li>
+                    <li><a href="{{ route('nagercoil-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Nagercoil</a></li>
+                    <li><a href="{{ route('karur-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Karur</a></li>
+                    <li><a href="{{ route('tiruppur-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Tiruppur</a></li>
+                    <li><a href="{{ route('sivakasi-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Sivakasi</a></li>
+                    <li><a href="{{ route('hosur-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Hosur</a></li>
+                    <li><a href="{{ route('krishnagiri-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Krishnagiri</a></li>
+                    <li><a href="{{ route('namakkal-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Namakkal</a></li>
+                    <li><a href="{{ route('villupuram-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Villupuram</a></li>
+                    <li><a href="{{ route('pudukkottai-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Pudukkottai</a></li>
+                    <li><a href="{{ route('nagapattinam-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Nagapattinam</a></li>
+                    <li><a href="{{ route('arakkonam-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Arakkonam</a></li>
+                    <li><a href="{{ route('chengalpattu-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Chengalpattu</a></li>
+                    <li><a href="{{ route('mayiladuthurai-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Mayiladuthurai</a></li>
+                    <li><a href="{{ route('thiruvarur-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Thiruvarur</a></li>
+                    <li><a href="{{ route('arani-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Arani</a></li>
+                    <li><a href="{{ route('ranipet-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Ranipet</a></li>
+                    <li><a href="{{ route('perambalur-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Perambalur</a></li>
+                    <li><a href="{{ route('tenkasi-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Tenkasi</a></li>
+                    <li><a href="{{ route('virudhunagar-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Virudhunagar</a></li>
+                    <li><a href="{{ route('ramanathapuram-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Ramanathapuram</a></li>
+                    <li><a href="{{ route('dharmapuri-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Dharmapuri</a></li>
+                    <li><a href="{{ route('karaikal-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Karaikal</a></li>
+                    <li><a href="{{ route('kochi-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Kochi</a></li>
+                    <li><a href="{{ route('tirupati-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Tirupati</a></li>
+                    <li><a href="{{ route('thiruvannamalai-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Thiruvannamalai</a></li>
+                    <li><a href="{{ route('kerala-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">Kerala</a></li>
+                </ul>
+            </div>
         </div>
-    </div>
 
         <!-- App Download Section -->
         <div class="bg-gray-900 py-8 border-t border-gray-800">
@@ -1313,7 +1380,7 @@
 
     <script src="{{ asset('js/app.js') }}"></script>
     <!-- ✅ Google Maps API -->
-     <script
+    <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
