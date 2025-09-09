@@ -1,6 +1,7 @@
-<a href="https://wa.me/+918825694157" target="_blank" class="whatsapp-link">
+<a href="https://wa.me/+918825694157" target="_blank" rel="noopener noreferrer" class="whatsapp-link">
     <i class="fab fa-whatsapp"></i>
 </a>
+
 {{-- @include('layouts.routes') --}}
 <footer class="bg-gray-900 text-white">
     <div class="container mx-auto px-4 py-12">

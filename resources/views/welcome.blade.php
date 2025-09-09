@@ -139,7 +139,7 @@
                     </div>
                 </div>
                 <div class="md:w-1/2">
-                    <img src="./img/heroimg.png" alt="">
+                    <img src="./img/heroimg.png" alt="Fastpikcab">
 
                 </div>
             </div>
@@ -1105,9 +1105,10 @@
 
 
     <!-- Replace PHONE_NUMBER with your actual WhatsApp number in international format, without + or spaces -->
-    <a href="https://wa.me/+918825694157" target="_blank" class="whatsapp-link">
-        <i class="fab fa-whatsapp"></i>
-    </a>
+    <a href="https://wa.me/+918825694157" target="_blank" rel="noopener noreferrer" class="whatsapp-link">
+    <i class="fab fa-whatsapp"></i>
+</a>
+
 
     @include('layouts.routes')
 
