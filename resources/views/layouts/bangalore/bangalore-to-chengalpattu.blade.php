@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Chengalpattu Taxi Service </title>
+    <title>Fastpik Cab - Bangalore to Chengalpattu Taxi Service</title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
+        content="Book a reliable Bangalore to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
         content="Bangalore to Chengalpattu taxi, Bangalore to Chengalpattu one way taxi, Bangalore to Chengalpattu outstation cabs, Bangalore to Chengalpattu taxi fare, Bangalore to Chengalpattu cab fare, Bangalore to Chengalpattu round trip taxi, Bangalore to Chengalpattu car rental, Bangalore to Chengalpattu cab booking">
@@ -73,7 +73,7 @@
                     }
                 },
                 "priceCurrency": "INR",
-                "priceValidUntil": "2025-12-31"
+                "priceValidUntil": "2024-12-31"
             }
         }
     </script>
@@ -106,8 +106,8 @@
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "4727",
-                    "highPrice": "6992",
+                    "lowPrice": "4200",
+                    "highPrice": "6600",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -136,72 +136,7 @@
 
 <body>
 
-    <header class="bg-white shadow-md">
-        <nav class="container mx-auto px-4 py-4 flex justify-between items-center">
-            <div class="logo">
-                <a href="/" class="text-2xl font-bold text-blue-600">Fastpik Cab</a>
-            </div>
-            <div class="hidden md:flex space-x-6">
-                <a href="#booking" class="text-gray-600 hover:text-blue-600">Book Taxi</a>
-                <a href="#services" class="text-gray-600 hover:text-blue-600">Our Services</a>
-                <a href="#about" class="text-gray-600 hover:text-blue-600">About Us</a>
-                <a href="#contact" class="text-gray-600 hover:text-blue-600">Contact</a>
-            </div>
-            <button class="md:hidden text-gray-600 hover:text-blue-600">
-                <i class="fas fa-bars text-xl"></i>
-            </button>
-        </nav>
-    </header>
-
-    <section class="bg-gray-100 py-12 px-4 md:px-12" id="booking">
-        <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-            <div>
-                <h1 class="text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight mb-4">
-                    Reliable <span class="text-blue-600">Taxi Service</span> from Bangalore to Chengalpattu
-                </h1>
-                <p class="text-lg text-gray-700 mb-6">
-                    Book a cab with Fastpik Cab for a safe, comfortable, and affordable journey. We offer one-way,
-                    round-trip, and outstation taxi services with transparent pricing.
-                </p>
-                <a href="#fare-structure"
-                    class="bg-blue-600 text-white font-semibold py-3 px-8 rounded-full shadow-lg hover:bg-blue-700 transition duration-300">
-                    Check Fares
-                </a>
-            </div>
-            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
-                <h2 class="text-2xl font-bold text-center text-gray-800 mb-6">Book Your Cab Now</h2>
-                <form action="/book-now" method="POST" class="space-y-4">
-                    <div>
-                        <label for="pickup" class="block text-sm font-medium text-gray-700">Pickup Location</label>
-                        <input type="text" id="pickup" name="pickup" placeholder="Bangalore" required
-                            class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <div>
-                        <label for="drop" class="block text-sm font-medium text-gray-700">Drop Location</label>
-                        <input type="text" id="drop" name="drop" placeholder="Chengalpattu" required
-                            class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <div>
-                        <label for="date" class="block text-sm font-medium text-gray-700">Travel Date</label>
-                        <input type="date" id="date" name="date" required
-                            class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <div>
-                        <label for="car-type" class="block text-sm font-medium text-gray-700">Select Car Type</label>
-                        <select id="car-type" name="car-type"
-                            class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                            <option value="sedan">Sedan (Dzire, Etios)</option>
-                            <option value="suv">SUV (Innova, Xylo)</option>
-                        </select>
-                    </div>
-                    <button type="submit"
-                        class="w-full bg-blue-600 text-white font-semibold py-3 px-4 rounded-md hover:bg-blue-700 transition duration-300">
-                        Book Your Ride
-                    </button>
-                </form>
-            </div>
-        </div>
-    </section>
+    @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
@@ -233,6 +168,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Bangalore to Chengalpattu Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Bangalore to Chengalpattu Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Need a taxi from <strong>Bangalore to Chengalpattu</strong>? Fastpikcab provides safe, clean,
+                and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
+                Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on
+                time.
+            </p>
+
+            <p class="mb-4">
+                The distance between Bangalore and Chengalpattu is approximately <strong>320 - 340 km</strong>,
+                which usually takes about <strong>6 - 7 hours</strong> by road. The most common travel route
+                is via <strong>NH44 and NH48</strong>, passing through <strong>Hosur and Vellore</strong>.
+                Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
+            </p>
+
+            <p class="mb-4">
+                Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free.
+                We follow <strong>transparent pricing</strong> with no hidden charges.
+            </p>
+
+            <p class="mb-4">
+                We also provide <strong>Bangalore Airport (BLR) taxi pickups</strong> for passengers heading towards
+                Chengalpattu.
+                Families, business professionals, students, and group travelers can benefit from our
+                <strong>round-trip taxi packages</strong>, which are cost-effective for long-distance travel.
+            </p>
+
+            <p class="mb-4">
+                Apart from Chengalpattu, Fastpikcab operates across all major cities and districts of Tamil Nadu and Karnataka.
+            </p>
+
+            <p class="mb-4">
+                Booking your <strong>Bangalore to Chengalpattu taxi</strong> with Fastpikcab is simple.
+                You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+                Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Bangalore to Chengalpattu cab service</strong> and enjoy
+                a safe, reliable, and comfortable travel experience.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Bangalore to Chengalpattu Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -241,7 +229,7 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 330 - 350 km</span>
+                            <span><strong>Distance:</strong> Approximately 320 - 340 km</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
@@ -249,7 +237,11 @@
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The most common route is via NH 48.</span>
+                            <span><strong>Route:</strong> The most common route is via NH44 and NH48.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Note:</strong> Chengalpattu is a significant transit point near Chennai.</span>
                         </li>
                     </ul>
                 </div>
@@ -257,12 +249,12 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Vellore</span>
-                            <span class="text-sm text-gray-500">A major city with a famous fort and a good spot for a break.</span>
+                            <span>Hosur</span>
+                            <span class="text-sm text-gray-500">A major industrial hub on the border.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Kanchipuram</span>
-                            <span class="text-sm text-gray-500">Famous for its temples and silk sarees. A short detour from the main route.</span>
+                            <span>Vellore</span>
+                            <span class="text-sm text-gray-500">Known for the historic Vellore Fort and Golden Temple.</span>
                         </div>
                     </div>
                 </div>
@@ -270,7 +262,7 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12" id="fare-structure">
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Bangalore to Chengalpattu Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
             <table class="w-full table-auto">
@@ -285,8 +277,8 @@
                 <tbody class="divide-y divide-gray-200">
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹4,727</td>
-                        <td class="px-6 py-4 text-center">₹7,500</td>
+                        <td class="px-6 py-4 text-center">₹4,200</td>
+                        <td class="px-6 py-4 text-center">₹8,400</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Air-conditioned</li>
@@ -297,8 +289,8 @@
                     </tr>
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹6,992</td>
-                        <td class="px-6 py-4 text-center">₹9,500</td>
+                        <td class="px-6 py-4 text-center">₹6,600</td>
+                        <td class="px-6 py-4 text-center">₹13,200</td>
                         <td class="px-6 py-4">
                             <ul class="list-disc list-inside text-sm text-gray-600">
                                 <li>Spacious and comfortable</li>
@@ -322,7 +314,6 @@
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
-
 </body>
 
 </html>
