@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Madurai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to madurai taxi, thiruvarur to madurai one way taxi, thiruvarur to madurai outstation cabs, thiruvarur to madurai taxi fare, thiruvarur to madurai cab fare, thiruvarur to madurai round trip taxi, thiruvarur to madurai car rental, thiruvarur to madurai cab booking">
 
     {{-- Open Graph Meta Tags --}}

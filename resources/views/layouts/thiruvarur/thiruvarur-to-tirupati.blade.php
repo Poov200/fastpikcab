@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Tirupati Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to tirupati taxi, thiruvarur to tirupati one way taxi, thiruvarur to tirupati outstation cabs, thiruvarur to tirupati taxi fare, thiruvarur to tirupati cab fare, thiruvarur to tirupati round trip taxi, thiruvarur to tirupati car rental, thiruvarur to tirupati cab booking">
 
     {{-- Open Graph Meta Tags --}}

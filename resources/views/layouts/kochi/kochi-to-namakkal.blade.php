@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Namakkal Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to namakkal taxi, kochi to namakkal one way taxi, kochi to namakkal outstation cabs, kochi to namakkal taxi fare, kochi to namakkal cab fare, kochi to namakkal round trip taxi, kochi to namakkal car rental, kochi to namakkal cab booking">
 
     {{-- Open Graph Meta Tags --}}

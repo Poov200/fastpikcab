@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Puducherry to Thiruvarur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Puducherry to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Puducherry to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Puducherry to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Puducherry to Thiruvarur taxi, Puducherry to Thiruvarur one way taxi, Puducherry to Thiruvarur outstation cabs, Puducherry to Thiruvarur taxi fare, Puducherry to Thiruvarur cab fare, Puducherry to Thiruvarur round trip taxi, Puducherry to Thiruvarur car rental, Puducherry to Thiruvarur cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Chengalpattu taxi, Nagapattinam to Chengalpattu one way taxi, Nagapattinam to Chengalpattu outstation cabs, Nagapattinam to Chengalpattu taxi fare, Nagapattinam to Chengalpattu cab fare, Nagapattinam to Chengalpattu round trip taxi, Nagapattinam to Chengalpattu car rental, Nagapattinam to Chengalpattu cab booking">

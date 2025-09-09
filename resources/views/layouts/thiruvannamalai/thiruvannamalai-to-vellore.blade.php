@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Vellore Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to vellore taxi, thiruvannamalai to vellore one way taxi, thiruvannamalai to vellore outstation cabs, thiruvannamalai to vellore taxi fare, thiruvannamalai to vellore cab fare, thiruvannamalai to vellore round trip taxi, thiruvannamalai to vellore car rental, thiruvannamalai to vellore cab booking">
 
     {{-- Open Graph Meta Tags --}}

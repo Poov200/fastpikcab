@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Tirupati Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to tirupati taxi, kerala to tirupati one way taxi, kerala to tirupati outstation cabs, kerala to tirupati taxi fare, kerala to tirupati cab fare, kerala to tirupati round trip taxi, kerala to tirupati car rental, kerala to tirupati cab booking">
 
     {{-- Open Graph Meta Tags --}}

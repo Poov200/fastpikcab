@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Thiruvarur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to thiruvarur taxi, kerala to thiruvarur one way taxi, kerala to thiruvarur outstation cabs, kerala to thiruvarur taxi fare, kerala to thiruvarur cab fare, kerala to thiruvarur round trip taxi, kerala to thiruvarur car rental, kerala to thiruvarur cab booking">
 
     {{-- Open Graph Meta Tags --}}

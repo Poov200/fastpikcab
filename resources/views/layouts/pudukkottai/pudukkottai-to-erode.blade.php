@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Pudukkottai to Erode Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Pudukkottai to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Erode taxi, Pudukkottai to Erode one way taxi, Pudukkottai to Erode outstation cabs, Pudukkottai to Erode taxi fare, Pudukkottai to Erode cab fare, Pudukkottai to Erode round trip taxi, Pudukkottai to Erode car rental, Pudukkottai to Erode cab booking">

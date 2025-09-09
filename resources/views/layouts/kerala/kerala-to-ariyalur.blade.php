@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Ariyalur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Ariyalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Ariyalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to ariyalur taxi, kerala to ariyalur one way taxi, kerala to ariyalur outstation cabs, kerala to ariyalur taxi fare, kerala to ariyalur cab fare, kerala to ariyalur round trip taxi, kerala to ariyalur car rental, kerala to ariyalur cab booking">
 
     {{-- Open Graph Meta Tags --}}

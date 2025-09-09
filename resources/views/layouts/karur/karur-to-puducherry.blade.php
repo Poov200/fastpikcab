@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Karur to Puducherry Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Puducherry taxi, Karur to Puducherry one way taxi, Karur to Puducherry outstation cabs, Karur to Puducherry taxi fare, Karur to Puducherry cab fare, Karur to Puducherry round trip taxi, Karur to Puducherry car rental, Karur to Puducherry cab booking">

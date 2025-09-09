@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Karur to Tirunelveli Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Tirunelveli taxi, Karur to Tirunelveli one way taxi, Karur to Tirunelveli outstation cabs, Karur to Tirunelveli taxi fare, Karur to Tirunelveli cab fare, Karur to Tirunelveli round trip taxi, Karur to Tirunelveli car rental, Karur to Tirunelveli cab booking">

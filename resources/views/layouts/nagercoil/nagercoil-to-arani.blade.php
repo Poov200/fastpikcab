@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagercoil to Arani Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagercoil to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Arani taxi, Nagercoil to Arani one way taxi, Nagercoil to Arani outstation cabs, Nagercoil to Arani taxi fare, Nagercoil to Arani cab fare, Nagercoil to Arani round trip taxi, Nagercoil to Arani car rental, Nagercoil to Arani cab booking">

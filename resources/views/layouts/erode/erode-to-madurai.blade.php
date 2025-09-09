@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Madurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Madurai taxi, Erode to Madurai one way taxi, Erode to Madurai outstation cabs, Erode to Madurai taxi fare, Erode to Madurai cab fare, Erode to Madurai round trip taxi, Erode to Madurai car rental, Erode to Madurai cab booking">

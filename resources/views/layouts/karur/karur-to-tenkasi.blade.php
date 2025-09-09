@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Karur to Tenkasi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Tenkasi taxi, Karur to Tenkasi one way taxi, Karur to Tenkasi outstation cabs, Karur to Tenkasi taxi fare, Karur to Tenkasi cab fare, Karur to Tenkasi round trip taxi, Karur to Tenkasi car rental, Karur to Tenkasi cab booking">

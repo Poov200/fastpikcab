@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Coimbatore Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to coimbatore taxi, thiruvarur to coimbatore one way taxi, thiruvarur to coimbatore outstation cabs, thiruvarur to coimbatore taxi fare, thiruvarur to coimbatore cab fare, thiruvarur to coimbatore round trip taxi, thiruvarur to coimbatore car rental, thiruvarur to coimbatore cab booking">
 
     {{-- Open Graph Meta Tags --}}

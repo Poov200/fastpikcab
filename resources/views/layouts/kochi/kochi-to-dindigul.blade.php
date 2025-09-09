@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Dindigul Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to dindigul taxi, kochi to dindigul one way taxi, kochi to dindigul outstation cabs, kochi to dindigul taxi fare, kochi to dindigul cab fare, kochi to dindigul round trip taxi, kochi to dindigul car rental, kochi to dindigul cab booking">
 
     {{-- Open Graph Meta Tags --}}

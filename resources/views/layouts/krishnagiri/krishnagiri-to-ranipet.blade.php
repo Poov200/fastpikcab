@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Krishnagiri to Ranipet Taxi Service | Book Online</title>
+    <title>Fastpikcab - Krishnagiri to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Ranipet taxi, Krishnagiri to Ranipet one way taxi, Krishnagiri to Ranipet outstation cabs, Krishnagiri to Ranipet taxi fare, Krishnagiri to Ranipet cab fare, Krishnagiri to Ranipet round trip taxi, Krishnagiri to Ranipet car rental, Krishnagiri to Ranipet cab booking">

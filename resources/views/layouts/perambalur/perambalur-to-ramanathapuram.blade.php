@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Perambalur to Ramanathapuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Perambalur to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Ramanathapuram taxi, Perambalur to Ramanathapuram one way taxi, Perambalur to Ramanathapuram outstation cabs, Perambalur to Ramanathapuram taxi fare, Perambalur to Ramanathapuram cab fare, Perambalur to Ramanathapuram round trip taxi, Perambalur to Ramanathapuram car rental, Perambalur to Ramanathapuram cab booking">

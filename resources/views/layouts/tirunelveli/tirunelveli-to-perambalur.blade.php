@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirunelveli to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirunelveli to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Perambalur taxi, Tirunelveli to Perambalur one way taxi, Tirunelveli to Perambalur outstation cabs, Tirunelveli to Perambalur taxi fare, Tirunelveli to Perambalur cab fare, Tirunelveli to Perambalur round trip taxi, Tirunelveli to Perambalur car rental, Tirunelveli to Perambalur cab booking">

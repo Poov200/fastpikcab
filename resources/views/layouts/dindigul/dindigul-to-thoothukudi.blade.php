@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dindigul to Thoothukudi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dindigul to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Thoothukudi taxi, Dindigul to Thoothukudi one way taxi, Dindigul to Thoothukudi outstation cabs, Dindigul to Thoothukudi taxi fare, Dindigul to Thoothukudi cab fare, Dindigul to Thoothukudi round trip taxi, Dindigul to Thoothukudi car rental, Dindigul to Thoothukudi cab booking">

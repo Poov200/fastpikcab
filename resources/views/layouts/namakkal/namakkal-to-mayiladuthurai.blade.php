@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Namakkal to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Namakkal to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Mayiladuthurai taxi, Namakkal to Mayiladuthurai one way taxi, Namakkal to Mayiladuthurai outstation cabs, Namakkal to Mayiladuthurai taxi fare, Namakkal to Mayiladuthurai cab fare, Namakkal to Mayiladuthurai round trip taxi, Namakkal to Mayiladuthurai car rental, Namakkal to Mayiladuthurai cab booking">

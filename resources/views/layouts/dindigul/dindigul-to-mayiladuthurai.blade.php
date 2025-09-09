@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dindigul to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dindigul to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Mayiladuthurai taxi, Dindigul to Mayiladuthurai one way taxi, Dindigul to Mayiladuthurai outstation cabs, Dindigul to Mayiladuthurai taxi fare, Dindigul to Mayiladuthurai cab fare, Dindigul to Mayiladuthurai round trip taxi, Dindigul to Mayiladuthurai car rental, Dindigul to Mayiladuthurai cab booking">

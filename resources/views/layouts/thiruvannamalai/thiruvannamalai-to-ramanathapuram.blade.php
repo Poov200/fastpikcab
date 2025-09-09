@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Ramanathapuram Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to ramanathapuram taxi, thiruvannamalai to ramanathapuram one way taxi, thiruvannamalai to ramanathapuram outstation cabs, thiruvannamalai to ramanathapuram taxi fare, thiruvannamalai to ramanathapuram cab fare, thiruvannamalai to ramanathapuram round trip taxi, thiruvannamalai to ramanathapuram car rental, thiruvannamalai to ramanathapuram cab booking">
 
     {{-- Open Graph Meta Tags --}}

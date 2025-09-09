@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Arakkonam to Puducherry Taxi Service | Book Online</title>
+    <title>Fastpikcab - Arakkonam to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arakkonam to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arakkonam to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arakkonam to Puducherry taxi, Arakkonam to Puducherry one way taxi, Arakkonam to Puducherry outstation cabs, Arakkonam to Puducherry taxi fare, Arakkonam to Puducherry cab fare, Arakkonam to Puducherry round trip taxi, Arakkonam to Puducherry car rental, Arakkonam to Puducherry cab booking">

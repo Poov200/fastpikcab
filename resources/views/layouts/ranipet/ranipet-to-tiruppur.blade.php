@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ranipet to Tiruppur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ranipet to Tiruppur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ranipet to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ranipet to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ranipet to Tiruppur taxi, Ranipet to Tiruppur one way taxi, Ranipet to Tiruppur outstation cabs, Ranipet to Tiruppur taxi fare, Ranipet to Tiruppur cab fare, Ranipet to Tiruppur round trip taxi, Ranipet to Tiruppur car rental, Ranipet to Tiruppur cab booking">

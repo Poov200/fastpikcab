@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Perambalur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to perambalur taxi, thiruvarur to perambalur one way taxi, thiruvarur to perambalur outstation cabs, thiruvarur to perambalur taxi fare, thiruvarur to perambalur cab fare, thiruvarur to perambalur round trip taxi, thiruvarur to perambalur car rental, thiruvarur to perambalur cab booking">
 
     {{-- Open Graph Meta Tags --}}

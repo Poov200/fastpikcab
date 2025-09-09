@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Sivakasi to Kerala (Kochi) Taxi Service | Book Online</title>
+    <title>Fastpikcab - Sivakasi to Kerala (Kochi) Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Kerala (Kochi) taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Kerala (Kochi) taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Kerala taxi, Sivakasi to Kochi taxi, Sivakasi to Kerala one way taxi, Sivakasi to Kerala outstation cabs, Sivakasi to Kerala taxi fare, Sivakasi to Kerala cab fare, Sivakasi to Kerala round trip taxi, Sivakasi to Kerala car rental, Sivakasi to Kerala cab booking">
@@ -295,7 +295,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">₹3,900</td>

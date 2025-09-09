@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Ranipet Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to ranipet taxi, kochi to ranipet one way taxi, kochi to ranipet outstation cabs, kochi to ranipet taxi fare, kochi to ranipet cab fare, kochi to ranipet round trip taxi, kochi to ranipet car rental, kochi to ranipet cab booking">
 
     {{-- Open Graph Meta Tags --}}

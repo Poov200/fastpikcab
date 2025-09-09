@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirunelveli to Dindigul Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirunelveli to Dindigul Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirunelveli to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirunelveli to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirunelveli to Dindigul taxi, Tirunelveli to Dindigul one way taxi, Tirunelveli to Dindigul outstation cabs, Tirunelveli to Dindigul taxi fare, Tirunelveli to Dindigul cab fare, Tirunelveli to Dindigul round trip taxi, Tirunelveli to Dindigul car rental, Tirunelveli to Dindigul cab booking">

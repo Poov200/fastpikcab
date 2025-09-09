@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Villupuram to Thoothukudi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Villupuram to Thoothukudi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Villupuram to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Villupuram to Thoothukudi taxi, Villupuram to Thoothukudi one way taxi, Villupuram to Thoothukudi outstation cabs, Villupuram to Thoothukudi taxi fare, Villupuram to Thoothukudi cab fare, Villupuram to Thoothukudi round trip taxi, Villupuram to Thoothukudi car rental, Villupuram to Thoothukudi cab booking">

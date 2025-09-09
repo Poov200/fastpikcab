@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thoothukudi to Arani Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thoothukudi to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thoothukudi to Arani taxi, Thoothukudi to Arani one way taxi, Thoothukudi to Arani outstation cabs, Thoothukudi to Arani taxi fare, Thoothukudi to Arani cab fare, Thoothukudi to Arani round trip taxi, Thoothukudi to Arani car rental, Thoothukudi to Arani cab booking">

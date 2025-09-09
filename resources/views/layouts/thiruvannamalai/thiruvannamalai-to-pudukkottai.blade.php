@@ -7,7 +7,7 @@
     <title>Thiruvannamalai to Pudukkottai Taxi Service | Fastpik Cab</title>
 
     <meta name="description"
-        content="Book a reliable Thiruvannamalai to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thiruvannamalai to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="thiruvannamalai to pudukkottai taxi, thiruvannamalai to pudukkottai one way taxi, thiruvannamalai to pudukkottai outstation cabs, thiruvannamalai to pudukkottai taxi fare, thiruvannamalai to pudukkottai cab fare, thiruvannamalai to pudukkottai round trip taxi, thiruvannamalai to pudukkottai car rental, thiruvannamalai to pudukkottai cab booking">
 

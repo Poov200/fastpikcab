@@ -7,7 +7,7 @@
     <title>Thanjavur to Villupuram Taxi Service | Fastpik Cab</title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Villupuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="thanjavur to villupuram taxi, thanjavur to villupuram one way taxi, thanjavur to villupuram outstation cabs, thanjavur to villupuram taxi fare, thanjavur to villupuram cab fare, thanjavur to villupuram round trip taxi, thanjavur to villupuram car rental, thanjavur to villupuram cab booking">
 

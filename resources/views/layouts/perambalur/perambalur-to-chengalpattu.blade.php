@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Perambalur to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpikcab - Perambalur to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Chengalpattu taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Chengalpattu taxi, Perambalur to Chengalpattu one way taxi, Perambalur to Chengalpattu outstation cabs, Perambalur to Chengalpattu taxi fare, Perambalur to Chengalpattu cab fare, Perambalur to Chengalpattu round trip taxi, Perambalur to Chengalpattu car rental, Perambalur to Chengalpattu cab booking">

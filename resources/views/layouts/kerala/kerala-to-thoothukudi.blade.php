@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Thoothukudi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to thoothukudi taxi, kerala to thoothukudi one way taxi, kerala to thoothukudi outstation cabs, kerala to thoothukudi taxi fare, kerala to thoothukudi cab fare, kerala to thoothukudi round trip taxi, kerala to thoothukudi car rental, kerala to thoothukudi cab booking">
 
     {{-- Open Graph Meta Tags --}}

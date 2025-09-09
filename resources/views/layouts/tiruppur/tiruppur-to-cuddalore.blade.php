@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tiruppur to Cuddalore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tiruppur to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Cuddalore taxi, Tiruppur to Cuddalore one way taxi, Tiruppur to Cuddalore outstation cabs, Tiruppur to Cuddalore taxi fare, Tiruppur to Cuddalore cab fare, Tiruppur to Cuddalore round trip taxi, Tiruppur to Cuddalore car rental, Tiruppur to Cuddalore cab booking">

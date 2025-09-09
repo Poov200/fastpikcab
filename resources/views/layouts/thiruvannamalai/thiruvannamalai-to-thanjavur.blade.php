@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Thanjavur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to thanjavur taxi, thiruvannamalai to thanjavur one way taxi, thiruvannamalai to thanjavur outstation cabs, thiruvannamalai to thanjavur taxi fare, thiruvannamalai to thanjavur cab fare, thiruvannamalai to thanjavur round trip taxi, thiruvannamalai to thanjavur car rental, thiruvannamalai to thanjavur cab booking">
 
     {{-- Open Graph Meta Tags --}}

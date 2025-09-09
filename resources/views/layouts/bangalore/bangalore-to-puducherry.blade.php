@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Puducherry Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Bangalore to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Bangalore to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Bangalore to Puducherry taxi, Bangalore to Puducherry one way taxi, Bangalore to Puducherry outstation cabs, Bangalore to Puducherry taxi fare, Bangalore to Puducherry cab fare, Bangalore to Puducherry round trip taxi, Bangalore to Puducherry car rental, Bangalore to Puducherry cab booking">

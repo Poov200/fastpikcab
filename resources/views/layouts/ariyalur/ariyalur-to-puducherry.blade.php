@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Puducherry Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Puducherry Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Puducherry taxi, Ariyalur to Puducherry one way taxi, Ariyalur to Puducherry outstation cabs, Ariyalur to Puducherry taxi fare, Ariyalur to Puducherry cab fare, Ariyalur to Puducherry round trip taxi, Ariyalur to Puducherry car rental, Ariyalur to Puducherry cab booking">

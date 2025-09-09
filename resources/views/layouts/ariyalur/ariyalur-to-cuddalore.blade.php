@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Cuddalore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Cuddalore taxi, Ariyalur to Cuddalore one way taxi, Ariyalur to Cuddalore outstation cabs, Ariyalur to Cuddalore taxi fare, Ariyalur to Cuddalore cab fare, Ariyalur to Cuddalore round trip taxi, Ariyalur to Cuddalore car rental, Ariyalur to Cuddalore cab booking">

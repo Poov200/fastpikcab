@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Pudukkottai to Sivakasi Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Pudukkottai to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Sivakasi taxi, Pudukkottai to Sivakasi one way taxi, Pudukkottai to Sivakasi outstation cabs, Pudukkottai to Sivakasi taxi fare, Pudukkottai to Sivakasi cab fare, Pudukkottai to Sivakasi round trip taxi, Pudukkottai to Sivakasi car rental, Pudukkottai to Sivakasi cab booking">

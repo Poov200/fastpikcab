@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Perambalur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to perambalur taxi, kerala to perambalur one way taxi, kerala to perambalur outstation cabs, kerala to perambalur taxi fare, kerala to perambalur cab fare, kerala to perambalur round trip taxi, kerala to perambalur car rental, kerala to perambalur cab booking">
 
     {{-- Open Graph Meta Tags --}}

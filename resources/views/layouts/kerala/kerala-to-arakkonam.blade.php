@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Arakkonam Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to arakkonam taxi, kerala to arakkonam one way taxi, kerala to arakkonam outstation cabs, kerala to arakkonam taxi fare, kerala to arakkonam cab fare, kerala to arakkonam round trip taxi, kerala to arakkonam car rental, kerala to arakkonam cab booking">
 
     {{-- Open Graph Meta Tags --}}

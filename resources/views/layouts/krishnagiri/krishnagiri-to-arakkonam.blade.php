@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Krishnagiri to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpikcab - Krishnagiri to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Krishnagiri to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Krishnagiri to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Krishnagiri to Arakkonam taxi, Krishnagiri to Arakkonam one way taxi, Krishnagiri to Arakkonam outstation cabs, Krishnagiri to Arakkonam taxi fare, Krishnagiri to Arakkonam cab fare, Krishnagiri to Arakkonam round trip taxi, Krishnagiri to Arakkonam car rental, Krishnagiri to Arakkonam cab booking">

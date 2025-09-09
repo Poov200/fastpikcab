@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Karur to Kanchipuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Kanchipuram taxi, Karur to Kanchipuram one way taxi, Karur to Kanchipuram outstation cabs, Karur to Kanchipuram taxi fare, Karur to Kanchipuram cab fare, Karur to Kanchipuram round trip taxi, Karur to Kanchipuram car rental, Karur to Kanchipuram cab booking">

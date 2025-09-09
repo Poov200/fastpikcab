@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Chengalpattu Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to chengalpattu taxi, thiruvannamalai to chengalpattu one way taxi, thiruvannamalai to chengalpattu outstation cabs, thiruvannamalai to chengalpattu taxi fare, thiruvannamalai to chengalpattu cab fare, thiruvannamalai to chengalpattu round trip taxi, thiruvannamalai to chengalpattu car rental, thiruvannamalai to chengalpattu cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Chengalpattu Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Chengalpattu. Book online for one-way, round-trip, or outstation travel.">

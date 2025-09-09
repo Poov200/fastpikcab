@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Chengalpattu to Salem Taxi Service | Book Online</title>
+    <title>Fastpikcab - Chengalpattu to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Chengalpattu to Salem taxi, Chengalpattu to Salem one way taxi, Chengalpattu to Salem outstation cabs, Chengalpattu to Salem taxi fare, Chengalpattu to Salem cab fare, Chengalpattu to Salem round trip taxi, Chengalpattu to Salem car rental, Chengalpattu to Salem cab booking">

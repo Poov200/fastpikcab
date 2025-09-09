@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tiruppur to Namakkal Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tiruppur to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Namakkal taxi, Tiruppur to Namakkal one way taxi, Tiruppur to Namakkal outstation cabs, Tiruppur to Namakkal taxi fare, Tiruppur to Namakkal cab fare, Tiruppur to Namakkal round trip taxi, Tiruppur to Namakkal car rental, Tiruppur to Namakkal cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ramanathapuram to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ramanathapuram to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ramanathapuram to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ramanathapuram to Arakkonam taxi, Ramanathapuram to Arakkonam one way taxi, Ramanathapuram to Arakkonam outstation cabs, Ramanathapuram to Arakkonam taxi fare, Ramanathapuram to Arakkonam cab fare, Ramanathapuram to Arakkonam round trip taxi, Ramanathapuram to Arakkonam car rental, Ramanathapuram to Arakkonam cab booking">

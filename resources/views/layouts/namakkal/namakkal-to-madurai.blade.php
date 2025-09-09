@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Namakkal to Madurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Namakkal to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Madurai taxi, Namakkal to Madurai one way taxi, Namakkal to Madurai outstation cabs, Namakkal to Madurai taxi fare, Namakkal to Madurai cab fare, Namakkal to Madurai round trip taxi, Namakkal to Madurai car rental, Namakkal to Madurai cab booking">

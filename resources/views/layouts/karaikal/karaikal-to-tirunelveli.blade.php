@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Karaikal to Tirunelveli Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Karaikal to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Tirunelveli taxi, Karaikal to Tirunelveli one way taxi, Karaikal to Tirunelveli outstation cabs, Karaikal to Tirunelveli taxi fare, Karaikal to Tirunelveli cab fare, Karaikal to Tirunelveli round trip taxi, Karaikal to Tirunelveli car rental, Karaikal to Tirunelveli cab booking">

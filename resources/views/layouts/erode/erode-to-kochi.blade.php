@@ -5,10 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fastpikcab - Erode to Kochi Taxi Service | Book Online</title>
+<title>Fastpikcab - Erode to Kochi Taxi Service </title>
 
 <meta name="description"
-    content="Book a reliable Erode to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    content="Book a reliable Erode to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
 <meta name="keywords"
     content="Erode to Kochi taxi, Erode to Kochi one way taxi, Erode to Kochi outstation cabs, Erode to Kochi taxi fare, Erode to Kochi cab fare, Erode to Kochi round trip taxi, Erode to Kochi car rental, Erode to Kochi cab booking">

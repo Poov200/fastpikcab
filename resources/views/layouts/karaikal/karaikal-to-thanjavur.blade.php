@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Karaikal to Thanjavur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Karaikal to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Thanjavur taxi, Karaikal to Thanjavur one way taxi, Karaikal to Thanjavur outstation cabs, Karaikal to Thanjavur taxi fare, Karaikal to Thanjavur cab fare, Karaikal to Thanjavur round trip taxi, Karaikal to Thanjavur car rental, Karaikal to Thanjavur cab booking">

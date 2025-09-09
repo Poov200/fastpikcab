@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tenkasi to Madurai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tenkasi to Madurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tenkasi to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tenkasi to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tenkasi to Madurai taxi, Tenkasi to Madurai one way taxi, Tenkasi to Madurai outstation cabs, Tenkasi to Madurai taxi fare, Tenkasi to Madurai cab fare, Tenkasi to Madurai round trip taxi, Tenkasi to Madurai car rental, Tenkasi to Madurai cab booking">

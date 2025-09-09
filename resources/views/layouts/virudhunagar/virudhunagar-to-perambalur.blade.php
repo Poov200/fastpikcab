@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Virudhunagar to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Perambalur taxi, Virudhunagar to Perambalur one way taxi, Virudhunagar to Perambalur outstation cabs, Virudhunagar to Perambalur taxi fare, Virudhunagar to Perambalur cab fare, Virudhunagar to Perambalur round trip taxi, Virudhunagar to Perambalur car rental, Virudhunagar to Perambalur cab booking">

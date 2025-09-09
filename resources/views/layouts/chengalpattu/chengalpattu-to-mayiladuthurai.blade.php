@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Chengalpattu to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Chengalpattu to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Chengalpattu to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Chengalpattu to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. ">
 
     <meta name="keywords"
         content="Chengalpattu to Mayiladuthurai taxi, Chengalpattu to Mayiladuthurai one way taxi, Chengalpattu to Mayiladuthurai cab, Chengalpattu to Mayiladuthurai taxi fare, Chengalpattu to Mayiladuthurai cab fare, Chengalpattu to Mayiladuthurai car rental, Chengalpattu to Mayiladuthurai cab booking">

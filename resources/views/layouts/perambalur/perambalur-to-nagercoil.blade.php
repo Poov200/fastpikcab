@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Perambalur to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpikcab - Perambalur to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Nagercoil taxi, Perambalur to Nagercoil one way taxi, Perambalur to Nagercoil outstation cabs, Perambalur to Nagercoil taxi fare, Perambalur to Nagercoil cab fare, Perambalur to Nagercoil round trip taxi, Perambalur to Nagercoil car rental, Perambalur to Nagercoil cab booking">

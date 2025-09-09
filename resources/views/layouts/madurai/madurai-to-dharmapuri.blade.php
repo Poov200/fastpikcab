@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Madurai to Dharmapuri Taxi Service | Book Online</title>
+    <title>Fastpikcab - Madurai to Dharmapuri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Dharmapuri taxi, Madurai to Dharmapuri one way taxi, Madurai to Dharmapuri outstation cabs, Madurai to Dharmapuri taxi fare, Madurai to Dharmapuri cab fare, Madurai to Dharmapuri round trip taxi, Madurai to Dharmapuri car rental, Madurai to Dharmapuri cab booking">

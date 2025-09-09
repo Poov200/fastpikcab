@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Karur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to karur taxi, kochi to karur one way taxi, kochi to karur outstation cabs, kochi to karur taxi fare, kochi to karur cab fare, kochi to karur round trip taxi, kochi to karur car rental, kochi to karur cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Chengalpattu taxi, Tirupati to Chengalpattu one way taxi, Tirupati to Chengalpattu outstation cabs, Tirupati to Chengalpattu taxi fare, Tirupati to Chengalpattu cab fare, Tirupati to Chengalpattu round trip taxi, Tirupati to Chengalpattu car rental, Tirupati to Chengalpattu cab booking">

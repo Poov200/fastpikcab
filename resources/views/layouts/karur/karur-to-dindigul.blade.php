@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Karur to Dindigul Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Dindigul Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Dindigul taxi, Karur to Dindigul one way taxi, Karur to Dindigul outstation cabs, Karur to Dindigul taxi fare, Karur to Dindigul cab fare, Karur to Dindigul round trip taxi, Karur to Dindigul car rental, Karur to Dindigul cab booking">

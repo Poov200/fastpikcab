@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Perambalur taxi, Erode to Perambalur one way taxi, Erode to Perambalur outstation cabs, Erode to Perambalur taxi fare, Erode to Perambalur cab fare, Erode to Perambalur round trip taxi, Erode to Perambalur car rental, Erode to Perambalur cab booking">

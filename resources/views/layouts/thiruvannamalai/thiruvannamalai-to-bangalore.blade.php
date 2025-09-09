@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Bangalore Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to bangalore taxi, thiruvannamalai to bangalore one way taxi, thiruvannamalai to bangalore outstation cabs, thiruvannamalai to bangalore taxi fare, thiruvannamalai to bangalore cab fare, thiruvannamalai to bangalore round trip taxi, thiruvannamalai to bangalore car rental, thiruvannamalai to bangalore cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Bangalore Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Bangalore. Book online for one-way, round-trip, or outstation travel.">

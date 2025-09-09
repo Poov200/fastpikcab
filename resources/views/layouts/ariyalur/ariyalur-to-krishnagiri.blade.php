@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Krishnagiri Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Krishnagiri Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Krishnagiri taxi, Ariyalur to Krishnagiri one way taxi, Ariyalur to Krishnagiri outstation cabs, Ariyalur to Krishnagiri taxi fare, Ariyalur to Krishnagiri cab fare, Ariyalur to Krishnagiri round trip taxi, Ariyalur to Krishnagiri car rental, Ariyalur to Krishnagiri cab booking">

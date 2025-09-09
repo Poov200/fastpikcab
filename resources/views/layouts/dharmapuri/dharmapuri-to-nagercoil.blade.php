@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dharmapuri to Nagercoil Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dharmapuri to Nagercoil Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Nagercoil taxi, Dharmapuri to Nagercoil one way taxi, Dharmapuri to Nagercoil outstation cabs, Dharmapuri to Nagercoil taxi fare, Dharmapuri to Nagercoil cab fare, Dharmapuri to Nagercoil round trip taxi, Dharmapuri to Nagercoil car rental, Dharmapuri to Nagercoil cab booking">

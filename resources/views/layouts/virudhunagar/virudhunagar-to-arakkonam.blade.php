@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Virudhunagar to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpikcab - Virudhunagar to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Virudhunagar to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Virudhunagar to Arakkonam taxi, Virudhunagar to Arakkonam one way taxi, Virudhunagar to Arakkonam outstation cabs, Virudhunagar to Arakkonam taxi fare, Virudhunagar to Arakkonam cab fare, Virudhunagar to Arakkonam round trip taxi, Virudhunagar to Arakkonam car rental, Virudhunagar to Arakkonam cab booking">

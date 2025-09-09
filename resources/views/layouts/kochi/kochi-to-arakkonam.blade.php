@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Arakkonam Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to arakkonam taxi, kochi to arakkonam one way taxi, kochi to arakkonam outstation cabs, kochi to arakkonam taxi fare, kochi to arakkonam cab fare, kochi to arakkonam round trip taxi, kochi to arakkonam car rental, kochi to arakkonam cab booking">
 
     {{-- Open Graph Meta Tags --}}

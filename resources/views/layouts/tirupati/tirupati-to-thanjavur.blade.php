@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Thanjavur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Thanjavur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Thanjavur taxi, Tirupati to Thanjavur one way taxi, Tirupati to Thanjavur outstation cabs, Tirupati to Thanjavur taxi fare, Tirupati to Thanjavur cab fare, Tirupati to Thanjavur round trip taxi, Tirupati to Thanjavur car rental, Tirupati to Thanjavur cab booking">

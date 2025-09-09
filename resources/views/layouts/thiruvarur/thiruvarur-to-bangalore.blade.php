@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Bangalore Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to bangalore taxi, thiruvarur to bangalore one way taxi, thiruvarur to bangalore outstation cabs, thiruvarur to bangalore taxi fare, thiruvarur to bangalore cab fare, thiruvarur to bangalore round trip taxi, thiruvarur to bangalore car rental, thiruvarur to bangalore cab booking">
 
     {{-- Open Graph Meta Tags --}}

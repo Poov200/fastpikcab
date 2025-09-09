@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dindigul to Thiruvarur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dindigul to Thiruvarur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dindigul to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dindigul to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dindigul to Thiruvarur taxi, Dindigul to Thiruvarur one way taxi, Dindigul to Thiruvarur outstation cabs, Dindigul to Thiruvarur taxi fare, Dindigul to Thiruvarur cab fare, Dindigul to Thiruvarur round trip taxi, Dindigul to Thiruvarur car rental, Dindigul to Thiruvarur cab booking">

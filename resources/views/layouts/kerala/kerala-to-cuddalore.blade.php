@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Cuddalore Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to cuddalore taxi, kerala to cuddalore one way taxi, kerala to cuddalore outstation cabs, kerala to cuddalore taxi fare, kerala to cuddalore cab fare, kerala to cuddalore round trip taxi, kerala to cuddalore car rental, kerala to cuddalore cab booking">
 
     {{-- Open Graph Meta Tags --}}

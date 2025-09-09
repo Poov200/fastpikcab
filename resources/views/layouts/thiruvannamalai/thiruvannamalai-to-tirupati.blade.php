@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Tirupati Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvannamalai to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to tirupati taxi, thiruvannamalai to tirupati one way taxi, thiruvannamalai to tirupati outstation cabs, thiruvannamalai to tirupati taxi fare, thiruvannamalai to tirupati cab fare, thiruvannamalai to tirupati round trip taxi, thiruvannamalai to tirupati car rental, thiruvannamalai to tirupati cab booking">
 
     {{-- Open Graph Meta Tags --}}

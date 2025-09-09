@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Karaikal to Tenkasi Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Karaikal to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karaikal to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karaikal to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karaikal to Tenkasi taxi, Karaikal to Tenkasi one way taxi, Karaikal to Tenkasi outstation cabs, Karaikal to Tenkasi taxi fare, Karaikal to Tenkasi cab fare, Karaikal to Tenkasi round trip taxi, Karaikal to Tenkasi car rental, Karaikal to Tenkasi cab booking">

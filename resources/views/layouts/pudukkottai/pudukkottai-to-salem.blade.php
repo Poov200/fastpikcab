@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Pudukkottai to Salem Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Pudukkottai to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Salem taxi, Pudukkottai to Salem one way taxi, Pudukkottai to Salem outstation cabs, Pudukkottai to Salem taxi fare, Pudukkottai to Salem cab fare, Pudukkottai to Salem round trip taxi, Pudukkottai to Salem car rental, Pudukkottai to Salem cab booking">

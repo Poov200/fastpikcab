@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Tiruvannamalai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Tiruvannamalai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Tiruvannamalai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Tiruvannamalai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Tiruvannamalai taxi, Ariyalur to Tiruvannamalai one way taxi, Ariyalur to Tiruvannamalai outstation cabs, Ariyalur to Tiruvannamalai taxi fare, Ariyalur to Tiruvannamalai cab fare, Ariyalur to Tiruvannamalai round trip taxi, Ariyalur to Tiruvannamalai car rental, Ariyalur to Tiruvannamalai cab booking">

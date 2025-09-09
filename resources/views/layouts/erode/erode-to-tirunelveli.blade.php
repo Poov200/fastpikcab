@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Tirunelveli Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Tirunelveli Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Tirunelveli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Tirunelveli taxi, Erode to Tirunelveli one way taxi, Erode to Tirunelveli outstation cabs, Erode to Tirunelveli taxi fare, Erode to Tirunelveli cab fare, Erode to Tirunelveli round trip taxi, Erode to Tirunelveli car rental, Erode to Tirunelveli cab booking">

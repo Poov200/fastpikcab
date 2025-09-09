@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Namakkal to Dindigul Taxi Service | Book Online</title>
+    <title>Fastpikcab - Namakkal to Dindigul Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Dindigul taxi, Namakkal to Dindigul one way taxi, Namakkal to Dindigul outstation cabs, Namakkal to Dindigul taxi fare, Namakkal to Dindigul cab fare, Namakkal to Dindigul round trip taxi, Namakkal to Dindigul car rental, Namakkal to Dindigul cab booking">

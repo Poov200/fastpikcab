@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kochi to Chennai Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kochi to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to chennai taxi, kochi to chennai one way taxi, kochi to chennai outstation cabs, kochi to chennai taxi fare, kochi to chennai cab fare, kochi to chennai round trip taxi, kochi to chennai car rental, kochi to chennai cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Salem to Ranipet Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Salem to Ranipet Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Salem to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Salem to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Salem to Ranipet taxi, Salem to Ranipet one way taxi, Salem to Ranipet outstation cabs, Salem to Ranipet taxi fare, Salem to Ranipet cab fare, Salem to Ranipet round trip taxi, Salem to Ranipet car rental, Salem to Ranipet cab booking">

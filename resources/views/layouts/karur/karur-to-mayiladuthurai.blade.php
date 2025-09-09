@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Karur to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Karur to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Karur to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Karur to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Karur to Mayiladuthurai taxi, Karur to Mayiladuthurai one way taxi, Karur to Mayiladuthurai outstation cabs, Karur to Mayiladuthurai taxi fare, Karur to Mayiladuthurai cab fare, Karur to Mayiladuthurai round trip taxi, Karur to Mayiladuthurai car rental, Karur to Mayiladuthurai cab booking">

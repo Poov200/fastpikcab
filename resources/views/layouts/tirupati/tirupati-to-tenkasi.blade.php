@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Tenkasi Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Tenkasi taxi, Tirupati to Tenkasi one way taxi, Tirupati to Tenkasi outstation cabs, Tirupati to Tenkasi taxi fare, Tirupati to Tenkasi cab fare, Tirupati to Tenkasi round trip taxi, Tirupati to Tenkasi car rental, Tirupati to Tenkasi cab booking">

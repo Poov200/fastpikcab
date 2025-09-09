@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Namakkal to Kanchipuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Namakkal to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Kanchipuram taxi, Namakkal to Kanchipuram one way taxi, Namakkal to Kanchipuram outstation cabs, Namakkal to Kanchipuram taxi fare, Namakkal to Kanchipuram cab fare, Namakkal to Kanchipuram round trip taxi, Namakkal to Kanchipuram car rental, Namakkal to Kanchipuram cab booking">

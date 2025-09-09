@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Mayiladuthurai to Coimbatore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Mayiladuthurai to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Coimbatore taxi, Mayiladuthurai to Coimbatore one way taxi, Mayiladuthurai to Coimbatore outstation cabs, Mayiladuthurai to Coimbatore taxi fare, Mayiladuthurai to Coimbatore cab fare, Mayiladuthurai to Coimbatore round trip taxi, Mayiladuthurai to Coimbatore car rental, Mayiladuthurai to Coimbatore cab booking">

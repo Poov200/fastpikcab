@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Perambalur to Chennai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Perambalur to Chennai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Perambalur to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Perambalur to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Perambalur to Chennai taxi, Perambalur to Chennai one way taxi, Perambalur to Chennai outstation cabs, Perambalur to Chennai taxi fare, Perambalur to Chennai cab fare, Perambalur to Chennai round trip taxi, Perambalur to Chennai car rental, Perambalur to Chennai cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Trichy to Kanchipuram Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Trichy to Kanchipuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Trichy to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Trichy to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Trichy to Kanchipuram taxi, Trichy to Kanchipuram one way taxi, Trichy to Kanchipuram outstation cabs, Trichy to Kanchipuram taxi fare, Trichy to Kanchipuram cab fare, Trichy to Kanchipuram round trip taxi, Trichy to Kanchipuram car rental, Trichy to Kanchipuram cab booking">

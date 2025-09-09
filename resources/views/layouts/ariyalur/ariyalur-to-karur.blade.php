@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Karur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Karur taxi, Ariyalur to Karur one way taxi, Ariyalur to Karur outstation cabs, Ariyalur to Karur taxi fare, Ariyalur to Karur cab fare, Ariyalur to Karur round trip taxi, Ariyalur to Karur car rental, Ariyalur to Karur cab booking">

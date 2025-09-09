@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Cuddalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Cuddalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Cuddalore taxi, Erode to Cuddalore one way taxi, Erode to Cuddalore outstation cabs, Erode to Cuddalore taxi fare, Erode to Cuddalore cab fare, Erode to Cuddalore round trip taxi, Erode to Cuddalore car rental, Erode to Cuddalore cab booking">

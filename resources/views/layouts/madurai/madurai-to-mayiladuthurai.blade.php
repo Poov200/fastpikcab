@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Madurai to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Madurai to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Mayiladuthurai taxi, Madurai to Mayiladuthurai one way taxi, Madurai to Mayiladuthurai outstation cabs, Madurai to Mayiladuthurai taxi fare, Madurai to Mayiladuthurai cab fare, Madurai to Mayiladuthurai round trip taxi, Madurai to Mayiladuthurai car rental, Madurai to Mayiladuthurai cab booking">

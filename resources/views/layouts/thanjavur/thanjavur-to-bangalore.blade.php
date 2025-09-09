@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thanjavur to Bangalore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thanjavur to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thanjavur to Bangalore taxi, Thanjavur to Bangalore one way taxi, Thanjavur to Bangalore outstation cabs, Thanjavur to Bangalore taxi fare, Thanjavur to Bangalore cab fare, Thanjavur to Bangalore round trip taxi, Thanjavur to Bangalore car rental, Thanjavur to Bangalore cab booking">

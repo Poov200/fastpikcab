@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Ariyalur to Perambalur Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Perambalur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Perambalur taxi service with Fastpikcab. Get affordable flat fares for one-way and round-trip travel between these two district headquarters.">
+        content="Book a reliable Ariyalur to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Perambalur taxi, Ariyalur to Perambalur cab, Ariyalur to Perambalur one way taxi, Ariyalur to Perambalur outstation cabs, Ariyalur to Perambalur taxi fare, Ariyalur to Perambalur cab fare, Ariyalur to Perambalur round trip taxi, Ariyalur to Perambalur car rental, Ariyalur to Perambalur cab booking">

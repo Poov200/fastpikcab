@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagercoil to Namakkal Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagercoil to Namakkal Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Namakkal taxi, Nagercoil to Namakkal one way taxi, Nagercoil to Namakkal outstation cabs, Nagercoil to Namakkal taxi fare, Nagercoil to Namakkal cab fare, Nagercoil to Namakkal round trip taxi, Nagercoil to Namakkal car rental, Nagercoil to Namakkal cab booking">

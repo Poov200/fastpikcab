@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Vellore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Ariyalur to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Ariyalur to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Ariyalur to Vellore taxi, Ariyalur to Vellore one way taxi, Ariyalur to Vellore outstation cabs, Ariyalur to Vellore taxi fare, Ariyalur to Vellore cab fare, Ariyalur to Vellore round trip taxi, Ariyalur to Vellore car rental, Ariyalur to Vellore cab booking">

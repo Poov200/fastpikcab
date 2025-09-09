@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Krishnagiri Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to krishnagiri taxi, thiruvarur to krishnagiri one way taxi, thiruvarur to krishnagiri outstation cabs, thiruvarur to krishnagiri taxi fare, thiruvarur to krishnagiri cab fare, thiruvarur to krishnagiri round trip taxi, thiruvarur to krishnagiri car rental, thiruvarur to krishnagiri cab booking">
 
     {{-- Open Graph Meta Tags --}}

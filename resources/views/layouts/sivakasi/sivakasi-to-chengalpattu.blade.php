@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi to Chengalpattu Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Sivakasi to Chengalpattu Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Sivakasi to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Sivakasi to Chengalpattu taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Sivakasi to Chengalpattu taxi, Sivakasi to Chengalpattu one way taxi, Sivakasi to Chengalpattu outstation cabs, Sivakasi to Chengalpattu taxi fare, Sivakasi to Chengalpattu cab fare, Sivakasi to Chengalpattu round trip taxi, Sivakasi to Chengalpattu car rental, Sivakasi to Chengalpattu cab booking">

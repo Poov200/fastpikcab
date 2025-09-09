@@ -7,7 +7,7 @@
     <title>Thiruvannamalai to Mayiladuthurai Taxi Service | Fastpik Cab</title>
 
     <meta name="description"
-        content="Book a reliable Thiruvannamalai to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thiruvannamalai to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="thiruvannamalai to mayiladuthurai taxi, thiruvannamalai to mayiladuthurai one way taxi, thiruvannamalai to mayiladuthurai outstation cabs, thiruvannamalai to mayiladuthurai taxi fare, thiruvannamalai to mayiladuthurai cab fare, thiruvannamalai to mayiladuthurai round trip taxi, thiruvannamalai to mayiladuthurai car rental, thiruvannamalai to mayiladuthurai cab booking">
 

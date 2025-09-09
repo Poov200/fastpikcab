@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Erode Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tirupati to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tirupati to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tirupati to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tirupati to Erode taxi, Tirupati to Erode one way taxi, Tirupati to Erode outstation cabs, Tirupati to Erode taxi fare, Tirupati to Erode cab fare, Tirupati to Erode round trip taxi, Tirupati to Erode car rental, Tirupati to Erode cab booking">

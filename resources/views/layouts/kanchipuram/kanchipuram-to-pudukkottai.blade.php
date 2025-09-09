@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Kanchipuram to Pudukkottai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Kanchipuram to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Pudukkottai taxi, Kanchipuram to Pudukkottai one way taxi, Kanchipuram to Pudukkottai outstation cabs, Kanchipuram to Pudukkottai taxi fare, Kanchipuram to Pudukkottai cab fare, Kanchipuram to Pudukkottai round trip taxi, Kanchipuram to Pudukkottai car rental, Kanchipuram to Pudukkottai cab booking">

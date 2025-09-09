@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Sivakasi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to sivakasi taxi, kerala to sivakasi one way taxi, kerala to sivakasi outstation cabs, kerala to sivakasi taxi fare, kerala to sivakasi cab fare, kerala to sivakasi round trip taxi, kerala to sivakasi car rental, kerala to sivakasi cab booking">
 
     {{-- Open Graph Meta Tags --}}

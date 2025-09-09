@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvannamalai to Dindigul Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvannamalai to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvannamalai to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvannamalai to dindigul taxi, thiruvannamalai to dindigul one way taxi, thiruvannamalai to dindigul outstation cabs, thiruvannamalai to dindigul taxi fare, thiruvannamalai to dindigul cab fare, thiruvannamalai to dindigul round trip taxi, thiruvannamalai to dindigul car rental, thiruvannamalai to dindigul cab booking">
     <meta property="og:title" content="Fastpik Cab - Thiruvannamalai to Dindigul Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvannamalai to Dindigul. Book online for one-way, round-trip, or outstation travel.">

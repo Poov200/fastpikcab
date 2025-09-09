@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Vellore to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Vellore to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Vellore to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Vellore to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Vellore to Arakkonam taxi, Vellore to Arakkonam one way taxi, Vellore to Arakkonam outstation cabs, Vellore to Arakkonam taxi fare, Vellore to Arakkonam cab fare, Vellore to Arakkonam round trip taxi, Vellore to Arakkonam car rental, Vellore to Arakkonam cab booking">

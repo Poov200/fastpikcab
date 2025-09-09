@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Arakkonam Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to arakkonam taxi, thiruvarur to arakkonam one way taxi, thiruvarur to arakkonam outstation cabs, thiruvarur to arakkonam taxi fare, thiruvarur to arakkonam cab fare, thiruvarur to arakkonam round trip taxi, thiruvarur to arakkonam car rental, thiruvarur to arakkonam cab booking">
 
     {{-- Open Graph Meta Tags --}}

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Arani to Tenkasi Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Arani to Tenkasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Arani to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Arani to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Arani to Tenkasi taxi, Arani to Tenkasi one way taxi, Arani to Tenkasi outstation cabs, Arani to Tenkasi taxi fare, Arani to Tenkasi cab fare, Arani to Tenkasi round trip taxi, Arani to Tenkasi car rental, Arani to Tenkasi cab booking">

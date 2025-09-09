@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thoothukudi to Sivakasi Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Thoothukudi to Sivakasi Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Thoothukudi to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thoothukudi to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Thoothukudi to Sivakasi taxi, Thoothukudi to Sivakasi one way taxi, Thoothukudi to Sivakasi outstation cabs, Thoothukudi to Sivakasi taxi fare, Thoothukudi to Sivakasi cab fare, Thoothukudi to Sivakasi round trip taxi, Thoothukudi to Sivakasi car rental, Thoothukudi to Sivakasi cab booking">

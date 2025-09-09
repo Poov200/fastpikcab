@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tiruppur to Trichy Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Tiruppur to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Tiruppur to Trichy (Tiruchirappalli) taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Tiruppur to Trichy (Tiruchirappalli) taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Tiruppur to Trichy taxi, Tiruppur to Tiruchirappalli one way taxi, Tiruppur to Trichy outstation cabs, Tiruppur to Trichy taxi fare, Tiruppur to Trichy cab fare, Tiruppur to Trichy round trip taxi, Tiruppur to Trichy car rental, Tiruppur to Trichy cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Karur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Karur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Karur taxi, Erode to Karur one way taxi, Erode to Karur outstation cabs, Erode to Karur taxi fare, Erode to Karur cab fare, Erode to Karur round trip taxi, Erode to Karur car rental, Erode to Karur cab booking">

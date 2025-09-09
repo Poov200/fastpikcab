@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Madurai to Coimbatore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Madurai to Coimbatore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Coimbatore taxi, Madurai to Coimbatore one way taxi, Madurai to Coimbatore outstation cabs, Madurai to Coimbatore taxi fare, Madurai to Coimbatore cab fare, Madurai to Coimbatore round trip taxi, Madurai to Coimbatore car rental, Madurai to Coimbatore cab booking">

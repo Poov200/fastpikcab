@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thiruvarur to Sivakasi Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Thiruvarur to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to sivakasi taxi, thiruvarur to sivakasi one way taxi, thiruvarur to sivakasi outstation cabs, thiruvarur to sivakasi taxi fare, thiruvarur to sivakasi cab fare, thiruvarur to sivakasi round trip taxi, thiruvarur to sivakasi car rental, thiruvarur to sivakasi cab booking">
 
     {{-- Open Graph Meta Tags --}}

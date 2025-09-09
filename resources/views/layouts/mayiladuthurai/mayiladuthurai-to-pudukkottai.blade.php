@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Mayiladuthurai to Pudukkottai Taxi Service | Book Online</title>
+    <title>Fastpikcab - Mayiladuthurai to Pudukkottai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Mayiladuthurai to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Mayiladuthurai to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Mayiladuthurai to Pudukkottai taxi, Mayiladuthurai to Pudukkottai one way taxi, Mayiladuthurai to Pudukkottai outstation cabs, Mayiladuthurai to Pudukkottai taxi fare, Mayiladuthurai to Pudukkottai cab fare, Mayiladuthurai to Pudukkottai round trip taxi, Mayiladuthurai to Pudukkottai car rental, Mayiladuthurai to Pudukkottai cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Madurai to Villupuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Madurai to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Madurai to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Madurai to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Madurai to Villupuram taxi, Madurai to Villupuram one way taxi, Madurai to Villupuram outstation cabs, Madurai to Villupuram taxi fare, Madurai to Villupuram cab fare, Madurai to Villupuram round trip taxi, Madurai to Villupuram car rental, Madurai to Villupuram cab booking">

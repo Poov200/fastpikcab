@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Pudukkottai to Bangalore Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Pudukkottai to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Pudukkottai to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Pudukkottai to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Pudukkottai to Bangalore taxi, Pudukkottai to Bangalore one way taxi, Pudukkottai to Bangalore outstation cabs, Pudukkottai to Bangalore taxi fare, Pudukkottai to Bangalore cab fare, Pudukkottai to Bangalore round trip taxi, Pudukkottai to Bangalore car rental, Pudukkottai to Bangalore cab booking">

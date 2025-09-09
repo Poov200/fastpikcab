@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Erode Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to erode taxi, kerala to erode one way taxi, kerala to erode outstation cabs, kerala to erode taxi fare, kerala to erode cab fare, kerala to erode round trip taxi, kerala to erode car rental, kerala to erode cab booking">
 
     {{-- Open Graph Meta Tags --}}

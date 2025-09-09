@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dharmapuri to Arani Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dharmapuri to Arani Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Arani taxi, Dharmapuri to Arani one way taxi, Dharmapuri to Arani outstation cabs, Dharmapuri to Arani taxi fare, Dharmapuri to Arani cab fare, Dharmapuri to Arani round trip taxi, Dharmapuri to Arani car rental, Dharmapuri to Arani cab booking">

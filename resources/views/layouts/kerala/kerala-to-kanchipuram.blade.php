@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Kanchipuram Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to kanchipuram taxi, kerala to kanchipuram one way taxi, kerala to kanchipuram outstation cabs, kerala to kanchipuram taxi fare, kerala to kanchipuram cab fare, kerala to kanchipuram round trip taxi, kerala to kanchipuram car rental, kerala to kanchipuram cab booking">
 
     {{-- Open Graph Meta Tags --}}

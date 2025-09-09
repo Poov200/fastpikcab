@@ -7,7 +7,7 @@
     <title>Thanjavur to Tirupati Taxi Service | Fastpik Cab</title>
 
     <meta name="description"
-        content="Book a reliable Thanjavur to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Thanjavur to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
         content="thanjavur to tirupati taxi, thanjavur to tirupati one way taxi, thanjavur to tirupati outstation cabs, thanjavur to tirupati taxi fare, thanjavur to tirupati cab fare, thanjavur to tirupati round trip taxi, thanjavur to tirupati car rental, thanjavur to tirupati cab booking">
 

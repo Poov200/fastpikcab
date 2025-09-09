@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Namakkal to Hosur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Namakkal to Hosur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Hosur taxi, Namakkal to Hosur one way taxi, Namakkal to Hosur outstation cabs, Namakkal to Hosur taxi fare, Namakkal to Hosur cab fare, Namakkal to Hosur round trip taxi, Namakkal to Hosur car rental, Namakkal to Hosur cab booking">

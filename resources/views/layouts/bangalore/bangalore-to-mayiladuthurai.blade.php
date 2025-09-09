@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Mayiladuthurai Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Bangalore to Mayiladuthurai Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Bangalore to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Bangalore to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Bangalore to Mayiladuthurai taxi, Bangalore to Mayiladuthurai one way taxi, Bangalore to Mayiladuthurai outstation cabs, Bangalore to Mayiladuthurai taxi fare, Bangalore to Mayiladuthurai cab fare, Bangalore to Mayiladuthurai round trip taxi, Bangalore to Mayiladuthurai car rental, Bangalore to Mayiladuthurai cab booking">

@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagercoil to Salem Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagercoil to Salem Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Salem taxi, Nagercoil to Salem one way taxi, Nagercoil to Salem outstation cabs, Nagercoil to Salem taxi fare, Nagercoil to Salem cab fare, Nagercoil to Salem round trip taxi, Nagercoil to Salem car rental, Nagercoil to Salem cab booking">

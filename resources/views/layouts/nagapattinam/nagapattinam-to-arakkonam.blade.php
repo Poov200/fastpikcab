@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Arakkonam Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Arakkonam Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagapattinam to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagapattinam to Arakkonam taxi, Nagapattinam to Arakkonam one way taxi, Nagapattinam to Arakkonam outstation cabs, Nagapattinam to Arakkonam taxi fare, Nagapattinam to Arakkonam cab fare, Nagapattinam to Arakkonam round trip taxi, Nagapattinam to Arakkonam car rental, Nagapattinam to Arakkonam cab booking">

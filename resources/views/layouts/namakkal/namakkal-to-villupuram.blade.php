@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Namakkal to Villupuram Taxi Service | Book Online</title>
+    <title>Fastpikcab - Namakkal to Villupuram Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Namakkal to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Namakkal to Villupuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Namakkal to Villupuram taxi, Namakkal to Villupuram one way taxi, Namakkal to Villupuram outstation cabs, Namakkal to Villupuram taxi fare, Namakkal to Villupuram cab fare, Namakkal to Villupuram round trip taxi, Namakkal to Villupuram car rental, Namakkal to Villupuram cab booking">

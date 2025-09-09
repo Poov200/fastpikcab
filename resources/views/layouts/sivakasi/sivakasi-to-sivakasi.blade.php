@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi City Taxi Service | Book Online</title>
+    <title>Fastpik Cab - Sivakasi City Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable taxi service within Sivakasi with Fastpik Cab. Get affordable fares for local travel, airport transfers, and one-way trips. We offer comfortable cabs for your journey.">
+        content="Book a reliable taxi service within Sivakasi with Fastpik Cab. Get affordable fares for local travel, airport transfers, and one-way trips. ">
 
     <meta name="keywords"
         content="Sivakasi taxi, Sivakasi city taxi, Sivakasi local taxi, Sivakasi cab, Sivakasi taxi fare, Sivakasi cab fare, Sivakasi car rental, Sivakasi cab booking">

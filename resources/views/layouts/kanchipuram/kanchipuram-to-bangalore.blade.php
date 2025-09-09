@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Kanchipuram to Bangalore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Kanchipuram to Bangalore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Bangalore taxi, Kanchipuram to Bangalore one way taxi, Kanchipuram to Bangalore outstation cabs, Kanchipuram to Bangalore taxi fare, Kanchipuram to Bangalore cab fare, Kanchipuram to Bangalore round trip taxi, Kanchipuram to Bangalore car rental, Kanchipuram to Bangalore cab booking">

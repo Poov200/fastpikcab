@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagercoil to Trichy Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagercoil to Trichy Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagercoil to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Nagercoil to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Nagercoil to Trichy taxi, Nagercoil to Trichy one way taxi, Nagercoil to Trichy outstation cabs, Nagercoil to Trichy taxi fare, Nagercoil to Trichy cab fare, Nagercoil to Trichy round trip taxi, Nagercoil to Trichy car rental, Nagercoil to Trichy cab booking">

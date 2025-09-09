@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Kanchipuram to Erode Taxi Service | Book Online</title>
+    <title>Fastpikcab - Kanchipuram to Erode Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Kanchipuram to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Kanchipuram to Erode taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Kanchipuram to Erode taxi, Kanchipuram to Erode one way taxi, Kanchipuram to Erode outstation cabs, Kanchipuram to Erode taxi fare, Kanchipuram to Erode cab fare, Kanchipuram to Erode round trip taxi, Kanchipuram to Erode car rental, Kanchipuram to Erode cab booking">

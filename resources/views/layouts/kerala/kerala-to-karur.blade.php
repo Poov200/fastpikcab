@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Karur Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to karur taxi, kerala to karur one way taxi, kerala to karur outstation cabs, kerala to karur taxi fare, kerala to karur cab fare, kerala to karur round trip taxi, kerala to karur car rental, kerala to karur cab booking">
 
     {{-- Open Graph Meta Tags --}}

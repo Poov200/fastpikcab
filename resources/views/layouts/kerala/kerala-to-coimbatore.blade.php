@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala to Coimbatore Taxi Service | Fastpik Cab</title>
 
-    <meta name="description" content="Book a reliable Kerala to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+    <meta name="description" content="Book a reliable Kerala to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kerala to coimbatore taxi, kerala to coimbatore one way taxi, kerala to coimbatore outstation cabs, kerala to coimbatore taxi fare, kerala to coimbatore cab fare, kerala to coimbatore round trip taxi, kerala to coimbatore car rental, kerala to coimbatore cab booking">
 
     {{-- Open Graph Meta Tags --}}

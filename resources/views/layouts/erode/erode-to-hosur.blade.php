@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Erode to Hosur Taxi Service | Book Online</title>
+    <title>Fastpikcab - Erode to Hosur Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Erode to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Erode to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Erode to Hosur taxi, Erode to Hosur one way taxi, Erode to Hosur outstation cabs, Erode to Hosur taxi fare, Erode to Hosur cab fare, Erode to Hosur round trip taxi, Erode to Hosur car rental, Erode to Hosur cab booking">

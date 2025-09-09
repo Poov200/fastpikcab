@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Dharmapuri to Vellore Taxi Service | Book Online</title>
+    <title>Fastpikcab - Dharmapuri to Vellore Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Dharmapuri to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
+        content="Book a reliable Dharmapuri to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Dharmapuri to Vellore taxi, Dharmapuri to Vellore one way taxi, Dharmapuri to Vellore outstation cabs, Dharmapuri to Vellore taxi fare, Dharmapuri to Vellore cab fare, Dharmapuri to Vellore round trip taxi, Dharmapuri to Vellore car rental, Dharmapuri to Vellore cab booking">
