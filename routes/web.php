@@ -6506,6 +6506,10 @@ Route::get('/bangalore-to-kerala-drop-taxi', function () {
 
 
 
+Route::get('/karaikal-to-bangalore-drop-taxi', function () {
+    return view('layouts.karaikal.karaikal-to-bangalore');
+})->name('karaikal-to-bangalore');
+
 Route::get('/karaikal-to-ariyalur-drop-taxi', function () {
     return view('layouts.karaikal.karaikal-to-ariyalur');
 })->name('karaikal-to-ariyalur');
@@ -6680,6 +6684,10 @@ Route::get('/kerala-to-ariyalur-drop-taxi', function () {
     return view('layouts.kerala.kerala-to-ariyalur');
 })->name('kerala-to-ariyalur');
 
+Route::get('/kerala-to-bangalore-drop-taxi', function () {
+    return view('layouts.kerala.kerala-to-bangalore');
+})->name('kerala-to-bangalore');
+
 Route::get('/kerala-to-arani-drop-taxi', function () {
     return view('layouts.kerala.kerala-to-arani');
 })->name('kerala-to-arani');
@@ -6849,6 +6857,10 @@ Route::get('/kerala-to-kerala-drop-taxi', function () {
 Route::get('/kochi-to-ariyalur-drop-taxi', function () {
     return view('layouts.kochi.kochi-to-ariyalur');
 })->name('kochi-to-ariyalur');
+
+Route::get('/kochi-to-bangalore-drop-taxi', function () {
+    return view('layouts.kochi.kochi-to-bangalore');
+})->name('kochi-to-bangalore');
 
 Route::get('/kochi-to-arani-drop-taxi', function () {
     return view('layouts.kochi.kochi-to-arani');
@@ -7020,6 +7032,10 @@ Route::get('/thiruvannamalai-to-ariyalur-drop-taxi', function () {
     return view('layouts.thiruvannamalai.thiruvannamalai-to-ariyalur');
 })->name('thiruvannamalai-to-ariyalur');
 
+Route::get('/thiruvannamalai-to-bangalore-drop-taxi', function () {
+    return view('layouts.thiruvannamalai.thiruvannamalai-to-bangalore');
+})->name('thiruvannamalai-to-bangalore');
+
 Route::get('/thiruvannamalai-to-arani-drop-taxi', function () {
     return view('layouts.thiruvannamalai.thiruvannamalai-to-arani');
 })->name('thiruvannamalai-to-arani');
@@ -7190,6 +7206,10 @@ Route::get('/tirupati-to-ariyalur-drop-taxi', function () {
     return view('layouts.tirupati.tirupati-to-ariyalur');
 })->name('tirupati-to-ariyalur');
 
+Route::get('/tirupati-to-bangalore-drop-taxi', function () {
+    return view('layouts.tirupati.tirupati-to-bangalore');
+})->name('tirupati-to-bangalore');
+
 Route::get('/tirupati-to-arani-drop-taxi', function () {
     return view('layouts.tirupati.tirupati-to-arani');
 })->name('tirupati-to-arani');
@@ -7359,6 +7379,10 @@ Route::get('/ariyalur-to-ariyalur-drop-taxi', function () {
     return view('layouts.ariyalur.ariyalur-to-ariyalur');
 })->name('ariyalur-to-ariyalur');
 
+Route::get('/ariyalur-to-bangalore-drop-taxi', function () {
+    return view('layouts.ariyalur.ariyalur-to-bangalore');
+})->name('ariyalur-to-bangalore');
+
 Route::get('/ariyalur-to-arani-drop-taxi', function () {
     return view('layouts.ariyalur.ariyalur-to-arani');
 })->name('ariyalur-to-arani');
@@ -7512,7 +7536,7 @@ Route::get('/ariyalur-to-kochi-drop-taxi', function () {
 })->name('ariyalur-to-kochi');
 
 Route::get('/ariyalur-to-ariyalur-drop-taxi', function () {
-    return view('layouts.ariyalur.ariyalur-to-ariyalur');
+    return view('layouts.ariyalur.ariyalur-to-tirupati');
 })->name('ariyalur-to-ariyalur');
 
 Route::get('/ariyalur-to-thiruvannamalai-drop-taxi', function () {
