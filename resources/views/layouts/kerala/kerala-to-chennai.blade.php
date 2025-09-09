@@ -75,9 +75,18 @@
             "description": "Book affordable and reliable taxis from Kerala to Chennai. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
-                "itemListElement": [
-                    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.fastpikcab.com/"},
-                    {"@type": "ListItem", "position": 2, "name": "Kerala to Chennai", "item": "https://www.fastpikcab.com/kerala-to-chennai-drop-taxi"}
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kerala to Chennai",
+                        "item": "https://www.fastpikcab.com/kerala-to-chennai-drop-taxi"
+                    }
                 ]
             },
             "mainEntityOfPage": {
@@ -235,11 +244,13 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>
-  <script
+    <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
-        async defer></script></body>
+        async defer></script>
+</body>
 
 </html>

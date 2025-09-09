@@ -209,51 +209,52 @@
         </div>
     </section>
 
-   <section class="mb-12 px-4 md:px-12">
-    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Mayiladuthurai to Chengalpattu Fare Structure</h2>
-    <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
-        <table class="w-full table-auto">
-            <thead class="bg-blue-600 text-white">
-                <tr>
-                    <th class="px-6 py-4 text-left">Vehicle Type</th>
-                    <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
-                    <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
-                    <th class="px-6 py-4 text-center">Features</th>
-                </tr>
-            </thead>
-            <tbody class="divide-y divide-gray-200">
-                <tr class="hover:bg-gray-50">
-                    <td class="px-6 py-4 font-medium">Sedan</td>
-                    <td class="px-6 py-4 text-center">₹3,300</td>
-                    <td class="px-6 py-4 text-center">₹6,600</td>
-                    <td class="px-6 py-4">
-                        <ul class="list-disc list-inside text-sm text-gray-600">
-                            <li>Air-conditioned</li>
-                            <li>Up to 4 passengers</li>
-                            <li>Luggage capacity: 2 medium bags</li>
-                        </ul>
-                    </td>
-                </tr>
-                <tr class="hover:bg-gray-50">
-                    <td class="px-6 py-4 font-medium">SUV</td>
-                    <td class="px-6 py-4 text-center">₹4,200</td>
-                    <td class="px-6 py-4 text-center">₹8,400</td>
-                    <td class="px-6 py-4">
-                        <ul class="list-disc list-inside text-sm text-gray-600">
-                            <li>Spacious and comfortable</li>
-                            <li>Seating for up to 6 passengers</li>
-                            <li>Extra legroom for the journey</li>
-                        </ul>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-        <div class="p-4 bg-gray-50 text-center">
-            <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
+    <section class="mb-12 px-4 md:px-12">
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Mayiladuthurai to Chengalpattu Fare Structure</h2>
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+            <table class="w-full table-auto">
+                <thead class="bg-blue-600 text-white">
+                    <tr>
+                        <th class="px-6 py-4 text-left">Vehicle Type</th>
+                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                        <th class="px-6 py-4 text-center">Features</th>
+                    </tr>
+                </thead>
+                <tbody class="divide-y divide-gray-200">
+                    <tr class="hover:bg-gray-50">
+                        <td class="px-6 py-4 font-medium">Sedan</td>
+                        <td class="px-6 py-4 text-center">₹3,300</td>
+                        <td class="px-6 py-4 text-center">₹6,600</td>
+                        <td class="px-6 py-4">
+                            <ul class="list-disc list-inside text-sm text-gray-600">
+                                <li>Air-conditioned</li>
+                                <li>Up to 4 passengers</li>
+                                <li>Luggage capacity: 2 medium bags</li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr class="hover:bg-gray-50">
+                        <td class="px-6 py-4 font-medium">SUV</td>
+                        <td class="px-6 py-4 text-center">₹4,200</td>
+                        <td class="px-6 py-4 text-center">₹8,400</td>
+                        <td class="px-6 py-4">
+                            <ul class="list-disc list-inside text-sm text-gray-600">
+                                <li>Spacious and comfortable</li>
+                                <li>Seating for up to 6 passengers</li>
+                                <li>Extra legroom for the journey</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="p-4 bg-gray-50 text-center">
+                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>

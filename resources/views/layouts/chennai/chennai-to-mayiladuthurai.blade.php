@@ -28,91 +28,90 @@
     <link rel="canonical" href="https://www.fastpikcab.com/chennai-to-mayiladuthurai-drop-taxi">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Fastpikcab",
-      "url": "https://www.fastpikcab.com/",
-      "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
-      "image": "https://www.fastpikcab.com/img/heroimg.png",
-      "telephone": "+91-8825694157",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Throw Pathi Amman Kovil Street",
-        "addressLocality": "Kalanjukuppam",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "607104",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Chennai to Mayiladuthurai Taxi Service",
-          "description": "Reliable taxi service connecting Chennai to Mayiladuthurai with options for one-way, round-trip, and outstation travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Chennai", "Mayiladuthurai"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Fastpikcab"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2024-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpikcab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Chennai to Mayiladuthurai Taxi Service",
+                    "description": "Reliable taxi service connecting Chennai to Mayiladuthurai with options for one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Chennai", "Mayiladuthurai"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpikcab"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2024-12-31"
+            }
+        }
     </script>
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Chennai to Mayiladuthurai Taxi Service | Fastpikcab",
-      "description": "Book affordable and reliable taxis from Chennai to Mayiladuthurai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.fastpikcab.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Chennai to Mayiladuthurai",
-            "item": "https://www.fastpikcab.com/chennai-to-mayiladuthurai-drop-taxi"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Chennai to Mayiladuthurai Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "4418",
-          "highPrice": "6574",
-          "offerCount": "Multiple price points based on vehicle type"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Chennai to Mayiladuthurai Taxi Service | Fastpikcab",
+            "description": "Book affordable and reliable taxis from Chennai to Mayiladuthurai. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Chennai to Mayiladuthurai",
+                        "item": "https://www.fastpikcab.com/chennai-to-mayiladuthurai-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Chennai to Mayiladuthurai Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "4418",
+                    "highPrice": "6574",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
         }
-      }
-    }
     </script>
 
     <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
@@ -231,18 +230,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Hatchback</td>
-                        <td class="px-6 py-4 text-center">₹4,400</td>
-                        <td class="px-6 py-4 text-center">₹8,800</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Air-conditioned</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Luggage capacity: 2 bags</li>
-                            </ul>
-                        </td>
-                    </tr>
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">₹4,500 - ₹5,000</td>
@@ -267,7 +255,7 @@
                             </ul>
                         </td>
                     </tr>
-                    
+
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
@@ -276,6 +264,7 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>
