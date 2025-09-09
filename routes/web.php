@@ -7535,9 +7535,9 @@ Route::get('/ariyalur-to-kochi-drop-taxi', function () {
     return view('layouts.ariyalur.ariyalur-to-kochi');
 })->name('ariyalur-to-kochi');
 
-Route::get('/ariyalur-to-ariyalur-drop-taxi', function () {
+Route::get('/ariyalur-to-tirupati-drop-taxi', function () {
     return view('layouts.ariyalur.ariyalur-to-tirupati');
-})->name('ariyalur-to-ariyalur');
+})->name('ariyalur-to-tirupati');
 
 Route::get('/ariyalur-to-thiruvannamalai-drop-taxi', function () {
     return view('layouts.ariyalur.ariyalur-to-thiruvannamalai');
