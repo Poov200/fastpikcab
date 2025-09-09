@@ -169,127 +169,145 @@
 
 
 
-        var app = angular.module('bookingApp', []);
+var app = angular.module('bookingApp', []);
 
-        app.controller('BookingController', function($scope, $http) {
-            $scope.bookings = [];
-            $scope.activeDrivers = [];
-            $scope.currentDate = new Date();
-            $scope.activeTab = 'pending';
+app.controller('BookingController', function($scope, $http) {
+    $scope.bookings = [];
+    $scope.activeDrivers = [];
+    $scope.currentDate = new Date();
+    $scope.activeTab = 'pending';
+    $scope.booking = {}; // form model
+    $scope.isSubmitting = false; // disable button while submitting
+    $scope.showMissingFieldsMessage = false; // error message toggle
 
-            $scope.setActiveTab = function(tab) {
-                $scope.activeTab = tab;
-            };
-
-            // Get bookings and active drivers from API
-            $http.get('/bookings').then(function(response) {
-                $scope.bookings = response.data;
-            });
-
-            $http.get('/drivers/active').then(function(response) {
-                $scope.activeDrivers = response.data;
-            });
-
-            // Get driver display string
-            $scope.getDriverDetails = function(id) {
-                const driver = $scope.activeDrivers.find(d => d.id === id);
-                return driver ? `${driver.name} (${driver.phone || ''})` : null;
-            };
-
-            $scope.showDriverSelector = function(booking) {
-                booking.showDriverSelect = true;
-                booking.selectedDriverId = booking.driver_id || '';
-                booking.assignedAmount = booking.assigned_amount || '';
-            };
-
-            $scope.editDriverAssignment = function(booking) {
-                booking.editDriver = true;
-                booking.selectedDriverId = booking.driver_id;
-                booking.assignedAmount = booking.assigned_amount;
-            };
-
-         $scope.assignDriver = function(booking) {
-    // Validate selected driver
-    if (!booking.selectedDriverId) {
-        alert('Please select a driver.');
-        return;
-    }
-
-    // Validate assignedAmount only if defined
-    if (booking.assignedAmount !== undefined && booking.assignedAmount < 0) {
-        alert('Please enter a valid non-negative amount.');
-        return;
-    }
-
-    const data = {
-        driver_id: booking.selectedDriverId
+    $scope.setActiveTab = function(tab) {
+        $scope.activeTab = tab;
     };
 
-    // Send assignedAmount even if it's already set (update allowed)
-    if (booking.assignedAmount !== undefined && booking.assignedAmount !== null) {
-        data.amount = booking.assignedAmount;
-    }
-
-    $http.patch('/bookings/' + booking.id + '/assign-driver', data).then(function(response) {
-        const updated = response.data.booking;
-        booking.driver_id = updated.driver_id;
-        booking.status = updated.status;
-        booking.assigned_amount = updated.assigned_amount;
-        booking.assignedAmount = updated.assigned_amount; // update form field too
-        booking.showDriverSelect = false;
-        booking.editDriver = false;
-        alert(response.data.message || 'Driver updated successfully.');
-    }).catch(function(error) {
-        alert(error.data?.message || 'Failed to assign driver.');
-        console.error(error);
+    // Fetch bookings and active drivers
+    $http.get('/bookings').then(function(response) {
+        $scope.bookings = response.data;
     });
-};
 
+    $http.get('/drivers/active').then(function(response) {
+        $scope.activeDrivers = response.data;
+    });
 
-            $scope.updateTripStatus = function(booking) {
-                if (!booking.driver_id) {
-                    alert('Assign a driver before updating trip status.');
-                    return;
-                }
+    // Driver functions
+    $scope.getDriverDetails = function(id) {
+        const driver = $scope.activeDrivers.find(d => d.id === id);
+        return driver ? `${driver.name} (${driver.phone || ''})` : null;
+    };
 
-                const allowedStatuses = ['pending', 'cancelled', 'completed', 'delay'];
-                if (!allowedStatuses.includes(booking.trip_status)) {
-                    alert('Invalid trip status selected.');
-                    return;
-                }
+    $scope.showDriverSelector = function(booking) {
+        booking.showDriverSelect = true;
+        booking.selectedDriverId = booking.driver_id || '';
+        booking.assignedAmount = booking.assigned_amount || '';
+    };
 
-                $http.patch('/bookings/' + booking.id + '/trip-status', {
-                    trip_status: booking.trip_status
-                }).then(function(response) {
-                    alert(response.data.message || 'Trip status updated.');
-                }).catch(function(error) {
-                    alert(error.data?.message || 'Failed to update trip status.');
-                });
-            };
+    $scope.editDriverAssignment = function(booking) {
+        booking.editDriver = true;
+        booking.selectedDriverId = booking.driver_id;
+        booking.assignedAmount = booking.assigned_amount;
+    };
 
-            // Get filtered bookings by trip status (for tabs like completed/delay)
-            $scope.getBookingsByTripStatus = function(status) {
-                return $scope.bookings.filter(function(booking) {
-                    return booking.status === 'assigned' && booking.trip_status === status;
-                });
-            };
+    $scope.assignDriver = function(booking) {
+        if (!booking.selectedDriverId) {
+            alert('Please select a driver.');
+            return;
+        }
+        if (booking.assignedAmount !== undefined && booking.assignedAmount < 0) {
+            alert('Please enter a valid non-negative amount.');
+            return;
+        }
 
-            // View booking details popup
-            $scope.viewBookingDetails = function(booking) {
-                $scope.selectedBooking = booking;
-                $scope.showBookingDetails = true;
-            };
+        const data = { driver_id: booking.selectedDriverId };
+        if (booking.assignedAmount !== undefined && booking.assignedAmount !== null) {
+            data.amount = booking.assignedAmount;
+        }
 
-            $scope.closeBookingDetails = function() {
-                $scope.showBookingDetails = false;
-            };
-
-            // Print invoice (placeholder)
-            $scope.printInvoice = function(booking) {
-                console.log('Printing invoice for booking: ' + booking.booking_id || booking.id);
-                alert('Invoice printing functionality would be implemented here.');
-            };
+        $http.patch('/bookings/' + booking.id + '/assign-driver', data).then(function(response) {
+            const updated = response.data.booking;
+            booking.driver_id = updated.driver_id;
+            booking.status = updated.status;
+            booking.assigned_amount = updated.assigned_amount;
+            booking.assignedAmount = updated.assigned_amount;
+            booking.showDriverSelect = false;
+            booking.editDriver = false;
+            alert(response.data.message || 'Driver updated successfully.');
+        }).catch(function(error) {
+            alert(error.data?.message || 'Failed to assign driver.');
+            console.error(error);
         });
+    };
+
+    $scope.updateTripStatus = function(booking) {
+        if (!booking.driver_id) {
+            alert('Assign a driver before updating trip status.');
+            return;
+        }
+        const allowedStatuses = ['pending', 'cancelled', 'completed', 'delay'];
+        if (!allowedStatuses.includes(booking.trip_status)) {
+            alert('Invalid trip status selected.');
+            return;
+        }
+
+        $http.patch('/bookings/' + booking.id + '/trip-status', {
+            trip_status: booking.trip_status
+        }).then(function(response) {
+            alert(response.data.message || 'Trip status updated.');
+        }).catch(function(error) {
+            alert(error.data?.message || 'Failed to update trip status.');
+        });
+    };
+
+    // Filter bookings by status
+    $scope.getBookingsByTripStatus = function(status) {
+        return $scope.bookings.filter(function(booking) {
+            return booking.status === 'assigned' && booking.trip_status === status;
+        });
+    };
+
+    // Booking details
+    $scope.viewBookingDetails = function(booking) {
+        $scope.selectedBooking = booking;
+        $scope.showBookingDetails = true;
+    };
+
+    $scope.closeBookingDetails = function() {
+        $scope.showBookingDetails = false;
+    };
+
+    // Print invoice
+    $scope.printInvoice = function(booking) {
+        console.log('Printing invoice for booking: ' + booking.booking_id || booking.id);
+        alert('Invoice printing functionality would be implemented here.');
+    };
+
+    // -----------------------------
+    // NEW: Booking form submission
+    // -----------------------------
+    $scope.submitBooking = function(isValid) {
+        if (!isValid) {
+            $scope.showMissingFieldsMessage = true; // show error
+            return;
+        }
+
+        $scope.showMissingFieldsMessage = false;
+        $scope.isSubmitting = true;
+
+        $http.post('/bookings', $scope.booking).then(function(response) {
+            $scope.isSubmitting = false;
+            alert('Booking successful!');
+            $scope.booking = {}; // reset form
+            $scope.bookingForm.$setPristine();
+            $scope.bookingForm.$setUntouched();
+        }).catch(function(error) {
+            $scope.isSubmitting = false;
+            alert('Booking failed. Please try again.');
+        });
+    };
+});
 
 
          var app = angular.module('CommissionApp', [])
