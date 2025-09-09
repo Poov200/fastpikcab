@@ -172,6 +172,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Book Chennai to Namakkal Taxi with Fastpikcab
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning a comfortable journey from <strong>Chennai to Namakkal</strong>? Fastpikcab makes your travel
+                hassle-free with reliable, clean, and well-maintained cabs. Whether you are booking a one-way trip,
+                a round journey, or an urgent taxi from <strong>Chennai Airport to Namakkal</strong>, we are available
+                24/7 to serve you.
+            </p>
+
+            <p class="mb-4">
+                The distance between Chennai and Namakkal is around <strong>365 km</strong>, which usually takes
+                about <strong>6–7 hours</strong> by road. Our experienced drivers ensure a safe and smooth ride
+                through <strong>NH38</strong>, passing important cities like <strong>Villupuram, Tiruchirappalli,
+                    and Salem</strong>. You can also request short stopovers for meals, refreshments, or sightseeing
+                during your trip.
+            </p>
+
+            <p class="mb-4">
+                Fastpikcab offers a wide range of vehicle options including <strong>Sedans, SUVs, and Premium
+                    cars</strong>,
+                depending on your group size and budget. All our vehicles are equipped with air-conditioning, spacious
+                seating,
+                and GPS tracking for a stress-free experience. With <strong>transparent pricing</strong> and no hidden
+                charges,
+                you only pay for what you see.
+            </p>
+
+            <p class="mb-4">
+                We also provide <strong>Chennai Airport taxi pickups</strong> for passengers arriving late at night or
+                early morning. Just share your flight details, and our driver will be there on time to receive you and
+                take
+                you directly to Namakkal. For families, students, business travelers, or group tours, our
+                <strong>round-trip taxi packages</strong> are highly cost-effective.
+            </p>
+
+            <p class="mb-4">
+                Booking with Fastpikcab is simple and quick. You can book online through our website or call us
+                at <strong>+91 88256 94157</strong>. Our customer support team is available 24/7 to assist with
+                bookings, fare inquiries, and travel guidance.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Chennai to Namakkal taxi service</strong> and enjoy a comfortable,
+                reliable, and affordable travel experience. We aim to make every trip safe, punctual, and
+                memorable for our customers.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Namakkal Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
