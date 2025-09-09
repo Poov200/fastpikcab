@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chengalpattu to Chennai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Chengalpattu to Chennai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Chengalpattu to Chennai</strong>? Fastpikcab provides safe, clean,
+            and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
+            Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chengalpattu and Chennai is approximately <strong>56 km</strong>,
+            which usually takes about <strong>1.5–2 hours</strong> by road. The most common travel route
+            is via <strong>NH32</strong>, offering a smooth and hassle-free journey.
+            Short stopovers for meals or tea breaks can also be arranged if needed.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey comfortable and stress-free.
+            We follow <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> for passengers heading towards Chennai.
+            Families, business professionals, students, and group travelers can benefit from our
+            <strong>short and long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Chennai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Arani, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chengalpattu to Chennai taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chengalpattu to Chennai cab service</strong> and enjoy
+            a safe, reliable, and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

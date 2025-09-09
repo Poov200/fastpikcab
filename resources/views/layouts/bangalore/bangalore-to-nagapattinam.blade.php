@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Bangalore to Nagapattinam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Bangalore to Nagapattinam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Bangalore to Nagapattinam</strong>? Fastpikcab provides safe, comfortable,
+            and affordable taxi services for one-way trips, round journeys, and business or leisure travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure a smooth and stress-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Bangalore and Nagapattinam is approximately <strong>400 km</strong>,
+            which usually takes around <strong>8–9 hours</strong> by road. The most common travel route is via 
+            <strong>NH44 and NH36</strong>, passing through <strong>Hosur, Krishnagiri, Salem, and Tiruchirappalli (Trichy)</strong>.
+            Stopovers for meals or refreshments can be arranged along the way for a comfortable journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a safe and comfortable ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Bangalore Railway Station taxi pickups</strong> for passengers heading towards Nagapattinam.
+            Families, business travelers, and tourists can take advantage of our <strong>round-trip taxi packages</strong> 
+            for a cost-effective and convenient travel experience.
+        </p>
+
+        <p class="mb-4">
+            Apart from Nagapattinam, Fastpikcab operates across major cities and districts including:
+            Arakkonam, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, 
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagercoil, Namakkal, Perambalur,
+            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Bangalore to Nagapattinam taxi</strong> with Fastpikcab is quick and hassle-free.
+            You can book online via our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team is ready to assist with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Bangalore to Nagapattinam cab service</strong> and enjoy
+            a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Bangalore to Nagapattinam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

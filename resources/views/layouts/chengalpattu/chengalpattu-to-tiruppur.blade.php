@@ -168,6 +168,68 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chengalpattu to Tiruppur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Chengalpattu to Tiruppur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Chengalpattu to Tiruppur</strong>? 
+            Fastpikcab provides reliable, affordable, and safe cab services for 
+            <strong>one-way trips, round journeys, and outstation travel</strong>. 
+            Our professional drivers ensure that your long journey is comfortable and stress-free.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chengalpattu and Tiruppur is approximately 
+            <strong>450 km</strong>, which usually takes around 
+            <strong>8–9 hours</strong> by road. The popular route is via 
+            <strong>NH79 and NH544</strong>, passing through Villupuram, Salem, 
+            and Erode before reaching Tiruppur. Breaks for food, tea, or rest 
+            can be arranged on request.
+        </p>
+
+        <p class="mb-4">
+            We provide a variety of car options including 
+            <strong>Sedans, SUVs, and Premium Cars</strong>. All our vehicles are 
+            <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring 
+            a smooth and safe travel experience. With 
+            <strong>transparent pricing</strong>, you pay only what you see—no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also offers <strong>pickups from Chengalpattu railway station</strong> 
+            and nearby locations for passengers heading towards Tiruppur. 
+            Our <strong>long-distance taxi packages</strong> are ideal for family trips, 
+            tourists, and business travelers.
+        </p>
+
+        <p class="mb-4">
+            Besides Tiruppur, we operate taxi services across major cities of Tamil Nadu such as 
+            Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram, Karur, 
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, 
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, 
+            Thiruvannamalai, Thiruvarur, Tirunelveli, Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chengalpattu to Tiruppur taxi</strong> with Fastpikcab is quick and easy. 
+            Visit our official website or call us directly at 
+            <strong>+91 88256 94157</strong>. Our 24/7 support team will assist you 
+            with bookings, pricing, and travel details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chengalpattu to Tiruppur cab service</strong> 
+            and enjoy a safe, comfortable, and cost-effective travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Tiruppur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

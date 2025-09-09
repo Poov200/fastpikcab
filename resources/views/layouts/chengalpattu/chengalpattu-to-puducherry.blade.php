@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chengalpattu to Puducherry Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Chengalpattu to Puducherry Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Chengalpattu to Puducherry</strong>? Fastpikcab offers safe, comfortable,
+            and affordable cabs for one-way transfers, round trips, and urgent travel needs. Our professional drivers
+            are available <strong>24/7</strong> to make your journey stress-free and on time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chengalpattu and Puducherry is around <strong>100 km</strong>,
+            which usually takes about <strong>2–3 hours</strong> by road. The preferred travel route is via
+            <strong>NH32</strong>, passing through <strong>Maraimalai Nagar, Tindivanam</strong>.
+            Stopovers for refreshments or sightseeing can also be arranged during your ride.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are fully air-conditioned, spacious, and GPS-enabled, ensuring a safe and pleasant trip.
+            We maintain <strong>transparent pricing</strong> with zero hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also offer <strong>Chengalpattu Railway Station taxi pickups</strong> for travelers heading to Puducherry.
+            Families, tourists, business travelers, and students can also make use of our
+            <strong>round-trip taxi packages</strong> for a cost-effective travel experience.
+        </p>
+
+        <p class="mb-4">
+            Apart from Puducherry, Fastpikcab provides services across major cities and districts of Tamil Nadu including:
+            Ariyalur, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chengalpattu to Puducherry taxi</strong> with Fastpikcab is quick and hassle-free.
+            You can book online on our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our dedicated 24/7 customer support team is always ready to help with booking, fares, and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chengalpattu to Puducherry cab service</strong> and enjoy
+            a safe, reliable, and affordable travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Puducherry Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

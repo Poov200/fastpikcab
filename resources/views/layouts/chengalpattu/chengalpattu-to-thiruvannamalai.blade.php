@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chengalpattu to Thiruvannamalai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Chengalpattu to Thiruvannamalai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Chengalpattu to Thiruvannamalai</strong>? Fastpikcab provides safe, comfortable,
+            and affordable taxi services for one-way travel, round trips, and family temple visits. Our professional
+            drivers are available <strong>24/7</strong> to ensure you reach your destination on time and stress-free.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chengalpattu and Thiruvannamalai is approximately <strong>120 km</strong>,
+            which usually takes around <strong>3–4 hours</strong> by road. The common travel route is via
+            <strong>NH77</strong>, passing through <strong>Kanchipuram and Polur</strong>.
+            Stopovers for tea, refreshments, or short breaks can be arranged along the way for a relaxed journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our vehicles are fully air-conditioned, spacious, and GPS-enabled, ensuring you enjoy a smooth and safe ride.
+            We follow <strong>transparent pricing</strong> with absolutely no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> for passengers heading towards
+            Thiruvannamalai. Families, tourists, and devotees visiting the <strong>Arunachaleswarar Temple</strong> can
+            take advantage of our <strong>round-trip taxi packages</strong> for a cost-effective and convenient travel experience.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thiruvannamalai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chengalpattu to Thiruvannamalai taxi</strong> with Fastpikcab is quick and simple.
+            You can book online through our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team is always ready to assist you with bookings, fare details, and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chengalpattu to Thiruvannamalai cab service</strong> and enjoy
+            a reliable, affordable, and safe travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Thiruvannamalai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
