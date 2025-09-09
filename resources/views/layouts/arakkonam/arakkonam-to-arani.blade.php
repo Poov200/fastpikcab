@@ -167,57 +167,42 @@
             </div>
         </div>
     </section>
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-10 text-gray-800">Arakkonam to Arani Taxi Service</h1>
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Book Arakkonam to Arani Taxi with Fastpikcab</h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Planning a comfortable journey from <strong>Arakkonam to Arani</strong>? Fastpikcab makes your travel
-                hassle-free with reliable, clean, and well-maintained cabs. Whether you are booking a one-way trip,
-                a round journey, or an urgent taxi from <strong>Arakkonam Railway Station to Arani</strong>, we are
-                available
-                24/7 to serve you.
-            </p>
+<section class="taxi-service py-5">
+  <div class="container">
+    <h2 class="text-3xl font-bold mb-4 text-center">Arakkonam to Bangalore Drop Taxi</h2>
+    <p class="text-lg mb-4 text-center">
+      <strong>Fastpik Cab</strong> is the best taxi service provider for one-way and round-trip travel at competitive prices.
+    </p>
 
-            <p class="mb-4">
-                The distance between Arakkonam and Arani is around <strong>90 km</strong>, which usually takes
-                about <strong>2–3 hours</strong> by road. Our experienced drivers ensure a safe and smooth ride
-                through <strong>NH716 / SH4</strong>, passing important towns like <strong>Kanchipuram and
-                    Cheyyar</strong>.
-                You can also request short stopovers for meals, refreshments, or sightseeing during your trip.
-            </p>
+    <ul class="list-disc list-inside mb-4">
+      <li>Book <strong>Arakkonam to Bangalore drop taxi</strong> with <strong>Fastpik Cab</strong> and save up to 50% on travel expenses.</li>
+      <li>Trusted cab service with experienced and punctual drivers. 24x7 customer support available.</li>
+      <li>For one-way travel, pay only for the one-way trip.</li>
+      <li>Fastpik Cab provides taxi services across major cities and districts in Tamil Nadu, Karnataka, Andhra Pradesh, Telangana, and Kerala.</li>
+    </ul>
 
-            <p class="mb-4">
-                Fastpikcab offers a wide range of vehicle options including <strong>Sedans, SUVs, and Premium
-                    cars</strong>,
-                depending on your group size and budget. All our vehicles are equipped with air-conditioning, spacious
-                seating,
-                and GPS tracking for a stress-free experience. With <strong>transparent pricing</strong> and no hidden
-                charges,
-                you only pay for what you see.
-            </p>
+    <p class="font-semibold mb-3">Service Areas Include:</p>
+    <p class="mb-4">
+      Arakkonam, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, Virudhunagar, Bangalore and surrounding areas.
+    </p>
 
-            <p class="mb-4">
-                We also provide <strong>Arakkonam Railway Station taxi pickups</strong> for passengers arriving at any
-                time.
-                Just share your travel details, and our driver will be there on time to receive you and take
-                you directly to Arani. For families, students, business travelers, or group tours, our
-                <strong>round-trip taxi packages</strong> are highly cost-effective.
-            </p>
+    <h3 class="text-2xl font-bold mb-3">FAQS</h3>
+    <ul class="list-disc list-inside mb-4">
+      <li><strong>Distance:</strong> Approximately 350 KM, around 7–8 hours of travel.</li>
+      <li><strong>Tariff One Way:</strong> Sedan 14/KM, SUV 19/KM. Bata Rs.300, toll, parking, and state permit extra. Minimum 130 KM.</li>
+      <li><strong>Tariff Round Trip:</strong> Sedan 13/KM, SUV 18/KM. Bata Rs.300, toll, parking, and state permit extra. Minimum 250 KM per day.</li>
+      <li><strong>Vehicle Types:</strong> Sedan – Etios, Swift, Xcent, Zest. SUV – Innova, Xylo, Tavera.</li>
+      <li><strong>Support:</strong> 24x7 via call or WhatsApp at <strong>+91 8825694157</strong> / <strong>+91 9597258671</strong>.</li>
+      <li><strong>Quick Booking:</strong> Call us directly at <strong>+91 8825694157</strong> / <strong>+91 9597258671</strong>.</li>
+      <li><strong>Cancel Policy:</strong> 24-hour cancellation policy. No charges if canceled before 24 hours of the trip.</li>
+    </ul>
 
-            <p class="mb-4">
-                Booking with Fastpikcab is simple and quick. You can book online through our website or call us
-                at <strong>+91 88256 94157</strong>. Our customer support team is available 24/7 to assist with
-                bookings, fare inquiries, and travel guidance.
-            </p>
+    <p class="font-semibold text-center">
+      Email: <a href="mailto:fastpikcab@gmail.com" class="text-blue-600">fastpikcab@gmail.com</a>
+    </p>
+  </div>
+</section>
 
-            <p>
-                Choose Fastpikcab for your <strong>Arakkonam to Arani taxi service</strong> and enjoy a comfortable,
-                reliable, and affordable travel experience. We aim to make every trip safe, punctual, and
-                memorable for our customers.
-            </p>
-        </div>
-    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
