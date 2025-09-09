@@ -206,19 +206,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Hatchback</td>
-                        <td class="px-6 py-4 text-center">₹3,800 - ₹4,800</td>
-                        <td class="px-6 py-4 text-center">₹7,600 - ₹9,600</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Ideal for solo travelers or couples</li>
-                                <li>Air-conditioned</li>
-                                <li>Up to 3 passengers</li>
-                                <li>Luggage capacity: 1-2 medium bags</li>
-                            </ul>
-                        </td>
-                    </tr>
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">₹4,500 - ₹5,500</td>
@@ -253,6 +241,7 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>

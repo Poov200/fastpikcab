@@ -1,4 +1,5 @@
 <html>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,92 +21,91 @@
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/thiruvannamalai-hero.png">
     <link rel="canonical" href="https://www.fastpikcab.com/thiruvannamalai-taxi-service">
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Fastpikcab",
-      "url": "https://www.fastpikcab.com/",
-      "logo": "https://fastpikcab.com/img/FastPik Logo.png",
-      "image": "https://www.fastpikcab.com/img/thiruvannamalai-hero.png",
-      "telephone": "+91-8825694157",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Gingee Road",
-        "addressLocality": "Thiruvannamalai",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "606601",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Thiruvannamalai Taxi Service",
-          "description": "Reliable taxi service in Thiruvannamalai with options for local, one-way, round-trip, and outstation travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Thiruvannamalai", "Tamil Nadu", "Kerala", "Andhra Pradesh", "Puducherry"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Fastpikcab"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2024-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpikcab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik Logo.png",
+            "image": "https://www.fastpikcab.com/img/thiruvannamalai-hero.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Gingee Road",
+                "addressLocality": "Thiruvannamalai",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "606601",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Thiruvannamalai Taxi Service",
+                    "description": "Reliable taxi service in Thiruvannamalai with options for local, one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Thiruvannamalai", "Tamil Nadu", "Kerala", "Andhra Pradesh", "Puducherry"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpikcab"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2024-12-31"
+            }
+        }
     </script>
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Thiruvannamalai Taxi Service & Outstation Cabs | Fastpikcab",
-      "description": "Book affordable and reliable taxis in Thiruvannamalai. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities in South India.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.fastpikcab.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Thiruvannamalai Taxi Service",
-            "item": "https://www.fastpikcab.com/thiruvannamalai-taxi-service"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Thiruvannamalai Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "800",
-          "highPrice": "12000",
-          "offerCount": "Multiple price points based on vehicle type and distance"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Thiruvannamalai Taxi Service & Outstation Cabs | Fastpikcab",
+            "description": "Book affordable and reliable taxis in Thiruvannamalai. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities in South India.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Thiruvannamalai Taxi Service",
+                        "item": "https://www.fastpikcab.com/thiruvannamalai-taxi-service"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Thiruvannamalai Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "800",
+                    "highPrice": "12000",
+                    "offerCount": "Multiple price points based on vehicle type and distance"
+                }
+            }
         }
-      }
-    }
     </script>
-   <link rel="icon" href="https://fastpikcab.com/img/FastPik Logo.png" type="image/x-icon" />
+    <link rel="icon" href="https://fastpikcab.com/img/FastPik Logo.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik Logo.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik Logo.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -122,6 +122,7 @@
         }
     </style>
 </head>
+
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
@@ -174,7 +175,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹3,000 - ₹3,600</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                   <a href="{{ route('thiruvannamalai-to-ariyalur') }}">Book Now</a>
+                                    <a href="{{ route('thiruvannamalai-to-ariyalur') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
@@ -615,8 +616,10 @@
             </div>
         </div>
     </section>
+    @include('layouts.routes')
     @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap" async defer></script>
 </body>
+
 </html>

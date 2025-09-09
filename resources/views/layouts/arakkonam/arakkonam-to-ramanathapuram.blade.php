@@ -28,91 +28,90 @@
     <link rel="canonical" href="https://byebyetaxi.com/arakkonam-to-ramanathapuram-drop-taxi">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Bye Bye Taxi",
-      "url": "https://byebyetaxi.com/",
-      "logo": "https://byebyetaxi.com/images/logo.png",
-      "image": "https://byebyetaxi.com/images/hero-bg.jpg",
-      "telephone": "+91-9443216262",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "36, Vimal Complex, Near New Bus Stand",
-        "addressLocality": "Pudukkottai",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "622001",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Arakkonam to Ramanathapuram Taxi Service",
-          "description": "Reliable taxi service connecting Arakkonam to Ramanathapuram with options for one-way, round-trip, and outstation travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Arakkonam", "Ramanathapuram"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Bye Bye Taxi"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2024-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Bye Bye Taxi",
+            "url": "https://byebyetaxi.com/",
+            "logo": "https://byebyetaxi.com/images/logo.png",
+            "image": "https://byebyetaxi.com/images/hero-bg.jpg",
+            "telephone": "+91-9443216262",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "36, Vimal Complex, Near New Bus Stand",
+                "addressLocality": "Pudukkottai",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "622001",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Arakkonam to Ramanathapuram Taxi Service",
+                    "description": "Reliable taxi service connecting Arakkonam to Ramanathapuram with options for one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Arakkonam", "Ramanathapuram"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Bye Bye Taxi"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2024-12-31"
+            }
+        }
     </script>
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Arakkonam to Ramanathapuram Taxi Service | Bye Bye Taxi",
-      "description": "Book affordable and reliable taxis from Arakkonam to Ramanathapuram. Choose from sedan and SUV vehicles for a comfortable travel.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://byebyetaxi.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Arakkonam to Ramanathapuram",
-            "item": "https://byebyetaxi.com/arakkonam-to-ramanathapuram-drop-taxi"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Arakkonam to Ramanathapuram Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "7000",
-          "highPrice": "9500",
-          "offerCount": "Multiple price points based on vehicle type"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Arakkonam to Ramanathapuram Taxi Service | Bye Bye Taxi",
+            "description": "Book affordable and reliable taxis from Arakkonam to Ramanathapuram. Choose from sedan and SUV vehicles for a comfortable travel.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://byebyetaxi.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Arakkonam to Ramanathapuram",
+                        "item": "https://byebyetaxi.com/arakkonam-to-ramanathapuram-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Arakkonam to Ramanathapuram Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "7000",
+                    "highPrice": "9500",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
         }
-      }
-    }
     </script>
 
     <link rel="icon" href="https://byebyetaxi.com/images/favicon.png" type="image/x-icon" />
@@ -259,6 +258,7 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>

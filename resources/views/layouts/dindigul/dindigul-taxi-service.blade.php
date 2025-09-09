@@ -1,5 +1,5 @@
-
 <html>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,159 +21,158 @@
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/dindigul-taxi-service">
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Fastpikcab",
-      "url": "https://www.fastpikcab.com/",
-      "logo": "https://fastpikcab.com/img/FastPik Logo.png",
-      "image": "https://www.fastpikcab.com/img/heroimg.png",
-      "telephone": "+91-8825694157",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Throw Pathi Amman Kovil Street",
-        "addressLocality": "Kalanjukuppam",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "607104",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Dindigul Taxi Service",
-          "description": "Reliable taxi service in Dindigul with options for local, one-way, round-trip, and outstation travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Dindigul", "Tamil Nadu"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Fastpikcab"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2024-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpikcab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Dindigul Taxi Service",
+                    "description": "Reliable taxi service in Dindigul with options for local, one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Dindigul", "Tamil Nadu"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpikcab"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2024-12-31"
+            }
+        }
     </script>
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Dindigul Taxi Service & Outstation Cabs | Fastpikcab",
-      "description": "Book affordable and reliable taxis in Dindigul. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.fastpikcab.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Dindigul Taxi Service",
-            "item": "https://www.fastpikcab.com/dindigul-taxi-service"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Dindigul Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "1500",
-          "highPrice": "2800",
-          "offerCount": "Multiple price points based on vehicle type"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Dindigul Taxi Service & Outstation Cabs | Fastpikcab",
+            "description": "Book affordable and reliable taxis in Dindigul. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Dindigul Taxi Service",
+                        "item": "https://www.fastpikcab.com/dindigul-taxi-service"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Dindigul Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "1500",
+                    "highPrice": "2800",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
         }
-      }
-    }
     </script>
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
         {
-          "@type": "Question",
-          "name": "What types of vehicles are available for Dindigul taxi service?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "We offer a variety of vehicles including sedans (like Swift Dzire), SUVs (like Toyota Innova), and premium vehicles (like Honda City) to suit different needs and budgets."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I book a taxi from Dindigul?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You can easily book a taxi through our website or mobile app. Simply enter your pickup location, destination, date, and time, select your preferred vehicle, and complete the payment."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there any additional charges for waiting time or luggage?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "We charge minimal fees for waiting time beyond the scheduled pickup time. There are no extra charges for standard luggage, but oversized or excessive luggage may incur additional fees."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I cancel my booking? What is the cancellation policy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, you can cancel your booking up to 24 hours before the scheduled pickup time for a full refund. Cancellations made within 24 hours may incur a nominal cancellation fee."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you provide airport transfer services from Dindigul?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, we offer dedicated airport transfer services to and from nearby airports like Chennai International Airport and Tiruchirappalli International Airport."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is it safe to travel with Fastpikcab from Dindigul?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What payment methods do you accept?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "We accept multiple payment methods including credit/debit cards, net banking, UPI, and cash payments at the end of your journey."
-          }
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "What types of vehicles are available for Dindigul taxi service?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We offer a variety of vehicles including sedans (like Swift Dzire), SUVs (like Toyota Innova), and premium vehicles (like Honda City) to suit different needs and budgets."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do I book a taxi from Dindigul?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You can easily book a taxi through our website or mobile app. Simply enter your pickup location, destination, date, and time, select your preferred vehicle, and complete the payment."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Are there any additional charges for waiting time or luggage?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We charge minimal fees for waiting time beyond the scheduled pickup time. There are no extra charges for standard luggage, but oversized or excessive luggage may incur additional fees."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can I cancel my booking? What is the cancellation policy?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, you can cancel your booking up to 24 hours before the scheduled pickup time for a full refund. Cancellations made within 24 hours may incur a nominal cancellation fee."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide airport transfer services from Dindigul?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we offer dedicated airport transfer services to and from nearby airports like Chennai International Airport and Tiruchirappalli International Airport."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is it safe to travel with Fastpikcab from Dindigul?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What payment methods do you accept?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We accept multiple payment methods including credit/debit cards, net banking, UPI, and cash payments at the end of your journey."
+                    }
+                }
+            ]
         }
-      ]
-    }
     </script>
     <link rel="icon" href="https://fastpikcab.com/img/FastPik Logo.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik Logo.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik Logo.png">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></link>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    </link>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
     <script src="https://cdn.tailwindcss.com"></script>
@@ -187,6 +186,7 @@
         }
     </style>
 </head>
+
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
@@ -239,7 +239,7 @@
                             <td class="px-4 py-3 text-center text-sm">₹5,200 - ₹6,100</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                   <a href="{{ route('dindigul-to-chennai') }}">Book Now</a>
+                                    <a href="{{ route('dindigul-to-chennai') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>
@@ -391,7 +391,7 @@
                             <td class="px-4 py-3 text-center text-sm">~380 km</td>
                             <td class="px-4 py-3 text-center text-sm">6-7 hours</td>
                             <td class="px-4 py-3 text-center text-sm">₹5,900 - ₹6,700</td>
-<td class="px-4 py-3 text-center">
+                            <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
                                     <a href="{{ route('dindigul-to-karur') }}">Book Now</a>
                                 </button>
@@ -614,8 +614,10 @@
             </div>
         </div>
     </section>
+    @include('layouts.routes')
     @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap" async defer></script>
 </body>
+
 </html>
