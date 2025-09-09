@@ -122,6 +122,7 @@
         }
     </style>
 </head>
+
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
@@ -200,19 +201,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Hatchback</td>
-                        <td class="px-6 py-4 text-center">₹5,500 - ₹7,000</td>
-                        <td class="px-6 py-4 text-center">₹11,000 - ₹14,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Ideal for solo travelers or couples</li>
-                                <li>Air-conditioned</li>
-                                <li>Up to 3 passengers</li>
-                                <li>Luggage capacity: 1-2 medium bags</li>
-                            </ul>
-                        </td>
-                    </tr>
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">₹6,500 - ₹8,500</td>
@@ -246,10 +235,12 @@
             </div>
         </div>
     </section>
+    @include('layouts.routes')
     @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
+
 </html>

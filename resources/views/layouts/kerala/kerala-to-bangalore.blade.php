@@ -75,9 +75,18 @@
             "description": "Book affordable and reliable taxis from Kerala to Bangalore. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
-                "itemListElement": [
-                    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.fastpikcab.com/"},
-                    {"@type": "ListItem", "position": 2, "name": "Kerala to Bangalore", "item": "https://www.fastpikcab.com/kerala-to-bangalore-drop-taxi"}
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kerala to Bangalore",
+                        "item": "https://www.fastpikcab.com/kerala-to-bangalore-drop-taxi"
+                    }
                 ]
             },
             "mainEntityOfPage": {
@@ -198,20 +207,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    {{-- Hatchback --}}
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Hatchback</td>
-                        <td class="px-6 py-4 text-center">₹6,000 - ₹8,000</td>
-                        <td class="px-6 py-4 text-center">₹12,000 - ₹16,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Ideal for solo travelers or couples</li>
-                                <li>Air-conditioned</li>
-                                <li>Up to 3 passengers</li>
-                                <li>Luggage capacity: 1-2 medium bags</li>
-                            </ul>
-                        </td>
-                    </tr>
+              
                     {{-- Sedan --}}
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
@@ -248,11 +244,13 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>
-  <script
+    <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
-        async defer></script></body>
+        async defer></script>
+</body>
 
 </html>

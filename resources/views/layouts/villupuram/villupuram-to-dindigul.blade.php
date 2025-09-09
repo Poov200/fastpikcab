@@ -28,85 +28,84 @@
     <link rel="canonical" href="https://www.fastpikcab.com/villupuram-to-dindigul-drop-taxi">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Fastpikcab",
-      "url": "https://www.fastpikcab.com/",
-      "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
-      "image": "https://www.fastpikcab.com/img/heroimg.png",
-      "telephone": "+91-8825694157",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Throw Pathi Amman Kovil Street",
-        "addressLocality": "Kalanjukuppam",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "607104",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Villupuram to Dindigul Taxi Service",
-          "description": "Reliable taxi service connecting Villupuram to Dindigul with options for one-way, round-trip, and outstation travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Villupuram", "Dindigul"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Fastpikcab"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2024-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpikcab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Villupuram to Dindigul Taxi Service",
+                    "description": "Reliable taxi service connecting Villupuram to Dindigul with options for one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Villupuram", "Dindigul"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpikcab"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2024-12-31"
+            }
+        }
     </script>
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Villupuram to Dindigul Taxi Service | Fastpikcab",
-      "description": "Book affordable and reliable taxis from Villupuram to Dindigul. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.fastpikcab.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Villupuram to Dindigul",
-            "item": "https://www.fastpikcab.com/villupuram-to-dindigul-drop-taxi"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Villupuram to Dindigul Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "5000",
-          "highPrice": "10000",
-          "offerCount": "Multiple price points based on vehicle type"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Villupuram to Dindigul Taxi Service | Fastpikcab",
+            "description": "Book affordable and reliable taxis from Villupuram to Dindigul. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Villupuram to Dindigul",
+                        "item": "https://www.fastpikcab.com/villupuram-to-dindigul-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Villupuram to Dindigul Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "5000",
+                    "highPrice": "10000",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
         }
-      }
-    }
     </script>
 
     <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
@@ -121,7 +120,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        body { font-family: 'Poppins', sans-serif; }
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
     </style>
 </head>
 
@@ -209,6 +210,8 @@
         </div>
     </section>
 
+       @include('layouts.routes')
+    @include('layouts.footer')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -58,8 +59,7 @@
                 "opens": "00:00",
                 "closes": "23:59"
             },
-            "makesOffer": [
-                {
+            "makesOffer": [{
                     "@type": "Offer",
                     "itemOffered": {
                         "@type": "Service",
@@ -220,7 +220,7 @@
                             <span>Kodaikanal (Day Trip)</span>
                             <span class="text-sm text-gray-500">A popular hill station, often visited as a day trip from Dindigul.</span>
                         </div>
-                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>Thadikombu Perumal Temple</span>
                             <span class="text-sm text-gray-500">A significant Vishnu temple.</span>
                         </div>
@@ -275,7 +275,7 @@
                             </ul>
                         </td>
                     </tr>
-                     <tr class="hover:bg-gray-50">
+                    <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Outstation (Round Trip)</td>
                         <td class="px-6 py-4 text-center">Starts from ₹10/km + driver allowance</td>
                         <td class="px-6 py-4">
@@ -294,6 +294,7 @@
         </div>
     </section>
 
+    @include('layouts.routes')
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>
@@ -301,4 +302,5 @@
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
         async defer></script>
 </body>
+
 </html>

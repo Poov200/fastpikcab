@@ -190,7 +190,7 @@
                     <div>
                         <label class="block text-gray-700 font-medium mb-2">Email</label>
                         <input type="email" name="email" ng-model="booking.email" placeholder="Enter your email"
-                            class="w-full px-4 py-2 border border-gray-300 rounded-lg" required>
+                            class="w-full px-4 py-2 border border-gray-300 rounded-lg">
                         <p ng-show="bookingForm.email.$invalid && bookingForm.email.$touched"
                             class="text-red-500 text-sm mt-1">Invalid email format.</p>
                     </div>
@@ -275,15 +275,16 @@
                     <p class="mt-2 text-lg font-semibold text-gray-800">Estimated Price: @{{ assigned_amount | currency: '₹' }}</p>
 
                     <div class="md:col-span-2">
-                        <p ng-show="showMissingFieldsMessage" class="text-red-500 text-center mb-4">Please fill in all
-                            the required fields and select valid pickup and drop locations.</p>
+                        <p ng-show="showMissingFieldsMessage" class="text-red-500 text-center mb-4">
+                            Please fill in all the required fields and select valid pickup and drop locations.
+                        </p>
                         <button type="submit"
-                            class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300"
-                            ng-disabled="bookingForm.$invalid || isSubmitting || !booking.pickup || !booking.destination">
+                            class="w-full bg-gray-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg transition duration-300">
                             <span ng-if="!isSubmitting">Book Now</span>
                             <span ng-if="isSubmitting">Booking...</span>
                         </button>
                     </div>
+
                 </form>
 
                 <div ng-show="bookingSuccess" class="mt-8 text-center text-green-500 font-semibold text-lg">
