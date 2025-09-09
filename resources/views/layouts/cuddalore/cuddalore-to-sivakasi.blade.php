@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fastpikcab - Cuddalore to Sivakasi Taxi Service | Book Online</title>
+  <title>Fastpikcab - Cuddalore to Sivakasi Taxi Service </title>
 
   <meta name="description"
     content="Book a reliable Cuddalore to Sivakasi taxi service with Fastpikcab. Affordable one-way, round-trip, and outstation cabs for a comfortable and safe journey." />

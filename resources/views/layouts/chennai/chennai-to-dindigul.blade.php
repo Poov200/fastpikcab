@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Chennai to Dindigul Taxi Service | Book Online</title>
+    <title>Fastpikcab - Chennai to Dindigul Taxi Service </title>
 
     <meta name="description"
         content="Book a reliable Chennai to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">

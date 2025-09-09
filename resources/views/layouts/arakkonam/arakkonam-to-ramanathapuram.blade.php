@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bye Bye Taxi - Arakkonam to Ramanathapuram Taxi Service | Book Online</title>
+    <title>Bye Bye Taxi - Arakkonam to Ramanathapuram Taxi Service </title>
 
     <meta name="description"
         content="Book a reliable Arakkonam to Ramanathapuram taxi service with Bye Bye Taxi. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">

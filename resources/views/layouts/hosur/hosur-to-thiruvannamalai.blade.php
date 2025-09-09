@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fastpikcab - Hosur to Thiruvannamalai Taxi Service | Book Online</title>
+<title>Fastpikcab - Hosur to Thiruvannamalai Taxi Service </title>
 
 <meta name="description"
     content="Book a reliable Hosur to Thiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ariyalur Taxi Service & Outstation Cabs | Book Online</title>
+    <title>Ariyalur Taxi Service & Outstation Cabs </title>
     <meta name="description"
         content="Book a reliable Ariyalur taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Ariyalur to all major cities.">
     <meta name="keywords"

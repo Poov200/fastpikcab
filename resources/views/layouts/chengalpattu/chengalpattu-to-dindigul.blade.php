@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Chengalpattu to Dindigul Taxi Service | Book Online</title>
+    <title>Fastpikcab - Chengalpattu to Dindigul Taxi Service </title>
 
     <meta name="description"
         content="Book a reliable Chengalpattu to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your journey.">

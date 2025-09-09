@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Namakkal to Sivakasi Taxi Service | Book Online</title>
+    <title>Fastpikcab - Namakkal to Sivakasi Taxi Service </title>
 
     <meta name="description"
         content="Book a reliable Namakkal to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">

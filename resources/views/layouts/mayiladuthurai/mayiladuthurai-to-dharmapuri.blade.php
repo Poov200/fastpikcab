@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Mayiladuthurai to Dharmapuri Taxi Service | Book Online</title>
+    <title>Fastpikcab - Mayiladuthurai to Dharmapuri Taxi Service </title>
 
     <meta name="description"
         content="Book a reliable Mayiladuthurai to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
