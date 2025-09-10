@@ -1,4 +1,276 @@
-@extends('layouts.app')
-@section('content')
-<h1>Tiruppur to Kochi Taxi Service</h1>
-@endsection
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Fastpik Cab - Tiruppur to Kochi Taxi Service</title>
+    <meta name="description" content="Book a reliable Tiruppur to Kochi taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel." />
+    <meta name="keywords" content="Tiruppur to Kochi taxi, Tiruppur to Kochi one way taxi, Tiruppur to Kochi drop taxi, Tiruppur to Kochi cabs, Tiruppur to Kochi taxi fare, Tiruppur to Kochi cab fare, Tiruppur to Kochi round trip taxi, Tiruppur to Kochi car rental, Tiruppur to Kochi cab booking, taxi from Tiruppur, cab to Kochi" />
+    <meta property="og:title" content="Fastpik Cab - Tiruppur to Kochi Taxi Service" />
+    <meta property="og:description" content="Reliable and affordable taxi service from Tiruppur to Kochi. Book online for one-way, round-trip, or outstation travel for your journey." />
+    <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png" />
+    <meta property="og:url" content="https://www.fastpikcab.com/tiruppur-to-kochi-drop-taxi" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Tiruppur to Kochi Taxi Service" />
+    <meta name="twitter:description" content="Book a reliable Tiruppur to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel." />
+    <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png" />
+    <link rel="canonical" href="https://www.fastpikcab.com/tiruppur-to-kochi-drop-taxi" />
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Fastpik Cab",
+        "url": "https://www.fastpikcab.com/",
+        "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+        "image": "https://www.fastpikcab.com/img/heroimg.png",
+        "telephone": "+91-8825694157",
+        "priceRange": "$$",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Throw Pathi Amman Kovil Street",
+            "addressLocality": "Kalanjukuppam",
+            "addressRegion": "Tamil Nadu",
+            "postalCode": "607104",
+            "addressCountry": "IN"
+        },
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+        },
+        "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Tiruppur to Kochi Taxi Service",
+                "description": "Reliable taxi service connecting Tiruppur to Kochi, with options for one-way, round-trip, and outstation travel.",
+                "serviceType": "TaxiService",
+                "areaServed": ["Tiruppur","Kochi"],
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Fastpik Cab"
+                }
+            },
+            "priceCurrency": "INR",
+            "priceValidUntil": "2025-12-31"
+        }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Tiruppur to Kochi Taxi Service | Fastpik Cab",
+        "description": "Book affordable and reliable taxis from Tiruppur to Kochi. Choose from sedan, SUV, and premium vehicles for a comfortable long-distance journey.",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fastpikcab.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Tiruppur to Kochi",
+                    "item": "https://www.fastpikcab.com/tiruppur-to-kochi-drop-taxi"
+                }
+            ]
+        },
+        "mainEntityOfPage": {
+            "@type": "Product",
+            "name": "Tiruppur to Kochi Taxi Service",
+            "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "INR",
+                "lowPrice": "2640",
+                "highPrice": "6015",
+                "offerCount": "Multiple price points based on vehicle type"
+            }
+        }
+    }
+    </script>
+    <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
+</head>
+<body>
+@include('layouts.bookingpage')
+<section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="bg-white p-6 rounded-xl shadow-md text-center">
+            <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <i class="fas fa-shield-alt text-2xl text-blue-600"></i>
+            </div>
+            <h3 class="text-xl font-semibold mb-2">Safe & Secure</h3>
+            <p class="text-gray-600">All our vehicles are regularly sanitized and equipped with GPS tracking for your safety.</p>
+        </div>
+        <div class="bg-white p-6 rounded-xl shadow-md text-center">
+            <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <i class="fas fa-clock text-2xl text-blue-600"></i>
+            </div>
+            <h3 class="text-xl font-semibold mb-2">On-Time Guarantee</h3>
+            <p class="text-gray-600">We promise punctual service with real-time updates and 24/7 customer support.</p>
+        </div>
+        <div class="bg-white p-6 rounded-xl shadow-md text-center">
+            <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <i class="fas fa-dollar-sign text-2xl text-blue-600"></i>
+            </div>
+            <h3 class="text-xl font-semibold mb-2">Transparent Pricing</h3>
+            <p class="text-gray-600">No hidden charges with upfront pricing and easy cancellation policies.</p>
+        </div>
+    </div>
+</section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tiruppur to Kochi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Cabs Online from Tiruppur to Kochi
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Travel comfortably from <strong>Tiruppur</strong> to <strong>Kochi</strong> with Fastpikcab’s trusted taxi service. We offer clean, air-conditioned vehicles, expert drivers, and 24/7 availability for one-way or round-trip journeys.
+        </p>
+        <p class="mb-4">
+            The road distance between Tiruppur and Kochi is approximately <strong>240 km</strong>, with an approximate travel time of <strong>5 to 6 hours</strong>, depending on traffic and route. Our routes are optimized for a smooth, scenic, and safe drive.
+        </p>
+        <p class="mb-4">
+            Choose from a variety of vehicles including <strong>Hatchbacks, Sedans, SUVs, and Innova</strong> models. All vehicles are GPS-enabled and maintained for comfort and safety. We provide transparent pricing with no hidden fees.
+        </p>
+        <p class="mb-4">
+            Kochi, known for its stunning coastline, cultural landmarks, and vibrant city life, is an ideal destination for leisure and business. Our round-trip packages encourage exploration at your own pace.
+        </p>
+        <p class="mb-4">
+            Book your <strong>Tiruppur to Kochi taxi</strong> easily online or call <strong>+91 88256 94157</strong>. Our dedicated support team is available 24/7 to assist with bookings, fare estimates, and travel tips.
+        </p>
+        <p>
+            Choose Fastpikcab for a <strong>safe, reliable, and comfortable Tiruppur-Kochi ride</strong>.
+        </p>
+    </div>
+</section>
+<section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Kochi Route Details</h2>
+    <div class="bg-white rounded-xl shadow-md p-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+                <h3 class="text-2xl font-semibold mb-4 text-blue-600">Route Overview</h3>
+                <ul class="space-y-4 text-gray-700">
+                    <li class="flex items-start">
+                        <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
+                        <span><strong>Distance:</strong> ~240 km</span>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
+                        <span><strong>Travel Time:</strong> 5 to 6 hours</span>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
+                        <span><strong>Typical Route:</strong> Tiruppur – Coimbatore – Palakkad – Thrissur – Kochi</span>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
+                        <span><strong>Note:</strong> Travel time and distance may vary with traffic and exact pickup/drop locations.</span>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Attractions in Kochi</h3>
+                <div class="space-y-3">
+                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                        <span>Fort Kochi</span>
+                        <span class="text-sm text-gray-500">Colonial charm, Chinese fishing nets, and vibrant culture.</span>
+                    </div>
+                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                        <span>Mattancherry Palace</span>
+                        <span class="text-sm text-gray-500">Historic royal palace with beautiful murals.</span>
+                    </div>
+                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                        <span>Marine Drive</span>
+                        <span class="text-sm text-gray-500">Scenic waterfront promenade for leisurely walks.</span>
+                    </div>
+                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                        <span>Jew Town</span>
+                        <span class="text-sm text-gray-500">Antique shops and heritage synagogues.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Kochi Fare Structure</h2>
+    <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+        <table class="w-full table-auto">
+            <thead class="bg-blue-600 text-white">
+                <tr>
+                    <th class="px-6 py-4 text-left">Vehicle Type</th>
+                    <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Features</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+               
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">Sedan</td>
+                    <td class="px-6 py-4 text-center">Starts from ₹3,600</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Spacious and comfortable</li>
+                            <li>Up to 4 passengers</li>
+                            <li>Ideal for family/business travel</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">SUV</td>
+                    <td class="px-6 py-4 text-center">Starts from ₹6,015</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Extra seating for up to 6 passengers</li>
+                            <li>More luggage space</li>
+                            <li>Comfortable for group travel</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">Innova</td>
+                    <td class="px-6 py-4 text-center">Starts from ₹7,500</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Premium AC for up to 6 passengers</li>
+                            <li>Maximum comfort for long journeys</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="p-4 bg-gray-50 text-center">
+            <p class="text-sm text-gray-600">* Fares are approximate and may vary with vehicle type, route, and booking time. Tolls & permits extra.</p>
+        </div>
+    </div>
+</section>
+@include('layouts.routes')
+@include('layouts.footer')
+<script src="{{ asset('js/app.js') }}"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap" async defer></script>
+</body>
+</html>
