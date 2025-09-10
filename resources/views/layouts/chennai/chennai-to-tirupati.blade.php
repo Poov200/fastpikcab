@@ -231,18 +231,7 @@
                 </tr>
             </thead>
             <tbody class="divide-y divide-gray-200">
-                <tr class="hover:bg-gray-50">
-                    <td class="px-6 py-4 font-medium">Hatchback</td>
-                    <td class="px-6 py-4 text-center">₹1400 onwards</td>
-                    <td class="px-6 py-4 text-center">₹2600 onwards</td>
-                    <td class="px-6 py-4">
-                        <ul class="list-disc list-inside text-sm text-gray-600">
-                            <li>Air-conditioned</li>
-                            <li>Up to 4 passengers</li>
-                            <li>Ideal for solo travelers or couples</li>
-                        </ul>
-                    </td>
-                </tr>
+                
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
                     <td class="px-6 py-4 text-center">₹1500 onwards</td>

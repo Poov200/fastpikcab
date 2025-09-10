@@ -250,18 +250,7 @@
                             </ul>
                         </td>
                     </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Hatchback</td>
-                        <td class="px-6 py-4 text-center">₹2,800 onwards</td>
-                        <td class="px-6 py-4 text-center">₹5,000 onwards</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Economical and efficient</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Suitable for short trips</li>
-                            </ul>
-                        </td>
-                    </tr>
+                    
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
