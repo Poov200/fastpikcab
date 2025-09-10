@@ -177,15 +177,15 @@
     </h2>
     <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
         <p class="mb-4">
-            Planning a spiritual trip from <strong>Chengalpattu to Tirupati</strong>? Fastpikcab offers 
-            safe, convenient, and budget-friendly taxi services for one-way trips, round journeys, 
-            and family pilgrimages. Our professional drivers are available <strong>24/7</strong> 
+            Planning a spiritual trip from <strong>Chengalpattu to Tirupati</strong>? Fastpikcab offers
+            safe, convenient, and budget-friendly taxi services for one-way trips, round journeys,
+            and family pilgrimages. Our professional drivers are available <strong>24/7</strong>
             to make your journey smooth and stress-free.
         </p>
 
         <p class="mb-4">
             The distance between Chengalpattu and Tirupati is approximately <strong>140 km</strong>,
-            which usually takes around <strong>3–4 hours</strong> by road. The common travel route is via 
+            which usually takes around <strong>3–4 hours</strong> by road. The common travel route is via
             <strong>NH16 and NH716</strong>, passing through <strong>Chennai, Tiruvallur, and Puttur</strong>.
             Comfortable stopovers for tea, meals, or rest can also be arranged along the way.
         </p>
@@ -197,8 +197,8 @@
         </p>
 
         <p class="mb-4">
-            We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> and direct transfers 
-            to <strong>Tirumala Tirupati Devasthanam (TTD)</strong>. Families, pilgrims, and tourists can 
+            We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> and direct transfers
+            to <strong>Tirumala Tirupati Devasthanam (TTD)</strong>. Families, pilgrims, and tourists can
             also book our <strong>round-trip taxi packages</strong> for a convenient and cost-effective experience.
         </p>
 
@@ -214,7 +214,7 @@
         <p class="mb-4">
             Booking your <strong>Chengalpattu to Tirupati taxi</strong> with Fastpikcab is quick and simple.
             You can book online via our website or call us directly at <strong>+91 88256 94157</strong>.
-            Our 24/7 customer support team is always available to assist with bookings, fare details, 
+            Our 24/7 customer support team is always available to assist with bookings, fare details,
             and travel guidance.
         </p>
 
@@ -285,18 +285,7 @@
                 </tr>
             </thead>
             <tbody class="divide-y divide-gray-200">
-                <tr class="hover:bg-gray-50">
-                    <td class="px-6 py-4 font-medium">Hatchback</td>
-                    <td class="px-6 py-4 text-center">₹6,500 onwards</td>
-                    <td class="px-6 py-4 text-center">₹10,000 onwards</td>
-                    <td class="px-6 py-4">
-                        <ul class="list-disc list-inside text-sm text-gray-600">
-                            <li>Air-conditioned</li>
-                            <li>Up to 4 passengers</li>
-                            <li>Ideal for budget travelers</li>
-                        </ul>
-                    </td>
-                </tr>
+
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
                     <td class="px-6 py-4 text-center">₹7,500 onwards</td>

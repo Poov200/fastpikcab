@@ -227,18 +227,7 @@
                 </tr>
             </thead>
             <tbody class="divide-y divide-gray-200">
-                <tr class="hover:bg-gray-50">
-                    <td class="px-6 py-4 font-medium">Hatchback</td>
-                    <td class="px-6 py-4 text-center">₹4,300 onwards</td>
-                    <td class="px-6 py-4 text-center">₹7,500 onwards</td>
-                    <td class="px-6 py-4">
-                        <ul class="list-disc list-inside text-sm text-gray-600">
-                            <li>Air-conditioned</li>
-                            <li>Up to 4 passengers</li>
-                            <li>Luggage capacity: 2 medium bags</li>
-                        </ul>
-                    </td>
-                </tr>
+
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
                     <td class="px-6 py-4 text-center">₹5,300 onwards</td>
