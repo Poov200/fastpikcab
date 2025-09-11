@@ -168,6 +168,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Bangalore Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Virudhunagar to Bangalore Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Looking for a convenient <strong>Virudhunagar to Bangalore taxi service</strong>?
+                Fastpikcab provides safe, affordable, and comfortable intercity cabs with experienced drivers.
+                Whether it’s for business, family trips, or personal travel, we ensure a smooth and hassle-free ride
+                with <strong>24/7 availability</strong>.
+            </p>
+
+            <p class="mb-4">
+                The distance between Virudhunagar and Bangalore is around <strong>470 km</strong>,
+                which typically takes about <strong>8–9 hours</strong> by road.
+                The main travel route is via <strong>NH44</strong>, passing through cities like
+                <strong>Madurai, Salem, Dharmapuri, and Hosur</strong>.
+            </p>
+
+            <p class="mb-4">
+                Fastpikcab offers multiple vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All our cabs are fully air-conditioned, spacious, and GPS-enabled, ensuring a safe and pleasant journey
+                for individuals, families, and groups. We follow <strong>transparent pricing</strong> with no hidden costs.
+            </p>
+
+            <p class="mb-4">
+                For travelers arriving by train or bus, we also provide <strong>Virudhunagar station pickups</strong>
+                with direct drop-off at your Bangalore destination.
+                Our <strong>round-trip taxi packages</strong> are ideal for business professionals and families who plan to return.
+            </p>
+
+            <p class="mb-4">
+                Apart from Bangalore, Fastpikcab operates in all major cities across Tamil Nadu and Karnataka including
+                <strong>Chennai, Coimbatore, Madurai, Salem, Erode, Trichy, Vellore, and Mysore</strong>.
+            </p>
+
+            <p class="mb-4">
+                Booking your <strong>Virudhunagar to Bangalore taxi</strong> is quick and easy.
+                Simply book online via our website or call <strong>+91 88256 94157</strong>.
+                Our support team is available round the clock to assist with fares, routes, and booking details.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Virudhunagar to Bangalore cab service</strong>
+                and enjoy a reliable, safe, and comfortable travel experience.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Bangalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -215,7 +268,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Bangalore Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>
@@ -258,8 +312,6 @@
         </div>
     </section>
 
-    @include('layouts.routes')
-    @include('layouts.footer')
     @include('layouts.routes')
     @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>

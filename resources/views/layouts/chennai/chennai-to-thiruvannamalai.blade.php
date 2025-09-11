@@ -273,7 +273,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Tiruvannamalai Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>
@@ -308,18 +309,7 @@
                             </ul>
                         </td>
                     </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Hatchback</td>
-                        <td class="px-6 py-4 text-center">₹2,800 onwards</td>
-                        <td class="px-6 py-4 text-center">₹5,000 onwards</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Economical and efficient</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Suitable for short trips</li>
-                            </ul>
-                        </td>
-                    </tr>
+
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">

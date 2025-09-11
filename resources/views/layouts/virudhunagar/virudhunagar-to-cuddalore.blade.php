@@ -168,6 +168,40 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Cuddalore Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Affordable Virudhunagar to Cuddalore Cabs – Book Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Traveling from <strong>Virudhunagar to Cuddalore</strong>? Fastpikcab provides
+                dependable and affordable taxi services with professional drivers and
+                well-maintained vehicles for a smooth trip.
+            </p>
+            <p class="mb-4">
+                The road distance is about <strong>410 km</strong> and it takes around
+                <strong>7–8 hours</strong> via <strong>NH38</strong>. The route passes
+                through <strong>Madurai, Trichy, and Villupuram</strong>.
+            </p>
+            <p class="mb-4">
+                Choose from <strong>Sedans, SUVs, and Premium Cars</strong> depending on your
+                travel needs. Round-trip and one-way packages are available with transparent pricing.
+            </p>
+            <p class="mb-4">
+                Call us at <strong>+91 88256 94157</strong> or book online to confirm your
+                <strong>Virudhunagar to Cuddalore cab</strong>.
+            </p>
+            <p>
+                Fastpikcab ensures a safe, timely, and hassle-free journey for all passengers.
+            </p>
+        </div>
+    </section>
+
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Cuddalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -215,7 +249,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Cuddalore Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>
@@ -258,8 +293,6 @@
         </div>
     </section>
 
-    @include('layouts.routes')
-    @include('layouts.footer')
     @include('layouts.routes')
     @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>

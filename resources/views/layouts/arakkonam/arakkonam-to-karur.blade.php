@@ -168,41 +168,41 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-10 text-gray-800">Arakkonam to Karur Taxi Service</h1>
-    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Book Arakkonam to Karur Taxi with Fastpikcab</h2>
-    <div class="bg-white rounded-xl shadow-md p-6">
-        <p class="text-lg text-gray-700 mb-4">
-            Planning a trip from <strong>Arakkonam to Karur</strong>? Fastpikcab offers the most reliable and affordable taxi service for your journey.
-            Whether you’re traveling for business, family functions, or leisure, our well-maintained cars and professional drivers ensure a safe and comfortable ride.
-        </p>
-        <p class="text-lg text-gray-700 mb-4">
-            The distance between Arakkonam and Karur is around <strong>310 km</strong>, and it typically takes about <strong>6 to 7 hours</strong> by road.
-            With our on-time service, transparent pricing, and 24/7 customer support, your travel experience is completely hassle-free.
-        </p>
-        <h3 class="text-2xl font-semibold text-gray-800 mt-6 mb-4">Why Choose Fastpikcab?</h3>
-        <ul class="list-disc list-inside text-lg text-gray-700 space-y-2">
-            <li><strong>Affordable Pricing:</strong> Transparent and budget-friendly fares.</li>
-            <li><strong>Multiple Car Options:</strong> Choose from Sedans, SUVs, and Innovas.</li>
-            <li><strong>Experienced Drivers:</strong> Polite, professional, and knowledgeable drivers.</li>
-            <li><strong>Safe Rides:</strong> Well-maintained vehicles with top-notch safety.</li>
-            <li><strong>24/7 Availability:</strong> Book anytime, anywhere.</li>
-        </ul>
-        <h3 class="text-2xl font-semibold text-gray-800 mt-6 mb-4">Arakkonam to Karur Taxi Fare</h3>
-        <p class="text-lg text-gray-700 mb-4">
-            We provide the best taxi fares for your trip from Arakkonam to Karur. Prices may vary based on the type of vehicle:
-        </p>
-        <ul class="list-disc list-inside text-lg text-gray-700 space-y-2">
-            <li><strong>Sedan:</strong> ₹10 per km</li>
-            <li><strong>SUV:</strong> ₹14 per km</li>
-            <li><strong>Innova:</strong> ₹16 per km</li>
-        </ul>
-        <div class="text-center mt-8">
-            <a href="tel:+918825694157" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-xl font-semibold shadow-md">
-                📞 Call Now to Book: +91 8825694157
-            </a>
+        <h1 class="text-4xl font-bold text-center mb-10 text-gray-800">Arakkonam to Karur Taxi Service</h1>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Book Arakkonam to Karur Taxi with Fastpikcab</h2>
+        <div class="bg-white rounded-xl shadow-md p-6">
+            <p class="text-lg text-gray-700 mb-4">
+                Planning a trip from <strong>Arakkonam to Karur</strong>? Fastpikcab offers the most reliable and affordable taxi service for your journey.
+                Whether you’re traveling for business, family functions, or leisure, our well-maintained cars and professional drivers ensure a safe and comfortable ride.
+            </p>
+            <p class="text-lg text-gray-700 mb-4">
+                The distance between Arakkonam and Karur is around <strong>310 km</strong>, and it typically takes about <strong>6 to 7 hours</strong> by road.
+                With our on-time service, transparent pricing, and 24/7 customer support, your travel experience is completely hassle-free.
+            </p>
+            <h3 class="text-2xl font-semibold text-gray-800 mt-6 mb-4">Why Choose Fastpikcab?</h3>
+            <ul class="list-disc list-inside text-lg text-gray-700 space-y-2">
+                <li><strong>Affordable Pricing:</strong> Transparent and budget-friendly fares.</li>
+                <li><strong>Multiple Car Options:</strong> Choose from Sedans, SUVs, and Innovas.</li>
+                <li><strong>Experienced Drivers:</strong> Polite, professional, and knowledgeable drivers.</li>
+                <li><strong>Safe Rides:</strong> Well-maintained vehicles with top-notch safety.</li>
+                <li><strong>24/7 Availability:</strong> Book anytime, anywhere.</li>
+            </ul>
+            <h3 class="text-2xl font-semibold text-gray-800 mt-6 mb-4">Arakkonam to Karur Taxi Fare</h3>
+            <p class="text-lg text-gray-700 mb-4">
+                We provide the best taxi fares for your trip from Arakkonam to Karur. Prices may vary based on the type of vehicle:
+            </p>
+            <ul class="list-disc list-inside text-lg text-gray-700 space-y-2">
+                <li><strong>Sedan:</strong> ₹10 per km</li>
+                <li><strong>SUV:</strong> ₹14 per km</li>
+                <li><strong>Innova:</strong> ₹16 per km</li>
+            </ul>
+            <div class="text-center mt-8">
+                <a href="tel:+918825694157" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-xl font-semibold shadow-md">
+                    📞 Call Now to Book: +91 8825694157
+                </a>
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -249,7 +249,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Arakkonam to Karur Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

@@ -168,6 +168,45 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Arani Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Virudhunagar to Arani Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning to travel from <strong>Virudhunagar to Arani</strong>? Fastpikcab offers affordable and safe taxi services with experienced drivers, ensuring a smooth journey for families, professionals, and group travelers. We are available <strong>24/7</strong> to serve your travel needs with one-way, round-trip, and custom packages.
+            </p>
+
+            <p class="mb-4">
+                The distance between Virudhunagar and Arani is approximately <strong>460 km</strong>, and it usually takes about <strong>8–9 hours</strong> by road. The most common travel routes are via <strong>NH38 and NH32</strong>, covering major towns like <strong>Madurai, Trichy, Villupuram</strong>, and nearby areas.
+            </p>
+
+            <p class="mb-4">
+                Fastpikcab provides multiple vehicle options such as <strong>Sedans, SUVs, and Premium Cars</strong>. All our vehicles are air-conditioned, spacious, and GPS-enabled, making your travel comfortable and reliable. We maintain <strong>transparent pricing</strong> with no hidden charges.
+            </p>
+
+            <p class="mb-4">
+                Whether you need a <strong>Virudhunagar Railway Station pickup</strong> or a direct taxi service to Arani, we ensure timely service. Families, students, and business professionals can also book our <strong>round-trip taxi packages</strong> for cost-effective long-distance travel.
+            </p>
+
+            <p class="mb-4">
+                Apart from Arani, Fastpikcab provides taxi services across Tamil Nadu including <strong>Chennai, Coimbatore, Salem, Madurai, Tirunelveli, Trichy, Puducherry, Vellore</strong>, and other districts.
+            </p>
+
+            <p class="mb-4">
+                Booking your <strong>Virudhunagar to Arani taxi</strong> is quick and easy. You can book through our website or call us directly at <strong>+91 88256 94157</strong>. Our 24/7 customer care team is always ready to assist with fares, routes, and booking details.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Virudhunagar to Arani cab service</strong> and enjoy a safe, reliable, and affordable journey.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Arani Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -215,7 +254,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Arani Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>
@@ -258,8 +298,6 @@
         </div>
     </section>
 
-    @include('layouts.routes')
-    @include('layouts.footer')
     @include('layouts.routes')
     @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>
