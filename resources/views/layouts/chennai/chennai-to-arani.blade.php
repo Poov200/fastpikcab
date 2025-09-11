@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chennai to Arani Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Chennai to Arani Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Chennai to Arani</strong>? Fastpikcab provides safe, clean,
+            and affordable cabs for one-way trips, round journeys, and urgent travel needs.
+            Our professional drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chennai and Arani is approximately <strong>120 km</strong>,
+            which usually takes about <strong>3–3.5 hours</strong> by road. The most common travel route
+            is via <strong>NH48 and SH60</strong>, passing through <strong>Kanchipuram</strong>.
+            Stopovers for meals, tea breaks, or sightseeing can also be arranged on request.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our vehicles are air-conditioned, well-maintained, and GPS-enabled, making your travel
+            comfortable and stress-free. We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chennai Airport and Railway Station taxi pickups</strong> for passengers
+            heading towards Arani. Whether you are a family, student, business professional, or group traveler,
+            our <strong>short-distance taxi packages</strong> are budget-friendly and convenient.
+        </p>
+
+        <p class="mb-4">
+            Apart from Arani, Fastpikcab operates taxis across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chennai to Arani taxi</strong> with Fastpikcab is quick and simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our customer support team is available 24/7 to assist you with bookings, fares, and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chennai to Arani cab service</strong> and enjoy
+            a reliable, safe, and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Arani Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

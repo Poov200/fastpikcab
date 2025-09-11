@@ -172,6 +172,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chennai to Kanchipuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Chennai to Kanchipuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Chennai to Kanchipuram</strong>? Fastpikcab provides safe,
+            affordable, and comfortable taxi services for one-way trips, round journeys, family outings,
+            and temple visits. Our professional drivers are available <strong>24/7</strong> to make your journey
+            smooth and hassle-free.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chennai and Kanchipuram is approximately <strong>75 km</strong>,
+            which usually takes about <strong>2 hours</strong> by road. The most common travel route
+            is via <strong>NH48</strong>, offering a quick and comfortable ride.
+            Stopovers for meals, refreshments, or sightseeing can also be arranged as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a range of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our vehicles are clean, air-conditioned, and GPS-enabled, ensuring a safe and stress-free journey.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chennai Airport and Railway Station pickups</strong> for passengers traveling
+            to Kanchipuram. Whether you are traveling alone, with family, or in groups, our
+            <strong>short-distance taxi packages</strong> are convenient and cost-effective.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kanchipuram, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            Vellore, Chengalpattu, Tiruvannamalai, Ranipet, Villupuram, Trichy, Salem, and many more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chennai to Kanchipuram taxi</strong> with Fastpikcab is quick and easy.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our customer support team is available 24/7 to assist you with bookings, fare details, and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chennai to Kanchipuram cab service</strong> and enjoy
+            a safe, reliable, and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Kanchipuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,60 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chennai to Dharmapuri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Chennai to Dharmapuri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Chennai to Dharmapuri</strong>? Fastpikcab offers safe,
+            affordable, and reliable taxi services for one-way trips, round journeys, family tours,
+            and business travel. Our skilled drivers are available <strong>24/7</strong> to make sure
+            you travel comfortably and on time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Chennai and Dharmapuri is approximately <strong>300 km</strong>,
+            which usually takes about <strong>5.5–6 hours</strong> by road. The most common travel route
+            is via <strong>NH48</strong>, passing through Vellore, Krishnagiri, and Hosur.
+            Stopovers for meals, refreshments, or sightseeing can also be arranged on request.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple taxi choices including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, clean, and GPS-enabled, making your journey smooth and stress-free.
+            We follow a policy of <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chennai Airport and Railway Station pickups</strong> for passengers
+            traveling to Dharmapuri. Whether you are traveling alone, with family, or in a group,
+            our <strong>long-distance taxi packages</strong> are convenient and economical.
+        </p>
+
+        <p class="mb-4">
+            Apart from Dharmapuri, Fastpikcab offers taxi services to all major cities and towns across Tamil Nadu
+            and Karnataka including: Vellore, Hosur, Krishnagiri, Salem, Erode, Coimbatore, Bangalore, Namakkal,
+            and many more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chennai to Dharmapuri taxi</strong> with Fastpikcab is simple and fast.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team is ready to help you with bookings, fares, and travel information.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chennai to Dharmapuri cab service</strong> and enjoy
+            a reliable, safe, and comfortable ride at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Dharmapuri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
