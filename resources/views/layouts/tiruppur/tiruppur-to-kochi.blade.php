@@ -228,7 +228,7 @@
                 </tr>
             </thead>
             <tbody class="divide-y divide-gray-200">
-               
+
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
                     <td class="px-6 py-4 text-center">Starts from ₹3,600</td>
@@ -251,16 +251,7 @@
                         </ul>
                     </td>
                 </tr>
-                <tr class="hover:bg-gray-50">
-                    <td class="px-6 py-4 font-medium">Innova</td>
-                    <td class="px-6 py-4 text-center">Starts from ₹7,500</td>
-                    <td class="px-6 py-4">
-                        <ul class="list-disc list-inside text-sm text-gray-600">
-                            <li>Premium AC for up to 6 passengers</li>
-                            <li>Maximum comfort for long journeys</li>
-                        </ul>
-                    </td>
-                </tr>
+                
             </tbody>
         </table>
         <div class="p-4 bg-gray-50 text-center">
