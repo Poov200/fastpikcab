@@ -168,6 +168,65 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chennai to Mayiladuthurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Chennai to Mayiladuthurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Chennai to Mayiladuthurai</strong>? Fastpikcab provides
+            <strong>safe, reliable, and budget-friendly taxi services</strong> for one-way travel,
+            round trips, and business journeys. Our professional drivers ensure a smooth and
+            comfortable ride, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Chennai and Mayiladuthurai</strong> is approximately
+            <strong>290 km</strong>, which usually takes about <strong>5.5 – 6.5 hours</strong> by road.
+            The common travel route is via <strong>NH32</strong>, passing through
+            <strong>Villupuram and Cuddalore</strong>. Stopovers for meals, tea, or short breaks
+            can be arranged as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            We offer multiple cab options including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring
+            a safe and comfortable travel experience. With <strong>transparent pricing</strong>, there
+            are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also provides <strong>Chennai Airport to Mayiladuthurai taxi services</strong>,
+            making it convenient for passengers arriving by flight to travel directly to Mayiladuthurai.
+        </p>
+
+        <p class="mb-4">
+            Apart from Mayiladuthurai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chennai to Mayiladuthurai taxi</strong> with Fastpikcab is quick and easy.
+            Call us at <strong>+91 88256 94157</strong> or use our website for online booking.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist you
+            with bookings, fares, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chennai to Mayiladuthurai cab service</strong> and
+            enjoy a reliable, safe, and comfortable travel experience at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Mayiladuthurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
