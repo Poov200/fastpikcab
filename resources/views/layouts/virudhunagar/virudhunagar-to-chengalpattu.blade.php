@@ -168,6 +168,64 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Chengalpattu Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Affordable Virudhunagar to Chengalpattu Cabs – Book Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning to travel from <strong>Virudhunagar to Chengalpattu</strong>?
+                Fastpikcab provides reliable and comfortable <strong>intercity taxi services</strong>
+                with professional drivers, clean cars, and <strong>24/7 booking support</strong>.
+                Whether you are traveling for business, family trips, or personal reasons,
+                we ensure a safe and stress-free journey.
+            </p>
+
+            <p class="mb-4">
+                The road distance between Virudhunagar and Chengalpattu is around
+                <strong>510 km</strong>, which usually takes about <strong>9–10 hours</strong>
+                by car. The fastest route is via <strong>NH38 and NH32</strong>,
+                covering cities like <strong>Madurai, Trichy, Villupuram, and Tindivanam</strong>
+                before reaching Chengalpattu.
+            </p>
+
+            <p class="mb-4">
+                We provide multiple car options including <strong>Sedans, SUVs, and Premium Cars</strong>,
+                suitable for individuals, families, and group travelers.
+                All our cabs are <strong>well-maintained, air-conditioned, and GPS-enabled</strong>
+                to give you a comfortable and safe ride.
+                Our pricing is <strong>transparent with no hidden charges</strong>.
+            </p>
+
+            <p class="mb-4">
+                If you are traveling for a short stay, we also offer <strong>round-trip taxi packages</strong>
+                from Virudhunagar to Chengalpattu at the best rates.
+                Our drivers are experienced and familiar with all routes, ensuring
+                <strong>on-time pickup and drop services</strong>.
+            </p>
+
+            <p class="mb-4">
+                Apart from Chengalpattu, Fastpikcab also operates across Tamil Nadu covering major destinations
+                like <strong>Chennai, Vellore, Tiruvannamalai, Kanchipuram, Trichy, and Madurai</strong>.
+            </p>
+
+            <p class="mb-4">
+                Booking your <strong>Virudhunagar to Chengalpattu cab</strong> is simple and hassle-free.
+                Call us directly at <strong>+91 88256 94157</strong> or book online through our website
+                for instant confirmation.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Virudhunagar to Chengalpattu taxi service</strong>
+                and enjoy a safe, comfortable, and reliable travel experience.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Chengalpattu Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -215,7 +273,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Chengalpattu Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

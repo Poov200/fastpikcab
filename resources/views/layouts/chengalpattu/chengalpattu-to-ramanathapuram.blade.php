@@ -168,60 +168,60 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Chengalpattu to Ramanathapuram Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Affordable Chengalpattu to Ramanathapuram Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Looking for a reliable taxi from <strong>Chengalpattu to Ramanathapuram</strong>? 
-            Fastpikcab provides 24/7 intercity taxi services at budget-friendly fares. 
-            Whether it’s a family trip, business travel, or an urgent ride, our 
-            well-maintained cars and professional drivers ensure you reach your destination 
-            safely and comfortably.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Chengalpattu to Ramanathapuram Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Affordable Chengalpattu to Ramanathapuram Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Looking for a reliable taxi from <strong>Chengalpattu to Ramanathapuram</strong>?
+                Fastpikcab provides 24/7 intercity taxi services at budget-friendly fares.
+                Whether it’s a family trip, business travel, or an urgent ride, our
+                well-maintained cars and professional drivers ensure you reach your destination
+                safely and comfortably.
+            </p>
 
-        <p class="mb-4">
-            The road distance between Chengalpattu and Ramanathapuram is around 
-            <strong>510 km</strong>, which usually takes about <strong>9–10 hours</strong>. 
-            The common travel route is via <strong>NH32 and NH87</strong>, passing through 
-            <strong>Villupuram, Trichy, and Madurai</strong>. Short refreshment breaks or 
-            sightseeing stopovers can be arranged on request.
-        </p>
+            <p class="mb-4">
+                The road distance between Chengalpattu and Ramanathapuram is around
+                <strong>510 km</strong>, which usually takes about <strong>9–10 hours</strong>.
+                The common travel route is via <strong>NH32 and NH87</strong>, passing through
+                <strong>Villupuram, Trichy, and Madurai</strong>. Short refreshment breaks or
+                sightseeing stopovers can be arranged on request.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab offers multiple vehicle options such as <strong>Sedans, SUVs, and Premium Cars</strong>. 
-            All vehicles are <strong>AC-enabled, spacious, and GPS-tracked</strong>, making your 
-            long-distance travel stress-free. Our fares are transparent with <strong>no hidden charges</strong>.
-        </p>
+            <p class="mb-4">
+                Fastpikcab offers multiple vehicle options such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All vehicles are <strong>AC-enabled, spacious, and GPS-tracked</strong>, making your
+                long-distance travel stress-free. Our fares are transparent with <strong>no hidden charges</strong>.
+            </p>
 
-        <p class="mb-4">
-            We also provide <strong>Chengalpattu railway station and doorstep pickup services</strong>, 
-            making it convenient for families, students, and tourists heading to Ramanathapuram. 
-            Our long-distance taxi packages are suitable for both one-way and round trips.
-        </p>
+            <p class="mb-4">
+                We also provide <strong>Chengalpattu railway station and doorstep pickup services</strong>,
+                making it convenient for families, students, and tourists heading to Ramanathapuram.
+                Our long-distance taxi packages are suitable for both one-way and round trips.
+            </p>
 
-        <p class="mb-4">
-            Apart from Ramanathapuram, we also operate intercity taxi services across Tamil Nadu, 
-            covering Chennai, Coimbatore, Cuddalore, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri, 
-            Madurai, Nagercoil, Namakkal, Perambalur, Pudukkottai, Salem, Thanjavur, Thiruvannamalai, 
-            Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore, Viluppuram, and Virudhunagar.
-        </p>
+            <p class="mb-4">
+                Apart from Ramanathapuram, we also operate intercity taxi services across Tamil Nadu,
+                covering Chennai, Coimbatore, Cuddalore, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri,
+                Madurai, Nagercoil, Namakkal, Perambalur, Pudukkottai, Salem, Thanjavur, Thiruvannamalai,
+                Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore, Viluppuram, and Virudhunagar.
+            </p>
 
-        <p class="mb-4">
-            Booking your <strong>Chengalpattu to Ramanathapuram taxi</strong> is simple. 
-            Just call us at <strong>+91 88256 94157</strong> or book online through our website. 
-            Our support team is available 24/7 to assist you with route details, fares, and bookings.
-        </p>
+            <p class="mb-4">
+                Booking your <strong>Chengalpattu to Ramanathapuram taxi</strong> is simple.
+                Just call us at <strong>+91 88256 94157</strong> or book online through our website.
+                Our support team is available 24/7 to assist you with route details, fares, and bookings.
+            </p>
 
-        <p>
-            Choose Fastpikcab for a comfortable, safe, and reliable 
-            <strong>Chengalpattu to Ramanathapuram cab service</strong> at the best price.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for a comfortable, safe, and reliable
+                <strong>Chengalpattu to Ramanathapuram cab service</strong> at the best price.
+            </p>
+        </div>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -272,7 +272,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Ramanathapuram Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

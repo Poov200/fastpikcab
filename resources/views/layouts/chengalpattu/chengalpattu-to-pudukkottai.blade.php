@@ -168,59 +168,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Chengalpattu to Pudukkottai Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Trusted Chengalpattu to Pudukkottai Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Planning a trip from <strong>Chengalpattu to Pudukkottai</strong>? Fastpikcab provides
-            reliable, comfortable, and affordable taxi services for one-way trips, round journeys,
-            and outstation travel. With professional drivers and clean cars, we ensure a safe and
-            smooth journey for individuals, families, and business travelers.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Chengalpattu to Pudukkottai Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Trusted Chengalpattu to Pudukkottai Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning a trip from <strong>Chengalpattu to Pudukkottai</strong>? Fastpikcab provides
+                reliable, comfortable, and affordable taxi services for one-way trips, round journeys,
+                and outstation travel. With professional drivers and clean cars, we ensure a safe and
+                smooth journey for individuals, families, and business travelers.
+            </p>
 
-        <p class="mb-4">
-            The distance between Chengalpattu and Pudukkottai is about <strong>340 km</strong>,
-            which usually takes around <strong>7–8 hours</strong> by road. The most common route is
-            via <strong>NH32 and NH36</strong>, passing through <strong>Villupuram, Trichy, and Thanjavur</strong>.
-            You can also enjoy stopovers for meals and sightseeing on the way.
-        </p>
+            <p class="mb-4">
+                The distance between Chengalpattu and Pudukkottai is about <strong>340 km</strong>,
+                which usually takes around <strong>7–8 hours</strong> by road. The most common route is
+                via <strong>NH32 and NH36</strong>, passing through <strong>Villupuram, Trichy, and Thanjavur</strong>.
+                You can also enjoy stopovers for meals and sightseeing on the way.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab offers a wide range of cars including <strong>Sedans, SUVs, and Premium Cars</strong>
-            at pocket-friendly prices. All vehicles are air-conditioned, well-maintained, and GPS-enabled.
-            We maintain <strong>transparent billing</strong> with no hidden charges.
-        </p>
+            <p class="mb-4">
+                Fastpikcab offers a wide range of cars including <strong>Sedans, SUVs, and Premium Cars</strong>
+                at pocket-friendly prices. All vehicles are air-conditioned, well-maintained, and GPS-enabled.
+                We maintain <strong>transparent billing</strong> with no hidden charges.
+            </p>
 
-        <p class="mb-4">
-            Whether you need a taxi for family travel, tourist visits, or business meetings,
-            our <strong>Chengalpattu to Pudukkottai cab service</strong> is the best option.
-            We also provide <strong>doorstep pickup and drop facilities</strong> for your convenience.
-        </p>
+            <p class="mb-4">
+                Whether you need a taxi for family travel, tourist visits, or business meetings,
+                our <strong>Chengalpattu to Pudukkottai cab service</strong> is the best option.
+                We also provide <strong>doorstep pickup and drop facilities</strong> for your convenience.
+            </p>
 
-        <p class="mb-4">
-            Apart from Pudukkottai, Fastpikcab operates taxi services to all major destinations in Tamil Nadu,
-            including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram,
-            Karur, Krishnagiri, Madurai, Nagercoil, Namakkal, Perambalur, Salem, Thanjavur,
-            Thiruvannamalai, Trichy, Tirunelveli, Tiruppur, Vellore, Villupuram, and Virudhunagar.
-        </p>
+            <p class="mb-4">
+                Apart from Pudukkottai, Fastpikcab operates taxi services to all major destinations in Tamil Nadu,
+                including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram,
+                Karur, Krishnagiri, Madurai, Nagercoil, Namakkal, Perambalur, Salem, Thanjavur,
+                Thiruvannamalai, Trichy, Tirunelveli, Tiruppur, Vellore, Villupuram, and Virudhunagar.
+            </p>
 
-        <p class="mb-4">
-            Booking a <strong>Chengalpattu to Pudukkottai taxi</strong> with Fastpikcab is quick and easy.
-            Simply call us at <strong>+91 88256 94157</strong> or book online via our website.
-            Our 24/7 customer care team is always available to assist you with fares, routes,
-            and travel details.
-        </p>
+            <p class="mb-4">
+                Booking a <strong>Chengalpattu to Pudukkottai taxi</strong> with Fastpikcab is quick and easy.
+                Simply call us at <strong>+91 88256 94157</strong> or book online via our website.
+                Our 24/7 customer care team is always available to assist you with fares, routes,
+                and travel details.
+            </p>
 
-        <p>
-            Choose Fastpikcab for your <strong>Chengalpattu to Pudukkottai cab booking</strong>
-            and enjoy a safe, reliable, and hassle-free travel experience.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for your <strong>Chengalpattu to Pudukkottai cab booking</strong>
+                and enjoy a safe, reliable, and hassle-free travel experience.
+            </p>
+        </div>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -271,7 +271,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Pudukkottai Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

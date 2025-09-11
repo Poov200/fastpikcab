@@ -168,6 +168,41 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Chennai Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Affordable Virudhunagar to Chennai Cabs – Book Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Looking for a reliable <strong>Virudhunagar to Chennai taxi</strong>?
+                Fastpikcab offers safe, affordable, and comfortable cab services with
+                professional drivers and well-maintained cars. Whether it’s for business,
+                family, or leisure, we ensure a smooth intercity ride.
+            </p>
+            <p class="mb-4">
+                The distance between Virudhunagar and Chennai is about <strong>530 km</strong>,
+                taking approximately <strong>9–10 hours</strong> via <strong>NH38 and NH32</strong>.
+                Major enroute cities include <strong>Madurai, Trichy, Villupuram, and Chengalpattu</strong>.
+            </p>
+            <p class="mb-4">
+                Choose from <strong>Sedan, SUV, or Premium Cars</strong> with transparent pricing
+                and <strong>round-trip packages</strong> available. All cars are air-conditioned,
+                GPS-enabled, and driven by experienced drivers.
+            </p>
+            <p class="mb-4">
+                Book your <strong>Virudhunagar to Chennai cab</strong> easily online or call us
+                at <strong>+91 88256 94157</strong> for instant booking confirmation.
+            </p>
+            <p>
+                Enjoy a hassle-free journey with Fastpikcab’s <strong>Virudhunagar to Chennai taxi service</strong>.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -211,7 +246,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Chennai Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

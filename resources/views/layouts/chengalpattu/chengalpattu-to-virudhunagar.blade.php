@@ -168,59 +168,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Chengalpattu to Virudhunagar Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Reliable Chengalpattu to Virudhunagar Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Planning a trip from <strong>Chengalpattu to Virudhunagar</strong>? Fastpikcab offers safe, comfortable,
-            and affordable taxi services for one-way trips, round journeys, and family or business travel.
-            Our professional drivers are available <strong>24/7</strong> to ensure you reach your destination on time.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Chengalpattu to Virudhunagar Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Chengalpattu to Virudhunagar Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning a trip from <strong>Chengalpattu to Virudhunagar</strong>? Fastpikcab offers safe, comfortable,
+                and affordable taxi services for one-way trips, round journeys, and family or business travel.
+                Our professional drivers are available <strong>24/7</strong> to ensure you reach your destination on time.
+            </p>
 
-        <p class="mb-4">
-            The distance between Chengalpattu and Virudhunagar is approximately <strong>500 km</strong>,
-            which usually takes around <strong>9–10 hours</strong> by road. The common travel route is via 
-            <strong>NH38</strong>, passing through <strong>Trichy, Madurai, and Sivakasi</strong>.
-            Comfortable stopovers for meals, tea, or rest can be arranged along the way.
-        </p>
+            <p class="mb-4">
+                The distance between Chengalpattu and Virudhunagar is approximately <strong>500 km</strong>,
+                which usually takes around <strong>9–10 hours</strong> by road. The common travel route is via
+                <strong>NH38</strong>, passing through <strong>Trichy, Madurai, and Sivakasi</strong>.
+                Comfortable stopovers for meals, tea, or rest can be arranged along the way.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
-            All vehicles are fully air-conditioned, spacious, and GPS-enabled to ensure a smooth and safe ride.
-            We follow <strong>transparent pricing</strong> with no hidden charges.
-        </p>
+            <p class="mb-4">
+                Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All vehicles are fully air-conditioned, spacious, and GPS-enabled to ensure a smooth and safe ride.
+                We follow <strong>transparent pricing</strong> with no hidden charges.
+            </p>
 
-        <p class="mb-4">
-            We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> for passengers heading towards Virudhunagar. 
-            Families, business professionals, and tourists can take advantage of our <strong>round-trip taxi packages</strong> 
-            for a cost-effective and convenient travel experience.
-        </p>
+            <p class="mb-4">
+                We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> for passengers heading towards Virudhunagar.
+                Families, business professionals, and tourists can take advantage of our <strong>round-trip taxi packages</strong>
+                for a cost-effective and convenient travel experience.
+            </p>
 
-        <p class="mb-4">
-            Apart from Virudhunagar, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
-            Ariyalur, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
-            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
-            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
-            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
-            Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram.
-        </p>
+            <p class="mb-4">
+                Apart from Virudhunagar, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+                Ariyalur, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+                Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
+                Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+                Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram.
+            </p>
 
-        <p class="mb-4">
-            Booking your <strong>Chengalpattu to Virudhunagar taxi</strong> with Fastpikcab is quick and hassle-free.
-            You can book online through our website or call us directly at <strong>+91 88256 94157</strong>.
-            Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
-        </p>
+            <p class="mb-4">
+                Booking your <strong>Chengalpattu to Virudhunagar taxi</strong> with Fastpikcab is quick and hassle-free.
+                You can book online through our website or call us directly at <strong>+91 88256 94157</strong>.
+                Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
+            </p>
 
-        <p>
-            Choose Fastpikcab for your <strong>Chengalpattu to Virudhunagar cab service</strong> and enjoy
-            a safe, reliable, and comfortable journey.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for your <strong>Chengalpattu to Virudhunagar cab service</strong> and enjoy
+                a safe, reliable, and comfortable journey.
+            </p>
+        </div>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -267,7 +267,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Virudhunagar Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

@@ -168,6 +168,39 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Erode Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Affordable Virudhunagar to Erode Cabs – Book Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Looking for a dependable <strong>Virudhunagar to Erode taxi</strong>?
+                Fastpikcab provides affordable and comfortable intercity cab services
+                with skilled drivers and well-maintained cars.
+            </p>
+            <p class="mb-4">
+                The distance between Virudhunagar and Erode is around <strong>230 km</strong>,
+                with a travel time of <strong>4–5 hours</strong> via <strong>NH44</strong>.
+                The route passes through <strong>Madurai and Dindigul</strong>.
+            </p>
+            <p class="mb-4">
+                Choose from <strong>Sedans, SUVs, and Premium Cars</strong> at competitive prices.
+                All taxis come with AC, GPS, and experienced drivers.
+            </p>
+            <p class="mb-4">
+                Book your <strong>Virudhunagar to Erode cab</strong> by calling
+                <strong>+91 88256 94157</strong> or booking online.
+            </p>
+            <p>
+                Travel comfortably with Fastpikcab’s trusted taxi service.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Erode Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -215,7 +248,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Erode Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

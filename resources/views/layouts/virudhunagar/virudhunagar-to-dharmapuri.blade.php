@@ -168,6 +168,39 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Dharmapuri Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Affordable Virudhunagar to Dharmapuri Cabs – Book Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Fastpikcab offers a reliable <strong>Virudhunagar to Dharmapuri taxi service</strong>
+                with affordable pricing, professional drivers, and clean vehicles. Whether for family
+                travel or business trips, we ensure a comfortable ride.
+            </p>
+            <p class="mb-4">
+                The road distance is around <strong>365 km</strong> and the travel time is
+                approximately <strong>6–7 hours</strong> via <strong>NH44</strong>.
+                The route covers <strong>Madurai, Dindigul, Salem</strong>.
+            </p>
+            <p class="mb-4">
+                Car options include <strong>Sedan, SUV, and Premium Cars</strong>. All taxis are
+                AC, GPS-enabled, and regularly sanitized.
+            </p>
+            <p class="mb-4">
+                Book your <strong>Virudhunagar to Dharmapuri cab</strong> easily by calling
+                <strong>+91 88256 94157</strong> or reserving online.
+            </p>
+            <p>
+                Enjoy a smooth and timely journey with Fastpikcab’s trusted intercity taxi service.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Dharmapuri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -211,7 +244,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Dharmapuri Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

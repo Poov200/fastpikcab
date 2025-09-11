@@ -168,6 +168,39 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Coimbatore Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Affordable Virudhunagar to Coimbatore Cabs – Book Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Need a <strong>Virudhunagar to Coimbatore cab</strong>? Fastpikcab offers reliable
+                intercity taxi services with comfortable cars, skilled drivers, and transparent fares.
+                Perfect for both business and family travel.
+            </p>
+            <p class="mb-4">
+                The distance from Virudhunagar to Coimbatore is around <strong>300 km</strong>,
+                taking <strong>5–6 hours</strong> via <strong>NH44</strong>. Key stops include
+                <strong>Madurai, Dindigul, and Tiruppur</strong>.
+            </p>
+            <p class="mb-4">
+                We provide multiple car options – <strong>Sedans for economy, SUVs for comfort,
+                    and Premium Cars for luxury travel</strong>. All cabs are AC, clean, and GPS-enabled.
+            </p>
+            <p class="mb-4">
+                Booking is simple – call <strong>+91 88256 94157</strong> or reserve online for
+                quick confirmation of your <strong>Virudhunagar to Coimbatore taxi</strong>.
+            </p>
+            <p>
+                Travel comfortably and on time with Fastpikcab’s <strong>Virudhunagar to Coimbatore cab service</strong>.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Coimbatore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -215,7 +248,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Coimbatore Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

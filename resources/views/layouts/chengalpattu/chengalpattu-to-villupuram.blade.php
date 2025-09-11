@@ -168,58 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Chengalpattu to Villupuram Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Reliable Chengalpattu to Villupuram Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Need a taxi from <strong>Chengalpattu to Villupuram</strong>? Fastpikcab provides safe, convenient,
-            and affordable cab services for one-way trips, round journeys, and business or personal travel. 
-            Our experienced drivers are available <strong>24/7</strong> to ensure a comfortable and timely journey.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Chengalpattu to Villupuram Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Chengalpattu to Villupuram Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Need a taxi from <strong>Chengalpattu to Villupuram</strong>? Fastpikcab provides safe, convenient,
+                and affordable cab services for one-way trips, round journeys, and business or personal travel.
+                Our experienced drivers are available <strong>24/7</strong> to ensure a comfortable and timely journey.
+            </p>
 
-        <p class="mb-4">
-            The distance between Chengalpattu and Villupuram is approximately <strong>70 km</strong>,
-            which usually takes about <strong>1.5–2 hours</strong> by road. The most common travel route is via 
-            <strong>NH32</strong>. Short stopovers for refreshments or sightseeing can also be arranged along the way.
-        </p>
+            <p class="mb-4">
+                The distance between Chengalpattu and Villupuram is approximately <strong>70 km</strong>,
+                which usually takes about <strong>1.5–2 hours</strong> by road. The most common travel route is via
+                <strong>NH32</strong>. Short stopovers for refreshments or sightseeing can also be arranged along the way.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab offers a range of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
-            All vehicles are air-conditioned, spacious, and GPS-enabled for a safe and smooth journey.
-            We follow <strong>transparent pricing</strong> with no hidden charges.
-        </p>
+            <p class="mb-4">
+                Fastpikcab offers a range of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All vehicles are air-conditioned, spacious, and GPS-enabled for a safe and smooth journey.
+                We follow <strong>transparent pricing</strong> with no hidden charges.
+            </p>
 
-        <p class="mb-4">
-            We also provide <strong>Chengalpattu Railway Station pickups</strong> for passengers traveling to Villupuram.
-            Families, business travelers, and tourists can benefit from our <strong>round-trip taxi packages</strong>
-            for cost-effective travel.
-        </p>
+            <p class="mb-4">
+                We also provide <strong>Chengalpattu Railway Station pickups</strong> for passengers traveling to Villupuram.
+                Families, business travelers, and tourists can benefit from our <strong>round-trip taxi packages</strong>
+                for cost-effective travel.
+            </p>
 
-        <p class="mb-4">
-            Apart from Villupuram, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
-            Ariyalur, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
-            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
-            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
-            Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur,
-            Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, and Virudhunagar.
-        </p>
+            <p class="mb-4">
+                Apart from Villupuram, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+                Ariyalur, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+                Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
+                Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur,
+                Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, and Virudhunagar.
+            </p>
 
-        <p class="mb-4">
-            Booking your <strong>Chengalpattu to Villupuram taxi</strong> with Fastpikcab is quick and hassle-free.
-            You can book online via our website or call us at <strong>+91 88256 94157</strong>. 
-            Our 24/7 customer support team is always ready to assist with bookings, fare details, and travel guidance.
-        </p>
+            <p class="mb-4">
+                Booking your <strong>Chengalpattu to Villupuram taxi</strong> with Fastpikcab is quick and hassle-free.
+                You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+                Our 24/7 customer support team is always ready to assist with bookings, fare details, and travel guidance.
+            </p>
 
-        <p>
-            Choose Fastpikcab for your <strong>Chengalpattu to Villupuram cab service</strong> and enjoy
-            a safe, reliable, and comfortable journey.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for your <strong>Chengalpattu to Villupuram cab service</strong> and enjoy
+                a safe, reliable, and comfortable journey.
+            </p>
+        </div>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -266,7 +266,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Villupuram Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

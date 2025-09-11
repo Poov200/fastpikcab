@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Hosur Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Virudhunagar to Hosur Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning to travel from <strong>Virudhunagar to Hosur</strong>?
+                Fastpikcab offers safe, comfortable, and affordable taxi services for one-way trips,
+                round journeys, and urgent travel needs. Our experienced drivers ensure timely drop-offs,
+                whether you are traveling for work, family occasions, or leisure.
+            </p>
+
+            <p class="mb-4">
+                The distance between Virudhunagar and Hosur is approximately <strong>440 km</strong>,
+                which usually takes about <strong>7–8 hours</strong> by road.
+                The most popular route is via <strong>NH44</strong>, covering major cities such as
+                <strong>Madurai, Dindigul, Karur, Salem, and Krishnagiri</strong>.
+                Stopovers for food, tea, or sightseeing can be arranged for your convenience during the trip.
+            </p>
+
+            <p class="mb-4">
+                Fastpikcab provides multiple vehicle choices including <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All cars are air-conditioned, spacious, and GPS-enabled to give you a stress-free travel experience.
+                Our pricing is <strong>transparent with no hidden charges</strong>, ensuring complete trust and affordability.
+            </p>
+
+            <p class="mb-4">
+                For passengers arriving by train or bus, we also offer convenient <strong>Virudhunagar station pickups</strong>
+                and direct drop-offs at your destination in Hosur. Families, professionals, and group travelers can take
+                advantage of our <strong>round-trip taxi packages</strong>, which are more economical for long-distance travel.
+            </p>
+
+            <p class="mb-4">
+                Apart from Hosur, Fastpikcab operates across all major cities in Tamil Nadu and Karnataka including:
+                Chennai, Bangalore, Coimbatore, Madurai, Trichy, Erode, Vellore, and Salem.
+                Our wide network makes it easy for you to plan your intercity travel with confidence.
+            </p>
+
+            <p class="mb-4">
+                Booking your <strong>Virudhunagar to Hosur cab</strong> is simple and quick.
+                You can book directly through our website or call <strong>+91 88256 94157</strong>
+                for instant reservations. Our dedicated 24/7 customer support team is always available to
+                help you with booking queries, pricing details, and travel guidance.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Virudhunagar to Hosur taxi service</strong>
+                and enjoy a smooth, reliable, and affordable journey with complete peace of mind.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Hosur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -211,7 +267,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Hosur Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

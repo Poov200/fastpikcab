@@ -168,63 +168,63 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Chengalpattu to Tenkasi Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Affordable Chengalpattu to Tenkasi Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Looking for a reliable taxi from <strong>Chengalpattu to Tenkasi</strong>? 
-            Fastpikcab offers safe, comfortable, and budget-friendly cab services for 
-            one-way, round trips, and urgent travel needs. Our professional drivers are 
-            available <strong>24/7</strong> to make your long-distance journey stress-free.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Chengalpattu to Tenkasi Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Affordable Chengalpattu to Tenkasi Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Looking for a reliable taxi from <strong>Chengalpattu to Tenkasi</strong>?
+                Fastpikcab offers safe, comfortable, and budget-friendly cab services for
+                one-way, round trips, and urgent travel needs. Our professional drivers are
+                available <strong>24/7</strong> to make your long-distance journey stress-free.
+            </p>
 
-        <p class="mb-4">
-            The distance between Chengalpattu and Tenkasi is approximately 
-            <strong>650 km</strong>, which usually takes around 
-            <strong>11–12 hours</strong> by road. The common route is via 
-            <strong>NH44 and NH744</strong>, passing through Villupuram, Trichy, Madurai, 
-            Rajapalayam before reaching Tenkasi. Short breaks for food, tea, or sightseeing 
-            can also be arranged along the way.
-        </p>
+            <p class="mb-4">
+                The distance between Chengalpattu and Tenkasi is approximately
+                <strong>650 km</strong>, which usually takes around
+                <strong>11–12 hours</strong> by road. The common route is via
+                <strong>NH44 and NH744</strong>, passing through Villupuram, Trichy, Madurai,
+                Rajapalayam before reaching Tenkasi. Short breaks for food, tea, or sightseeing
+                can also be arranged along the way.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab provides a wide range of vehicle options such as 
-            <strong>Sedans, SUVs, and Premium Cars</strong>. All vehicles are 
-            <strong>air-conditioned, spacious, and GPS-enabled</strong> for your comfort 
-            and safety. We maintain <strong>transparent fares</strong> with no hidden costs.
-        </p>
+            <p class="mb-4">
+                Fastpikcab provides a wide range of vehicle options such as
+                <strong>Sedans, SUVs, and Premium Cars</strong>. All vehicles are
+                <strong>air-conditioned, spacious, and GPS-enabled</strong> for your comfort
+                and safety. We maintain <strong>transparent fares</strong> with no hidden costs.
+            </p>
 
-        <p class="mb-4">
-            We also provide <strong>doorstep pickups and Chengalpattu railway station taxis</strong> 
-            for passengers traveling towards Tenkasi. Families, tourists, and business travelers 
-            can benefit from our <strong>long-distance taxi packages</strong>.
-        </p>
+            <p class="mb-4">
+                We also provide <strong>doorstep pickups and Chengalpattu railway station taxis</strong>
+                for passengers traveling towards Tenkasi. Families, tourists, and business travelers
+                can benefit from our <strong>long-distance taxi packages</strong>.
+            </p>
 
-        <p class="mb-4">
-            Apart from Tenkasi, Fastpikcab operates taxi services across all major cities in Tamil Nadu 
-            including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram, 
-            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, 
-            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, 
-            Thiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore, 
-            Viluppuram, and Virudhunagar.
-        </p>
+            <p class="mb-4">
+                Apart from Tenkasi, Fastpikcab operates taxi services across all major cities in Tamil Nadu
+                including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram,
+                Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+                Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur,
+                Thiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore,
+                Viluppuram, and Virudhunagar.
+            </p>
 
-        <p class="mb-4">
-            Booking your <strong>Chengalpattu to Tenkasi taxi</strong> with Fastpikcab is quick and hassle-free. 
-            Call us at <strong>+91 88256 94157</strong> or book online through our website. Our 
-            24/7 customer support is always ready to assist with fares, routes, and travel details.
-        </p>
+            <p class="mb-4">
+                Booking your <strong>Chengalpattu to Tenkasi taxi</strong> with Fastpikcab is quick and hassle-free.
+                Call us at <strong>+91 88256 94157</strong> or book online through our website. Our
+                24/7 customer support is always ready to assist with fares, routes, and travel details.
+            </p>
 
-        <p>
-            Choose Fastpikcab for your <strong>Chengalpattu to Tenkasi cab service</strong> 
-            and enjoy a safe, affordable, and comfortable travel experience.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for your <strong>Chengalpattu to Tenkasi cab service</strong>
+                and enjoy a safe, affordable, and comfortable travel experience.
+            </p>
+        </div>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -275,7 +275,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Tenkasi Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

@@ -168,59 +168,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Chengalpattu to Coimbatore Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Reliable Chengalpattu to Coimbatore Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Need a taxi from <strong>Chengalpattu to Coimbatore</strong>? Fastpikcab provides safe, clean,
-            and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
-            Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on time.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Chengalpattu to Coimbatore Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Chengalpattu to Coimbatore Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Need a taxi from <strong>Chengalpattu to Coimbatore</strong>? Fastpikcab provides safe, clean,
+                and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
+                Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on time.
+            </p>
 
-        <p class="mb-4">
-            The distance between Chengalpattu and Coimbatore is approximately <strong>530 km</strong>,
-            which usually takes about <strong>10–11 hours</strong> by road. The most common travel route
-            is via <strong>NH44</strong>, passing through <strong>Vellore, Salem, and Erode</strong>.
-            Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
-        </p>
+            <p class="mb-4">
+                The distance between Chengalpattu and Coimbatore is approximately <strong>530 km</strong>,
+                which usually takes about <strong>10–11 hours</strong> by road. The most common travel route
+                is via <strong>NH44</strong>, passing through <strong>Vellore, Salem, and Erode</strong>.
+                Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
-            All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free.
-            We follow <strong>transparent pricing</strong> with no hidden charges.
-        </p>
+            <p class="mb-4">
+                Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free.
+                We follow <strong>transparent pricing</strong> with no hidden charges.
+            </p>
 
-        <p class="mb-4">
-            We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> for passengers heading towards Coimbatore.
-            Families, business professionals, students, and group travelers can benefit from our
-            <strong>long-distance taxi packages</strong>, which are cost-effective for intercity travel.
-        </p>
+            <p class="mb-4">
+                We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> for passengers heading towards Coimbatore.
+                Families, business professionals, students, and group travelers can benefit from our
+                <strong>long-distance taxi packages</strong>, which are cost-effective for intercity travel.
+            </p>
 
-        <p class="mb-4">
-            Apart from Coimbatore, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
-            Ariyalur, Arani, Chennai, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
-            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
-            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
-            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
-            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
-        </p>
+            <p class="mb-4">
+                Apart from Coimbatore, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+                Ariyalur, Arani, Chennai, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+                Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+                Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+                Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+            </p>
 
-        <p class="mb-4">
-            Booking your <strong>Chengalpattu to Coimbatore taxi</strong> with Fastpikcab is simple.
-            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
-            Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
-        </p>
+            <p class="mb-4">
+                Booking your <strong>Chengalpattu to Coimbatore taxi</strong> with Fastpikcab is simple.
+                You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+                Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
+            </p>
 
-        <p>
-            Choose Fastpikcab for your <strong>Chengalpattu to Coimbatore cab service</strong> and enjoy
-            a safe, reliable, and comfortable travel experience.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for your <strong>Chengalpattu to Coimbatore cab service</strong> and enjoy
+                a safe, reliable, and comfortable travel experience.
+            </p>
+        </div>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -271,7 +271,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Coimbatore Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>
