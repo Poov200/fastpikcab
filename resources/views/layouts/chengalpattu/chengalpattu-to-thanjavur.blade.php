@@ -168,64 +168,64 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Chengalpattu to Thanjavur Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Affordable Chengalpattu to Thanjavur Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Planning to travel from <strong>Chengalpattu to Thanjavur</strong>? 
-            Fastpikcab offers reliable, safe, and budget-friendly cab services 
-            for one-way trips, round journeys, and family tours. Our drivers are 
-            available <strong>24/7</strong> to provide you with a smooth and comfortable journey.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Chengalpattu to Thanjavur Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Affordable Chengalpattu to Thanjavur Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning to travel from <strong>Chengalpattu to Thanjavur</strong>?
+                Fastpikcab offers reliable, safe, and budget-friendly cab services
+                for one-way trips, round journeys, and family tours. Our drivers are
+                available <strong>24/7</strong> to provide you with a smooth and comfortable journey.
+            </p>
 
-        <p class="mb-4">
-            The distance between Chengalpattu and Thanjavur is approximately 
-            <strong>320 km</strong>, which usually takes about 
-            <strong>6–7 hours</strong> by road. The most common travel route is via 
-            <strong>NH32 and NH36</strong>, passing through Villupuram, Perambalur, and Trichy. 
-            Stopovers for meals, tea, or sightseeing can also be arranged during the trip.
-        </p>
+            <p class="mb-4">
+                The distance between Chengalpattu and Thanjavur is approximately
+                <strong>320 km</strong>, which usually takes about
+                <strong>6–7 hours</strong> by road. The most common travel route is via
+                <strong>NH32 and NH36</strong>, passing through Villupuram, Perambalur, and Trichy.
+                Stopovers for meals, tea, or sightseeing can also be arranged during the trip.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab provides multiple taxi options including 
-            <strong>Sedans, SUVs, and Premium Cars</strong>. All vehicles are 
-            <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring your 
-            journey is safe and stress-free. We follow a policy of 
-            <strong>transparent pricing</strong> with no hidden charges.
-        </p>
+            <p class="mb-4">
+                Fastpikcab provides multiple taxi options including
+                <strong>Sedans, SUVs, and Premium Cars</strong>. All vehicles are
+                <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring your
+                journey is safe and stress-free. We follow a policy of
+                <strong>transparent pricing</strong> with no hidden charges.
+            </p>
 
-        <p class="mb-4">
-            We also provide <strong>Chengalpattu railway station pickups</strong> 
-            for passengers heading to Thanjavur. Whether you’re traveling with 
-            family, friends, or colleagues, our <strong>long-distance taxi packages</strong> 
-            are ideal for cost-effective intercity travel.
-        </p>
+            <p class="mb-4">
+                We also provide <strong>Chengalpattu railway station pickups</strong>
+                for passengers heading to Thanjavur. Whether you’re traveling with
+                family, friends, or colleagues, our <strong>long-distance taxi packages</strong>
+                are ideal for cost-effective intercity travel.
+            </p>
 
-        <p class="mb-4">
-            Apart from Thanjavur, Fastpikcab operates in all major cities and districts of Tamil Nadu, 
-            including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram, 
-            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, 
-            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, 
-            Thiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore, 
-            Viluppuram, and Virudhunagar.
-        </p>
+            <p class="mb-4">
+                Apart from Thanjavur, Fastpikcab operates in all major cities and districts of Tamil Nadu,
+                including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram,
+                Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+                Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
+                Thiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore,
+                Viluppuram, and Virudhunagar.
+            </p>
 
-        <p class="mb-4">
-            Booking your <strong>Chengalpattu to Thanjavur taxi</strong> with Fastpikcab is quick and easy. 
-            You can book online through our website or call us directly at <strong>+91 88256 94157</strong>. 
-            Our 24/7 customer support team is always available to help with fares, routes, and travel details.
-        </p>
+            <p class="mb-4">
+                Booking your <strong>Chengalpattu to Thanjavur taxi</strong> with Fastpikcab is quick and easy.
+                You can book online through our website or call us directly at <strong>+91 88256 94157</strong>.
+                Our 24/7 customer support team is always available to help with fares, routes, and travel details.
+            </p>
 
-        <p>
-            Choose Fastpikcab for your <strong>Chengalpattu to Thanjavur cab service</strong> 
-            and enjoy a safe, affordable, and convenient travel experience.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for your <strong>Chengalpattu to Thanjavur cab service</strong>
+                and enjoy a safe, affordable, and convenient travel experience.
+            </p>
+        </div>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -272,7 +272,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chengalpattu to Thanjavur Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

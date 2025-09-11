@@ -168,6 +168,39 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Dindigul Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Affordable Virudhunagar to Dindigul Cabs – Book Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Need a <strong>Virudhunagar to Dindigul cab</strong>? Fastpikcab provides
+                reliable and budget-friendly intercity taxis with professional drivers
+                and comfortable vehicles.
+            </p>
+            <p class="mb-4">
+                The distance is around <strong>110 km</strong>, taking about
+                <strong>2 hours</strong> via <strong>NH44</strong>.
+                Major stopovers include <strong>Madurai</strong>.
+            </p>
+            <p class="mb-4">
+                We offer multiple vehicle choices like <strong>Sedans, SUVs, and Premium Cars</strong>.
+                Clean, AC, and GPS-equipped taxis are guaranteed.
+            </p>
+            <p class="mb-4">
+                Book your <strong>Virudhunagar to Dindigul taxi</strong> online or call
+                <strong>+91 88256 94157</strong> for instant confirmation.
+            </p>
+            <p>
+                Fastpikcab ensures a safe, quick, and affordable trip for all passengers.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Dindigul Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -207,7 +240,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Dindigul Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

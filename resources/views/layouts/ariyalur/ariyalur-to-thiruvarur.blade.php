@@ -28,91 +28,90 @@
     <link rel="canonical" href="https://www.fastpikcab.com/ariyalur-to-thiruvarur-drop-taxi">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Fastpikcab",
-      "url": "https://www.fastpikcab.com/",
-      "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
-      "image": "https://www.fastpikcab.com/img/heroimg.png",
-      "telephone": "+91-8825694157",
-      "priceRange": "$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Throw Pathi Amman Kovil Street",
-        "addressLocality": "Kalanjukuppam",
-        "addressRegion": "Tamil Nadu",
-        "postalCode": "607104",
-        "addressCountry": "IN"
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "makesOffer": {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Ariyalur to Thiruvarur Taxi Service",
-          "description": "Reliable taxi service connecting Ariyalur to Thiruvarur with options for one-way, round-trip, and outstation travel.",
-          "serviceType": "TaxiService",
-          "areaServed": ["Ariyalur", "Thiruvarur"],
-          "provider": {
-            "@type": "Organization",
-            "name": "Fastpikcab"
-          }
-        },
-        "priceCurrency": "INR",
-        "priceValidUntil": "2026-12-31"
-      }
-    }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpikcab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Ariyalur to Thiruvarur Taxi Service",
+                    "description": "Reliable taxi service connecting Ariyalur to Thiruvarur with options for one-way, round-trip, and outstation travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Ariyalur", "Thiruvarur"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpikcab"
+                    }
+                },
+                "priceCurrency": "INR",
+                "priceValidUntil": "2026-12-31"
+            }
+        }
     </script>
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Ariyalur to Thiruvarur Taxi Service | Fastpikcab",
-      "description": "Book affordable and reliable taxis from Ariyalur to Thiruvarur. Choose from sedan and SUV vehicles for a comfortable travel.",
-      "breadcrumb": {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.fastpikcab.com/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Ariyalur to Thiruvarur",
-            "item": "https://www.fastpikcab.com/ariyalur-to-thiruvarur-drop-taxi"
-          }
-        ]
-      },
-      "mainEntityOfPage": {
-        "@type": "Product",
-        "name": "Ariyalur to Thiruvarur Taxi Service",
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": "INR",
-          "lowPrice": "1800",
-          "highPrice": "4500",
-          "offerCount": "Multiple price points based on vehicle type"
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Ariyalur to Thiruvarur Taxi Service | Fastpikcab",
+            "description": "Book affordable and reliable taxis from Ariyalur to Thiruvarur. Choose from sedan and SUV vehicles for a comfortable travel.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ariyalur to Thiruvarur",
+                        "item": "https://www.fastpikcab.com/ariyalur-to-thiruvarur-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Ariyalur to Thiruvarur Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "1800",
+                    "highPrice": "4500",
+                    "offerCount": "Multiple price points based on vehicle type"
+                }
+            }
         }
-      }
-    }
     </script>
 
     <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
@@ -169,61 +168,61 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Ariyalur to Thiruvarur Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Reliable Ariyalur to Thiruvarur Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Need a taxi from <strong>Ariyalur to Thiruvarur</strong>? Fastpikcab provides safe, clean,
-            and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
-            Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on
-            time.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Ariyalur to Thiruvarur Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Ariyalur to Thiruvarur Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Need a taxi from <strong>Ariyalur to Thiruvarur</strong>? Fastpikcab provides safe, clean,
+                and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
+                Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on
+                time.
+            </p>
 
-        <p class="mb-4">
-            The distance between Ariyalur and Thiruvarur is approximately <strong>120 km</strong>,
-            which usually takes about <strong>3 hours</strong> by road. The most common travel route
-            is via <strong>NH36</strong>, passing through <strong>Jayankondam and Kumbakonam</strong>.
-            Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
-        </p>
+            <p class="mb-4">
+                The distance between Ariyalur and Thiruvarur is approximately <strong>120 km</strong>,
+                which usually takes about <strong>3 hours</strong> by road. The most common travel route
+                is via <strong>NH36</strong>, passing through <strong>Jayankondam and Kumbakonam</strong>.
+                Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
-            All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free.
-            We follow <strong>transparent pricing</strong> with no hidden charges.
-        </p>
+            <p class="mb-4">
+                Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free.
+                We follow <strong>transparent pricing</strong> with no hidden charges.
+            </p>
 
-        <p class="mb-4">
-            We also provide <strong>Ariyalur Railway Station taxi pickups</strong> for passengers heading towards
-            Thiruvarur.
-            Families, business professionals, students, and group travelers can benefit from our
-            <strong>short-distance taxi packages</strong>, which are cost-effective and convenient.
-        </p>
+            <p class="mb-4">
+                We also provide <strong>Ariyalur Railway Station taxi pickups</strong> for passengers heading towards
+                Thiruvarur.
+                Families, business professionals, students, and group travelers can benefit from our
+                <strong>short-distance taxi packages</strong>, which are cost-effective and convenient.
+            </p>
 
-        <p class="mb-4">
-            Apart from Thiruvarur, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
-            Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
-            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
-            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
-            Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
-            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
-        </p>
+            <p class="mb-4">
+                Apart from Thiruvarur, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+                Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+                Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+                Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+                Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+            </p>
 
-        <p class="mb-4">
-            Booking your <strong>Ariyalur to Thiruvarur taxi</strong> with Fastpikcab is simple.
-            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
-            Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
-        </p>
+            <p class="mb-4">
+                Booking your <strong>Ariyalur to Thiruvarur taxi</strong> with Fastpikcab is simple.
+                You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+                Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
+            </p>
 
-        <p>
-            Choose Fastpikcab for your <strong>Ariyalur to Thiruvarur cab service</strong> and enjoy
-            a safe, reliable, and comfortable travel experience.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for your <strong>Ariyalur to Thiruvarur cab service</strong> and enjoy
+                a safe, reliable, and comfortable travel experience.
+            </p>
+        </div>
+    </section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Ariyalur to Thiruvarur Route Details</h2>
@@ -257,7 +256,7 @@
                             <span>Kumbakonam</span>
                             <span class="text-sm text-gray-500">Known as the 'Temple Town'</span>
                         </div>
-                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>S.Pudur</span>
                             <span class="text-sm text-gray-500">A common stop for refreshments</span>
                         </div>
@@ -269,7 +268,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Ariyalur to Thiruvarur Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>

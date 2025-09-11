@@ -167,57 +167,57 @@
             </div>
         </div>
     </section>
-<section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Arakkonam to Arani Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Reliable Taxi Service Across Tamil Nadu
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Planning a comfortable journey from <strong>Arakkonam to Arani</strong>? Fastpikcab provides safe,
-            clean, and well-maintained cabs for one-way trips, round journeys, and urgent taxi requests.
-            Our drivers are available 24/7 to ensure you reach your destination on time.
-        </p>
+    <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Arakkonam to Arani Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Reliable Taxi Service Across Tamil Nadu
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning a comfortable journey from <strong>Arakkonam to Arani</strong>? Fastpikcab provides safe,
+                clean, and well-maintained cabs for one-way trips, round journeys, and urgent taxi requests.
+                Our drivers are available 24/7 to ensure you reach your destination on time.
+            </p>
 
-        <p class="mb-4">
-            The distance between Arakkonam and Arani is around <strong>90 km</strong>, which usually takes
-            <strong>2–3 hours</strong> via <strong>NH716 / SH4</strong>. Enjoy a smooth ride through towns
-            like <strong>Kanchipuram and Cheyyar</strong> with optional short stopovers for meals or sightseeing.
-        </p>
+            <p class="mb-4">
+                The distance between Arakkonam and Arani is around <strong>90 km</strong>, which usually takes
+                <strong>2–3 hours</strong> via <strong>NH716 / SH4</strong>. Enjoy a smooth ride through towns
+                like <strong>Kanchipuram and Cheyyar</strong> with optional short stopovers for meals or sightseeing.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab offers a variety of vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong>,
-            equipped with air-conditioning, spacious seating, and GPS tracking. Our transparent pricing ensures
-            there are no hidden charges.
-        </p>
+            <p class="mb-4">
+                Fastpikcab offers a variety of vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong>,
+                equipped with air-conditioning, spacious seating, and GPS tracking. Our transparent pricing ensures
+                there are no hidden charges.
+            </p>
 
-        <p class="mb-4">
-            We provide <strong>taxi pickups from Arakkonam Railway Station</strong> and other locations across
-            Tamil Nadu. Our services cover all major cities and districts including:
-        </p>
+            <p class="mb-4">
+                We provide <strong>taxi pickups from Arakkonam Railway Station</strong> and other locations across
+                Tamil Nadu. Our services cover all major cities and districts including:
+            </p>
 
-        <p class="mb-4 font-semibold">
-            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
-            Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai,
-            Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
-            Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
-            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
-        </p>
+            <p class="mb-4 font-semibold">
+                Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai,
+                Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
+                Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+                Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+            </p>
 
-        <p class="mb-4">
-            Booking with Fastpikcab is quick and easy. Reserve your taxi online or call us at
-            <strong>+91 88256 94157</strong>. Our 24/7 customer support will assist you with bookings, fare inquiries,
-            and travel guidance.
-        </p>
+            <p class="mb-4">
+                Booking with Fastpikcab is quick and easy. Reserve your taxi online or call us at
+                <strong>+91 88256 94157</strong>. Our 24/7 customer support will assist you with bookings, fare inquiries,
+                and travel guidance.
+            </p>
 
-        <p>
-            Choose <strong>Fastpikcab</strong> for reliable, affordable, and comfortable taxi service across
-            Tamil Nadu. We ensure every trip is safe, punctual, and memorable.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose <strong>Fastpikcab</strong> for reliable, affordable, and comfortable taxi service across
+                Tamil Nadu. We ensure every trip is safe, punctual, and memorable.
+            </p>
+        </div>
+    </section>
 
 
 
@@ -265,7 +265,8 @@
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Arakkonam to Arani Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+
             <table class="w-full table-auto">
                 <thead class="bg-blue-600 text-white">
                     <tr>
