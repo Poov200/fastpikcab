@@ -256,8 +256,6 @@
 
     @include('layouts.routes')
     @include('layouts.footer')
-    @include('layouts.routes')
-    @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
