@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Ramanathapuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Ramanathapuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Tenkasi to Ramanathapuram</strong>? Fastpikcab offers safe, comfortable, and affordable taxi services for one-way trips, round journeys, and outstation travel.
+            Our experienced drivers ensure a smooth journey with 24/7 service availability.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tenkasi and Ramanathapuram is approximately <strong>250 km</strong>,
+            taking around <strong>5–6 hours</strong> by road. The main travel route is via <strong>NH744 and NH87</strong>.
+            We can arrange rest and refreshment breaks during the journey.
+        </p>
+
+        <p class="mb-4">
+            We provide multiple vehicle options like <strong>Sedans, SUVs, and Premium Cars</strong> based on your needs.
+            All our taxis are air-conditioned, GPS-enabled, and well-maintained for a comfortable ride.
+            Our services come with <strong>transparent fares</strong> and no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Passengers can also book <strong>Tenkasi Railway Station pickups</strong> to travel directly to Ramanathapuram.
+            Whether for family trips, business visits, or tourist purposes, Fastpikcab ensures a safe and reliable experience.
+        </p>
+
+        <p class="mb-4">
+            Apart from Ramanathapuram, Fastpikcab serves across Tamil Nadu and nearby states including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai,
+            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai, Thoothukudi, Tirunelveli,
+            Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Ramanathapuram cab</strong> is quick and easy. You can reserve online on our website or call us at <strong>+91 88256 94157</strong>.
+            Our support team is available 24/7 for bookings, queries, and travel assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Ramanathapuram taxi service</strong> and enjoy a safe, comfortable, and affordable journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Ramanathapuram Route Details</h2>

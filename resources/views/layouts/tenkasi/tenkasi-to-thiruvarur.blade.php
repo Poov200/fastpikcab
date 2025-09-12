@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Thiruvarur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Thiruvarur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Tenkasi to Thiruvarur</strong>? Fastpikcab offers safe, affordable, and comfortable taxis for one-way, round trips, and long-distance travel.
+            Our drivers are available <strong>24/7</strong> for your convenience.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tenkasi and Thiruvarur is approximately <strong>400 km</strong>,
+            with a travel time of about <strong>8–9 hours</strong>. The preferred route is via <strong>NH44 and NH36</strong>.
+            We also arrange refreshment breaks during the journey for a relaxed experience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides vehicle options such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, GPS-enabled, and spacious to ensure a comfortable ride.
+            We offer <strong>clear and transparent pricing</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Tenkasi Railway Station taxi pickup services</strong> for passengers traveling to Thiruvarur.
+            Families, students, tourists, and business professionals can make use of our long-distance packages.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thiruvarur, Fastpikcab operates in major Tamil Nadu cities including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai, Thoothukudi, Tirunelveli,
+            Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Thiruvarur cab</strong> is quick and easy. Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to help with booking and travel assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Thiruvarur taxi service</strong> and enjoy a safe, reliable, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Thiruvarur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

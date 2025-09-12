@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Sivakasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Sivakasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Tenkasi to Sivakasi</strong>? Fastpikcab provides safe, comfortable, and reliable taxi services for one-way, round trips, and urgent travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure a smooth and stress-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tenkasi and Sivakasi is approximately <strong>100 km</strong>,
+            taking about <strong>2.5–3 hours</strong> by road. The common route is via <strong>NH744</strong>.
+            Refreshment breaks and meal stops can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi choices including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a safe and comfortable ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Tenkasi Railway Station taxi pickups</strong> for passengers traveling to Sivakasi.
+            Families, students, business travelers, and tourists can take advantage of our reliable long-distance taxi packages.
+        </p>
+
+        <p class="mb-4">
+            Apart from Sivakasi, Fastpikcab operates across Tamil Nadu and nearby states including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Thanjavur, Theni, Thiruvallur, Thiruvannamalai, Thiruvarur, Thoothukudi,
+            Tirunelveli, Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Sivakasi taxi</strong> is simple. Book online via our website or call <strong>+91 88256 94157</strong>.
+            Our support team is available 24/7 to assist with bookings, fares, and travel details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Sivakasi cab service</strong> and enjoy a safe, reliable, and comfortable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Sivakasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

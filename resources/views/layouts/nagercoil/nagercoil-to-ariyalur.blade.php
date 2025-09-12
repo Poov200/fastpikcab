@@ -137,34 +137,54 @@
             </div>
         </div>
     </section>
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Nagercoil to Ariyalur Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Nagercoil to Ariyalur
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Planning a comfortable journey from <strong>Nagercoil</strong> to <strong>Ariyalur</strong>? Fastpikcab offers safe, clean, and affordable cabs for one-way, round-trip, and outstation travel. Our expert drivers operate 24/7 to provide timely and hassle-free trips.
-            </p>
-            <p class="mb-4">
-                The distance from Nagercoil to Ariyalur is approximately <strong>426 km</strong>, with an estimated drive time of around <strong>8 to 9 hours</strong> depending on route and traffic. Enjoy smooth and scenic routes across southern Tamil Nadu.
-            </p>
-            <p class="mb-4">
-                Choose from air-conditioned <strong>Hatchbacks, Sedans, and SUVs</strong> with GPS navigation for your convenience. We maintain transparent pricing with no hidden fees, and flexible booking options.
-            </p>
-            <p class="mb-4">
-                Ariyalur boasts cultural and historical attractions such as the <strong>Brihadeeswarar Temple</strong> and <strong>Gangaikonda Cholapuram</strong>. Our round-trip packages offer an economical way to explore the region comfortably.
-            </p>
-            <p class="mb-4">
-                Book your <strong>Nagercoil to Ariyalur cab</strong> easily online or call <strong>+91 88256 94157</strong>. Our team is available 24/7 to assist with bookings, fare details, and travel support.
-            </p>
-            <p>
-                Choose Fastpikcab for a <strong>safe, reliable, and comfortable ride from Nagercoil to Ariyalur</strong>.
-            </p>
-        </div>
-    </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Nagercoil to Ariyalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Nagercoil to Ariyalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Nagercoil to Ariyalur</strong>? Fastpikcab offers safe, comfortable, and reliable cab services for one-way, round trips, and business or leisure travel.
+            Our drivers are professional and available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Nagercoil and Ariyalur is approximately <strong>580 km</strong>,
+            with a travel time of about <strong>11–12 hours</strong>. The preferred route is via <strong>NH44 and NH36</strong>.
+            Refreshment and rest stops can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a range of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are air-conditioned, GPS-enabled, and spacious for a comfortable ride.
+            We maintain <strong>clear and transparent pricing</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Nagercoil Railway Station pickup taxis</strong> for passengers heading to Ariyalur.
+            Families, students, tourists, and business travelers can all benefit from our service.
+        </p>
+
+        <p class="mb-4">
+            Apart from Ariyalur, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Hosur, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Nagercoil to Ariyalur cab</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 team is always ready to help with bookings and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Nagercoil to Ariyalur taxi service</strong> and enjoy a safe, reliable, and convenient ride.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Nagercoil to Ariyalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
@@ -226,7 +246,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">Starts from ₹6,426</td>

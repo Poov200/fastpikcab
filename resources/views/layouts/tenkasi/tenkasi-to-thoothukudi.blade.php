@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Thoothukudi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Thoothukudi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Tenkasi to Thoothukudi</strong>? Fastpikcab provides comfortable, reliable, and budget-friendly taxi services for all your travel needs.
+            Our professional drivers are available <strong>24/7</strong> to make your journey hassle-free.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tenkasi and Thoothukudi is approximately <strong>165 km</strong>,
+            with a travel time of around <strong>4–4.5 hours</strong>. The preferred route is via <strong>NH44 and NH138</strong>.
+            Short refreshment breaks can be arranged during the trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle options such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our vehicles are air-conditioned, GPS-enabled, and regularly sanitized.
+            We follow <strong>transparent pricing</strong> policies with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Tenkasi Railway Station pickup taxis</strong> for travelers heading to Thoothukudi.
+            Families, tourists, business travelers, and groups can all benefit from our reliable long-distance taxi packages.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thoothukudi, Fastpikcab operates across Tamil Nadu including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Thiruvarur, Tirunelveli, Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Thoothukudi taxi</strong> is simple and quick. Book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 support team will assist you with bookings and fare details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Thoothukudi cab service</strong> and enjoy a safe, comfortable, and convenient ride.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Thoothukudi Route Details</h2>

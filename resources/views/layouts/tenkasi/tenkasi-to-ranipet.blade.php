@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Ranipet Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Ranipet Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Tenkasi to Ranipet</strong>? Fastpikcab provides comfortable, safe, and affordable taxi services for one-way, round trips, and long-distance journeys.
+            Our drivers are trained professionals, ensuring you reach your destination on time with complete comfort.
+        </p>
+
+        <p class="mb-4">
+            The road distance between Tenkasi and Ranipet is around <strong>530 km</strong>,
+            with a travel time of approximately <strong>10–11 hours</strong>. The recommended route is via <strong>NH44</strong>.
+            Rest stops and refreshment breaks are available as per your preference during the journey.
+        </p>
+
+        <p class="mb-4">
+            We offer vehicle options such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and equipped with GPS tracking for safety.
+            We ensure <strong>clear and transparent pricing</strong> without any hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>railway station pickups from Tenkasi</strong> for passengers traveling to Ranipet.
+            Whether it’s a family trip, tourist visit, or a business journey, Fastpikcab ensures a hassle-free experience.
+        </p>
+
+        <p class="mb-4">
+            Apart from Ranipet, Fastpikcab operates taxi services across Tamil Nadu and nearby states including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Hosur, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Puducherry, Pudukkottai, Ramanathapuram, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Thoothukudi, Tirunelveli, Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Ranipet taxi</strong> is simple. You can book online on our website or call <strong>+91 88256 94157</strong>.
+            Our dedicated team is available 24/7 for support and assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Ranipet cab service</strong> and enjoy a smooth, safe, and reliable journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Ranipet Route Details</h2>
