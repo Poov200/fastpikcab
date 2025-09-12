@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Bangalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Bangalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Bangalore taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for business, leisure, and family travel.
+            With our professional drivers and modern fleet, you are assured of a
+            <strong>comfortable journey at any time of the day</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Bangalore</strong> is about
+            <strong>40 km</strong>, usually covered in <strong>1–1.5 hours</strong>.
+            The common route is via <strong>NH44</strong>, ensuring a quick and smooth trip.
+            This short ride is perfect for daily commutes, airport transfers, and business visits.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers a variety of options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>air-conditioned, clean, and GPS-enabled</strong>,
+            providing complete safety and comfort. Our <strong>transparent pricing</strong> ensures there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Bangalore, Fastpikcab also operates across Tamil Nadu covering:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, Dharmapuri, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Bangalore cab</strong> is quick and easy.
+            Just call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 support team</strong> will guide you with bookings and fares.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Bangalore cab service</strong>
+            and enjoy a safe and reliable travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Bangalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

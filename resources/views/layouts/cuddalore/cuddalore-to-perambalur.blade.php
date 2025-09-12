@@ -160,6 +160,57 @@
         </div>
     </section>
 
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Cuddalore to Perambalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Cuddalore to Perambalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Cuddalore to Perambalur taxi</strong>? Fastpikcab provides
+            <strong>safe, comfortable, and affordable cab services</strong> for one-way trips,
+            return rides, family tours, and business journeys. With skilled drivers and
+            well-maintained vehicles, your travel is always <strong>hassle-free and smooth</strong>, 24/7.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Cuddalore and Perambalur</strong> is about
+            <strong>110–120 km</strong>, which usually takes <strong>2.5–3 hours</strong> by road.
+            The common route is via <strong>NH36</strong>, passing through
+            <strong>Virudhachalam and Veppur</strong>. Stopovers can be arranged for food or refreshments.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a range of vehicles such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring a safe and enjoyable ride. With <strong>transparent pricing</strong>, you won’t face hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Perambalur, Fastpikcab covers all major Tamil Nadu cities including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Cuddalore to Perambalur taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 support team</strong> is here to help with fares, bookings, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Cuddalore to Perambalur cab service</strong>
+            and enjoy a reliable, affordable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
     <!-- Route Details -->
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Perambalur Route Details</h2>

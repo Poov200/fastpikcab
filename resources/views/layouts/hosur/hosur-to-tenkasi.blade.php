@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Tenkasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Tenkasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Tenkasi taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way journeys,
+            round trips, family vacations, and business travel. Our skilled drivers and modern vehicles
+            ensure a <strong>comfortable ride 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Tenkasi</strong> is around
+            <strong>550–560 km</strong>, taking about <strong>10–11 hours</strong> by road.
+            The usual route is via <strong>NH44</strong>, passing through Salem, Madurai, and Tirunelveli.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple cab options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>AC, GPS-enabled, and spacious</strong>,
+            making long-distance travel safe and comfortable. With <strong>transparent fares</strong>,
+            there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Tenkasi, Fastpikcab provides services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Salem, Erode, Madurai, Trichy, Thanjavur, Tiruppur, Tirunelveli,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Pudukkottai, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Tenkasi taxi</strong> is simple and fast.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer care team</strong> is always available for assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Tenkasi cab service</strong>
+            and enjoy a smooth and safe journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Tenkasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

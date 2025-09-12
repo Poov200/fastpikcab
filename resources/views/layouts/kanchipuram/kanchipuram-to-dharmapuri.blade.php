@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Dharmapuri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Dharmapuri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Dharmapuri taxi</strong>? Fastpikcab provides
+            <strong>safe, punctual, and affordable taxi services</strong> for one-way trips, round journeys,
+            family travel, and business rides. Our skilled drivers ensure <strong>comfortable travel 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Dharmapuri</strong> is about
+            <strong>240–270 km</strong>, usually taking <strong>5–6 hours</strong> by road.
+            The common route is via <strong>NH48</strong>, passing through Krishnagiri and Salem.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers several vehicle categories including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            and we maintain <strong>transparent pricing</strong> with no hidden fees.
+        </p>
+
+        <p class="mb-4">
+            Apart from Dharmapuri, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Hosur,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur,
+            Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Dharmapuri taxi</strong> is easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> team is ready to help with fare details and reservations.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Dharmapuri cab service</strong>
+            and travel with safety and peace of mind.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Dharmapuri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

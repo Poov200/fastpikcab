@@ -167,6 +167,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Kerala Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a comfortable <strong>Erode to Kerala taxi</strong>? Fastpikcab offers
+            <strong>safe, affordable, and convenient taxi services</strong> for one-way trips,
+            family vacations, pilgrimages, and business travel. With professional drivers and
+            modern vehicles, we ensure <strong>a smooth and reliable journey</strong>, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Kerala</strong> depends on your destination city in Kerala.
+            For example, <strong>Erode to Palakkad</strong> is about <strong>115 km</strong> (3 hours),
+            while <strong>Erode to Kochi</strong> is around <strong>240 km</strong> (6 hours).
+            The major travel routes are via <strong>NH544 and NH66</strong>, connecting through Palakkad, Thrissur, and Kochi.
+        </p>
+
+        <p class="mb-4">
+            You can choose from <strong>Sedans, SUVs, Tempo Travellers, or Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>, ensuring
+            comfort for both short and long trips. With <strong>transparent pricing</strong>, you only pay what is shown—no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kerala, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Kerala taxi</strong> is quick and easy.
+            Call us at <strong>+91 88256 94157</strong> or make an online booking anytime.
+            Our <strong>24/7 customer service</strong> team is ready to help with bookings, fares, and travel details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Kerala cab service</strong>
+            and experience safe, reliable, and affordable travel.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

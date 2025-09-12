@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Chengalpattu Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Chengalpattu Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Hosur to Chengalpattu</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and budget-friendly taxi services</strong> for one-way trips,
+            round tours, and business journeys. With experienced drivers, you get
+            <strong>a hassle-free travel experience 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Chengalpattu</strong> is nearly
+            <strong>330–350 km</strong>, taking about <strong>7–8 hours</strong> by road.
+            The usual route is via <strong>NH48 and NH32</strong>, passing through Bangalore and Chennai.
+            Stopovers can be arranged as per your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring a safe and enjoyable journey. With <strong>clear pricing</strong>, you don’t need to worry about hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Chengalpattu, Fastpikcab operates taxi services in cities across Tamil Nadu such as:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Chengalpattu cab</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online through our site.
+            Our dedicated <strong>24/7 support</strong> ensures smooth bookings.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Chengalpattu taxi service</strong>
+            and travel with comfort and reliability.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Chengalpattu Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

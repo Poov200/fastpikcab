@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dharmapuri to Nagapattinam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dharmapuri to Nagapattinam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Traveling from <strong>Dharmapuri to Nagapattinam</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way transfers, round trips,
+            and business or family travel. With our professional drivers, your journey is smooth,
+            stress-free, and available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dharmapuri and Nagapattinam</strong> is around <strong>370–400 km</strong>,
+            which usually takes about <strong>7.5–9 hours</strong> by road. The most common route is via
+            <strong>NH44 and NH32</strong>, passing through <strong>Salem, Perambalur, Thanjavur, and Karaikal</strong>.
+            Stopovers for meals, refreshments, or sightseeing can be arranged as per your preference.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers a wide range of taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our cabs are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            giving you a safe and comfortable ride. With <strong>transparent pricing</strong>, you can be assured
+            of no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Nagapattinam, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Krishnagiri, Madurai, Mayiladuthurai, Nagercoil, Namakkal, Perambalur, Pudukkottai,
+                Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
+                Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+                Vellore, Villupuram, Virudhunagar, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dharmapuri to Nagapattinam taxi</strong> with Fastpikcab is easy and quick.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our customer care team is available <strong>24/7</strong> to help with bookings, fare details,
+            and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dharmapuri to Nagapattinam cab service</strong> and
+            enjoy a safe, reliable, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Nagapattinam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

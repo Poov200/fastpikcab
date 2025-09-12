@@ -160,6 +160,57 @@
         </div>
     </section>
 
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Cuddalore to Namakkal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Cuddalore to Namakkal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Cuddalore to Namakkal taxi</strong>? Fastpikcab offers
+            <strong>reliable, affordable, and safe taxi services</strong> for one-way trips,
+            round journeys, business travel, and family rides. With professional drivers
+            and modern vehicles, we ensure <strong>a smooth and stress-free journey</strong>, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Cuddalore and Namakkal</strong> is about
+            <strong>210–230 km</strong>, which takes nearly <strong>4.5–5.5 hours</strong> by road.
+            The usual travel route is via <strong>NH79 and NH38</strong>, passing through
+            <strong>Attur and Salem</strong>. Breaks for food, refreshments, or sightseeing can be arranged en route.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, or Premium Cars</strong>.
+            All cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong>, making
+            your ride safe and comfortable. With <strong>transparent fares</strong>, there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Namakkal, Fastpikcab provides services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Cuddalore to Namakkal taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online through our website.
+            Our <strong>24/7 customer support</strong> is always ready to assist with bookings, fares, and travel info.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Cuddalore to Namakkal cab service</strong>
+            and enjoy a reliable, safe, and budget-friendly ride.
+        </p>
+    </div>
+</section>
+
+
     <!-- Route Details -->
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Namakkal Route Details</h2>

@@ -159,6 +159,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Thiruvannamalai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Thiruvannamalai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Erode to Thiruvannamalai taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way trips,
+            family tours, pilgrimages, and business journeys. Our professional drivers ensure
+            a <strong>comfortable and stress-free ride 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Thiruvannamalai</strong> is approximately
+            <strong>220–230 km</strong>, usually taking <strong>5–6 hours</strong> by road.
+            The common travel route is via <strong>Salem and Kallakurichi</strong>. Stopovers
+            for refreshments can be arranged during your journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicles including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            making your ride safe and convenient. With <strong>transparent fares</strong>, you pay only what’s fair.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thiruvannamalai, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Thiruvannamalai taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support</strong> is available anytime for assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Thiruvannamalai cab service</strong>
+            and enjoy a smooth, reliable, and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Thiruvannamalai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

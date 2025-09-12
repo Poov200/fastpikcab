@@ -168,6 +168,52 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Dharmapuri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Dharmapuri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Dindigul to Dharmapuri taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way trips,
+            round journeys, family tours, and business travel. Our professional drivers ensure
+            a comfortable and stress-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Dharmapuri</strong> is around
+            <strong>210–230 km</strong>, usually taking about <strong>4.5–5.5 hours</strong> by road.
+            The common route is via <strong>NH44</strong>, passing through <strong>Salem</strong>.
+            Short stopovers for meals, tea, or sightseeing can be arranged as per your preference.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and enjoyable journey. With our <strong>transparent pricing</strong>,
+            you can travel with peace of mind — no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Dharmapuri, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+                Karur, Pudukkottai, Ranipet, Ariyalur, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Dharmapuri taxi</strong> with Fastpikcab is quick and easy.
+            Call us at <strong>+91 88256 94157</strong> or book online via our website.
+            Our dedicated customer care team is available <strong>24/7</strong> to assist you with
+            bookings, fare details, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Dharmapuri cab service</strong>
+            and enjoy a safe, reliable, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Dharmapuri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

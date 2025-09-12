@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Tenkasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Tenkasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Tenkasi taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way, round trips,
+            temple visits, and business travel. Available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Tenkasi</strong> is about
+            <strong>620 km</strong>, which takes approximately <strong>11–12 hours</strong> by road.
+            The common travel route is via <strong>NH44</strong>, passing through Trichy and Madurai.
+        </p>
+
+        <p class="mb-4">
+            We provide <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our cabs are <strong>AC, GPS-enabled, and spacious</strong>.
+            Our <strong>transparent fares</strong> ensure no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tenkasi, Fastpikcab operates across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri,
+            Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai,
+            Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet,
+            Salem, Sivagangai, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy),
+            Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram,
+            and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Tenkasi taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or reserve online anytime.
+            Our <strong>24/7 support team</strong> is here to assist you.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Tenkasi cab service</strong>
+            and travel with comfort and peace of mind.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Tenkasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

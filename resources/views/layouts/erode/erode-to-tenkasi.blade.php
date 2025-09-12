@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Tenkasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Tenkasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Erode to Tenkasi</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way travel,
+            round trips, business rides, and family journeys. With experienced drivers and
+            modern vehicles, we ensure a <strong>smooth and stress-free ride 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Tenkasi</strong> is approximately
+            <strong>340–360 km</strong>, which usually takes about <strong>7–8 hours</strong> by road.
+            The common travel route is via <strong>Dindigul and Madurai</strong>, offering a scenic
+            and convenient journey. Stopovers for meals or refreshments can be arranged as needed.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple taxi choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring <strong>safe and comfortable travel</strong>. With <strong>transparent pricing</strong>,
+            you pay only what you see — no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tenkasi, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Sivakasi, Thanjavur,
+            Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Tenkasi taxi</strong> is simple and fast.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is always available for assistance with bookings and fare details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Tenkasi cab service</strong>
+            and enjoy a comfortable, reliable, and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Tenkasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

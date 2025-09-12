@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Nagapattinam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Nagapattinam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Kanchipuram to Nagapattinam taxi</strong>? Fastpikcab offers
+            <strong>reliable, safe, and affordable cabs</strong> for one-way, round trips,
+            and holiday travel. Our drivers ensure a smooth and comfortable ride
+            <strong>anytime 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Nagapattinam</strong> is around
+            <strong>300 km</strong>, which usually takes <strong>6–7 hours</strong> by road.
+            The common route is via <strong>NH32</strong>, passing through Chengalpattu and Cuddalore.
+        </p>
+
+        <p class="mb-4">
+            We provide multiple options such as <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All cabs are <strong>AC, spacious, and GPS-enabled</strong>.
+            Our <strong>transparent pricing</strong> ensures no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Nagapattinam, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri,
+            Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai,
+            Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy),
+            Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Nagapattinam taxi</strong> is easy.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer care team</strong> is always available for assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Nagapattinam cab service</strong>
+            and travel worry-free.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Nagapattinam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

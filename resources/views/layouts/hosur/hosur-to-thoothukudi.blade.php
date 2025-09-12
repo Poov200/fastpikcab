@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Thoothukudi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Thoothukudi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Thoothukudi taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable taxi services</strong> for long-distance travel,
+            family trips, business rides, and round journeys. With skilled drivers and modern vehicles,
+            we ensure <strong>comfortable rides 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Thoothukudi</strong> is about
+            <strong>560–580 km</strong>, usually taking <strong>10–11 hours</strong> by road.
+            The common route is via <strong>NH44</strong>, passing through Salem, Madurai, and Tirunelveli.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>AC, GPS-enabled, and spacious</strong>,
+            giving you both safety and comfort. With <strong>transparent fares</strong>, you can travel with confidence.
+        </p>
+        <p class="mb-4">
+            Apart from Thoothukudi, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Thoothukudi taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> team is ready to assist you.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Thoothukudi cab service</strong>
+            and enjoy a reliable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Thoothukudi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

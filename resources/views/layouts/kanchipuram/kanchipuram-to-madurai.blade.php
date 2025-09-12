@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Madurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Madurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Madurai taxi</strong>? Fastpikcab provides
+            <strong>reliable, safe, and affordable cab services</strong> for one-way trips,
+            round journeys, and business travel. Our drivers are trained and available
+            <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Madurai</strong> is about
+            <strong>450–480 km</strong>, usually taking <strong>8–9 hours</strong> by road.
+            The popular route is via <strong>NH38</strong>, passing through Trichy and Dindigul.
+        </p>
+
+        <p class="mb-4">
+            We provide multiple taxi choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>AC, GPS-enabled, and well-maintained</strong>.
+            Transparent pricing ensures no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Madurai, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore,
+            Dharmapuri, Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Krishnagiri,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Madurai taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is always ready to assist.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Madurai cab service</strong>
+            and experience safe and comfortable travel.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Madurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

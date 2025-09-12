@@ -168,6 +168,49 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Kerala Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Hosur to Kerala</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and budget-friendly taxi services</strong> for one-way trips,
+            family holidays, pilgrimages, and business travel. With experienced drivers and
+            well-maintained vehicles, your journey will be <strong>smooth and stress-free</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Kerala</strong> depends on your destination city.
+            Major Kerala cities include <strong>Kochi, Trivandrum, Thrissur, Palakkad, Kozhikode, and Alleppey</strong>.
+            The average road trip may take <strong>8–12 hours</strong> depending on the route via <strong>NH544 or NH66</strong>.
+        </p>
+        <p class="mb-4">
+            We provide a wide range of vehicles such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Luxury Cars</strong>. All taxis are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring maximum comfort and safety throughout the trip.
+        </p>
+        <p class="mb-4">
+            Apart from Kerala, Fastpikcab covers routes across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Kerala taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer service</strong> is always available to help.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Kerala cab service</strong>
+            and travel with comfort and peace of mind.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

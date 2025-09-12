@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Karur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Karur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Karur taxi</strong>? Fastpikcab offers
+            <strong>affordable, safe, and reliable taxi services</strong> for family rides,
+            round trips, and one-way transfers. With experienced drivers, we guarantee
+            <strong>a comfortable and smooth journey</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Erode and Karur</strong> is just
+            <strong>65–75 km</strong>, which usually takes around <strong>1.5–2 hours</strong>
+            by road. The common travel route is via <strong>NH44</strong>.
+        </p>
+        <p class="mb-4">
+            You can choose from a variety of vehicles like <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All taxis are <strong>air-conditioned, GPS-enabled, and comfortable</strong>, ensuring a pleasant ride.
+            Our <strong>transparent pricing</strong> means no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Karur, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>
+                Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri,
+                Namakkal, Pudukkottai, Ranipet, Ariyalur, and Hosur.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Erode to Karur taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> team is ready to assist with fares and bookings.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Karur cab service</strong>
+            and enjoy a reliable, affordable, and safe ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Karur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

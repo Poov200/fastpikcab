@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Viluppuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Viluppuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Viluppuram taxi</strong>? Fastpikcab offers
+            <strong>safe, affordable, and reliable taxi services</strong> for long-distance journeys,
+            one-way trips, and round travels. With skilled drivers and modern vehicles,
+            we guarantee <strong>24/7 travel convenience</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Viluppuram</strong> is about
+            <strong>240–250 km</strong>, which usually takes <strong>5–6 hours</strong> by road.
+            The common route is via <strong>NH48 and NH132</strong>, passing through Krishnagiri, Vellore, and Arcot.
+        </p>
+        <p class="mb-4">
+            We offer a wide range of cabs including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All cabs are <strong>AC, GPS-enabled, and spacious</strong>, ensuring comfort and safety.
+            With <strong>transparent pricing</strong>, there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Viluppuram, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Viluppuram taxi</strong> is fast and easy.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support</strong> is here to help anytime.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Viluppuram cab service</strong>
+            and enjoy a smooth and reliable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Villupuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

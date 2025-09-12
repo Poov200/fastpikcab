@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Madurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Madurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Erode to Madurai</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way trips,
+            family tours, temple visits, and business journeys. Our professional drivers ensure
+            a smooth and convenient ride <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Madurai</strong> is approximately
+            <strong>215 km</strong>, usually taking about <strong>4.5–5 hours</strong> by road.
+            The common route is via <strong>NH44</strong>, passing through Karur and Dindigul.
+            Meals and sightseeing stopovers can be arranged on request.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>, ensuring
+            a safe and pleasant journey. With <strong>transparent pricing</strong>, there are no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            Apart from Madurai, Fastpikcab operates services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Madurai taxi</strong> with Fastpikcab is easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 support team</strong> is always available for bookings and queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Madurai cab service</strong>
+            and enjoy a smooth, affordable, and comfortable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Madurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

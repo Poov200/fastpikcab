@@ -168,6 +168,53 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Bangalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Bangalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Dindigul to Bangalore taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way trips,
+            round journeys, business travel, and family holidays. Our expert drivers ensure
+            a smooth and hassle-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Bangalore</strong> is about
+            <strong>370–390 km</strong>, which usually takes around <strong>7–8 hours</strong> by road.
+            The most common route is via <strong>NH44</strong>, passing through
+            <strong>Salem and Hosur</strong>. Convenient stopovers for meals, tea, or short breaks
+            can be arranged according to your preference.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple cab choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our vehicles are <strong>air-conditioned, well-maintained, and GPS-enabled</strong>,
+            providing you with complete safety and comfort. With <strong>transparent fares</strong>,
+            you can travel without worrying about hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Bangalore, Fastpikcab operates taxi services to all major cities and districts in Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+                Karur, Pudukkottai, Ranipet, Ariyalur, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Bangalore taxi</strong> with Fastpikcab is simple and convenient.
+            Call us at <strong>+91 88256 94157</strong> or book directly through our website.
+            Our customer support team is available <strong>24/7</strong> to assist you with
+            bookings, fare details, and travel-related queries.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Bangalore cab service</strong> and
+            enjoy a safe, affordable, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Bangalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

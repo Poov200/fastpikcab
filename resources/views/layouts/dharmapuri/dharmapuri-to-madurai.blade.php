@@ -168,6 +168,53 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dharmapuri to Madurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dharmapuri to Madurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Dharmapuri to Madurai</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way trips,
+            round journeys, or business and leisure travel. Our professional drivers ensure a
+            smooth and hassle-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dharmapuri and Madurai</strong> is around <strong>350–380 km</strong>,
+            which usually takes about <strong>6.5–8 hours</strong> by road. The common route is via
+            <strong>NH44</strong>, passing through <strong>Salem, Namakkal, Karur, and Dindigul</strong>.
+            Short stopovers for meals, tea, or sightseeing can be arranged for your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our cabs are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and comfortable journey. With <strong>transparent pricing</strong>, there are no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Madurai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Krishnagiri, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+                Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+                Udagamandalam (Ooty), Vellore, Villupuram, Virudhunagar, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dharmapuri to Madurai taxi</strong> with Fastpikcab is easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our customer support team is available <strong>24/7</strong> to help you with bookings,
+            fare details, and travel assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dharmapuri to Madurai cab service</strong> and
+            enjoy a safe, affordable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Madurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

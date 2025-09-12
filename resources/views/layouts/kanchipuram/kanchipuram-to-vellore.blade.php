@@ -167,6 +167,58 @@
         </div>
     </section>
 
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Vellore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Vellore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Kanchipuram to Vellore</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and affordable cab services</strong> for one-way trips,
+            round journeys, family visits, and business travel. Our drivers are experienced and
+            available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Vellore</strong> is around
+            <strong>70 km</strong>, and the journey takes approximately <strong>1.5–2 hours</strong>
+            via <strong>NH48</strong>. It is one of the most convenient routes, ensuring smooth connectivity
+            between the two cities.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides various taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC-equipped, spacious, and GPS-enabled</strong>.
+            With <strong>transparent pricing</strong>, there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Vellore, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+            Udagamandalam (Ooty), Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Vellore taxi</strong> with Fastpikcab is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our customer support team is available <strong>24/7</strong> to assist with bookings, fare details,
+            and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Vellore cab service</strong> and
+            enjoy a hassle-free and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Vellore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Tirunelveli Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Tirunelveli Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Kanchipuram to Tirunelveli taxi</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and affordable cab services</strong> for long-distance travel,
+            one-way rides, and family trips. Available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Tirunelveli</strong> is about
+            <strong>600 km</strong>, which usually takes <strong>10–11 hours</strong> by road.
+            The common travel route is via <strong>NH44</strong>, passing through Madurai.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our taxis are <strong>AC, GPS-enabled, and spacious</strong>,
+            with <strong>transparent fares</strong> and no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tirunelveli, Fastpikcab operates across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore,
+            Dharmapuri, Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Krishnagiri,
+            Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirupathur, Tiruppur,
+            Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Tirunelveli taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Tirunelveli cab service</strong>
+            and travel stress-free.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Tirunelveli Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

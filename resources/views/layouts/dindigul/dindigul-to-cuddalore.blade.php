@@ -166,6 +166,53 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Cuddalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Cuddalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Dindigul to Cuddalore taxi</strong>? Fastpikcab offers
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way travel,
+            round trips, family tours, and business journeys. Our professional drivers ensure
+            a smooth and stress-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Cuddalore</strong> is around
+            <strong>300–320 km</strong>, usually taking about <strong>6–7 hours</strong> by road.
+            The most common travel route is via <strong>NH38 and NH36</strong>, passing through
+            <strong>Trichy and Virudhachalam</strong>. Short stopovers for meals, refreshments,
+            or sightseeing can be arranged as per your choice.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple cab options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and comfortable journey. With our <strong>transparent pricing</strong>,
+            there are no hidden charges — you only pay what you see.
+        </p>
+        <p class="mb-4">
+            Apart from Cuddalore, Fastpikcab operates taxi services to all major cities and districts in Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+                Karur, Pudukkottai, Ranipet, Ariyalur, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Cuddalore taxi</strong> with Fastpikcab is simple and quick.
+            Call us at <strong>+91 88256 94157</strong> or book online via our website.
+            Our customer care team is available <strong>24/7</strong> to assist you with
+            bookings, fare details, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Cuddalore cab service</strong>
+            and enjoy a safe, reliable, and hassle-free journey at the best price.
+        </p>
+    </div>
+</section>
+
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Cuddalore Route Details</h2>

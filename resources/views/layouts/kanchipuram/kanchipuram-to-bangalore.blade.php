@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Bangalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Kanchipuram to Bangalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Bangalore taxi</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable cab services</strong> for one-way trips,
+            round journeys, airport transfers, and family travel. Our skilled drivers ensure
+            <strong>a smooth and comfortable journey</strong> every time.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Bangalore</strong> is about
+            <strong>280 km</strong>, usually taking <strong>5–6 hours</strong> by road.
+            The common route is via <strong>NH48</strong>, passing through Hosur.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers a wide variety of vehicles including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our cabs are <strong>AC, GPS-enabled, and spacious</strong>,
+            giving you maximum safety and comfort. With <strong>transparent fares</strong>, there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Bangalore, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Hosur,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Bangalore taxi</strong> is easy and quick.
+            Call <strong>+91 88256 94157</strong> or book online through our website.
+            Our <strong>24/7 customer support</strong> team is available anytime to assist you.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Bangalore cab service</strong>
+            and enjoy a reliable and stress-free journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Bangalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

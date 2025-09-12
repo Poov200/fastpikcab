@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Mayiladuthurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Mayiladuthurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Traveling from <strong>Erode to Mayiladuthurai</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way trips,
+            temple visits, family tours, and business rides. Our experienced drivers make
+            your journey smooth and worry-free, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Mayiladuthurai</strong> is about
+            <strong>230 km</strong>, taking nearly <strong>5–6 hours</strong> by road.
+            The common route is via <strong>NH544 and NH32</strong>, passing through Salem and Kumbakonam.
+            Stopovers for meals or sightseeing can be included as per your preference.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of taxis including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC-equipped, GPS-enabled, and spacious</strong>,
+            ensuring a comfortable ride. Our <strong>transparent fares</strong> mean no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Mayiladuthurai, Fastpikcab operates services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Mayiladuthurai taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or make your booking online anytime.
+            Our dedicated <strong>24/7 customer support</strong> will assist you with all travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Mayiladuthurai cab service</strong>
+            and enjoy a safe, reliable, and cost-effective journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Mayiladuthurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

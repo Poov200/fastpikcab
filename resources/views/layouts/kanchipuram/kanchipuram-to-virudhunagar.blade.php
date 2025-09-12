@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Virudhunagar Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Virudhunagar Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Traveling from <strong>Kanchipuram to Virudhunagar</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way trips,
+            round trips, and group travel. Our skilled drivers ensure a stress-free experience,
+            available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Virudhunagar</strong> is approximately
+            <strong>470 km</strong>, which takes about <strong>8–9 hours</strong> by road.
+            The common travel route is via <strong>NH38</strong>, passing through
+            <strong>Trichy and Madurai</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi choices such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            providing a safe and relaxing ride. Pricing is always <strong>transparent</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Virudhunagar, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+            Udagamandalam (Ooty), Vellore, and Viluppuram</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Virudhunagar taxi</strong> with Fastpikcab is easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our support team is available <strong>24/7</strong> for booking assistance, fare details,
+            and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Virudhunagar cab service</strong> and
+            enjoy a smooth, reliable, and comfortable journey at the best fares.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Virudhunagar Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

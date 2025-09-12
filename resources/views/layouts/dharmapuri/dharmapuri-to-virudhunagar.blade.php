@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dharmapuri to Virudhunagar Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dharmapuri to Virudhunagar Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Dharmapuri to Virudhunagar</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way travel,
+            round trips, family holidays, and business journeys. Our professional drivers ensure
+            a smooth and worry-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dharmapuri and Virudhunagar</strong> is about
+            <strong>430–450 km</strong>, which usually takes around <strong>8–9 hours</strong> by road.
+            The most common route is via <strong>NH44</strong>, passing through <strong>Salem, Dindigul,
+            and Madurai</strong>. Stopovers for meals, refreshments, or sightseeing can be arranged
+            as per your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers a wide range of taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring complete safety and comfort. With <strong>transparent pricing</strong>, you get the best
+            fares with no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Virudhunagar, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+                Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+                Udagamandalam (Ooty), Vellore, Villupuram, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dharmapuri to Virudhunagar taxi</strong> with Fastpikcab is simple and hassle-free.
+            Call us at <strong>+91 88256 94157</strong> or book directly on our website.
+            Our customer support team is available <strong>24/7</strong> to help with bookings,
+            fare details, and travel assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dharmapuri to Virudhunagar cab service</strong> and
+            enjoy a reliable, safe, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Virudhunagar Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -159,6 +159,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Ariyalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Ariyalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Ariyalur taxi</strong>? Fastpikcab offers
+            <strong>affordable, comfortable, and reliable taxi services</strong> for one-way transfers,
+            round trips, or business journeys. With experienced drivers, we make your journey
+            <strong>smooth and stress-free</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Ariyalur</strong> is about
+            <strong>350–370 km</strong>, which takes nearly <strong>7–8 hours</strong> by road.
+            The common route is via <strong>NH79 and NH38</strong>, passing through Salem and Trichy.
+            Meals and refreshment stopovers can be customized as per your needs.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides a wide range of vehicles including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cars are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            making your trip safe and enjoyable. With <strong>clear and transparent pricing</strong>,
+            you won’t face any hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Ariyalur, Fastpikcab runs taxi services across Tamil Nadu covering:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, Dharmapuri, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Ariyalur cab</strong> is easy.
+            Simply call <strong>+91 88256 94157</strong> or reserve online.
+            Our <strong>24/7 customer support</strong> ensures a smooth booking process.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Ariyalur taxi service</strong>
+            and travel with comfort and reliability.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Ariyalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

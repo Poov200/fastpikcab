@@ -167,6 +167,59 @@
         </div>
     </section>
 
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Karaikal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Karaikal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Dindigul to Karaikal</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way transfers,
+            round trips, business travel, and family tours. With experienced drivers and
+            comfortable vehicles, we ensure a <strong>smooth and hassle-free ride</strong>,
+            available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Karaikal</strong> is around
+            <strong>280–300 km</strong>, which usually takes about <strong>6–7 hours</strong>
+            by road. The common travel route is via <strong>NH83 and NH32</strong>, passing
+            through <strong>Trichy and Nagapattinam</strong>. You can plan short stopovers
+            for meals, tea breaks, or sightseeing along the way.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides a variety of cab options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our taxis are <strong>air-conditioned, spacious, and GPS-enabled</strong>
+            to ensure complete comfort and safety. With our <strong>transparent pricing</strong>,
+            you pay only what is quoted — no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Karaikal, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Karaikal taxi</strong> with Fastpikcab is quick and simple.
+            Call us at <strong>+91 88256 94157</strong> or book directly online.
+            Our customer support team is available <strong>24/7</strong> to assist with bookings,
+            fares, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Karaikal cab service</strong>
+            and enjoy a comfortable, reliable, and budget-friendly ride.
+        </p>
+    </div>
+</section>
+
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Karaikal Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

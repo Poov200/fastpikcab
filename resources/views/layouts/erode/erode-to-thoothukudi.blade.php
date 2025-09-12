@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Thoothukudi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Thoothukudi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Erode to Thoothukudi taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way trips,
+            business travel, family tours, and round journeys. Our experienced drivers and
+            comfortable cabs ensure <strong>stress-free travel 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Thoothukudi</strong> is approximately
+            <strong>400–420 km</strong>, usually taking <strong>8–9 hours</strong> by road.
+            The common route is via <strong>Dindigul and Madurai</strong>, offering smooth connectivity.
+            Short breaks for meals or refreshments can be arranged during the trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring comfort and safety throughout the ride. With <strong>transparent fares</strong>,
+            you’ll never face hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thoothukudi, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Thoothukudi taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is here to assist with bookings and fare details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Thoothukudi cab service</strong>
+            and enjoy a safe, affordable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Thoothukudi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
