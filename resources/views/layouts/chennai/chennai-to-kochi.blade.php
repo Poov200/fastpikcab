@@ -168,6 +168,65 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chennai to Kochi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Chennai to Kochi Cabs at Affordable Prices
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a reliable <strong>Chennai to Kochi taxi service</strong>? Fastpikcab offers
+            <strong>safe, clean, and comfortable cabs</strong> for long-distance journeys,
+            business trips, and family travel. Our drivers are professional and available
+            <strong>24/7</strong> to ensure your trip is stress-free.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Chennai and Kochi (Cochin)</strong> is approximately
+            <strong>690 km</strong>, which usually takes about <strong>11–12 hours</strong> by road.
+            The most preferred route is via <strong>NH544</strong>, passing through
+            <strong>Villupuram, Salem, and Coimbatore</strong>. We can also arrange short
+            stopovers for meals, tea, or sightseeing during your journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            making your long journey smooth and enjoyable. With <strong>transparent pricing</strong>,
+            you pay only what is quoted, with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also offer <strong>Chennai Airport to Kochi taxi pickups</strong> for passengers
+            arriving in Chennai and traveling directly to Kerala.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kochi, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chennai to Kochi cab</strong> is quick and hassle-free with Fastpikcab.
+            Simply call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist you
+            with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chennai to Kochi taxi service</strong> and
+            experience a safe, reliable, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Kochi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

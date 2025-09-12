@@ -196,7 +196,8 @@
             </p>
 
             <p class="mb-4">
-                We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> for passengers heading towards
+                We also provide <strong>Chengalpattu Railway Station taxi pickups</strong> for passengers heading
+                towards
                 Arani.
                 Families, business professionals, students, and group travelers can benefit from our
                 <strong>short-distance taxi packages</strong>, which are cost-effective and convenient.
@@ -238,7 +239,8 @@
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> 2.5-3 hours depending on traffic and road conditions</span>
+                            <span><strong>Travel Time:</strong> 2.5-3 hours depending on traffic and road
+                                conditions</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
@@ -312,7 +314,8 @@
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops.</p>
+                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability,
+                    tolls, and additional stops.</p>
             </div>
         </div>
     </section>

@@ -168,6 +168,72 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chennai to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Chennai to Kerala Cabs at Affordable Prices
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>reliable Chennai to Kerala taxi service</strong>? Fastpikcab provides
+            comfortable and safe cabs for <strong>one-way, round trips, and long-distance travel</strong>.
+            Whether you are visiting Kerala for tourism, family trips, or business, our experienced
+            drivers ensure a smooth journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Chennai and Kerala</strong> depends on your destination city.
+            Popular routes include:
+        </p>
+        <ul class="list-disc pl-6 mb-4">
+            <li><strong>Chennai to Kochi (Cochin)</strong> – approx. 690 km, 11–12 hours via NH544</li>
+            <li><strong>Chennai to Thiruvananthapuram</strong> – approx. 770 km, 12–13 hours via NH44</li>
+            <li><strong>Chennai to Alappuzha (Alleppey)</strong> – approx. 710 km, 11–12 hours via NH544</li>
+            <li><strong>Chennai to Munnar</strong> – approx. 600 km, 10–11 hours via NH38</li>
+            <li><strong>Chennai to Kozhikode (Calicut)</strong> – approx. 670 km, 11–12 hours via NH544</li>
+        </ul>
+
+        <p class="mb-4">
+            All our taxis are <strong>well-maintained, air-conditioned, and GPS-enabled</strong>.
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, or Premium Cars</strong> based on your travel needs.
+            With <strong>transparent pricing</strong> and no hidden charges, you get the best value for your trip.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chennai Airport to Kerala taxi services</strong>, ensuring seamless travel
+            for passengers arriving in Chennai and heading to Kerala destinations.
+        </p>
+
+        <p class="mb-4">
+            Kerala is famous for its <strong>backwaters, beaches, hill stations, and temples</strong>.
+            Fastpikcab ensures you can enjoy these attractions without worrying about travel stress.
+        </p>
+
+        <p class="mb-4">
+            Apart from kerala, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chennai to Kerala cab</strong> with Fastpikcab is easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our customer support is available <strong>24/7</strong> to help with queries, fares, and bookings.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chennai to Kerala taxi</strong> and experience
+            reliable, safe, and comfortable travel at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
