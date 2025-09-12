@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Madurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Madurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Villupuram to Madurai</strong>? Fastpikcab provides safe, clean,
+            and affordable cabs for one-way, round trips, and urgent travel needs. Our drivers are available
+            <strong>24/7</strong> to ensure you reach Madurai comfortably and on time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Madurai is around <strong>370 km</strong>,
+            taking approximately <strong>7–8 hours</strong> by road.
+            The most popular route is via <strong>NH38</strong>, passing through <strong>Trichy and Dindigul</strong>.
+            Short stopovers can be arranged for meals, tea, or sightseeing.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are AC, GPS-enabled, and spacious. We follow a <strong>transparent pricing policy</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Villupuram Railway Station pickups</strong> for Madurai-bound passengers.
+            Business professionals, families, and students can benefit from our
+            <strong>long-distance intercity taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Madurai, Fastpikcab connects Villupuram to all major cities across Tamil Nadu including:
+            Ariyalur, Chennai, Coimbatore, Cuddalore, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri, Mayiladuthurai,
+            Nagapattinam, Nagercoil, Namakkal, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
+            Thanjavur, Thiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur, Vellore, Virudhunagar, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Madurai cab</strong> is simple—book online or call us at
+            <strong>+91 88256 94157</strong>. Our team is available <strong>24/7</strong> for booking support and fare details.
+        </p>
+
+        <p>
+            Travel worry-free with Fastpikcab’s <strong>Villupuram to Madurai taxi service</strong> and enjoy comfort at affordable prices.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Madurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

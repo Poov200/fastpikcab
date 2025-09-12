@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Bangalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Bangalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Villupuram to Bangalore</strong>? Fastpikcab provides safe, clean,
+            and affordable cabs for one-way trips, round journeys, and urgent travel needs.
+            Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Bangalore is approximately <strong>320 km</strong>,
+            which usually takes about <strong>6–7 hours</strong> by road. The common travel route
+            is via <strong>NH77 and NH44</strong>, passing through <strong>Krishnagiri and Hosur</strong>.
+            Refreshment and meal stopovers can be arranged during your journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi choices such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled, ensuring a comfortable journey with
+            <strong>transparent pricing</strong> and no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Villupuram Railway Station taxi pickups</strong> for passengers traveling to Bangalore.
+            Our <strong>long-distance taxi packages</strong> are cost-effective for families, professionals, and groups.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Bangalore taxi</strong> is easy—book online via our website or call
+            <strong>+91 88256 94157</strong>. Our 24/7 customer support team is always ready to assist.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Bangalore cab service</strong> and enjoy
+            a reliable, safe, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Bangalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

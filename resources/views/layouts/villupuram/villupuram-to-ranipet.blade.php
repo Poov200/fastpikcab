@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Ranipet Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Ranipet Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a journey with a <strong>Villupuram to Ranipet taxi service</strong>?
+            Fastpikcab ensures a dependable and affordable outstation cab booking for all your needs.
+            Whether for business, family, or spiritual visits, enjoy a safe and comfortable ride at the best rates.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Ranipet is about <strong>120 km</strong>
+            with road travel typically taking <strong>2–2.5 hours</strong>.
+            The preferred route is via <strong>NH38 and NH48</strong>, offering a smooth drive through Tamil Nadu's scenic highways.
+            You may arrange stopovers for refreshments or brief visits along the way.
+        </p>
+
+        <p class="mb-4">
+            Select from a fleet that includes <strong>Sedan, SUV, and Premium Cars</strong>,
+            each featuring <strong>air-conditioning, GPS navigation, and comfortable seating</strong>.
+            Our spacious SUVs are ideal for groups or families on longer journeys.
+        </p>
+
+        <p class="mb-4">
+            Our experienced, courteous drivers provide <strong>doorstep pickup and hassle-free drop-offs</strong> right at your chosen location.
+            Visiting for business, personal, or tourism purposes—Fastpikcab guarantees prompt and pleasant travel.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab covers an extensive network beyond Ranipet, including Chennai, Vellore, Kanchipuram, and more—
+            perfect for planning all your intercity rides in Tamil Nadu and neighboring regions.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Ranipet cab</strong> is quick and easy.
+            Book instantly online or call <strong>+91 88256 94157</strong> for real-time assistance by our 24x7 support team.
+            We help with route planning, price transparency, and any custom travel requirements.
+        </p>
+
+        <p>
+            Choose Fastpikcab’s <strong>Villupuram to Ranipet taxi booking</strong> for a smooth, reliable, and budget-friendly travel experience every time.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Ranipet Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

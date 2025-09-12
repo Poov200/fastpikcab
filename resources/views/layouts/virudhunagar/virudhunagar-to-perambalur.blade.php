@@ -168,6 +168,61 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Perambalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Perambalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Need a reliable <strong>Virudhunagar to Perambalur taxi service</strong>?
+            Fastpikcab offers safe, comfortable, and budget-friendly cabs for your long-distance travel.
+            Whether it’s for family trips, business travel, or temple visits, we ensure a smooth journey
+            with professional drivers and well-maintained vehicles.
+        </p>
+
+        <p class="mb-4">
+            The road distance from <strong>Virudhunagar to Perambalur</strong> is about
+            <strong>350 km</strong>, taking approximately <strong>7–8 hours</strong>.
+            The most preferred route is via <strong>NH38</strong>, passing through key towns such as
+            <strong>Madurai, Trichy, and Ariyalur</strong>. Stopovers for meals or sightseeing can be arranged as per your request.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong> to suit different travel needs.
+            All cars are <strong>air-conditioned, GPS-enabled, and sanitized</strong> to ensure comfort and safety.
+            For group trips, spacious SUVs and Tempo Travelers are available to accommodate larger parties.
+        </p>
+
+        <p class="mb-4">
+            Perambalur is known for its cultural and historical significance, including attractions like
+            <strong>Vekatesa Perumal Temple and Ariyalur Hills</strong>. Traveling with Fastpikcab allows you
+            to explore these landmarks conveniently and comfortably.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab services extend across Tamil Nadu and nearby states, including
+            <strong>Chennai, Trichy, Salem, Madurai, and Thanjavur</strong>.
+            This wide coverage ensures you can plan multiple intercity trips with ease.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Perambalur cab</strong> is easy and convenient.
+            Book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 support team is available to guide you with pricing, routes, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Perambalur taxi booking</strong>
+            and enjoy safe, timely, and comfortable travel.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Perambalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

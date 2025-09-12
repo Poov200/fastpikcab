@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Karur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Virudhunagar to Karur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Virudhunagar to Karur</strong>?
+            Fastpikcab offers the best <strong>one-way and round-trip cab services</strong>
+            with affordable fares and professional drivers.
+            Whether you are visiting for business, textile industry meetings, or family trips,
+            we ensure a smooth and safe journey.
+        </p>
+
+        <p class="mb-4">
+            The road distance between Virudhunagar and Karur is about <strong>185 km</strong>,
+            and it takes nearly <strong>4–5 hours</strong> via <strong>NH38</strong>.
+            This route covers <strong>Madurai, Dindigul, and Trichy bypass</strong>
+            making it a comfortable highway journey.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Tempo Travellers</strong>
+            suitable for families and groups. All cars are equipped with air-conditioning,
+            clean interiors, and GPS navigation for a stress-free ride.
+        </p>
+
+        <p class="mb-4">
+            Karur is a major hub for <strong>textile exports, temples, and cultural sites</strong>.
+            Our drivers are well-versed in the routes and can take you to your destination
+            with convenience and punctuality.
+        </p>
+
+        <p>
+            Book your <strong>Virudhunagar to Karur taxi</strong> online with Fastpikcab
+            or call us at <strong>+91 88256 94157</strong>.
+            Enjoy reliable and affordable travel with our 24x7 customer support.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Karur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

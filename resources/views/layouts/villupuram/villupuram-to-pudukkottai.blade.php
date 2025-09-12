@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Pudukkottai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Pudukkottai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Pudukkottai taxi service</strong>?
+            Fastpikcab delivers a reliable and affordable outstation cab experience.
+            For family trips, temple visits, or business travel, we ensure your journey is safe, comfortable, and budget-friendly.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Pudukkottai is approximately <strong>200 km</strong>
+            and the typical road travel time is <strong>4–5 hours</strong>.
+            The preferred route is via <strong>NH38</strong>, passing through <strong>Ulundurpet, Perambalur, and Trichy</strong>.
+            Stopovers for breaks or sightseeing can be arranged to make your travel more convenient.
+        </p>
+
+        <p class="mb-4">
+            Our diverse fleet includes <strong>Sedan, SUV, and Premium Cars</strong>,
+            each equipped with <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Large groups can enjoy roomy SUVs for extra comfort on long drives.
+        </p>
+
+        <p class="mb-4">
+            Courteous, experienced drivers provide <strong>station pickups and doorstep drops</strong> for complete peace of mind.
+            Our service suits visits to temples, historic sites, or business locations in Pudukkottai.
+        </p>
+
+        <p class="mb-4">
+            Besides Pudukkottai, Fastpikcab operates services throughout Tamil Nadu and nearby regions,
+            including cities like Chennai, Trichy, Pondicherry, Salem, and Vellore.
+            Our extensive coverage supports all your intercity travel needs.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Pudukkottai cab</strong> is quick and easy.
+            Reserve online on our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 support team helps with trip planning, transparent pricing, and custom travel packages.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Pudukkottai taxi booking</strong>
+            and experience safe, reliable, and affordable travel every time.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Pudukkottai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

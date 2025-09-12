@@ -165,6 +165,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Erode Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Erode Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Villupuram to Erode</strong>?
+            Fastpikcab offers safe, comfortable, and affordable taxis for one-way trips, round journeys, and business or family travel.
+            Our experienced drivers are available <strong>24/7</strong> to ensure hassle-free travel.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Erode is approximately <strong>300 km</strong>,
+            which takes about <strong>6–7 hours</strong> by road.
+            The common travel route is via <strong>NH38 and NH544</strong>, covering <strong>Trichy and Namakkal</strong>.
+            Stopovers for refreshments, meals, and sightseeing can be arranged during your trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a fleet of <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our cabs are air-conditioned, GPS-enabled, and well-maintained for maximum comfort.
+            We guarantee <strong>transparent pricing</strong> without any hidden charges.
+        </p>
+
+        <p class="mb-4">
+            For train travelers, we provide <strong>Villupuram Railway Station taxi pickups</strong> heading towards Erode.
+            Families, students, and business travelers can enjoy our <strong>long-distance intercity taxi packages</strong> at budget-friendly prices.
+        </p>
+
+        <p class="mb-4">
+            Our services cover major cities across Tamil Nadu including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Karur, Salem,
+            Thanjavur, Tirunelveli, Tiruppur, Vellore, Virudhunagar, and many others.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Erode taxi</strong> is simple and quick.
+            Call us at <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support</strong> is always ready to help you with fares and bookings.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Erode cab service</strong> and enjoy safe, reliable, and comfortable travel.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Erode Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
 

@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Krishnagiri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Krishnagiri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Searching for a trusted cab from <strong>Villupuram to Krishnagiri</strong>?
+            Fastpikcab provides clean, spacious, and affordable cabs for one-way, round trips, and group travel.
+            Our expert drivers are available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Krishnagiri is about <strong>220 km</strong>,
+            which usually takes <strong>5 hours</strong> by road.
+            The main route is via <strong>NH77</strong>, passing through <strong>Tiruvannamalai</strong>.
+            Food and refreshment stopovers can be included during the trip.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong>, all equipped with AC, GPS, and spacious interiors.
+            We follow <strong>transparent pricing</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            If you’re arriving by train, our <strong>Villupuram Railway Station taxi pickups</strong> to Krishnagiri are very convenient.
+            Business travelers, students, and families benefit from our <strong>affordable intercity packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            We also serve destinations across Tamil Nadu including Chennai, Coimbatore, Hosur, Karur, Madurai, Salem, Tirunelveli, Tiruppur,
+            Vellore, Virudhunagar, and many more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Krishnagiri cab</strong> is easy.
+            Call us at <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support</strong> ensures a smooth booking process.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a safe, comfortable, and affordable <strong>Villupuram to Krishnagiri taxi service</strong>.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Krishnagiri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

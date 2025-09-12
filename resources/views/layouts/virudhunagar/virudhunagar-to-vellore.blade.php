@@ -166,6 +166,57 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Vellore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Vellore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Looking for a trustworthy <strong>Virudhunagar to Vellore taxi service</strong>?
+            Fastpikcab offers safe, comfortable, and affordable cab services for long-distance travel.
+            Whether for business, medical visits, or family trips, our professional drivers and well-maintained vehicles ensure a smooth and hassle-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Vellore</strong> is approximately
+            <strong>420 km</strong> with an estimated travel time of <strong>8–9 hours</strong>.
+            The preferred route is via <strong>NH38 and NH48</strong>, passing through towns like
+            <strong>Madurai, Trichy, and Villupuram</strong>. Stopovers for refreshments or sightseeing can be arranged en route.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides a wide variety of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and thoroughly sanitized</strong> for a safe and comfortable ride.
+            Spacious SUVs and Tempo Travelers are available for larger groups or family travel.
+        </p>
+
+        <p class="mb-4">
+            Vellore is renowned for landmarks such as <strong>Vellore Fort, Christian Medical College, and Jalakandeswarar Temple</strong>.
+            Traveling with Fastpikcab allows you to reach these places comfortably without worrying about transportation.
+        </p>
+
+        <p class="mb-4">
+            In addition to Vellore, Fastpikcab operates across all major cities in Tamil Nadu, including
+            <strong>Chennai, Madurai, Trichy, Salem, and Coimbatore</strong>, making intercity travel seamless.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Vellore cab</strong> is easy.
+            You can book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 support team will help you with fares, routes, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Vellore taxi booking</strong>
+            and experience a safe, reliable, and comfortable long-distance journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Vellore Route Details</h2>

@@ -166,6 +166,53 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Sivakasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Sivakasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Sivakasi taxi service</strong>?
+            Fastpikcab offers reliable and affordable outstation cab bookings.
+            Whether for family visits, business, or sightseeing, we ensure a comfortable and safe journey at competitive prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Sivakasi is around <strong>401 km</strong>,
+            and the typical travel time by road is about <strong>6 to 6.5 hours</strong>.
+            Routes primarily follow <strong>NH38 and NH44</strong>, passing through several towns for your convenience with optional stops.
+        </p>
+
+        <p class="mb-4">
+            Choose from our wide range of vehicles including <strong>Sedan, SUV, and Premium Cars</strong>,
+            each equipped with <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are available for families and groups for added comfort.
+        </p>
+
+        <p class="mb-4">
+            Our professional drivers provide <strong>doorstep pickups and drop-offs</strong> ensuring a hassle-free experience.
+            Perfect for pilgrimages, business trips, or tourism to Sivakasi and nearby areas.
+        </p>
+
+        <p class="mb-4">
+            Besides Sivakasi, Fastpikcab operates across Tamil Nadu and neighboring states, including Chennai, Madurai, Trichy, and more, offering seamless travel options.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Sivakasi cab</strong> is quick and easy.
+            Book online or call <strong>+91 88256 94157</strong> for immediate assistance.
+            Our 24x7 customer support helps with pricing, trip planning, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Sivakasi taxi booking</strong> and enjoy safe, reliable, and budget-friendly travel every time.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Sivakasi Route Details</h2>

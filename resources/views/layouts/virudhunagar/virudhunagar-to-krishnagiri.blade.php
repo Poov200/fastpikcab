@@ -167,6 +167,67 @@
         </div>
     </section>
 
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Krishnagiri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Krishnagiri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Looking for a trusted <strong>Virudhunagar to Krishnagiri taxi service</strong>?
+            Fastpikcab makes your long-distance travel simple, safe, and affordable.
+            Whether you are traveling for business, family visits, or tourism,
+            our reliable outstation cabs ensure a smooth journey at competitive fares.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Krishnagiri</strong> is approximately
+            <strong>390 km</strong>, and the travel time by road is around <strong>7–8 hours</strong>.
+            The most common route is via <strong>NH44</strong>, covering major towns such as
+            <strong>Madurai, Dindigul, Karur, Salem, and Dharmapuri</strong>.
+            With our cab service, you can also request halts for refreshments, sightseeing, or personal breaks.
+        </p>
+
+        <p class="mb-4">
+            We provide a wide range of cab options including <strong>Sedan, SUV, and Premium Cars</strong>.
+            Each vehicle is well-maintained, air-conditioned, and equipped with modern facilities like
+            <strong>GPS navigation and comfortable seating</strong>. For larger groups, our spacious
+            <strong>SUVs and Tempo Travelers</strong> are perfect for long-distance trips.
+        </p>
+
+        <p class="mb-4">
+            Our professional drivers are polite, experienced, and have excellent knowledge of the routes.
+            We also offer <strong>doorstep pickup and drop services</strong> for added convenience.
+            Travelers heading to Krishnagiri for business or to explore its attractions like
+            <strong>Krishnagiri Dam, Rayakottai Fort, and Government Museum</strong> will find our
+            taxi service highly suitable.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab not only covers <strong>Virudhunagar to Krishnagiri</strong> but also provides
+            intercity cab services across Tamil Nadu and neighboring states including
+            <strong>Bangalore, Hosur, Vellore, Chennai, and Pondicherry</strong>.
+            With us, you can plan your complete travel itinerary with confidence.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Krishnagiri cab</strong> is simple and fast.
+            Reserve online through our website or call <strong>+91 88256 94157</strong>
+            for immediate booking assistance. Our dedicated support team is available
+            <strong>24x7</strong> to help you with trip planning, fare details, and customized travel needs.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Krishnagiri taxi booking</strong>
+            and enjoy a safe, comfortable, and affordable travel experience every time.
+        </p>
+    </div>
+</section>
+
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Krishnagiri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

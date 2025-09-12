@@ -165,6 +165,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Hosur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Hosur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Villupuram to Hosur</strong>?
+            Fastpikcab provides well-maintained, safe, and affordable cabs for one-way and round trips.
+            Our professional drivers are available <strong>24/7</strong> to give you a smooth travel experience.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Hosur is nearly <strong>250 km</strong>,
+            and it usually takes around <strong>5–6 hours</strong> to reach.
+            The most preferred route is via <strong>NH77 and NH44</strong>, passing through <strong>Tiruvannamalai and Krishnagiri</strong>.
+            Meals and tea stopovers can also be arranged.
+        </p>
+
+        <p class="mb-4">
+            We offer multiple cab choices such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All cars are GPS-enabled, fully air-conditioned, and spacious to ensure comfort for long-distance travel.
+            Our <strong>transparent pricing</strong> ensures no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Passengers arriving at <strong>Villupuram Railway Station</strong> can book taxis directly to Hosur.
+            Whether you are traveling for work, family events, or leisure, our <strong>intercity packages</strong> are cost-effective and reliable.
+        </p>
+
+        <p class="mb-4">
+            Apart from Hosur, Fastpikcab operates across Tamil Nadu including Chennai, Coimbatore, Erode, Karur, Krishnagiri, Madurai, Salem,
+            Thanjavur, Tirunelveli, Tiruppur, Vellore, Virudhunagar, and more.
+        </p>
+
+        <p class="mb-4">
+            To book your <strong>Villupuram to Hosur cab</strong>, simply call us at <strong>+91 88256 94157</strong>
+            or book online through our website. Our <strong>24/7 support</strong> team is always available.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a safe, comfortable, and affordable <strong>Villupuram to Hosur taxi service</strong>.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Hosur Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
 

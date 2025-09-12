@@ -166,6 +166,55 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Trichy Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Trichy Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Trichy taxi service</strong>?
+            Fastpikcab offers reliable, comfortable, and affordable outstation cab bookings.
+            Whether you are traveling for business, family visits, or sightseeing,
+            we ensure your journey is safe and convenient at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Trichy is approximately <strong>160 km</strong>,
+            with a typical road travel time of about <strong>2 to 2.5 hours</strong>.
+            The preferred route is via <strong>NH38</strong>, passing through key locations such as <strong>Ariyalur and Perambalur</strong>.
+            Flexible stopovers for refreshments or sightseeing can be arranged upon request.
+        </p>
+
+        <p class="mb-4">
+            Our fleet features <strong>Sedan, SUV, and Premium Cars</strong>, all equipped with
+            <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are available for families and groups seeking extra comfort.
+        </p>
+
+        <p class="mb-4">
+            Our professional drivers provide <strong>doorstep pickups and drop-offs</strong>, ensuring a hassle-free travel experience.
+            This service is perfect for visits to temples, business meetings, or leisure trips in Trichy.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides services across Tamil Nadu and neighboring states, covering major cities such as Chennai, Madurai, Salem, and more,
+            allowing you to conveniently plan your intercity journeys.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Trichy cab</strong> is quick and easy.
+            Book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 customer support team is ready to help with trip planning, pricing, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Trichy taxi booking</strong> and enjoy safe, reliable, and affordable travel every time.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Trichy Route Details</h2>

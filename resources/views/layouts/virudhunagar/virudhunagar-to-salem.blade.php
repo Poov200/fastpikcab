@@ -168,6 +168,60 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Salem Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Salem Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Looking for a trusted <strong>Virudhunagar to Salem taxi service</strong>?
+            Fastpikcab offers safe, comfortable, and affordable long-distance cab services.
+            Whether you are traveling for business, family trips, or sightseeing, our professional drivers and well-maintained vehicles ensure a hassle-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Salem</strong> is approximately
+            <strong>380 km</strong> with a typical travel time of <strong>7–8 hours</strong>.
+            The recommended route is via <strong>NH44</strong>, passing through towns like
+            <strong>Madurai, Dindigul, Trichy, and Namakkal</strong>. You can arrange stopovers for meals or sightseeing during the journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and sanitized</strong> to ensure a safe and comfortable journey.
+            For larger groups, our spacious SUVs and Tempo Travelers provide extra comfort.
+        </p>
+
+        <p class="mb-4">
+            Salem is known for its pleasant climate and landmarks such as
+            <strong>Yercaud Hill Station, Kiliyur Falls, and Sugavaneshwarar Temple</strong>.
+            With Fastpikcab, you can reach these attractions comfortably while enjoying a stress-free ride.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab’s services extend beyond Salem, covering major Tamil Nadu cities like
+            <strong>Chennai, Trichy, Coimbatore, Erode, and Vellore</strong>.
+            This makes intercity travel convenient and reliable.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Salem cab</strong> is quick and easy.
+            Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Our 24x7 support team is available to assist with trip planning, fare details, and custom travel requests.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Salem taxi booking</strong>
+            and enjoy a safe, punctual, and comfortable long-distance journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Salem Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

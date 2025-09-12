@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Ranipet Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Ranipet Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Need a dependable <strong>Virudhunagar to Ranipet taxi service</strong>?
+            Fastpikcab offers safe, comfortable, and affordable outstation cab services.
+            Whether traveling for business, family trips, or personal visits, our professional drivers and well-maintained vehicles ensure a smooth and stress-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Ranipet</strong> is around
+            <strong>480 km</strong> with a travel time of approximately <strong>8–9 hours</strong>.
+            The recommended route is via <strong>NH38 and NH48</strong>, passing through key towns including
+            <strong>Madurai, Trichy, Villupuram, and Vellore</strong>. Stopovers for meals or sightseeing can be planned along the way.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong>, all equipped with
+            <strong>air-conditioning, GPS navigation, and clean interiors</strong> to ensure a comfortable ride.
+            For larger groups, spacious SUVs and Tempo Travelers are available for a more relaxed journey.
+        </p>
+
+        <p class="mb-4">
+            Ranipet is a growing industrial town with attractions like
+            <strong>Singaperumal Koil Temple, industrial hubs, and nearby Vellore</strong>.
+            Traveling with Fastpikcab allows you to reach your destination safely and on time.
+        </p>
+
+        <p class="mb-4">
+            Besides Ranipet, Fastpikcab covers major cities across Tamil Nadu including
+            <strong>Chennai, Vellore, Salem, Tiruvannamalai, and Thiruvallur</strong>, making intercity travel convenient and hassle-free.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Ranipet cab</strong> is simple.
+            Book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 customer support team is ready to guide you with fares, routes, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Ranipet taxi booking</strong>
+            and enjoy safe, reliable, and comfortable long-distance travel.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Ranipet Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

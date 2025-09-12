@@ -168,6 +168,60 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Thanjavur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Thanjavur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Thanjavur taxi service</strong>?
+            Fastpikcab offers you trustworthy and affordable outstation cab bookings.
+            Whether you're traveling for family visits, temple tours, or business,
+            we ensure your ride is comfortable, safe, and well-priced.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Thanjavur is approximately <strong>158 km</strong>,
+            and the travel time is typically around <strong>2 hours 20 minutes to 3 hours</strong> by road.
+            The preferred route is via <strong>NH38</strong>, passing through key towns such as
+            <strong>Villupuram, Ariyalur, and Perambalur</strong>.
+            You can request stopovers on the way for breaks or sightseeing.
+        </p>
+
+        <p class="mb-4">
+            Our vehicle options include <strong>Sedan, SUV, and Premium Cars</strong> equipped with
+            <strong>air-conditioning, GPS navigation, and tidy interiors</strong>.
+            Larger groups will find our spacious SUVs ideal for comfortable travel.
+        </p>
+
+        <p class="mb-4">
+            Our experienced and courteous drivers provide <strong>doorstep pickups and drop-offs</strong>
+            to make your journey seamless and stress-free. Whether visiting temples or attending events,
+            our service is tailored to your needs.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also offers taxi services throughout Tamil Nadu, covering cities like Chennai, Madurai, Salem, and more,
+            allowing you to plan all your intercity travels conveniently.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Thanjavur cab</strong> is simple and quick.
+            You can reserve online via our website or call <strong>+91 88256 94157</strong> for instant help.
+            Our 24x7 customer support helps you with pricing, itinerary planning, and customized options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Thanjavur taxi booking</strong>
+            and enjoy safe, reliable, and economical travel every time.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Thanjavur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

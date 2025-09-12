@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Tirunelveli Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Tirunelveli Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Searching for a reliable <strong>Virudhunagar to Tirunelveli taxi service</strong>?
+            Fastpikcab offers safe, comfortable, and affordable long-distance cab services.
+            Whether traveling for business, family visits, or sightseeing, our professional drivers ensure a hassle-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Tirunelveli</strong> is approximately
+            <strong>90 km</strong> with a travel time of <strong>2–2.5 hours</strong>.
+            The route via <strong>NH44</strong> is preferred for a smooth ride.
+            Short stops for refreshments can be arranged as needed.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong>, all air-conditioned, GPS-enabled, and sanitized for comfort.
+            SUVs and Tempo Travelers are available for families or larger groups.
+        </p>
+
+        <p class="mb-4">
+            Tirunelveli is known for its cultural and religious landmarks, including temples, waterfalls, and local markets.
+            With Fastpikcab, you can explore these comfortably without worrying about transportation.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab services extend to major Tamil Nadu cities including
+            <strong>Madurai, Virudhunagar, Thoothukudi, Salem, and Chennai</strong>, providing convenient intercity travel.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Tirunelveli cab</strong> is simple.
+            Book online or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 support team is available for fare details, routes, and custom travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Tirunelveli taxi booking</strong>
+            and enjoy a safe, punctual, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Tirunelveli Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Salem Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Salem Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Salem taxi service</strong>?
+            Fastpikcab offers reliable, comfortable, and affordable outstation cab bookings.
+            Whether traveling for business, family visits, or sightseeing,
+            we ensure your journey is safe and convenient at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Salem is approximately <strong>173 km</strong>,
+            and the travel time by road is about <strong>2.5 to 3 hours</strong>.
+            The preferred route is via <strong>NH38 and NH44</strong>, passing through
+            <strong>Thiruvannamalai and Harur</strong>.
+            Flexible stopovers for refreshments or sightseeing can be arranged upon request.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedan, SUV, and Premium Cars</strong>,
+            all equipped with <strong>air-conditioning, GPS navigation, and clean seating</strong>.
+            Spacious SUVs are available for families and larger groups for added comfort.
+        </p>
+
+        <p class="mb-4">
+            Our professional drivers provide <strong>doorstep pickups and drop-offs</strong>,
+            ensuring a hassle-free travel experience.
+            Whether visiting Salem’s historic sites or attending events, our service is tailored to your needs.
+        </p>
+
+        <p class="mb-4">
+            Beyond Salem, Fastpikcab serves many destinations across Tamil Nadu and neighboring states,
+            including Chennai, Madurai, Trichy, Pondicherry, and more, offering you seamless travel options.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Salem cab</strong> is easy.
+            Book online through our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 customer support is available to help with your trip planning, pricing, and custom travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Salem taxi booking</strong> and enjoy safe, reliable, and economical travel every time.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Salem Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -166,6 +166,57 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Thiruvarur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Thiruvarur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Searching for a reliable <strong>Virudhunagar to Thiruvarur taxi service</strong>?
+            Fastpikcab offers safe, comfortable, and affordable outstation cab services.
+            Whether traveling for temple visits, business trips, or family journeys, our professional drivers and well-maintained vehicles ensure a smooth and stress-free ride.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Thiruvarur</strong> is approximately
+            <strong>330 km</strong> and the travel time is around <strong>6–7 hours</strong>.
+            The recommended route is via <strong>NH38</strong>, passing through towns like
+            <strong>Madurai, Trichy, and Thanjavur</strong>. Stopovers for refreshments or sightseeing can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides a variety of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and well-maintained</strong> to make your journey comfortable and safe.
+            Spacious SUVs and Tempo Travelers are available for larger groups or family travel.
+        </p>
+
+        <p class="mb-4">
+            Thiruvarur is famous for its cultural heritage and temples, including the
+            <strong>Thiruvarur Thyagaraja Temple</strong>.
+            Traveling with Fastpikcab allows you to explore these landmarks comfortably without worrying about transportation.
+        </p>
+
+        <p class="mb-4">
+            Besides Thiruvarur, Fastpikcab operates across all major cities in Tamil Nadu, including
+            <strong>Chennai, Madurai, Trichy, Salem, and Vellore</strong>, making intercity travel convenient and reliable.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Thiruvarur cab</strong> is easy.
+            You can book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 customer support team is available to guide you with fares, routes, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Thiruvarur taxi booking</strong>
+            and enjoy a safe, reliable, and comfortable long-distance journey.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Thoothukudi Route Details</h2>

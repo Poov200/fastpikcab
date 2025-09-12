@@ -168,6 +168,63 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Mayiladuthurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Mayiladuthurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Looking for a trusted <strong>Virudhunagar to Mayiladuthurai taxi service</strong>?
+            Fastpikcab provides affordable and comfortable cab options for your long-distance travel needs.
+            Whether you’re visiting Mayiladuthurai for religious purposes, family functions, or a casual trip,
+            we ensure you enjoy a smooth ride at the best price.
+        </p>
+
+        <p class="mb-4">
+            The road distance between <strong>Virudhunagar and Mayiladuthurai</strong> is approximately
+            <strong>330 km</strong> with a travel time of around <strong>6–7 hours</strong>.
+            The most preferred route is via <strong>NH38 and NH36</strong>, passing through
+            <strong>Madurai, Trichy, and Thanjavur</strong>. You can also request stopovers
+            for food or sightseeing during your journey.
+        </p>
+
+        <p class="mb-4">
+            We offer a wide fleet of <strong>Sedans, SUVs, and Premium Cars</strong> depending on your travel preference.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and well-maintained</strong> for maximum comfort.
+            For group trips, spacious SUVs and Tempo Travelers are available.
+        </p>
+
+        <p class="mb-4">
+            Mayiladuthurai is known as a <strong>temple town of Tamil Nadu</strong>,
+            famous for the <strong>Mayuranathaswami Temple, Vaitheeswaran Koil, and Kuthalam Waterfalls</strong>.
+            Our professional drivers ensure a convenient trip so you can focus on visiting the divine and
+            cultural attractions without stress.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab not only offers <strong>Virudhunagar to Mayiladuthurai cabs</strong> but also
+            covers major cities across Tamil Nadu including <strong>Chennai, Salem, Coimbatore,
+            Kumbakonam, and Pondicherry</strong>. This wide network makes intercity travel easier for you.
+        </p>
+
+        <p class="mb-4">
+            Booking your cab is simple – just visit our website or call
+            <strong>+91 88256 94157</strong> for instant booking. Our <strong>24x7 support team</strong>
+            is always ready to help with trip planning, route suggestions, and budget-friendly options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Mayiladuthurai taxi booking</strong>
+            and enjoy safe, reliable, and pocket-friendly travel every time.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Mayiladuthurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

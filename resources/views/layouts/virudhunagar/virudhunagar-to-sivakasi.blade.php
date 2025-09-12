@@ -166,6 +166,57 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Sivakasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Sivakasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Searching for a dependable <strong>Virudhunagar to Sivakasi taxi service</strong>?
+            Fastpikcab provides safe, comfortable, and affordable cab services for your long-distance travel.
+            Whether traveling for business, family visits, or personal errands, our professional drivers and well-maintained vehicles ensure a smooth and hassle-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Sivakasi</strong> is approximately
+            <strong>55 km</strong> and takes around <strong>1–1.5 hours</strong> by road.
+            The route is direct via <strong>NH38</strong>, offering a quick and convenient travel experience.
+            Stopovers for meals or refreshments can be arranged if needed.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong>, all equipped with
+            <strong>air-conditioning, GPS, and clean seating</strong> for a comfortable ride.
+            For group travel, our spacious SUVs and Tempo Travelers provide extra room and convenience.
+        </p>
+
+        <p class="mb-4">
+            Sivakasi is famous for its industries, particularly fireworks, printing, and match factories.
+            Travelers can explore local markets or reach workplaces efficiently using Fastpikcab’s reliable service.
+        </p>
+
+        <p class="mb-4">
+            In addition to Sivakasi, Fastpikcab operates across Tamil Nadu, covering cities like
+            <strong>Virudhunagar, Madurai, Chennai, Salem, and Trichy</strong>, ensuring seamless intercity travel.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Sivakasi cab</strong> is simple.
+            Book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 support team is ready to help with trip planning, fare details, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Sivakasi taxi booking</strong>
+            and enjoy a safe, punctual, and comfortable journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Sivakasi Route Details</h2>

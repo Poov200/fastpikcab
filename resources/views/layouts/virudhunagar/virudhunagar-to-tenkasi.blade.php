@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Tenkasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Tenkasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Looking for a reliable <strong>Virudhunagar to Tenkasi taxi service</strong>?
+            Fastpikcab offers safe, comfortable, and affordable cab options for all kinds of long-distance travel.
+            Whether for family trips, business purposes, or sightseeing, we provide a hassle-free journey with professional drivers and well-maintained vehicles.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Tenkasi</strong> is approximately
+            <strong>95 km</strong>, with a typical travel time of <strong>2–2.5 hours</strong>.
+            The most convenient route is via <strong>NH744</strong>. Passengers can request short stopovers for meals or refreshments during the journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides a variety of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and well-maintained</strong> to ensure a smooth and comfortable ride.
+            For families or larger groups, spacious SUVs and Tempo Travelers are available.
+        </p>
+
+        <p class="mb-4">
+            Tenkasi is famous for its scenic beauty and temples, including <strong>Courtallam Waterfalls and Kasi Viswanathar Temple</strong>.
+            Traveling with Fastpikcab allows you to explore these attractions comfortably without any travel stress.
+        </p>
+
+        <p class="mb-4">
+            In addition to Tenkasi, Fastpikcab operates across major cities in Tamil Nadu, including
+            <strong>Madurai, Virudhunagar, Thoothukudi, Tirunelveli, and Chennai</strong>, making intercity travel convenient and reliable.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Tenkasi cab</strong> is quick and easy.
+            You can book online via our website or call <strong>+91 88256 94157</strong> for immediate assistance.
+            Our 24x7 customer support team is ready to help with fare details, route planning, and custom travel requests.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Tenkasi taxi booking</strong>
+            and enjoy a safe, punctual, and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Tenkasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
