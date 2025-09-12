@@ -168,6 +168,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Trichy to Perambalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Trichy to Perambalur Cabs & Airport Transfers Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Trichy to Perambalur</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, airport transfers, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Trichy and Perambalur is approximately <strong>55 km</strong>,
+            which usually takes around <strong>1–1.5 hours</strong> by road. The common route is via <strong>NH38</strong>.
+            Short stops for refreshments, meals, or sightseeing can be arranged along the way.
+            We also offer convenient <strong>airport drop-offs and pick-ups</strong> from <strong>Trichy International Airport (TRZ)</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong> for intercity travel and airport transfers.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Trichy Railway Station and Airport taxi pickups</strong> for passengers traveling to Perambalur.
+            Families, business travelers, students, and groups can benefit from our <strong>short and long-distance taxi packages</strong> and <strong>airport transfer services</strong>,
+            making intercity and airport travel convenient and cost-effective.
+        </p>
+
+        <p class="mb-4">
+            Apart from Perambalur, Fastpikcab operates across all major cities, districts, and airports of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur, Krishnagiri,
+            Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, Vellore, Virudhunagar, Trichy International Airport (TRZ).
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Trichy to Perambalur taxi or airport transfer</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Trichy to Perambalur cab service and airport transfers</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Trichy to Perambalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
