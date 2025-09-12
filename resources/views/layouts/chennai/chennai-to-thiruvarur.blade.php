@@ -168,6 +168,65 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Chennai to Thiruvarur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Chennai to Thiruvarur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Chennai to Thiruvarur</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way travel,
+            round trips, family visits, or temple tours. Our professional drivers ensure a
+            smooth and stress-free ride, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Chennai and Thiruvarur</strong> is approximately
+            <strong>320 km</strong>, which usually takes about <strong>6–6.5 hours</strong> by road.
+            The common travel route is via <strong>NH32</strong>, passing through
+            <strong>Chengalpattu, Villupuram, and Nagapattinam</strong>. Stopovers for meals, tea,
+            or sightseeing can be arranged as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and comfortable journey. With <strong>transparent pricing</strong>, there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Chennai Airport</strong> and Railway Station taxi pickups,
+            making it convenient for passengers arriving at <strong>Chennai Airport</strong> to
+            travel directly to Thiruvarur without any hassle.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thiruvarur, Fastpikcab operates across all major cities and districts of Tamil Nadu
+            including: <strong>Ariyalur, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur,
+            Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Chennai to Thiruvarur taxi</strong> with Fastpikcab is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist you
+            with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Chennai to Thiruvarur cab service</strong> and enjoy
+            a safe, reliable, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Chennai to Thiruvarur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

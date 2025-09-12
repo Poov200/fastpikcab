@@ -168,61 +168,66 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Chennai to Thiruvannamalai Taxi Service – Fastpikcab
-    </h1>
-    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Reliable Chennai to Thiruvannamalai Cabs Online
-    </h2>
-    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-        <p class="mb-4">
-            Planning a trip from <strong>Chennai to Thiruvannamalai</strong>? Fastpikcab provides
-            <strong>safe, reliable, and comfortable taxi services</strong> for one-way travel,
-            round trips, and business or pilgrimage journeys. Our professional drivers ensure a smooth and
-            stress-free ride, available <strong>24/7</strong>.
-        </p>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Chennai to Thiruvannamalai Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Chennai to Thiruvannamalai Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning a trip from <strong>Chennai to Thiruvannamalai</strong>? Fastpikcab provides
+                <strong>safe, reliable, and comfortable taxi services</strong> for one-way travel,
+                round trips, and business or pilgrimage journeys. Our professional drivers ensure a smooth and
+                stress-free ride, available <strong>24/7</strong>.
+            </p>
 
-        <p class="mb-4">
-            The distance between <strong>Chennai and Thiruvannamalai</strong> is approximately
-            <strong>190 km</strong>, which usually takes about <strong>4–4.5 hours</strong> by road.
-            The common travel route is via <strong>NH38</strong>, passing through
-            <strong>Vellore and Gingee</strong>. Short stopovers for meals, tea, or sightseeing can be arranged
-            as per your convenience.
-        </p>
+            <p class="mb-4">
+                The distance between <strong>Chennai and Thiruvannamalai</strong> is approximately
+                <strong>190 km</strong>, which usually takes about <strong>4–4.5 hours</strong> by road.
+                The common travel route is via <strong>NH38</strong>, passing through
+                <strong>Vellore and Gingee</strong>. Short stopovers for meals, tea, or sightseeing can be arranged
+                as per your convenience.
+            </p>
 
-        <p class="mb-4">
-            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
-            All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring
-            a safe and comfortable journey. With <strong>transparent pricing</strong>, there are no hidden charges.
-        </p>
+            <p class="mb-4">
+                Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers, and Premium
+                    Cars</strong>.
+                All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring
+                a safe and comfortable journey. With <strong>transparent pricing</strong>, there are no hidden charges.
+            </p>
 
-        <p class="mb-4">
-            We also provide <strong>Chennai Airport</strong> and Railway Station taxi pickups,
-            making it convenient for passengers arriving at <strong>Chennai Airport</strong> to travel directly to Thiruvannamalai.
-        </p>
+            <p class="mb-4">
+                We also provide <strong>Chennai Airport</strong> and Railway Station taxi pickups,
+                making it convenient for passengers arriving at <strong>Chennai Airport</strong> to travel directly to
+                Thiruvannamalai.
+            </p>
 
-        <p class="mb-4">
-            Apart from Thiruvannamalai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
-            <strong>Ariyalur, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
-            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
-            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
-            Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
-            Vellore, Viluppuram, and Virudhunagar</strong>.
-        </p>
+            <p class="mb-4">
+                Apart from Thiruvannamalai, Fastpikcab operates across all major cities and districts of Tamil Nadu
+                including:
+                <strong>Ariyalur, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+                    Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+                    Perambalur,
+                    Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+                    Thiruvarur,
+                    Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+                    Vellore, Viluppuram, and Virudhunagar</strong>.
+            </p>
 
-        <p class="mb-4">
-            Booking your <strong>Chennai to Thiruvannamalai taxi</strong> with Fastpikcab is simple.
-            Call us at <strong>+91 88256 94157</strong> or book online through our website.
-            Our dedicated customer support team is available <strong>24/7</strong> to assist you
-            with bookings, fare details, and travel guidance.
-        </p>
+            <p class="mb-4">
+                Booking your <strong>Chennai to Thiruvannamalai taxi</strong> with Fastpikcab is simple.
+                Call us at <strong>+91 88256 94157</strong> or book online through our website.
+                Our dedicated customer support team is available <strong>24/7</strong> to assist you
+                with bookings, fare details, and travel guidance.
+            </p>
 
-        <p>
-            Choose Fastpikcab for your <strong>Chennai to Thiruvannamalai cab service</strong> and
-            enjoy a safe, reliable, and comfortable journey at the best price.
-        </p>
-    </div>
-</section>
+            <p>
+                Choose Fastpikcab for your <strong>Chennai to Thiruvannamalai cab service</strong> and
+                enjoy a safe, reliable, and comfortable journey at the best price.
+            </p>
+        </div>
+    </section>
 
 
     <section class="mb-12 px-4 md:px-12">
@@ -242,11 +247,13 @@
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> Chennai → NH48 → NH48/NH144 → Tiruvannamalai (via Kanchipuram or Tindivanam)</span>
+                            <span><strong>Route:</strong> Chennai → NH48 → NH48/NH144 → Tiruvannamalai (via Kanchipuram
+                                or Tindivanam)</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> The most common route is via NH48, with potential detours through Kanchipuram or Tindivanam depending on road conditions and preference.</span>
+                            <span><strong>Note:</strong> The most common route is via NH48, with potential detours
+                                through Kanchipuram or Tindivanam depending on road conditions and preference.</span>
                         </li>
                     </ul>
                 </div>
@@ -255,11 +262,13 @@
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>Kanchipuram</span>
-                            <span class="text-sm text-gray-500">City of a thousand temples, famous for silk sarees</span>
+                            <span class="text-sm text-gray-500">City of a thousand temples, famous for silk
+                                sarees</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>Mahabalipuram</span>
-                            <span class="text-sm text-gray-500">UNESCO World Heritage site with ancient rock-cut temples</span>
+                            <span class="text-sm text-gray-500">UNESCO World Heritage site with ancient rock-cut
+                                temples</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span>Tindivanam</span>
@@ -313,7 +322,9 @@
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, chosen car model, tolls, and the specific destination in Tiruvannamalai. Additional charges for night driving, state permits, and driver allowance may apply.</p>
+                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability,
+                    chosen car model, tolls, and the specific destination in Tiruvannamalai. Additional charges for
+                    night driving, state permits, and driver allowance may apply.</p>
             </div>
         </div>
     </section>
