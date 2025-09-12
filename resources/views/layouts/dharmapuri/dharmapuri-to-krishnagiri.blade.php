@@ -168,6 +168,53 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dharmapuri to Krishnagiri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dharmapuri to Krishnagiri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Dharmapuri to Krishnagiri</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way trips,
+            round journeys, and business or personal travel. Our professional drivers make sure
+            you enjoy a smooth and stress-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dharmapuri and Krishnagiri</strong> is just about <strong>50 km</strong>,
+            which usually takes around <strong>1 to 1.5 hours</strong> by road. The travel route is via
+            <strong>NH44</strong>, offering a quick and convenient journey. Stopovers for refreshments or short breaks
+            can be arranged as per your preference.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi choices including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, giving you
+            a safe and comfortable ride. With <strong>transparent pricing</strong>, there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Krishnagiri, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+                Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+                Tiruppur, Udagamandalam (Ooty), Vellore, Villupuram, Virudhunagar, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dharmapuri to Krishnagiri taxi</strong> with Fastpikcab is quick and easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our support team is available <strong>24/7</strong> to help you with bookings,
+            fare details, and travel assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dharmapuri to Krishnagiri cab service</strong> and
+            enjoy a comfortable, affordable, and hassle-free travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Krishnagiri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

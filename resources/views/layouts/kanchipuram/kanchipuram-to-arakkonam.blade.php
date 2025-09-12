@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Arakkonam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Arakkonam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Kanchipuram to Arakkonam taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way trips,
+            local travel, business rides, and family visits. Our professional drivers ensure
+            <strong>a smooth and stress-free journey</strong>, available 24/7.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Arakkonam</strong> is around
+            <strong>40 km</strong>, taking about <strong>1 hour</strong> by road.
+            The usual route is via <strong>SH58</strong>, offering a quick and easy ride.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple cab options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring maximum safety and comfort. With <strong>transparent pricing</strong>, there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Arakkonam, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arani, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Hosur,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur,
+            Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Arakkonam taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is always ready to help.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Arakkonam cab service</strong>
+            and enjoy a smooth and reliable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Arakkonam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

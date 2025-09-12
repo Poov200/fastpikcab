@@ -158,6 +158,58 @@
         </div>
     </section>
 
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Cuddalore to Pudukkottai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Cuddalore to Pudukkottai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Cuddalore to Pudukkottai</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way rides,
+            round trips, family journeys, and business travel. With skilled drivers and
+            modern vehicles, we guarantee <strong>a smooth and stress-free journey</strong>, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Cuddalore and Pudukkottai</strong> is about
+            <strong>220–240 km</strong>, which takes around <strong>4.5–5.5 hours</strong> by road.
+            The common route is via <strong>NH36 and NH38</strong>, passing through
+            <strong>Virudhachalam, Ariyalur, and Trichy</strong>. Stopovers for refreshments and meals
+            can be arranged as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring maximum safety and comfort. With <strong>transparent pricing</strong>, you pay only what you see.
+        </p>
+
+        <p class="mb-4">
+            Apart from Pudukkottai, Fastpikcab serves all major cities in Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
+            Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur, Udagamandalam (Ooty),
+            Vellore, Villupuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Cuddalore to Pudukkottai taxi</strong> is easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our <strong>24/7 customer support</strong> team is always ready to assist with bookings and fare details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Cuddalore to Pudukkottai cab service</strong>
+            and enjoy a reliable, safe, and budget-friendly journey.
+        </p>
+    </div>
+</section>
+
+
     <!-- Route Details -->
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Pudukkottai Route Details</h2>

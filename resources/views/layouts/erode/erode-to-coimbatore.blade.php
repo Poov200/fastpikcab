@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Coimbatore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Coimbatore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Erode to Coimbatore taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and budget-friendly taxi services</strong> for one-way rides,
+            round trips, family tours, and business journeys. With skilled drivers, we make
+            sure your trip is <strong>comfortable and stress-free</strong> 24/7.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Erode and Coimbatore</strong> is about
+            <strong>100–110 km</strong>, which takes around <strong>2.5–3 hours</strong> by road.
+            The usual travel route is via <strong>NH544</strong>, passing through Avinashi.
+        </p>
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>, offering
+            a safe and comfortable journey. With <strong>transparent fares</strong>, there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Coimbatore, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Erode to Coimbatore taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer service</strong> team is always ready to help with bookings, fares, and guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Coimbatore cab service</strong>
+            and enjoy a smooth, safe, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Coimbatore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

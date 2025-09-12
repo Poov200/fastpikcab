@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Ramanathapuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Ramanathapuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Ramanathapuram taxi</strong>? Fastpikcab provides
+            <strong>affordable, safe, and comfortable taxi services</strong> for one-way rides,
+            round trips, business journeys, and family travel. With professional drivers and
+            modern vehicles, we ensure <strong>a smooth travel experience 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Ramanathapuram</strong> is about
+            <strong>480–500 km</strong>, which takes nearly <strong>9–10 hours</strong> by road.
+            The common route is via <strong>NH44 and NH38</strong>, passing through Salem, Madurai, and Sivagangai.
+        </p>
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring maximum safety and comfort on your long trip.
+            With <strong>transparent fares</strong>, there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Ramanathapuram, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Thanjavur, Tirunelveli, Tiruppur,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal, Karur,
+            Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Ramanathapuram taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support team</strong> is always available to help.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Ramanathapuram cab service</strong>
+            and enjoy a safe, reliable, and budget-friendly journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Ramanathapuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

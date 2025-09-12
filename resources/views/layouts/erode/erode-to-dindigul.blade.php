@@ -168,6 +168,52 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Dindigul Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Dindigul Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Erode to Dindigul taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way transfers,
+            round trips, family tours, and business journeys. Our professional drivers ensure
+            <strong>a smooth and stress-free ride</strong> 24/7.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Erode and Dindigul</strong> is about
+            <strong>160–180 km</strong>, which usually takes around <strong>3.5–4 hours</strong>
+            by road. The common travel route is via <strong>NH44</strong>, passing through Karur and Namakkal.
+        </p>
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring a safe and enjoyable trip. With <strong>transparent pricing</strong>,
+            you never pay hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Dindigul, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>
+                Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri,
+                Namakkal, Karur, Pudukkottai, Ranipet, Ariyalur, and Hosur.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Erode to Dindigul taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 support team</strong> is here to help with bookings, fares, and travel queries.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Dindigul cab service</strong>
+            and enjoy a reliable and comfortable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Dindigul Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,49 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Perambalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Perambalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Searching for a <strong>Hosur to Perambalur taxi</strong>? Fastpikcab provides
+            <strong>affordable, safe, and convenient taxi services</strong> for one-way travel,
+            round trips, business rides, and family journeys. Our expert drivers
+            ensure a <strong>hassle-free travel experience 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Perambalur</strong> is approximately
+            <strong>310–320 km</strong>, taking about <strong>6.5–7 hours</strong> by road.
+            The preferred route is via <strong>NH44 and NH38</strong>, passing through Salem and Trichy.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options like <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring safety and comfort for long journeys.
+        </p>
+        <p class="mb-4">
+            Apart from Perambalur, Fastpikcab provides taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Thanjavur, Tiruppur, Tirunelveli,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal, Karur,
+            Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Perambalur taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer care team</strong> is always available to assist.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Perambalur cab service</strong>
+            and enjoy a safe and reliable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Perambalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

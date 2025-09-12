@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Puducherry Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Puducherry (Pondicherry) Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Hosur to Puducherry</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and affordable taxi services</strong> for one-way travel,
+            weekend getaways, business trips, and family journeys. With professional drivers and
+            well-maintained vehicles, we ensure <strong>a stress-free ride 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Puducherry</strong> is about
+            <strong>320–330 km</strong>, usually taking <strong>6–7 hours</strong> by road.
+            The popular route is via <strong>NH77 and NH32</strong>, passing through Tiruvannamalai and Tindivanam.
+            Stopovers for meals and refreshments can be arranged along the way.
+        </p>
+        <p class="mb-4">
+            Choose from our fleet of <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            giving you a comfortable and safe travel experience.
+            With <strong>transparent pricing</strong>, you won’t encounter hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Puducherry, Fastpikcab operates across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Thanjavur, Tirunelveli, Tiruppur,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal, Karur,
+            Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Puducherry taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 support team</strong> is always ready to assist with bookings and fares.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Puducherry cab service</strong>
+            and enjoy a comfortable and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Puducherry Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

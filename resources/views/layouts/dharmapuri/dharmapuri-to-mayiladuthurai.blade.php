@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dharmapuri to Mayiladuthurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dharmapuri to Mayiladuthurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Dharmapuri to Mayiladuthurai</strong>? Fastpikcab offers
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way transfers, round trips,
+            and both personal and business travel. Our experienced drivers ensure you enjoy a smooth
+            and stress-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dharmapuri and Mayiladuthurai</strong> is around <strong>330–360 km</strong>,
+            which usually takes about <strong>6.5–8 hours</strong> by road. The common travel route is via
+            <strong>NH44 and NH38</strong>, passing through <strong>Salem, Perambalur, and Kumbakonam</strong>.
+            Stopovers for food, refreshments, or sightseeing can be arranged for your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle choices such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and comfortable journey. With our <strong>transparent pricing policy</strong>,
+            you pay exactly what you see – no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Mayiladuthurai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+                Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+                Udagamandalam (Ooty), Vellore, Villupuram, Virudhunagar, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dharmapuri to Mayiladuthurai taxi</strong> with Fastpikcab is quick and hassle-free.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated support team is available <strong>24/7</strong> to assist you with bookings,
+            fare details, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dharmapuri to Mayiladuthurai cab service</strong> and
+            enjoy a comfortable, safe, and affordable travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Mayiladuthurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

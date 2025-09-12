@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Thiruvarur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Thiruvarur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Thiruvarur taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way trips,
+            round journeys, family travel, and business rides. With professional drivers and
+            well-maintained cars, we ensure <strong>hassle-free travel 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Thiruvarur</strong> is approximately
+            <strong>270–290 km</strong>, which usually takes about <strong>6–7 hours</strong> by road.
+            The common travel route is via <strong>Karur, Trichy, and Thanjavur</strong>.
+            Stopovers for refreshments can be arranged as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers various taxi options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring a safe and comfortable ride. With <strong>transparent pricing</strong>,
+            you can travel with confidence.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thiruvarur, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Thiruvarur taxi</strong> is simple and fast.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer service team</strong> is always available for assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Thiruvarur cab service</strong>
+            and enjoy a smooth, reliable, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Thiruvarur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

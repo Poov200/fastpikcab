@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Namakkal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Namakkal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Dindigul to Namakkal taxi</strong>? Fastpikcab provides
+            <strong>affordable, comfortable, and safe taxi services</strong> for one-way trips,
+            round journeys, business travel, or family tours. Our skilled drivers and clean vehicles
+            ensure a <strong>stress-free journey</strong>, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Namakkal</strong> is around
+            <strong>110–120 km</strong>, which usually takes about <strong>2.5–3 hours</strong> by road.
+            The main travel route is via <strong>NH44</strong>, offering a smooth ride with food stops along the way.
+        </p>
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, or Premium Cars</strong>.
+            All cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong> to give you
+            a safe and pleasant trip. With <strong>transparent pricing</strong>, you’ll never face hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Namakkal, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Namakkal taxi</strong> is quick and simple.
+            Call us at <strong>+91 88256 94157</strong> or book online anytime.
+            Our support team is available <strong>24/7</strong> to guide you with fares and bookings.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Namakkal cab service</strong>
+            and travel with comfort, safety, and peace of mind.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Namakkal Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

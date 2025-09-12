@@ -167,6 +167,58 @@
         </div>
     </section>
 
+
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Namakkal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Namakkal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Namakkal taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way trips,
+            family visits, and business travel. With skilled drivers and modern vehicles,
+            we ensure a <strong>comfortable ride 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Namakkal</strong> is approximately
+            <strong>85 km</strong>, usually taking about <strong>2 hours</strong> by road.
+            The common route is via <strong>NH44</strong>, passing through Karur.
+            The journey is smooth with short breaks possible as needed.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options like <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring maximum safety and comfort. With <strong>transparent fares</strong>, you can travel with confidence.
+        </p>
+
+        <p class="mb-4">
+            Apart from Namakkal, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Namakkal taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support</strong> team is always available for assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Namakkal cab service</strong>
+            and enjoy a reliable and affordable ride.
+        </p>
+    </div>
+</section>
+
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Namakkal Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

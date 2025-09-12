@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Arakkonam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Arakkonam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Arakkonam taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way transfers,
+            round trips, family tours, and corporate travel. Our expert drivers ensure
+            <strong>a comfortable and stress-free journey</strong> 24/7.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Erode and Arakkonam</strong> is about
+            <strong>280–300 km</strong>, which usually takes around <strong>6–7 hours</strong>
+            by road. The common travel route is via <strong>NH544 and NH48</strong>, passing through Salem and Vellore.
+        </p>
+        <p class="mb-4">
+            We offer a wide range of vehicles including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong>, ensuring a safe and comfortable trip.
+            With <strong>transparent fares</strong>, you won’t face any hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Arakkonam, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Erode to Arakkonam taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> team is always ready to help with bookings, fares, and travel details.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Arakkonam cab service</strong>
+            and enjoy a safe, reliable, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Arakkonam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

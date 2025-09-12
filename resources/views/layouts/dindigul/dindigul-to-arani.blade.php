@@ -168,6 +168,53 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Arani Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Arani Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Dindigul to Arani</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way trips,
+            round journeys, family holidays, and business travel. Our professional drivers ensure
+            a smooth and worry-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Arani</strong> is around
+            <strong>350–370 km</strong>, which usually takes about <strong>7–8 hours</strong> by road.
+            The common travel route is via <strong>NH38 and NH32</strong>, passing through
+            <strong>Trichy, Perambalur, and Vandavasi</strong>. Stopovers for meals, refreshments,
+            or sightseeing can be arranged as per your needs.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring safety and comfort throughout your journey. With <strong>transparent pricing</strong>,
+            you pay only the quoted amount—no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Arani, Fastpikcab operates across all major cities and districts of Tamil Nadu such as:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Dindigul, Kanchipuram, Krishnagiri,
+                Namakkal, Karur, Pudukkottai, Ranipet, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Arani taxi</strong> with Fastpikcab is quick and convenient.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our support team is available <strong>24/7</strong> to help with bookings, fare details,
+            and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Arani cab service</strong> and
+            enjoy a safe, reliable, and comfortable ride at the most affordable price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Arani Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

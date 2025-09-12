@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Hosur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Hosur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Erode to Hosur</strong>? Fastpikcab offers
+            <strong>affordable, reliable, and safe taxi services</strong> for one-way travel,
+            business rides, and round trips. Our expert drivers and comfortable cars ensure
+            <strong>a smooth journey</strong> 24/7.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Erode and Hosur</strong> is about
+            <strong>220–240 km</strong>, taking approximately <strong>4.5–5 hours</strong>
+            by road. The preferred route is via <strong>NH544 and NH44</strong>, passing through Salem and Krishnagiri.
+        </p>
+        <p class="mb-4">
+            We provide multiple options including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our vehicles are <strong>AC, spacious, and GPS-enabled</strong>, offering a safe and reliable trip.
+            Our <strong>transparent fare policy</strong> ensures no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Hosur, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>
+                Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri,
+                Namakkal, Karur, Pudukkottai, Ranipet, Ariyalur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Erode to Hosur taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer service</strong> is here to assist with fares, bookings, and trip details.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Hosur cab service</strong>
+            and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Hosur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

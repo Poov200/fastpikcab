@@ -157,6 +157,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Tirupati Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Hosur to Tirupati Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a divine journey from <strong>Hosur to Tirupati</strong>?
+            Fastpikcab provides <strong>safe, comfortable, and affordable taxi services</strong>
+            for pilgrims, families, and solo travelers. Our <strong>24/7 taxi service</strong>
+            ensures a hassle-free ride with professional drivers and modern vehicles.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Tirupati</strong> is about
+            <strong>260–270 km</strong>, usually taking <strong>5.5–6 hours</strong> by road.
+            The common route is via <strong>NH75 and NH71</strong>, passing through Krishnagiri and Chittoor.
+        </p>
+        <p class="mb-4">
+            We offer a wide range of vehicles including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC, GPS-enabled, and spacious</strong>,
+            providing complete comfort and safety for your trip.
+        </p>
+        <p class="mb-4">
+            Apart from Tirupati, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            To book your <strong>Hosur to Tirupati taxi</strong>, call us at
+            <strong>+91 88256 94157</strong> or reserve online.
+            Our <strong>customer support team</strong> is available 24/7.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Tirupati cab service</strong>
+            and enjoy a peaceful and comfortable pilgrimage journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Tirupati Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

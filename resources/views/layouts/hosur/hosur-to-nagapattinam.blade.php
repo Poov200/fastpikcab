@@ -168,6 +168,49 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Nagapattinam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Trusted Hosur to Nagapattinam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Nagapattinam taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way trips,
+            holiday travel, family visits, and business journeys. With professional drivers,
+            we make your trip <strong>hassle-free and convenient</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Nagapattinam</strong> is approximately
+            <strong>400–410 km</strong>, usually taking around <strong>8–9 hours</strong> by road.
+            The common route is via <strong>NH77 and NH32</strong>, passing through Krishnagiri, Villupuram, and Cuddalore.
+        </p>
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>AC, GPS-enabled, and spacious</strong>,
+            providing maximum safety and comfort for long-distance travel.
+        </p>
+        <p class="mb-4">
+            Apart from Nagapattinam, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Nagapattinam taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer care</strong> team is always ready to help.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Nagapattinam cab service</strong>
+            and experience a smooth and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Nagapattinam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

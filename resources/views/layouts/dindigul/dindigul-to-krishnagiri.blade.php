@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Krishnagiri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Krishnagiri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Dindigul to Krishnagiri taxi</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and affordable taxi services</strong> for one-way travel,
+            round trips, and outstation journeys. Our professional drivers ensure
+            a <strong>smooth and convenient ride</strong>, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Krishnagiri</strong> is about
+            <strong>280–300 km</strong>, which usually takes <strong>5–6 hours</strong> by road.
+            The common travel route is via <strong>NH44</strong>, offering a fast and comfortable journey.
+            Stopovers for refreshments or sightseeing can be included.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides a wide choice of vehicles like <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>, all of which are <strong>air-conditioned and GPS-enabled</strong>.
+            With our <strong>transparent pricing policy</strong>, you only pay what is quoted.
+        </p>
+        <p class="mb-4">
+            Apart from Krishnagiri, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Krishnagiri taxi</strong> is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online anytime.
+            Our customer support team is ready <strong>24/7</strong> to help with fares, bookings, and queries.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Krishnagiri cab service</strong>
+            and travel with safety, comfort, and reliability.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Krishnagiri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

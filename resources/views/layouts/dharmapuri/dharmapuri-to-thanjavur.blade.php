@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dharmapuri to Thanjavur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dharmapuri to Thanjavur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Dharmapuri to Thanjavur</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and affordable taxi services</strong> for one-way trips,
+            round journeys, business travel, and family vacations. Our professional drivers
+            ensure a smooth and stress-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dharmapuri and Thanjavur</strong> is about
+            <strong>300–320 km</strong>, which usually takes around <strong>6–7 hours</strong> by road.
+            The most common travel route is via <strong>NH44 and NH83</strong>, passing through
+            <strong>Salem and Tiruchirappalli</strong>. Stopovers for meals, tea breaks, or sightseeing
+            can be arranged for your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides a wide range of taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and enjoyable journey. With our <strong>transparent pricing</strong>,
+            there are no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Thanjavur, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Theni, Thiruvallur, Thiruvarur,
+                Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+                Vellore, Villupuram, Virudhunagar, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dharmapuri to Thanjavur taxi</strong> with Fastpikcab is simple and convenient.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated customer support team is available <strong>24/7</strong> to help with bookings,
+            fare details, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dharmapuri to Thanjavur cab service</strong> and
+            enjoy a safe, reliable, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Thanjavur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

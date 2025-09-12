@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Madurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Madurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Traveling from <strong>Dindigul to Madurai</strong>? Fastpikcab provides
+            <strong>reliable, comfortable, and budget-friendly taxi services</strong>
+            for one-way transfers, round trips, family tours, and business journeys.
+            Our professional drivers ensure a <strong>safe and enjoyable ride</strong>,
+            available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Madurai</strong> is about
+            <strong>65–70 km</strong>, usually taking <strong>1.5 hours</strong> by road.
+            The most convenient route is via <strong>NH44</strong>. You can also stop for
+            refreshments or short sightseeing breaks along the way.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicles such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our taxis are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring comfort and safety. With <strong>transparent pricing</strong>, you never pay extra.
+        </p>
+        <p class="mb-4">
+            Apart from Madurai, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            To book your <strong>Dindigul to Madurai taxi</strong>, call us at <strong>+91 88256 94157</strong>
+            or book online easily. Our <strong>24/7 support team</strong> is available to help with
+            bookings, fare details, and travel assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Madurai cab service</strong>
+            and enjoy a comfortable and safe journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Madurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

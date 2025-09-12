@@ -172,8 +172,8 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Book Chennai to Namakkal Taxi with Fastpikcab
-        </h2>
+        <h1 class="text-3xl font-bold text-center mb-10 text-gray-800">Book Chennai to Namakkal Taxi with Fastpikcab
+        </h1>
         <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
             <p class="mb-4">
                 Planning a comfortable journey from <strong>Chennai to Namakkal</strong>? Fastpikcab makes your travel

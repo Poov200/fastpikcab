@@ -168,6 +168,49 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Namakkal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Hosur to Namakkal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Namakkal taxi</strong>? Fastpikcab offers
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way trips,
+            round journeys, business travel, and family visits.
+            With skilled drivers and modern taxis, we guarantee a <strong>smooth and secure journey</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Namakkal</strong> is about
+            <strong>210–220 km</strong>, taking nearly <strong>4.5–5 hours</strong> by road.
+            The usual route is via <strong>NH44</strong>, passing through Salem.
+        </p>
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring a safe and comfortable trip.
+        </p>
+        <p class="mb-4">
+            Apart from Namakkal, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Thanjavur, Tiruppur, Tirunelveli,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Karur, Pudukkottai,
+            Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Namakkal taxi</strong> is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online.
+            Our dedicated customer support team is available <strong>24/7</strong> for your assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Namakkal cab service</strong>
+            and enjoy a safe, reliable, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Namakkal Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

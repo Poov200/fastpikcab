@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Mayiladuthurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Mayiladuthurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Dindigul to Mayiladuthurai taxi</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable cab services</strong> for one-way trips,
+            round journeys, family tours, and business travel. With expert drivers and
+            modern vehicles, your ride will be <strong>comfortable and convenient</strong>, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Mayiladuthurai</strong> is approximately
+            <strong>280–300 km</strong>, taking about <strong>6–7 hours</strong> by road.
+            The preferred route is via <strong>NH38 and NH36</strong>, passing through
+            <strong>Trichy and Kumbakonam</strong>. Stopovers for meals or short sightseeing can be arranged as required.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple cab options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring safety and comfort. With our <strong>transparent pricing</strong>, you only pay what is quoted — no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Mayiladuthurai, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Mayiladuthurai taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online on our website.
+            Our customer care team is available <strong>24/7</strong> to assist with fares, bookings, and travel queries.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Mayiladuthurai cab service</strong>
+            and enjoy a safe, reliable, and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Mayiladuthurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

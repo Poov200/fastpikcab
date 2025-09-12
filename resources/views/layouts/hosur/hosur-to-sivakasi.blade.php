@@ -168,6 +168,49 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Sivakasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Sivakasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Sivakasi taxi</strong>? Fastpikcab provides
+            <strong>reliable, safe, and affordable taxi services</strong> for one-way trips,
+            round journeys, business travel, and family holidays. Our expert drivers and
+            modern cars ensure a <strong>comfortable travel experience</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Sivakasi</strong> is approximately
+            <strong>480–490 km</strong>, usually taking around <strong>9 hours</strong> by road.
+            The route is generally via <strong>NH44</strong>, passing through Salem, Madurai, and Virudhunagar.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple cab types such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC, spacious, and GPS-enabled</strong>,
+            ensuring a safe and comfortable journey for long trips.
+        </p>
+        <p class="mb-4">
+            Apart from Sivakasi, Fastpikcab provides taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Salem, Erode, Madurai, Trichy, Thanjavur, Tiruppur, Tirunelveli,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Pudukkottai, Kanchipuram, Krishnagiri,
+            Namakkal, Karur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Sivakasi taxi</strong> is simple and quick.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer care team</strong> is always ready to assist you.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Sivakasi cab service</strong>
+            and enjoy a safe, reliable, and budget-friendly journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Sivakasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

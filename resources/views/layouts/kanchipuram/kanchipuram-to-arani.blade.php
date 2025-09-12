@@ -168,6 +168,52 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Arani Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Kanchipuram to Arani Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Arani taxi</strong>? Fastpikcab offers
+            <strong>reliable, safe, and budget-friendly cab services</strong> for one-way travel,
+            round trips, family rides, and business journeys. With professional drivers,
+            we ensure <strong>a comfortable and stress-free travel experience</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Arani</strong> is about
+            <strong>65 km</strong>, usually taking <strong>1.5 hours</strong> by road.
+            The common travel route is via <strong>SH58 and Arani Road</strong>.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides a wide range of taxis including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            making your journey both safe and enjoyable. With <strong>transparent pricing</strong>,
+            you get the best deals without hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Arani, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Hosur,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur,
+            Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Arani taxi</strong> is easy and fast.
+            Call <strong>+91 88256 94157</strong> or book through our website.
+            Our <strong>24/7 customer care</strong> is always available to assist.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Arani cab service</strong>
+            and enjoy a comfortable and budget-friendly ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Arani Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Nagapattinam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Nagapattinam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Dindigul to Nagapattinam taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and budget-friendly cab services</strong> for one-way trips,
+            round journeys, family tours, and business travel. With professional drivers and
+            well-maintained vehicles, we ensure a <strong>comfortable and stress-free ride</strong> available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Nagapattinam</strong> is about
+            <strong>280–300 km</strong>, which takes approximately <strong>6–7 hours</strong> by road.
+            The preferred travel route is via <strong>NH38 and NH36</strong>, passing through
+            <strong>Trichy and Thiruvarur</strong>. En route, you can plan for meal breaks or short sightseeing stops.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring maximum comfort and safety. With <strong>transparent pricing</strong>, there are no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Nagapattinam, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Nagapattinam taxi</strong> is simple.
+            Just call us at <strong>+91 88256 94157</strong> or book online via our website.
+            Our support team is available <strong>24/7</strong> to assist with bookings, fares, and travel queries.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Nagapattinam cab service</strong>
+            and enjoy a smooth, reliable, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Nagapattinam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

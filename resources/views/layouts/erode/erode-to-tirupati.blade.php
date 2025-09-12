@@ -164,6 +164,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Tirupati Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Tirupati Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a <strong>pilgrimage from Erode to Tirupati</strong>? Fastpikcab provides
+            <strong>safe, comfortable, and reliable taxi services</strong> for one-way trips,
+            round journeys, and family tours. Our skilled drivers ensure
+            <strong>a hassle-free spiritual journey 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Tirupati</strong> is around
+            <strong>370–390 km</strong>, which usually takes about <strong>8–9 hours</strong> by road.
+            The most common route is via <strong>Salem, Vellore, and Chittoor</strong>.
+            Stopovers for meals or breaks can be arranged as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers several cab types including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC, GPS-enabled, and spacious</strong>,
+            providing maximum comfort and safety. With <strong>transparent pricing</strong>,
+            you’ll never face hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tirupati, Fastpikcab operates across Tamil Nadu and nearby states including:
+            <strong>Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Madurai, Nagercoil,
+            Salem, Trichy, Tirunelveli, Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Tirupati taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or reserve online.
+            Our dedicated <strong>24/7 support team</strong> is always ready to assist.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Tirupati cab service</strong>
+            and enjoy a comfortable, safe, and spiritual journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Tirupati Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

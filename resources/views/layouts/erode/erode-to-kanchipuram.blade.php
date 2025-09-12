@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Kanchipuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Kanchipuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Erode to Kanchipuram taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable cab services</strong> for family tours,
+            one-way transfers, and round trips. Our trained drivers ensure
+            <strong>a stress-free travel experience</strong> anytime.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Erode and Kanchipuram</strong> is around
+            <strong>350–370 km</strong>, which takes nearly <strong>6.5–7.5 hours</strong> by road.
+            The usual travel route is via <strong>NH79 and NH48</strong>, passing through Salem and Vellore.
+        </p>
+        <p class="mb-4">
+            We provide a wide fleet of vehicles including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            making your ride safe and comfortable. We also follow a <strong>transparent fare policy</strong>.
+        </p>
+        <p class="mb-4">
+            Apart from Kanchipuram, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>
+                Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri,
+                Namakkal, Karur, Pudukkottai, Ranipet, Ariyalur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Erode to Kanchipuram taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online 24/7.
+            Our customer care team is always ready to help with fares, bookings, and trip details.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Kanchipuram cab service</strong>
+            and enjoy a reliable and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Kanchipuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

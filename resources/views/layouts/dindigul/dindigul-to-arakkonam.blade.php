@@ -168,6 +168,53 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Arakkonam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Arakkonam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Dindigul to Arakkonam</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way travel,
+            round trips, business journeys, and family tours. Our professional drivers ensure
+            a smooth and hassle-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Arakkonam</strong> is around
+            <strong>380–400 km</strong>, which usually takes about <strong>7–8 hours</strong> by road.
+            The common travel route is via <strong>NH38 and NH32</strong>, passing through
+            <strong>Trichy, Perambalur, and Kanchipuram</strong>. Stopovers for meals, tea, or sightseeing
+            can also be arranged as per your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides a wide range of vehicle options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, comfortable, and GPS-enabled</strong>,
+            ensuring a safe and enjoyable journey. With <strong>transparent pricing</strong>, you can travel without
+            worrying about hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Arakkonam, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Dindigul, Kanchipuram, Krishnagiri,
+                Namakkal, Karur, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Arakkonam taxi</strong> with Fastpikcab is quick and easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated support team is available <strong>24/7</strong> to help with bookings,
+            fare details, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Arakkonam cab service</strong> and
+            enjoy a safe, comfortable, and reliable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Arakkonam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

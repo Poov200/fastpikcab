@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Tirunelveli Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Tirunelveli Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Tirunelveli taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for pilgrimages,
+            family trips, and business journeys. With experienced drivers and modern vehicles,
+            we ensure <strong>smooth rides anytime</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Tirunelveli</strong> is around
+            <strong>520–540 km</strong>, usually taking <strong>9.5–10.5 hours</strong> by road.
+            The common route is via <strong>NH44</strong>, passing through Salem, Karur, Madurai, and Virudhunagar.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple taxi types like <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring a safe and pleasant travel experience. With <strong>transparent fares</strong>, you pay only what is shown.
+        </p>
+        <p class="mb-4">
+            Apart from Tirunelveli, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Tirunelveli taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer service team</strong> is always here to help.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Tirunelveli cab service</strong>
+            and enjoy a comfortable and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Tirunelveli Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

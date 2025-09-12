@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Salem Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Salem Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Erode to Salem taxi</strong>? Fastpikcab provides
+            <strong>affordable, safe, and reliable taxi services</strong> for one-way travel,
+            daily commutes, family visits, or business journeys. Our experienced drivers
+            and well-maintained vehicles ensure <strong>comfort and safety 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Salem</strong> is only about
+            <strong>65–70 km</strong>, taking nearly <strong>1.5–2 hours</strong> by road.
+            The common travel route is via <strong>NH544</strong>, offering smooth connectivity.
+        </p>
+
+        <p class="mb-4">
+            Taxi options include <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All cabs are <strong>AC, GPS-enabled, and comfortable</strong>.
+            With <strong>transparent fares</strong>, there are no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            Apart from Salem, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Salem taxi</strong> is fast and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is always available for help.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Salem cab service</strong>
+            and enjoy a safe, reliable, and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Salem Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

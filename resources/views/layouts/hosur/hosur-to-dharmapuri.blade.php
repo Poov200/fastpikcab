@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Dharmapuri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Dharmapuri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Dharmapuri taxi</strong>? Fastpikcab provides
+            <strong>affordable, safe, and convenient cab services</strong> for one-way travel,
+            family trips, or business journeys. Our professional drivers and comfortable cars ensure
+            <strong>a stress-free travel experience</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Dharmapuri</strong> is about
+            <strong>95 km</strong>, usually taking around <strong>2–2.5 hours</strong> by road.
+            The common route is via <strong>NH44</strong>, passing through Krishnagiri.
+            Short refreshment stops can be added as per your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            providing both safety and comfort. With <strong>clear pricing</strong>, you’ll never face hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Dharmapuri, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, and Ariyalur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Dharmapuri cab</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 support team</strong> will help with fares and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Dharmapuri cab service</strong>
+            and enjoy a reliable, safe, and comfortable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Dharmapuri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
