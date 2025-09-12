@@ -131,6 +131,56 @@
         </div>
     </section>
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Dharmapuri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Dharmapuri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a cab from <strong>Thiruvannamalai to Dharmapuri</strong>? Fastpikcab provides safe, affordable, and comfortable taxi services for one-way, round trips, and long-distance travel.
+            Our drivers are available <strong>24/7</strong> to ensure a hassle-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Dharmapuri is approximately <strong>160 km</strong>,
+            which usually takes around <strong>4–4.5 hours</strong> by road. The common travel route is via <strong>NH77 and NH44</strong>.
+            Refreshment breaks can be arranged on the way as per your need.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi choices including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are GPS-enabled, air-conditioned, and maintained to provide a stress-free travel experience.
+            We guarantee <strong>transparent and fair pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Thiruvannamalai Railway Station taxi pickups</strong> for passengers traveling to Dharmapuri.
+            Whether you’re a family, student, business traveler, or group, our <strong>long-distance taxi packages</strong> will suit your needs.
+        </p>
+
+        <p class="mb-4">
+            In addition to Dharmapuri, Fastpikcab serves major destinations across Tamil Nadu such as:
+            Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri, Madurai,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram,
+            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur,
+            Ariyalur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Dharmapuri taxi</strong> is quick and easy.
+            Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Our support team is available round the clock to assist with bookings and travel details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Dharmapuri cab service</strong> and enjoy a safe, comfortable, and reliable journey.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Dharmapuri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

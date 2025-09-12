@@ -130,6 +130,57 @@
             </div>
         </div>
     </section>
+
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Dindigul Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Dindigul Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Thiruvannamalai to Dindigul</strong>? Fastpikcab offers reliable and affordable cab services for one-way, round trips, and long-distance travel.
+            Our skilled drivers are available <strong>24/7</strong> to make your journey comfortable and safe.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Dindigul is around <strong>320 km</strong>,
+            which takes approximately <strong>6.5–7.5 hours</strong> by road. The common travel route is via <strong>NH38</strong>.
+            Refreshment stops can be arranged along the journey on request.
+        </p>
+
+        <p class="mb-4">
+            We provide multiple taxi options such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            Our vehicles are air-conditioned, GPS-enabled, and well-maintained to ensure a smooth trip.
+            We believe in <strong>transparent pricing</strong> without hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also provides <strong>Thiruvannamalai Railway Station taxi pickups</strong> for passengers heading towards Dindigul.
+            Families, tourists, students, and business travelers can take advantage of our <strong>long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Other than Dindigul, Fastpikcab provides services across Tamil Nadu covering:
+            Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Erode, Kanchipuram, Karur, Krishnagiri, Madurai,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram,
+            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur,
+            Ariyalur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Dindigul taxi</strong> with Fastpikcab is quick and convenient.
+            Book online on our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support ensures a seamless booking process.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Dindigul cab service</strong> and experience safe, reliable, and comfortable travel.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Dindigul Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

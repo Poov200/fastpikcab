@@ -131,6 +131,54 @@
         </div>
     </section>
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Karur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Karur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Traveling from <strong>Thiruvannamalai to Karur</strong>? Fastpikcab offers safe, reliable, and comfortable taxi services for one-way trips, round journeys, and urgent travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure a smooth and timely ride.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Karur is approximately <strong>280 km</strong>,
+            taking around <strong>6–6.5 hours</strong> by road. The common route is via <strong>NH38 and NH44</strong>.
+            Refreshment or meal breaks can be arranged along the journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides a variety of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All cabs are GPS-enabled, air-conditioned, and spacious to make your travel comfortable and stress-free.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Thiruvannamalai Railway Station taxi pickups</strong> for passengers traveling to Karur.
+            Families, students, business travelers, and groups can benefit from our <strong>long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Karur, Fastpikcab operates across Tamil Nadu including:
+            Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Kanchipuram, Krishnagiri, Madurai,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur, Ariyalur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Karur taxi</strong> is quick and convenient. Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 support team will assist with fares, bookings, and travel planning.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Karur cab service</strong> and enjoy a safe, comfortable, and reliable journey.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Karur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

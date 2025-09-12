@@ -130,6 +130,57 @@
             </div>
         </div>
     </section>
+
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Chennai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Chennai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a reliable cab from <strong>Thiruvannamalai to Chennai</strong>? Fastpikcab offers safe, comfortable, and affordable taxi services for all travel purposes including one-way, round trip, and business journeys.
+            Our skilled drivers are available <strong>24/7</strong> to ensure you reach your destination on time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Chennai is approximately <strong>200 km</strong>,
+            taking about <strong>4.5–5 hours</strong> by road. The common route is via <strong>NH48</strong>.
+            We also allow short breaks for refreshments and meals during the journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            Our vehicles are GPS-enabled, air-conditioned, and regularly maintained for your comfort and safety.
+            We believe in <strong>fair and transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Thiruvannamalai Railway Station taxi pickups</strong> for passengers heading to Chennai.
+            Whether you’re traveling for work, family trips, or leisure, our <strong>long-distance taxi packages</strong> are designed to suit every traveler.
+        </p>
+
+        <p class="mb-4">
+            Besides Chennai, Fastpikcab offers taxi services to all major towns and cities in Tamil Nadu including:
+            Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri, Madurai,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram,
+            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur,
+            Ariyalur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Chennai taxi</strong> with Fastpikcab is simple and convenient.
+            Book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our customer support is available 24/7 to assist with travel planning and booking.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Chennai cab service</strong> and enjoy a stress-free, safe, and reliable travel experience.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
