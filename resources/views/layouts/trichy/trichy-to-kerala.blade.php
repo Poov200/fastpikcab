@@ -149,34 +149,59 @@
             </div>
         </div>
     </section>
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Trichy to Kerala Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Trichy to Kerala
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Planning a comfortable journey from <strong>Trichy</strong> to <strong>Kerala</strong>? Fastpikcab brings you clean, safe, and affordable cabs for one-way, round trips, and outstation travel. Our professional drivers are available <strong>24/7</strong> to get you to any Kerala destination comfortably and on time.
-            </p>
-            <p class="mb-4">
-                The distance from Trichy to Kerala is approximately <strong>312 to 400 km</strong> (depending on the Kerala city), and the journey by road typically takes <strong>6 to 7 hours</strong> through scenic South Indian highways. Our drivers know the best routes to ensure a smooth, timely, and relaxing travel experience.
-            </p>
-            <p class="mb-4">
-                Choose from <strong>Hatchbacks, Sedans, and SUVs</strong>. Every car is air-conditioned, spacious, and equipped with GPS for a hassle-free trip. Pricing is <strong>transparent</strong>, with all details provided upfront, and no hidden charges.
-            </p>
-            <p class="mb-4">
-                Kerala is popular for its lush landscapes, backwaters, religious sites, and coastal beauty. Our <strong>round-trip taxi packages</strong> are economical and allow flexible sight-seeing and leisure time across Kerala at your own pace.
-            </p>
-            <p class="mb-4">
-                Booking your <strong>Trichy to Kerala taxi</strong> with Fastpikcab is simple. Book online on our website or call <strong>+91 88256 94157</strong>. Our customer support works round the clock for bookings, fare details, and travel assistance.
-            </p>
-            <p>
-                Choose Fastpikcab for a <strong>safe, reliable, and comfortable Trichy-Kerala cab experience</strong>.
-            </p>
-        </div>
-    </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Trichy to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Trichy to Kerala Cabs & Airport Transfers Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Trichy to Kerala</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, airport transfers, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Trichy and Kerala destinations (like Kochi or Thiruvananthapuram) ranges from approximately <strong>400–520 km</strong>,
+            which usually takes around <strong>8–10 hours</strong> by road depending on the specific city.
+            The common route is via <strong>NH544 and NH66</strong>, passing through <strong>Coimbatore, Palakkad, and Thrissur</strong>.
+            Short stops for refreshments, meals, or sightseeing can be arranged along the way.
+            We also offer convenient <strong>airport drop-offs and pick-ups</strong> from <strong>Trichy International Airport (TRZ)</strong> and major Kerala airports including <strong>Cochin International Airport (COK)</strong> and <strong>Thiruvananthapuram International Airport (TRV)</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong> for intercity travel and airport transfers.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Trichy Railway Station and Airport taxi pickups</strong> for passengers traveling to Kerala.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong> and <strong>airport transfer services</strong>,
+            making intercity and airport travel convenient and cost-effective.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kerala destinations, Fastpikcab operates across all major cities, districts, and airports of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur, Krishnagiri,
+            Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, Vellore, Virudhunagar, Trichy International Airport (TRZ), Cochin International Airport (COK), and Thiruvananthapuram International Airport (TRV).
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Trichy to Kerala taxi or airport transfer</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Trichy to Kerala cab service and airport transfers</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Trichy to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
@@ -239,7 +264,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                   
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">Starts from ₹4,424</td>

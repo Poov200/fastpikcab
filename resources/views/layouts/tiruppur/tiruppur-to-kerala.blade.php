@@ -139,34 +139,55 @@
             </div>
         </div>
     </section>
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Tiruppur to Kerala Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Tiruppur to Kerala
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Planning a comfortable ride from <strong>Tiruppur</strong> to <strong>Kerala</strong>? Fastpikcab offers safe, clean, and affordable cabs for one-way trips, round journeys, and outstation travel. Our professional drivers are available <strong>24/7</strong> to ensure timely and stress-free travel.
-            </p>
-            <p class="mb-4">
-                The distance from Tiruppur to Kerala varies depending on the destination, with an approximate distance to Kochi being <strong>240 km</strong> and the usual travel time about <strong>5 hours</strong> via well-maintained highways. Whether travelling for business, leisure, or personal reasons, we provide the best routes for a smooth journey.
-            </p>
-            <p class="mb-4">
-                Choose from a range of vehicles including <strong>Hatchbacks, Sedans, and SUVs</strong>, all air-conditioned and GPS-equipped for your comfort. We ensure transparent pricing with no hidden fees.
-            </p>
-            <p class="mb-4">
-                Kerala, known for its scenic beauty and popular tourist destinations like Kochi, Munnar, and Vagamon, is easily accessible with our round-trip taxi packages designed to give you flexibility and convenience.
-            </p>
-            <p class="mb-4">
-                Booking your <strong>Tiruppur to Kerala cab</strong> is easy online or by phone at <strong>+91 88256 94157</strong>. Our 24/7 support team is ready to assist with your travel plans and fare inquiries.
-            </p>
-            <p>
-                Choose Fastpikcab for a <strong>safe, reliable, and comfortable ride from Tiruppur to Kerala</strong>.
-            </p>
-        </div>
-    </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tiruppur to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tiruppur to Kerala Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Tiruppur to Kerala</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tiruppur and central Kerala (e.g., Kochi) is approximately <strong>400–450 km</strong>,
+            which usually takes around <strong>8–10 hours</strong> by road. The common route is via <strong>NH544</strong>. Short stops for refreshments, meals, or sightseeing can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Tiruppur Railway Station taxi pickups</strong> for passengers traveling to Kerala.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kerala, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Arani, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet,
+            Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, Vellore, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tiruppur to Kerala taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tiruppur to Kerala cab service</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
@@ -228,7 +249,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">Starts from ₹2,240</td>

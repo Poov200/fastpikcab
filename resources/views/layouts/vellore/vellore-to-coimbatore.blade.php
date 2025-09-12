@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Vellore to Coimbatore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Vellore to Coimbatore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Vellore to Coimbatore</strong>? Fastpikcab provides clean, safe,
+            and affordable cabs for one-way trips, round journeys, and intercity travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure a comfortable and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Vellore and Coimbatore is approximately <strong>380 km</strong>,
+            which usually takes around <strong>7–8 hours</strong> by road. The preferred travel route is via
+            <strong>NH44</strong>, passing through <strong>Salem, Erode, and Avinashi</strong>.
+            We can also arrange short stopovers for meals, tea, or sightseeing during your journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our vehicles are air-conditioned, spacious, and GPS-enabled to provide you with
+            a smooth and stress-free ride. We maintain <strong>transparent pricing</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Vellore Railway Station taxi pickups</strong> for passengers traveling to Coimbatore.
+            Whether you’re a family, student, business traveler, or group, our
+            <strong>long-distance taxi packages</strong> are cost-effective for outstation trips.
+        </p>
+
+        <p class="mb-4">
+            Apart from Coimbatore, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Vellore to Coimbatore taxi</strong> with Fastpikcab is quick and simple.
+            You can book online through our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is always ready to help with bookings, fare details, and travel assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Vellore to Coimbatore cab service</strong> and
+            enjoy a safe, reliable, and hassle-free travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Vellore to Coimbatore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

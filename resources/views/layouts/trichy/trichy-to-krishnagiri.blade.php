@@ -168,6 +168,59 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Trichy to Krishnagiri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Trichy to Krishnagiri Cabs & Airport Transfers Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Trichy to Krishnagiri</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, airport transfers, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Trichy and Krishnagiri is approximately <strong>300 km</strong>,
+            which usually takes around <strong>6.5–7.5 hours</strong> by road. The common route is via <strong>NH44</strong>,
+            passing through <strong>Salem and Dharmapuri</strong>. Short stops for refreshments, meals, or sightseeing can be arranged along the way.
+            We also offer convenient <strong>airport drop-offs and pick-ups</strong> from <strong>Trichy International Airport (TRZ)</strong> and <strong>Bengaluru International Airport (BLR)</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong> for intercity travel and airport transfers.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Trichy Railway Station and Airport taxi pickups</strong> for passengers traveling to Krishnagiri.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong> and <strong>airport transfer services</strong>,
+            making intercity and airport travel convenient and cost-effective.
+        </p>
+
+        <p class="mb-4">
+            Apart from Krishnagiri, Fastpikcab operates across all major cities, districts, and airports of Tamil Nadu and nearby states including:
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+            Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruppur,
+            Tiruvannamalai, Udagamandalam (Ooty), Villupuram, Vellore, Virudhunagar, Trichy International Airport (TRZ), and Bengaluru International Airport (BLR).
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Trichy to Krishnagiri taxi or airport transfer</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Trichy to Krishnagiri cab service and airport transfers</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Trichy to Krishnagiri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

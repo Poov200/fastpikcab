@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tirupati to Trichy Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tirupati to Trichy Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Tirupati to Trichy</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tirupati and Trichy is approximately <strong>300 km</strong>,
+            which usually takes around <strong>6–7 hours</strong> by road. The common route is via <strong>NH38</strong>. Short stops for refreshments or meals can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Tirupati Railway Station taxi pickups</strong> for passengers traveling to Trichy.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Trichy, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Arani, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, Vellore, Virudhunagar, Arakkonam, and Bangalore.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tirupati to Trichy taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tirupati to Trichy cab service</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tirupati to Trichy Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

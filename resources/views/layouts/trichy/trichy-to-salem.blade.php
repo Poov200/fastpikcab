@@ -167,6 +167,60 @@
         </div>
     </section>
 
+
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Trichy to Salem Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Trichy to Salem Cabs & Airport Transfers Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Trichy to Salem</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, airport transfers, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Trichy and Salem is approximately <strong>190 km</strong>,
+            which usually takes around <strong>4–4.5 hours</strong> by road. The common route is via <strong>NH79</strong>,
+            passing through <strong>Perambalur and Attur</strong>. Short stops for refreshments, meals, or sightseeing can be arranged along the way.
+            We also offer convenient <strong>airport drop-offs and pick-ups</strong> from <strong>Trichy International Airport (TRZ)</strong> and <strong>Salem Airport (SXV)</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong> for intercity travel and airport transfers.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Trichy Railway Station and Airport taxi pickups</strong> for passengers traveling to Salem.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong> and <strong>airport transfer services</strong>,
+            making intercity and airport travel convenient and cost-effective.
+        </p>
+
+        <p class="mb-4">
+            Apart from Salem, Fastpikcab operates across all major cities, districts, and airports of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur, Krishnagiri,
+            Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Sivagangai, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, Vellore, Virudhunagar, Trichy International Airport (TRZ), and Salem Airport (SXV).
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Trichy to Salem taxi or airport transfer</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Trichy to Salem cab service and airport transfers</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Trichy to Salem Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
