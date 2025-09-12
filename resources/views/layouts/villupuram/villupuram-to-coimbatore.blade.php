@@ -163,6 +163,61 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Coimbatore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Coimbatore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free cab from <strong>Villupuram to Coimbatore</strong>?
+            Fastpikcab offers safe, clean, and affordable taxis for one-way trips, round journeys, and urgent travel needs.
+            Our professional drivers are available <strong>24/7</strong> to ensure your travel is smooth and comfortable.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Coimbatore is approximately <strong>400 km</strong>,
+            which usually takes about <strong>8–9 hours</strong> by road.
+            The preferred travel route is via <strong>NH79 and NH544</strong>,
+            passing through <strong>Salem, Erode, and Avinashi</strong>.
+            We also allow convenient stopovers for meals, tea breaks, or sightseeing during the trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides a variety of vehicle choices such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are air-conditioned, GPS-enabled, and spacious, ensuring a stress-free long-distance ride.
+            Our fares follow a <strong>transparent pricing policy</strong> with zero hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also offer <strong>Villupuram Railway Station taxi pickups</strong> for passengers traveling towards Coimbatore.
+            Families, business professionals, students, and group travelers can all take advantage of our
+            <strong>long-distance intercity taxi packages</strong>, designed to be both affordable and reliable.
+        </p>
+
+        <p class="mb-4">
+            Apart from Coimbatore, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Coimbatore taxi</strong> is quick and easy.
+            Simply book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our customer support team is available <strong>24/7</strong> to help you with bookings, fares, and travel details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Coimbatore cab service</strong> and enjoy
+            a reliable, comfortable, and affordable travel experience.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Coimbatore Fare Structure</h2>

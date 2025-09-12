@@ -166,6 +166,60 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Cuddalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Cuddalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Villupuram to Cuddalore</strong>?
+            Fastpikcab provides safe, affordable, and comfortable cabs for one-way transfers, round trips, and urgent travel requirements.
+            Our experienced drivers are available <strong>24/7</strong> to ensure timely travel with complete safety.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Cuddalore is approximately <strong>40 km</strong>,
+            which usually takes about <strong>1 hour</strong> by road.
+            The most common route is via <strong>NH332</strong>, passing through <strong>Panruti</strong>.
+            You can also request short stopovers for tea, snacks, or local sightseeing on the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle choices including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our cars are air-conditioned, spacious, and GPS-enabled, ensuring you travel stress-free.
+            We follow <strong>transparent pricing</strong> with absolutely no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Villupuram Railway Station taxi pickups</strong> for passengers heading to Cuddalore.
+            Whether you’re a family, student, or business traveler, our <strong>affordable intercity taxi packages</strong>
+            are tailored to suit your needs.
+        </p>
+
+        <p class="mb-4">
+            Apart from Cuddalore, Fastpikcab serves all major cities and districts of Tamil Nadu such as
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur,
+            Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Ooty, Vellore,
+            and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Cuddalore taxi</strong> with Fastpikcab is simple.
+            Reserve online through our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our customer support is available <strong>24/7</strong> to assist with fares, bookings, and travel advice.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Cuddalore cab service</strong> and travel safely, comfortably, and affordably.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Cuddalore Route Details</h2>

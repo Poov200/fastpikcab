@@ -166,6 +166,55 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Tenkasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Tenkasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Tenkasi taxi service</strong>?
+            Fastpikcab delivers reliable and affordable outstation cab services.
+            Whether for pilgrimage, family visits, or business trips, we ensure a safe and comfortable journey at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Tenkasi is approximately <strong>515 km</strong>,
+            and the travel time by road is around <strong>8 to 9 hours</strong>.
+            The preferred route uses <strong>NH38</strong> passing through key towns such as <strong>Ulundurpet, Trichy, and Tenkasi</strong>.
+            You can request flexible stops for refreshments and sightseeing during your trip.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedan, SUV, and Premium Cars</strong>,
+            all equipped with <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are available for families and groups seeking extra comfort.
+        </p>
+
+        <p class="mb-4">
+            Our professional drivers provide <strong>doorstep pickups and convenient drop-offs</strong>,
+            making your journey worry-free. This service is ideal for trips to temples and tourist spots in Tenkasi.
+        </p>
+
+        <p class="mb-4">
+            Beyond Tenkasi, Fastpikcab serves many locations across Tamil Nadu and its neighboring states,
+            including Chennai, Madurai, and Salem, for all your intercity travel needs.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Tenkasi cab</strong> is fast and straightforward.
+            Book online or call <strong>+91 88256 94157</strong> for instant customer support.
+            Our 24x7 team assists with pricing, trip planning, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Tenkasi taxi booking</strong>
+            and experience safe, reliable, and affordable travel every time.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Tenkasi Route Details</h2>

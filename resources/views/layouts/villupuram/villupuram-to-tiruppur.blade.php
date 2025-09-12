@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Tiruppur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Tiruppur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Tiruppur taxi service</strong>?
+            Fastpikcab provides reliable and affordable outstation cab services.
+            Whether for business trips, family visits, or sightseeing,
+            we ensure a comfortable and safe journey at competitive prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Tiruppur is approximately <strong>290 km</strong>,
+            and the travel time by road is typically about <strong>4 to 4.5 hours</strong>.
+            The preferred route is via <strong>NH38 and NH544</strong>, passing through key towns like <strong>Salem and Erode</strong>.
+            Flexible stopovers can be arranged during the journey for refreshments or sightseeing.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedan, SUV, and Premium Cars</strong>,
+            all equipped with <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are available for group travel to ensure comfort throughout the trip.
+        </p>
+
+        <p class="mb-4">
+            Our professional drivers provide <strong>doorstep pickups and drop-offs</strong>,
+            ensuring a hassle-free and pleasant travel experience.
+            This service is ideal for business travelers, tourists, and families alike.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers extensive taxi services across Tamil Nadu and neighboring states,
+            covering major cities such as Chennai, Madurai, Salem, and more, allowing you to plan all your intercity travels with ease.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Tiruppur cab</strong> is quick and simple.
+            Book online through our website or call <strong>+91 88256 94157</strong> for immediate assistance.
+            Our 24x7 customer support team is always ready to help with pricing, trip planning, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Tiruppur taxi booking</strong> and enjoy safe, reliable, and affordable travel every time.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Tiruppur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Virudhunagar Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Virudhunagar Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Virudhunagar taxi service</strong>?
+            Fastpikcab offers reliable and affordable outstation cab bookings tailored to your travel needs.
+            Whether you are traveling for business, family visits, or sightseeing, we ensure a safe and comfortable journey at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Virudhunagar is approximately <strong>337 km</strong>,
+            and the typical road travel time is about <strong>5 hours</strong>.
+            The preferred route follows <strong>NH38</strong>, passing through key towns for a smooth journey.
+            Flexible stopovers can be arranged for refreshments or sightseeing during the trip.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedan, SUV, and Premium Cars</strong>, all equipped with
+            <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are ideal for families and groups for added comfort.
+        </p>
+
+        <p class="mb-4">
+            Our professional drivers provide <strong>doorstep pickups and drop-offs</strong>, ensuring a hassle-free travel experience.
+            Perfect for business travelers, tourists, and families alike.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab serves a wide network across Tamil Nadu and neighboring states,
+            covering cities such as Chennai, Madurai, Salem, Vellore, and more, making your intercity travel easy and convenient.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Virudhunagar cab</strong> is quick and easy.
+            Book online through our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 customer support team is ready to help with trip planning, pricing, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Virudhunagar taxi booking</strong> and experience safe, reliable, and affordable travel every time.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Virudhunagar Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,63 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Nagercoil Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Virudhunagar to Nagercoil Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+            <p class="mb-4">
+                Looking for a safe and convenient <strong>Virudhunagar to Nagercoil taxi service</strong>?
+                Fastpikcab provides reliable and affordable long-distance cab options for all your travel needs.
+                Whether you are visiting Nagercoil for tourism, business, or family trips, we ensure a comfortable journey
+                with professional drivers and well-maintained vehicles.
+            </p>
+
+            <p class="mb-4">
+                The distance from <strong>Virudhunagar to Nagercoil</strong> is around
+                <strong>150 km</strong> with a typical travel time of <strong>3–4 hours</strong>.
+                The recommended route is via <strong>NH44</strong>, passing through towns like
+                <strong>Srivilliputhur, Tirunelveli, and Kanyakumari</strong>. Stopovers for meals or sightseeing can
+                be arranged as per your convenience.
+            </p>
+
+            <p class="mb-4">
+                Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong> to suit different travel needs.
+                Every vehicle is <strong>air-conditioned, GPS-enabled, and sanitized</strong> for passenger comfort.
+                For larger groups, our spacious SUVs and Tempo Travelers make long-distance travel hassle-free.
+            </p>
+
+            <p class="mb-4">
+                Nagercoil is known for its natural beauty and cultural landmarks. Key attractions include
+                <strong>Padmanabhapuram Palace, Suchindram Temple, and Vattakottai Fort</strong>.
+                With Fastpikcab, you can explore these locations comfortably while enjoying a safe and punctual ride.
+            </p>
+
+            <p class="mb-4">
+                Fastpikcab services extend beyond Nagercoil, covering major Tamil Nadu cities and towns like
+                <strong>Madurai, Thirunelveli, Kanyakumari, Tiruchirappalli, and Chennai</strong>.
+                Our extensive network allows easy intercity cab booking anywhere across the state.
+            </p>
+
+            <p class="mb-4">
+                Booking your <strong>Virudhunagar to Nagercoil cab</strong> is simple.
+                Book online through our website or call <strong>+91 88256 94157</strong>
+                for instant support. Our 24/7 customer service team is always available to guide you
+                with fares, routes, and special requests.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Virudhunagar to Nagercoil taxi booking</strong>
+                and enjoy a safe, reliable, and stress-free journey every time.
+            </p>
+        </div>
+    </section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Nagercoil Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

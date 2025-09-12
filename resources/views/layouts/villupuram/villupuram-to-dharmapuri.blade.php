@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Dharmapuri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Dharmapuri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Villupuram to Dharmapuri</strong>?
+            Fastpikcab provides safe and reliable cabs for one-way trips, round journeys, and urgent travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure a smooth ride for you and your family.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Dharmapuri is about <strong>220 km</strong>,
+            taking nearly <strong>5–6 hours</strong> by road.
+            The preferred route is via <strong>NH77 and NH44</strong>, passing through <strong>Tiruvannamalai and Krishnagiri</strong>.
+            Convenient stopovers for meals, refreshments, or sightseeing can also be included in your trip.
+        </p>
+
+        <p class="mb-4">
+            We provide a variety of cab options such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            Each taxi is fully air-conditioned, GPS-enabled, and well-maintained to give you a stress-free long journey.
+            We ensure <strong>affordable and transparent fares</strong> without hidden costs.
+        </p>
+
+        <p class="mb-4">
+            If you are arriving at <strong>Villupuram Railway Station</strong>, we can arrange pickups for passengers heading towards Dharmapuri.
+            Families, corporate professionals, students, and tourists can benefit from our cost-effective
+            <strong>long-distance intercity taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab operates across Tamil Nadu covering cities like Ariyalur, Chennai, Coimbatore, Cuddalore, Dindigul, Erode, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Namakkal, Pudukkottai, Salem, Sivagangai, Tenkasi, Thanjavur,
+            Tirunelveli, Tiruppur, Tiruvannamalai, Vellore, Virudhunagar, and more.
+        </p>
+
+        <p class="mb-4">
+            To book your <strong>Villupuram to Dharmapuri taxi</strong>, call <strong>+91 88256 94157</strong>
+            or use our online booking system. Our <strong>24/7 customer support</strong> ensures you get quick responses and the best assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a safe, affordable, and comfortable <strong>Villupuram to Dharmapuri cab service</strong>.
+        </p>
+    </div>
+</section>
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Dharmapuri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

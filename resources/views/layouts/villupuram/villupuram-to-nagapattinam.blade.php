@@ -168,6 +168,64 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Nagapattinam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Affordable & Comfortable Villupuram to Nagapattinam Cabs
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a reliable cab from <strong>Villupuram to Nagapattinam</strong>?
+            Fastpikcab offers <strong>safe, affordable, and 24/7 taxi services</strong>
+            tailored for families, pilgrims, business travelers, and tourists. Whether you
+            are visiting <strong>Velankanni Church</strong>, attending business meetings, or traveling
+            for leisure, our professional drivers ensure a smooth and comfortable ride.
+        </p>
+
+        <p class="mb-4">
+            The road distance between Villupuram and Nagapattinam is around <strong>200 km</strong>,
+            which usually takes about <strong>4.5 – 5 hours</strong> depending on traffic and route.
+            The preferred route is via <strong>NH32</strong>, passing through
+            <strong>Cuddalore, Chidambaram, and Mayiladuthurai</strong>. Many travelers enjoy short breaks at
+            <strong>Pichavaram Mangrove Forest</strong> and famous temples along the Kaveri delta en route.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, Hatchbacks, and Tempo Travellers</strong> to
+            accommodate solo travelers as well as large groups. All our vehicles are
+            <strong>air-conditioned, GPS-enabled, and spacious</strong>, ensuring maximum comfort
+            throughout the journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab is the most preferred choice for <strong>Velankanni pilgrims</strong> who
+            travel frequently to Nagapattinam. We provide <strong>railway station pickups,
+            hotel transfers, and temple tour packages</strong> to make your journey more convenient.
+            Our <strong>transparent pricing policy</strong> ensures no hidden charges – you pay exactly what is quoted.
+        </p>
+
+        <p class="mb-4">
+            Apart from this, Fastpikcab operates across all major towns in Tamil Nadu including
+            Chennai, Coimbatore, Madurai, Trichy, Salem, Thanjavur, Pudukkottai, Tiruvarur, Thoothukudi, Tirunelveli,
+            and many more destinations.
+        </p>
+
+        <p class="mb-4">
+            To book your <strong>Villupuram to Nagapattinam taxi</strong>, simply call us at
+            <strong>+91 88256 94157</strong> or make an online reservation. Our customer support team is
+            available <strong>24/7</strong> to help you with route details, fare information, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a <strong>comfortable Villupuram to Nagapattinam ride</strong>
+            and experience safe, affordable, and professional intercity travel.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Nagapattinam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

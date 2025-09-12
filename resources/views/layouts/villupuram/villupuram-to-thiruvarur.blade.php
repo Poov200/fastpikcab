@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Thiruvarur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Thiruvarur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Thiruvarur taxi service</strong>?
+            Fastpikcab offers reliable and affordable outstation cab bookings.
+            Whether for family visits, temple trips, or business travel, we ensure a safe and comfortable journey at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Thiruvarur is approximately <strong>150 km</strong>,
+            and the typical travel time by road is around <strong>2.5 to 3 hours</strong>.
+            The preferred route follows <strong>NH38</strong>, passing through <strong>Ariyalur and Nagapattinam</strong>.
+            Flexible stopovers can be requested for refreshments or sightseeing.
+        </p>
+
+        <p class="mb-4">
+            Choose from our fleet of <strong>Sedan, SUV, and Premium Cars</strong>, all equipped with <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are available for families and groups for added travel comfort.
+        </p>
+
+        <p class="mb-4">
+            Our experienced and courteous drivers offer <strong>doorstep pickups and drop-offs</strong>, ensuring a hassle-free travel experience.
+            This service is ideal for visiting temples, attending events, or exploring attractions in Thiruvarur.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides cab services beyond Thiruvarur across Tamil Nadu and neighboring states,
+            covering cities like Chennai, Madurai, Salem, and more, for seamless intercity travel.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Thiruvarur cab</strong> is quick and easy.
+            Reserve online via our website or call <strong>+91 88256 94157</strong> for immediate assistance.
+            Our 24x7 customer support helps with trip planning, pricing, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Thiruvarur taxi booking</strong> and experience reliable, safe, and affordable travel every time.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Thiruvarur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

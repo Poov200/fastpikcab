@@ -166,6 +166,55 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Trichy Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Trichy Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Looking for a dependable <strong>Virudhunagar to Trichy taxi service</strong>?
+            Fastpikcab provides safe, reliable, and affordable outstation cab services.
+            Whether traveling for business, temple visits, or family trips, our experienced drivers and well-maintained vehicles ensure a hassle-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Trichy</strong> is approximately
+            <strong>120 km</strong> with a travel time of about <strong>2.5–3 hours</strong>.
+            The recommended route is via <strong>NH38</strong>, passing through towns such as
+            <strong>Madurai and Dindigul</strong>. Stopovers can be arranged for meals or refreshments as needed.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a fleet of <strong>Sedans, SUVs, and Premium Cars</strong>, all air-conditioned, GPS-enabled, and well-maintained for safe and comfortable travel.
+            Larger SUVs and Tempo Travelers are available for family or group trips.
+        </p>
+
+        <p class="mb-4">
+            Trichy is famous for landmarks like the <strong>Ranganathaswamy Temple, Rock Fort, and St. Joseph’s College</strong>.
+            Traveling with Fastpikcab ensures you reach your destination safely and comfortably.
+        </p>
+
+        <p class="mb-4">
+            In addition to Trichy, Fastpikcab services cover major cities such as
+            <strong>Chennai, Madurai, Salem, Coimbatore, and Vellore</strong>, making intercity travel convenient.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Trichy cab</strong> is simple.
+            Book online via our website or call <strong>+91 88256 94157</strong> for immediate assistance.
+            Our 24x7 support team is available to guide you with fares, routes, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Trichy taxi booking</strong>
+            and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Trichy Route Details</h2>

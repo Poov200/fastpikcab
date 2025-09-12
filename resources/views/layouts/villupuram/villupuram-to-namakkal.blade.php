@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Namakkal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Namakkal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Traveling from <strong>Villupuram to Namakkal</strong>? Fastpikcab provides
+            <strong>safe, comfortable, and affordable taxi services</strong> for one-way trips,
+            round journeys, business rides, and family travel. Our drivers are
+            available <strong>24/7</strong> to ensure your trip is smooth and stress-free.
+        </p>
+
+        <p class="mb-4">
+            The road distance between Villupuram and Namakkal is about <strong>250 km</strong>,
+            which usually takes <strong>5–6 hours</strong> by car. The preferred route is via
+            <strong>NH79</strong>, passing through <strong>Ulundurpet, Attur, and Salem</strong>.
+            You may also enjoy short stopovers at <strong>Kolli Hills viewpoint</strong> or
+            famous temples around Namakkal during the journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle options including <strong>Sedans, SUVs, and Tempo Travellers</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>, ensuring comfort
+            for both short and long-distance rides.
+        </p>
+
+        <p class="mb-4">
+            Namakkal is known for its <strong>Rock Fort, Anjaneyar Temple, and vibrant cultural spots</strong>.
+            Our taxi service connects you conveniently to these landmarks. With <strong>transparent pricing</strong>
+            and no hidden charges, you only pay what is quoted.
+        </p>
+
+        <p class="mb-4">
+            To book your <strong>Villupuram to Namakkal cab</strong>, call us at
+            <strong>+91 88256 94157</strong> or reserve online. Our customer support is available
+            <strong>24/7</strong> to assist you with bookings and travel details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a <strong>Villupuram to Namakkal taxi service</strong> that is
+            reliable, comfortable, and affordable.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Namakkal Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -166,6 +166,58 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Thanjavur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Thanjavur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Looking for a trusted <strong>Virudhunagar to Thanjavur taxi service</strong>?
+            Fastpikcab provides safe, comfortable, and affordable long-distance cab services.
+            Whether for sightseeing, business trips, or family travel, our professional drivers and well-maintained vehicles ensure a smooth and stress-free journey.
+        </p>
+
+        <p class="mb-4">
+            The distance from <strong>Virudhunagar to Thanjavur</strong> is approximately
+            <strong>300 km</strong> and the travel time is around <strong>6–7 hours</strong>.
+            The most preferred route is via <strong>NH38</strong>, passing through towns like
+            <strong>Madurai, Trichy, and Pudukkottai</strong>. Stopovers for meals or sightseeing can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All cars are <strong>air-conditioned, GPS-enabled, and well-maintained</strong> for a safe and comfortable ride.
+            Spacious SUVs and Tempo Travelers are available for family or group travel.
+        </p>
+
+        <p class="mb-4">
+            Thanjavur is renowned for its cultural heritage, including landmarks such as
+            <strong>Brihadeeswarar Temple, Thanjavur Palace, and Saraswathi Mahal Library</strong>.
+            Traveling with Fastpikcab allows you to enjoy these attractions comfortably and safely.
+        </p>
+
+        <p class="mb-4">
+            In addition to Thanjavur, Fastpikcab provides taxi services across Tamil Nadu including
+            <strong>Chennai, Trichy, Madurai, Salem, and Coimbatore</strong>, ensuring a reliable intercity travel experience.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Thanjavur cab</strong> is easy.
+            You can book online via our website or call <strong>+91 88256 94157</strong> for instant support.
+            Our 24x7 customer support team is ready to guide you with fares, route planning, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Thanjavur taxi booking</strong>
+            and enjoy a safe, reliable, and comfortable long-distance journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Thanjavur Route Details</h2>

@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Tirunelveli Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Tirunelveli Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Tirunelveli taxi service</strong>?
+            Fastpikcab offers reliable and affordable outstation cab bookings.
+            Whether traveling for family visits, business trips, or sightseeing,
+            we ensure a safe, comfortable, and punctual journey at competitive prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Tirunelveli is approximately <strong>511 km</strong>,
+            with an average travel time of around <strong>7 to 8 hours</strong> by road.
+            The preferred route mainly follows <strong>NH38 and NH44</strong>, passing through key towns such as <strong>Ulundurpet, Madurai, and Tirunelveli</strong>.
+            Stopover options are available for refreshments or sightseeing along the way.
+        </p>
+
+        <p class="mb-4">
+            Our fleet comprises <strong>Sedan, SUV, and Premium Cars</strong>,
+            all equipped with <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are ideal for groups or families needing extra comfort and space.
+        </p>
+
+        <p class="mb-4">
+            Our professional and courteous drivers provide <strong>doorstep pickups and convenient drop-offs</strong>,
+            ensuring a hassle-free travel experience. This service suits pilgrims, tourists, and business travelers.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab operates across Tamil Nadu and neighboring states, serving multiple destinations including Chennai, Madurai, Salem, and more,
+            making it easy to plan all your intercity travels with us.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Tirunelveli cab</strong> is simple and quick.
+            You can book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Our 24x7 customer support team is always ready to help with itinerary planning, pricing, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Tirunelveli taxi booking</strong>
+            and enjoy safe, reliable, and budget-friendly travel every time you ride with us.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Tirunelveli Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

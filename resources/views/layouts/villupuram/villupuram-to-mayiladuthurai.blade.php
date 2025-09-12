@@ -166,6 +166,66 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Mayiladuthurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Mayiladuthurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Villupuram to Mayiladuthurai</strong>? Fastpikcab offers
+            safe, clean, and reliable taxi services for your journey. Whether you need a cab for
+            a <strong>one-way trip, round journey, family travel, or urgent business ride</strong>,
+            our professional drivers are available <strong>24/7</strong> to make sure you reach
+            your destination on time and in comfort.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Mayiladuthurai is approximately <strong>160 km</strong>,
+            which usually takes around <strong>4–5 hours</strong> by road.
+            The preferred route is via <strong>NH36</strong>, passing through <strong>Cuddalore and Chidambaram</strong>.
+            Travelers often enjoy short stopovers at <strong>Pichavaram Mangrove Forest</strong> or
+            famous temples along the way, making the journey not only convenient but also memorable.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of vehicle choices including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            making your ride stress-free and comfortable. Our <strong>transparent pricing policy</strong>
+            ensures you pay only what is quoted with absolutely <strong>no hidden charges</strong>.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Villupuram Railway Station pickups and drops</strong> for passengers
+            traveling towards Mayiladuthurai. Our intercity taxi packages are designed to suit
+            <strong>families, students, business professionals, and group travelers</strong>
+            who want affordable yet reliable long-distance travel.
+        </p>
+
+        <p class="mb-4">
+            Mayiladuthurai, being a cultural hub near the Kaveri Delta, is well connected by our services.
+            Apart from this route, Fastpikcab operates taxis across all major cities and districts of Tamil Nadu including:
+            Chennai, Ariyalur, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+            Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli,
+            Tirupathur, Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Mayiladuthurai cab</strong> is quick and simple.
+            You can reserve online via our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist you with bookings,
+            fare details, travel routes, and guidance for a smooth trip.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Mayiladuthurai taxi service</strong> and
+            experience a journey that is safe, reliable, affordable, and tailored to your comfort.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Mayiladuthurai Route Details</h2>

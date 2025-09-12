@@ -168,6 +168,64 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Nagercoil Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Long-Distance Villupuram to Nagercoil Cabs at Best Prices
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a long trip from <strong>Villupuram to Nagercoil</strong>?
+            Fastpikcab offers <strong>safe, reliable, and affordable taxis</strong>
+            for one-way, round trip, and family tours. Whether you are visiting
+            <strong>Kanyakumari, Suchindram Temple, or Padmanabhapuram Palace</strong>,
+            our cab service ensures a smooth journey across Tamil Nadu.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Nagercoil is approximately
+            <strong>580 km</strong>, taking around <strong>10 – 11 hours</strong> by road.
+            The common route is via <strong>NH44</strong>, passing through Trichy, Madurai, Tirunelveli,
+            and other major cities. This long stretch is best covered with
+            <strong>comfortable AC cabs</strong>, making your travel stress-free.
+        </p>
+
+        <p class="mb-4">
+            Our vehicle options include <strong>Sedans, SUVs, and Tempo Travellers</strong>
+            for larger groups. All vehicles are <strong>spacious, clean, GPS-enabled</strong>,
+            and driven by experienced long-distance drivers. We also provide
+            <strong>overnight travel and flexible break options</strong> to make your
+            long road journey more comfortable.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab specializes in <strong>long-distance taxi services</strong> across Tamil Nadu.
+            Our <strong>transparent fares, professional drivers, and doorstep pickup & drop</strong>
+            make us the first choice for intercity cab booking. With 24/7 availability, you can
+            rely on us anytime for urgent travel.
+        </p>
+
+        <p class="mb-4">
+            We also operate in other routes such as Chennai to Nagercoil, Madurai to Nagercoil,
+            and Tirunelveli to Nagercoil, making us a trusted brand for South Tamil Nadu cab services.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Nagercoil taxi</strong> is easy. Simply
+            <strong>call +91 88256 94157</strong> or reserve online. Our customer support team
+            is always available to assist with bookings, trip planning, and fare details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Nagercoil cab</strong>
+            and enjoy a long-distance journey that is <strong>safe, affordable, and hassle-free</strong>.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Nagercoil Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
