@@ -130,6 +130,57 @@
             </div>
         </div>
     </section>
+
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Cuddalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Cuddalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Thiruvannamalai to Cuddalore</strong>? Fastpikcab offers safe, convenient, and affordable cabs for one-way, round trips, and family travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Cuddalore is approximately <strong>120 km</strong>,
+            and the journey usually takes around <strong>3–3.5 hours</strong> by road. The most common route is via <strong>NH38 and SH9</strong>.
+            Refreshment and meal stops can be arranged for your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are fully air-conditioned, GPS-enabled, and maintained for a safe and comfortable ride.
+            We follow <strong>transparent pricing</strong> policies with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Thiruvannamalai Railway Station taxi pickups</strong> for passengers heading to Cuddalore.
+            Families, students, business travelers, and groups can benefit from our <strong>long-distance travel packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Cuddalore, Fastpikcab operates services across Tamil Nadu including:
+            Chennai, Chengalpattu, Coimbatore, Dharmapuri, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri, Madurai,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram,
+            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur,
+            Ariyalur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Cuddalore taxi</strong> is simple.
+            Reserve online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team is ready to help with fares, bookings, and travel assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Cuddalore cab service</strong> and enjoy a safe, reliable, and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Cuddalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

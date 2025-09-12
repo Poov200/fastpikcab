@@ -130,6 +130,57 @@
             </div>
         </div>
     </section>
+
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Coimbatore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Coimbatore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Thiruvannamalai to Coimbatore</strong>? Fastpikcab provides dependable cab services for one-way trips, family tours, and business travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure a safe and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Coimbatore is approximately <strong>350 km</strong>,
+            which takes about <strong>7–8 hours</strong> by road. The common route is via <strong>NH79 and NH544</strong>.
+            We make it convenient for travelers by arranging refreshment stops on request.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicles such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are air-conditioned, spacious, and GPS-enabled to make your journey smooth and hassle-free.
+            We ensure <strong>reasonable and transparent fares</strong> without any hidden charges.
+        </p>
+
+        <p class="mb-4">
+            For passengers arriving at <strong>Thiruvannamalai Railway Station</strong>, we provide direct pickups to Coimbatore.
+            Our <strong>long-distance taxi packages</strong> are suitable for families, tourists, students, and professionals.
+        </p>
+
+        <p class="mb-4">
+            In addition to Coimbatore, Fastpikcab operates taxi services across Tamil Nadu including:
+            Chennai, Chengalpattu, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thoothukudi, Tirunelveli, Tirupathur, Ariyalur, Vellore, Villupuram, Trichy, Virudhunagar, Bangalore, Ooty and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Coimbatore taxi</strong> is easy with Fastpikcab.
+            You can reserve online through our website or call us at <strong>+91 88256 94157</strong>.
+            Our dedicated support team is available round the clock for assistance with bookings, fare details, and travel plans.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Coimbatore cab service</strong> and enjoy a reliable, comfortable, and safe journey.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Coimbatore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

@@ -130,6 +130,57 @@
             </div>
         </div>
     </section>
+
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Chengalpattu Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Chengalpattu Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Thiruvannamalai to Chengalpattu</strong>? Fastpikcab provides clean, comfortable, and safe taxi services for one-way, round trips, and urgent travel needs.
+            Our experienced drivers are available <strong>24/7</strong> to ensure a smooth journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Chengalpattu is approximately <strong>170 km</strong>,
+            which usually takes around <strong>4–4.5 hours</strong> by road. The common travel route is via <strong>NH77 and NH48</strong>.
+            Refreshment or meal breaks can be arranged along the way as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of vehicles such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All cabs are GPS-enabled, fully air-conditioned, and spacious to make your trip stress-free.
+            We maintain <strong>affordable and transparent fares</strong> without hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Thiruvannamalai Railway Station taxi pickups</strong> for passengers heading to Chengalpattu.
+            Whether you’re a family, student, business traveler, or a group, our <strong>long-distance taxi packages</strong> fit your needs perfectly.
+        </p>
+
+        <p class="mb-4">
+            Apart from Chengalpattu, Fastpikcab offers taxi services to all major destinations across Tamil Nadu including:
+            Arani, Arakkonam, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli,
+            Tirupathur, Ariyalur, Udagamandalam (Ooty), Vellore, Villupuram, Trichy, Virudhunagar, Bangalore and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Chengalpattu taxi</strong> with Fastpikcab is quick and simple.
+            Reserve online through our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is always ready to assist with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Chengalpattu cab service</strong> and enjoy a reliable, safe, and comfortable journey.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Chengalpattu Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

@@ -131,6 +131,55 @@
         </div>
     </section>
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Kanchipuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Kanchipuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a cab from <strong>Thiruvannamalai to Kanchipuram</strong>? Fastpikcab provides clean, safe, and reliable taxi services for one-way trips, round journeys, and urgent travel needs.
+            Our expert drivers are available <strong>24/7</strong> for your convenience.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Kanchipuram is about <strong>115 km</strong>,
+            which usually takes around <strong>2.5–3 hours</strong> by road. The common travel route is via <strong>NH77</strong>.
+            Refreshment and meal breaks can be included during the journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of cabs including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are fully air-conditioned, GPS-enabled, and designed for maximum comfort.
+            We maintain <strong>transparent pricing</strong> without hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Thiruvannamalai Railway Station pickups</strong> for passengers traveling to Kanchipuram.
+            Families, students, tourists, and business travelers can take advantage of our <strong>long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kanchipuram, Fastpikcab covers major destinations across Tamil Nadu including:
+            Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Karur, Krishnagiri, Madurai,
+            Mayiladuthurai, Namakkal, Nagapattinam, Puducherry, Ranipet, Salem, Thanjavur, Theni, Thiruvallur, Tirunelveli,
+            Villupuram, Vellore, Trichy, Virudhunagar, Bangalore and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Kanchipuram taxi</strong> is quick and simple.
+            Book online on our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our dedicated 24/7 support team is available to assist with your bookings and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Kanchipuram cab service</strong> and enjoy a safe, comfortable, and reliable ride.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Kanchipuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

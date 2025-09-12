@@ -131,6 +131,54 @@
         </div>
     </section>
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvannamalai to Kochi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvannamalai to Kochi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Thiruvannamalai to Kochi</strong>? Fastpikcab offers safe, comfortable, and reliable long-distance taxi services for one-way trips, round journeys, and group travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure a smooth journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvannamalai and Kochi is approximately <strong>500–550 km</strong>,
+            and the journey usually takes around <strong>10–12 hours</strong> by road. The common route is via <strong>NH44 and NH544</strong>.
+            Refreshment and meal stops can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are GPS-enabled, air-conditioned, and maintained for a comfortable ride.
+            We follow <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Thiruvannamalai Railway Station taxi pickups</strong> for passengers traveling to Kochi.
+            Families, students, business travelers, and tourists can benefit from our <strong>long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kochi, Fastpikcab operates across Tamil Nadu and nearby states including:
+            Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Kanchipuram, Karur, Krishnagiri, Madurai,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur, Ariyalur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvannamalai to Kochi taxi</strong> is simple. Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist with bookings, fares, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Thiruvannamalai to Kochi cab service</strong> and enjoy a safe, reliable, and comfortable long-distance journey.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvannamalai to Kochi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
