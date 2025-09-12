@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Nagercoil to Pudukkottai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Nagercoil to Pudukkottai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Nagercoil to Pudukkottai</strong>? Fastpikcab offers safe, comfortable, and reliable cab services for one-way, round trips, and business or leisure travel.
+            Our drivers are professional and available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Nagercoil and Pudukkottai is approximately <strong>520 km</strong>,
+            with a travel time of about <strong>9–10 hours</strong>. The preferred route is via <strong>NH44</strong>.
+            Refreshment and rest stops can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a range of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are air-conditioned, GPS-enabled, and spacious for a comfortable ride.
+            We maintain <strong>clear and transparent pricing</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Nagercoil Railway Station pickup taxis</strong> for passengers heading to Pudukkottai.
+            Families, students, tourists, and business travelers can all benefit from our service.
+        </p>
+
+        <p class="mb-4">
+            Apart from Pudukkottai, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul,
+            Erode, Hosur, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
+            Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Nagercoil to Pudukkottai cab</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 team is always ready to help with bookings and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Nagercoil to Pudukkottai taxi service</strong> and enjoy a safe, reliable, and convenient ride.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Nagercoil to Pudukkottai Route Details</h2>

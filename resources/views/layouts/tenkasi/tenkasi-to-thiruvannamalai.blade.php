@@ -234,6 +234,54 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Thiruvannamalai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Thiruvannamalai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Tenkasi to Thiruvannamalai</strong>? Fastpikcab offers safe, reliable, and budget-friendly taxi services for one-way trips, round journeys, and long-distance rides.
+            Our drivers are professional and ensure a comfortable journey at all times.
+        </p>
+
+        <p class="mb-4">
+            The road distance between Tenkasi and Thiruvannamalai is approximately <strong>430 km</strong>,
+            with an estimated travel time of <strong>8–9 hours</strong>. The recommended route is via <strong>NH744 and NH38</strong>.
+            Rest and refreshment stops can be arranged during the trip.
+        </p>
+
+        <p class="mb-4">
+            We provide a wide range of vehicles such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our taxis are air-conditioned, GPS-enabled, and regularly sanitized for your comfort and safety.
+            Pricing is <strong>clear and transparent</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also offers <strong>Tenkasi Railway Station pickup services</strong> for direct travel to Thiruvannamalai.
+            Suitable for family, tourists, students, and business professionals, our cab service is designed for comfort and reliability.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thiruvannamalai, Fastpikcab operates in several other cities including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli,
+            Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Thiruvannamalai cab</strong> is quick and easy. Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Our customer care team is available 24/7 to assist with bookings, fares, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Thiruvannamalai taxi service</strong> and experience safe, reliable, and affordable travel.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Thiruvannamalai Route Details</h2>

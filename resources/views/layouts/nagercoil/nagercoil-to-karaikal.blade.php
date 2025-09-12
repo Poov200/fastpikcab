@@ -139,34 +139,54 @@
             </div>
         </div>
     </section>
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Nagercoil to Karaikal Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Nagercoil to Karaikal
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Looking for a safe and comfortable ride from <strong>Nagercoil</strong> to <strong>Karaikal</strong>? Fastpikcab offers reliable, clean, and affordable cabs for one-way travel, round trips, and outstation journeys. Our professional drivers are available <strong>24/7</strong> to ensure your travel is stress-free.
-            </p>
-            <p class="mb-4">
-                The distance between Nagercoil and Karaikal is approximately <strong>483 km</strong>, with an estimated travel time of around <strong>9 hours 10 minutes</strong> via main highways. Whether for business, leisure, or personal reasons, we take the best routes to ensure a smooth and timely journey.
-            </p>
-            <p class="mb-4">
-                Choose from a range of vehicles including <strong>Hatchbacks, Sedans, SUVs, and premium Innova</strong> cars, all air-conditioned and GPS-equipped for your safety and convenience. Transparent pricing guarantees no hidden fees.
-            </p>
-            <p class="mb-4">
-                Karaikal, with its cultural landmarks and proximity to the Bay of Bengal, is easily accessible through our flexible taxi packages designed for your convenience.
-            </p>
-            <p class="mb-4">
-                Booking your <strong>Nagercoil to Karaikal cab</strong> is simple either online or by calling <strong>+91 88256 94157</strong>. Our support team is at your service 24/7 for any travel or fare inquiries.
-            </p>
-            <p>
-                Choose Fastpikcab for a <strong>safe, reliable, and comfortable ride from Nagercoil to Karaikal</strong>.
-            </p>
-        </div>
-    </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Nagercoil to Karaikal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Nagercoil to Karaikal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Nagercoil to Karaikal</strong>? Fastpikcab offers safe, comfortable, and reliable cab services for one-way, round trips, and business or leisure travel.
+            Our drivers are professional and available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Nagercoil and Karaikal is approximately <strong>440 km</strong>,
+            with a travel time of about <strong>8–9 hours</strong>. The preferred route is via <strong>NH32</strong>.
+            Refreshment and rest stops can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a range of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are air-conditioned, GPS-enabled, and spacious for a comfortable ride.
+            We maintain <strong>clear and transparent pricing</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Nagercoil Railway Station pickup taxis</strong> for passengers heading to Karaikal.
+            Families, students, tourists, and business travelers can all benefit from our service.
+        </p>
+
+        <p class="mb-4">
+            Apart from Karaikal, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul,
+            Erode, Hosur, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Nagercoil to Karaikal cab</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 team is always ready to help with bookings and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Nagercoil to Karaikal taxi service</strong> and enjoy a safe, reliable, and convenient ride.
+        </p>
+    </div>
+</section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Nagercoil to Karaikal Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
@@ -250,7 +270,7 @@
                             </ul>
                         </td>
                     </tr>
-                    
+
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">

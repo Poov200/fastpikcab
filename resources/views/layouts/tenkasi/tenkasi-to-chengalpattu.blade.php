@@ -166,6 +166,53 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Chengalpattu Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Chengalpattu Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Tenkasi to Chengalpattu</strong>? Fastpikcab provides safe, comfortable, and reliable taxi services for one-way trips, round journeys, and long-distance travel.
+            Our professional drivers are available <strong>24/7</strong> to make your journey smooth and hassle-free.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tenkasi and Chengalpattu is approximately <strong>540 km</strong>,
+            taking around <strong>10–11 hours</strong> by road. The preferred route is via <strong>NH38 and NH32</strong>.
+            Refreshment and meal stops can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are GPS-enabled, air-conditioned, and spacious for a comfortable ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Tenkasi Railway Station taxi pickups</strong> for passengers traveling to Chengalpattu.
+            Families, students, business travelers, and tourists can benefit from our <strong>long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Chengalpattu, Fastpikcab operates across Tamil Nadu and nearby states including:
+            Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Kanchipuram, Karur, Krishnagiri, Madurai,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
+            Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur, Ariyalur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Chengalpattu taxi</strong> is easy. Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist with bookings, fares, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Chengalpattu cab service</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Chengalpattu Route Details</h2>

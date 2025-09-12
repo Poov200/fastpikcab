@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Thanjavur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Thanjavur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Tenkasi to Thanjavur</strong>? Fastpikcab provides safe, reliable, and affordable taxi services for one-way, round trips, and long-distance travel.
+            Our professional drivers are available <strong>24/7</strong> to make your journey smooth and comfortable.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tenkasi and Thanjavur is approximately <strong>280 km</strong>,
+            with a travel time of around <strong>6–7 hours</strong> by road. The preferred route is via <strong>NH44 and NH36</strong>.
+            Refreshment and meal stops can be arranged during your journey.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple cab options such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our taxis are GPS-enabled, air-conditioned, and spacious for your comfort.
+            We guarantee <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Passengers can also avail <strong>Tenkasi Railway Station taxi pickup services</strong> for direct travel to Thanjavur.
+            Whether it’s a family trip, pilgrimage, business visit, or tourism, Fastpikcab ensures a stress-free experience.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thanjavur, Fastpikcab provides services across Tamil Nadu and nearby states including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Hosur, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Theni, Thiruvallur, Thiruvannamalai,
+            Thoothukudi, Tirunelveli, Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Thanjavur cab</strong> is simple. You can book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 team is ready to assist with bookings, queries, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Thanjavur taxi service</strong> and enjoy a safe, reliable, and convenient journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Thanjavur Route Details</h2>

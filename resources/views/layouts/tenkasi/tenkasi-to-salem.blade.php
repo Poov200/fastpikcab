@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tenkasi to Salem Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tenkasi to Salem Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Tenkasi to Salem</strong>? Fastpikcab provides reliable, safe, and affordable taxi services for one-way trips, round journeys, and long-distance rides.
+            Our experienced drivers are available round the clock to ensure a smooth travel experience.
+        </p>
+
+        <p class="mb-4">
+            The road distance between Tenkasi and Salem is around <strong>370 km</strong>,
+            taking approximately <strong>7–8 hours</strong> to travel by car. The common travel route is via <strong>NH744 and NH44</strong>.
+            Refreshment and meal breaks can be arranged upon request.
+        </p>
+
+        <p class="mb-4">
+            Customers can choose from multiple options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All cars are well-maintained, air-conditioned, GPS-enabled, and spacious for comfort.
+            We ensure <strong>transparent billing</strong> without any extra or hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Passengers can also book <strong>pickups from Tenkasi Railway Station</strong> for travel to Salem.
+            Whether you’re traveling for family purposes, work, or tourism, Fastpikcab guarantees comfort and reliability.
+        </p>
+
+        <p class="mb-4">
+            Apart from Salem, Fastpikcab operates across Tamil Nadu and nearby states including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Hosur, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Thoothukudi, Tirunelveli, Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tenkasi to Salem taxi</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support is always available to help with bookings and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tenkasi to Salem cab service</strong> and experience a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tenkasi to Salem Route Details</h2>
