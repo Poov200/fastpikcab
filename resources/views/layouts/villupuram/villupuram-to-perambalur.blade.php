@@ -168,6 +168,60 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Perambalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Perambalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Perambalur taxi service</strong>?
+            Fastpikcab offers you the most reliable and affordable outstation cab booking experience.
+            Whether you are traveling for family events, temple visits, or business needs,
+            we make sure your ride is smooth, safe, and comfortable at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Perambalur is approximately <strong>108 km</strong>
+            and the travel time by road is about <strong>2–2.5 hours</strong>.
+            The most preferred route is via <strong>NH38</strong>, passing through
+            <strong>Ulundurpet and Veppur</strong> along the highway.
+            You can request stopovers for food breaks or sight-seeing during your journey.
+        </p>
+
+        <p class="mb-4">
+            Our wide fleet includes <strong>Sedan, SUV, and Premium Cars</strong>,
+            all equipped with <strong>air-conditioning, GPS navigation, and clean seating</strong>.
+            For groups and families, comfortable SUVs are available for a relaxed journey.
+        </p>
+
+        <p class="mb-4">
+            With professional and courteous drivers, we provide <strong>doorstep pickup and drop services</strong>
+            for your convenience. The service is suitable for visiting local temples, business centers, or tourist attractions in and around Perambalur.
+        </p>
+
+        <p class="mb-4">
+            Apart from Perambalur, Fastpikcab serves destinations across Tamil Nadu and nearby states,
+            including Chennai, Trichy, Pondicherry, Salem, and Vellore.
+            Our broad network ensures seamless travel for all your intercity needs.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Perambalur cab</strong> is easy and efficient.
+            Reserve online via our website or call <strong>+91 88256 94157</strong> for instant booking assistance.
+            Our 24x7 customer support is always ready to help you with travel planning, pricing, and customized travel packages.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Perambalur taxi booking</strong>
+            and enjoy reliable, safe, and budget-friendly cab service for all your journeys.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Perambalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

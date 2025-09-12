@@ -168,6 +168,66 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Nagapattinam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Nagapattinam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Searching for a comfortable <strong>Virudhunagar to Nagapattinam taxi service</strong>?
+            Fastpikcab offers safe and affordable outstation cab booking for your travel needs.
+            Whether you’re planning a temple visit, family trip, or official journey,
+            we provide the best long-distance travel experience with professional drivers and
+            well-maintained cars.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Virudhunagar and Nagapattinam</strong> is nearly
+            <strong>360 km</strong> by road, taking around <strong>7–8 hours</strong> of travel.
+            The most common route is via <strong>NH38 and NH36</strong>, passing through
+            <strong>Madurai, Trichy, and Thiruvarur</strong>. You may also request customized
+            stopovers along the way for meals or sightseeing.
+        </p>
+
+        <p class="mb-4">
+            We provide a wide range of vehicles such as <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are <strong>AC-fitted, clean, GPS-enabled</strong>, and regularly serviced
+            to ensure a smooth ride. For group journeys, <strong>Spacious SUVs and Tempo Travelers</strong>
+            are also available at affordable rates.
+        </p>
+
+        <p class="mb-4">
+            Nagapattinam is a famous coastal town known for its <strong>beaches and temples</strong>.
+            Major attractions include <strong>Soundararajaperumal Temple, Nagapattinam Beach, Velankanni Church,
+            and Kayarohanaswami Temple</strong>. Our service ensures you travel conveniently to explore
+            these cultural and religious landmarks.
+        </p>
+
+        <p class="mb-4">
+            Apart from Nagapattinam, Fastpikcab provides intercity cab services across Tamil Nadu including
+            <strong>Chennai, Thanjavur, Mayiladuthurai, Kumbakonam, Pondicherry, and Cuddalore</strong>.
+            Our extensive network ensures you can book cabs to multiple destinations seamlessly.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Nagapattinam cab</strong> is simple and quick.
+            Just visit our official website or call <strong>+91 88256 94157</strong> for instant confirmation.
+            Our <strong>24x7 customer support team</strong> helps you with trip planning, route details,
+            and affordable cab packages.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Nagapattinam taxi booking</strong>
+            and enjoy a safe, affordable, and reliable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Nagapattinam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

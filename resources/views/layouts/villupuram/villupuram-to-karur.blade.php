@@ -168,6 +168,53 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Karur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Karur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a cab from <strong>Villupuram to Karur</strong>?
+            Fastpikcab offers well-maintained, safe, and affordable cabs for one-way, round trips, and corporate travel.
+            Our drivers are available <strong>24/7</strong> for your convenience.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Karur is nearly <strong>270 km</strong>,
+            which takes about <strong>6 hours</strong> by road.
+            The preferred travel route is via <strong>NH38</strong>, covering <strong>Trichy</strong>.
+            Stopovers for refreshments and meals can be included.
+        </p>
+
+        <p class="mb-4">
+            We provide <strong>Sedans, SUVs, and Premium Cars</strong> equipped with air-conditioning and GPS.
+            With <strong>transparent fares</strong>, you can travel without hidden charges.
+        </p>
+
+        <p class="mb-4">
+            For passengers arriving at <strong>Villupuram Railway Station</strong>, direct taxi pickups to Karur are available.
+            Our <strong>intercity taxi packages</strong> are affordable and reliable for all types of travelers.
+        </p>
+
+        <p class="mb-4">
+            Our taxi service also covers major Tamil Nadu destinations like Chennai, Coimbatore, Erode, Madurai, Salem, Tirunelveli,
+            Tiruppur, Vellore, Virudhunagar, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Karur taxi</strong> is easy.
+            Call <strong>+91 88256 94157</strong> or book online. Our support is available <strong>24/7</strong>.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Karur cab service</strong> and travel in safety and comfort.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Karur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Vellore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Vellore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Vellore taxi service</strong>?
+            Fastpikcab offers reliable and affordable outstation cab bookings tailored to your travel needs.
+            Whether you are traveling for business, family visits, or tourism, enjoy a safe and comfortable journey at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Vellore is approximately <strong>128 km</strong>,
+            and the typical road travel time is about <strong>2 hours 45 minutes</strong>.
+            The preferred routes ensure smooth transit, passing through key towns to enhance convenience.
+        </p>
+
+        <p class="mb-4">
+            Our fleet consists of <strong>Sedan, SUV, and Premium Cars</strong>, all equipped with
+            <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are perfect for families and groups seeking extra comfort and space.
+        </p>
+
+        <p class="mb-4">
+            Our professional drivers provide <strong>doorstep pickups and drop-offs</strong>, ensuring a hassle-free experience.
+            Ideal for business travelers, tourists, and families alike.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers services across Tamil Nadu and neighboring states, covering major cities like Chennai, Madurai, Salem, and more.
+            Plan all your intercity travels conveniently with us.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Vellore cab</strong> is simple and quick.
+            Reserve online through our website or call <strong>+91 88256 94157</strong> for immediate assistance.
+            Our 24x7 customer support is always ready to help with trip planning, pricing, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Vellore taxi booking</strong> and experience safe, reliable, and budget-friendly travel every time.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Vellore Route Details</h2>

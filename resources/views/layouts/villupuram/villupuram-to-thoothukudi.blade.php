@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Thoothukudi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Thoothukudi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Thoothukudi taxi service</strong>?
+            Fastpikcab offers reliable and affordable outstation cab services to meet your travel needs.
+            Whether traveling for family visits, business, or sightseeing, we guarantee a comfortable and safe journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Thoothukudi is approximately <strong>268 km</strong>,
+            with an average road travel time of around <strong>6 to 7 hours</strong>.
+            The preferred route typically follows <strong>NH38 and NH44</strong>, passing through key towns such as <strong>Ulundurpet, Madurai, and Tirunelveli</strong>.
+            Flexible stopovers for refreshments or sightseeing are available upon request.
+        </p>
+
+        <p class="mb-4">
+            Choose from a wide fleet including <strong>Sedan, SUV, and Premium Cars</strong>,
+            all equipped with <strong>air-conditioning, GPS navigation, and clean interiors</strong>.
+            Spacious SUVs are available for families and groups needing extra comfort.
+        </p>
+
+        <p class="mb-4">
+            Our experienced and courteous drivers provide <strong>doorstep pickups and drop-offs</strong> to ensure a hassle-free travel experience.
+            This service is perfect for pilgrims, tourists, and business travelers heading to Thoothukudi.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also serves various destinations across Tamil Nadu and neighboring states, including Chennai, Madurai, Salem, and more,
+            making us a convenient choice for all your intercity travel.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Thoothukudi cab</strong> is easy and quick.
+            Reserve online via our website or call <strong>+91 88256 94157</strong> for instant booking assistance.
+            Our 24x7 customer support team is ready to help with trip planning, pricing, and custom travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Thoothukudi taxi booking</strong>
+            and experience reliable, safe, and economical travel every time you ride with us.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Thoothukudi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -165,6 +165,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Dindigul Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Dindigul Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a dependable cab from <strong>Villupuram to Dindigul</strong>?
+            Fastpikcab provides clean, well-maintained, and affordable taxis for one-way and round trips.
+            Our professional drivers are available <strong>24/7</strong> for your convenience.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Dindigul is around <strong>280 km</strong>,
+            which usually takes <strong>6–7 hours</strong> by road.
+            The most common travel route is via <strong>NH38</strong>, covering <strong>Trichy and Karur</strong>.
+            Stopovers for food and refreshments can be arranged.
+        </p>
+
+        <p class="mb-4">
+            We offer multiple cab options like <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are GPS-enabled, air-conditioned, and spacious, ensuring a smooth ride for individuals and groups.
+            With <strong>no hidden charges</strong>, our pricing is fully transparent.
+        </p>
+
+        <p class="mb-4">
+            Passengers arriving at <strong>Villupuram Railway Station</strong> can book direct taxis to Dindigul.
+            Families, students, and tourists can also avail our <strong>intercity taxi packages</strong> that make long-distance travel affordable.
+        </p>
+
+        <p class="mb-4">
+            Our taxi network covers the entire Tamil Nadu region including major cities like Chennai, Coimbatore, Cuddalore, Erode, Madurai, Salem,
+            Thanjavur, Tirunelveli, Tiruppur, Vellore, Virudhunagar, and others.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Dindigul cab</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime. Our team provides <strong>round-the-clock support</strong>.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Villupuram to Dindigul taxi service</strong> and enjoy a comfortable and cost-effective journey.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Dindigul Fare Structure</h2>
         <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
 

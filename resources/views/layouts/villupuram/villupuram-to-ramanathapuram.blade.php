@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Ramanathapuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Ramanathapuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Villupuram to Ramanathapuram taxi service</strong>?
+            Fastpikcab provides reliable, comfortable, and affordable outstation cab solutions.
+            Whether traveling for pilgrimages, family visits, or business, our service guarantees a safe and convenient journey at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Ramanathapuram is around <strong>337 km</strong>
+            with a typical road travel time of approximately <strong>5 hours</strong>.
+            The preferred route is via <strong>NH38</strong>, passing through <strong>Ulundurpet, Trichy, and Paramakudi</strong>.
+            Enjoy flexibility to plan refreshment stops or brief detours for sightseeing as needed.
+        </p>
+
+        <p class="mb-4">
+            Choose from our broad fleet, including <strong>Sedan, SUV, and Premium Cars</strong>,
+            each featuring <strong>air-conditioning, GPS navigation, and clean, spacious interiors</strong>.
+            Traveling with a group? Our large SUVs ensure ample comfort and space on long trips.
+        </p>
+
+        <p class="mb-4">
+            All drivers are experienced and courteous, offering <strong>station pickups and doorstep drop-offs</strong> for complete convenience.
+            This route is ideal for those visiting temples, attending family events, or exploring historic destinations in Ramanathapuram.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also serves multiple destinations across Tamil Nadu and neighboring states,
+            so you can count on us for trips beyond Ramanathapuram, including Chennai, Madurai, Trichy, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Ramanathapuram cab</strong> is quick and easy—
+            book online on our website or call <strong>+91 88256 94157</strong> for instant support.
+            Our 24x7 customer service team is always ready to assist you with itinerary planning, clear price quotes, and tailored travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a <strong>Villupuram to Ramanathapuram taxi booking</strong>
+            and experience the difference in safety, comfort, and professionalism on every trip.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Ramanathapuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

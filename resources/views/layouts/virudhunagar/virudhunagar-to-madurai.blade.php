@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Virudhunagar to Madurai Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Virudhunagar to Madurai Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+            <p class="mb-4">
+                Need a quick and convenient <strong>Virudhunagar to Madurai taxi service</strong>?
+                Fastpikcab offers reliable, comfortable, and affordable outstation cabs for all travel purposes.
+                Whether you’re traveling for a temple visit, business meeting, or family trip, we provide the best
+                long-distance cab service in Tamil Nadu.
+            </p>
+
+            <p class="mb-4">
+                The distance between <strong>Virudhunagar and Madurai</strong> is around
+                <strong>50 km</strong>, and the travel time is approximately <strong>1 hour</strong>
+                via <strong>NH44</strong>. With our services, you can enjoy a safe and punctual ride
+                without worrying about delays or last-minute hassles.
+            </p>
+
+            <p class="mb-4">
+                Choose from a range of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All cars are well-maintained, air-conditioned, and come with professional drivers.
+                For family and group travel, our <strong>SUVs and Tempo Travelers</strong> provide
+                extra comfort and space.
+            </p>
+
+            <p class="mb-4">
+                Madurai, known as the <strong>Temple City of Tamil Nadu</strong>, is home to iconic attractions like
+                the <strong>Meenakshi Amman Temple, Thirumalai Nayakkar Mahal, and Gandhi Museum</strong>.
+                Our drivers ensure a smooth trip so you can focus on exploring the city.
+            </p>
+
+            <p class="mb-4">
+                Apart from Madurai, Fastpikcab covers major destinations across Tamil Nadu including
+                <strong>Chennai, Trichy, Salem, Thanjavur, and Rameswaram</strong>.
+                With wide intercity cab coverage, planning your travel becomes simple and stress-free.
+            </p>
+
+            <p class="mb-4">
+                Booking your <strong>Virudhunagar to Madurai cab</strong> is quick and easy.
+                Reserve online through our website or call <strong>+91 88256 94157</strong>.
+                Our 24x7 customer support is always available to assist you with travel plans,
+                pricing, and custom requirements.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Virudhunagar to Madurai taxi booking</strong>
+                and enjoy safe, timely, and budget-friendly travel.
+            </p>
+        </div>
+    </section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Madurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

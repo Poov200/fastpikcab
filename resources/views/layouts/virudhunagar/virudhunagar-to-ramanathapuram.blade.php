@@ -168,6 +168,60 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Ramanathapuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Ramanathapuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+
+        <p class="mb-4">
+            Looking for a reliable <strong>Virudhunagar to Ramanathapuram taxi service</strong>?
+            Fastpikcab provides safe, comfortable, and affordable long-distance cab options.
+            Whether you are traveling for family, business, or sightseeing, we ensure a smooth and stress-free journey with professional drivers and well-maintained vehicles.
+        </p>
+
+        <p class="mb-4">
+            The distance from <strong>Virudhunagar to Ramanathapuram</strong> is approximately
+            <strong>160 km</strong> with a typical travel time of <strong>3–4 hours</strong>.
+            The most preferred route is via <strong>NH85 and NH87</strong>, passing through towns like
+            <strong>Sivagangai and Paramakudi</strong>. Stopovers for meals or sightseeing can be arranged according to your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a fleet of <strong>Sedans, SUVs, and Premium Cars</strong> to suit all travel requirements.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and regularly maintained</strong> to ensure a comfortable journey.
+            For larger groups, our spacious SUVs and Tempo Travelers are perfect for family or group travel.
+        </p>
+
+        <p class="mb-4">
+            Ramanathapuram is a culturally rich district with attractions like
+            <strong>Ramanathaswamy Temple, Kothandaramaswamy Temple, and Dhanushkodi Beach</strong>.
+            Traveling with Fastpikcab allows you to explore these landmarks safely and comfortably.
+        </p>
+
+        <p class="mb-4">
+            Apart from Ramanathapuram, Fastpikcab provides intercity cab services across Tamil Nadu,
+            including <strong>Madurai, Sivagangai, Virudhunagar, Thoothukudi, and Chennai</strong>.
+            This ensures convenient and hassle-free booking for all your intercity travel needs.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Ramanathapuram cab</strong> is quick and simple.
+            Book online via our website or call <strong>+91 88256 94157</strong> for instant support.
+            Our 24x7 customer support team is ready to assist you with trip planning, fare details, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Ramanathapuram taxi booking</strong>
+            and enjoy a safe, reliable, and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Ramanathapuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

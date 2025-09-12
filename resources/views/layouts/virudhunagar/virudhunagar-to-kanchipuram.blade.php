@@ -168,6 +168,65 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Virudhunagar to Kanchipuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Virudhunagar to Kanchipuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a hassle-free <strong>Virudhunagar to Kanchipuram taxi service</strong>? 
+            Fastpikcab brings you the most reliable and affordable outstation cab booking service. 
+            Whether you are traveling for temple visits, family functions, or business trips, 
+            we ensure a safe and comfortable journey at the best prices.
+        </p>
+
+        <p class="mb-4">
+            The distance between Virudhunagar and Kanchipuram is around <strong>470 km</strong> 
+            and the travel time by road is approximately <strong>8–9 hours</strong>. 
+            The most preferred route is via <strong>NH38 and NH48</strong>, covering 
+            <strong>Madurai, Trichy, Villupuram, and Chengalpattu</strong> along the way. 
+            With our flexible travel options, you can request stopovers for refreshments or sightseeing en route.
+        </p>
+
+        <p class="mb-4">
+            We offer a wide fleet of vehicles including <strong>Sedan, SUV, and Premium Cars</strong>. 
+            All cars are equipped with <strong>air-conditioning, clean seating, and GPS navigation</strong> 
+            to make your trip smooth and worry-free. For larger groups, spacious SUVs are available 
+            to make long journeys more comfortable.
+        </p>
+
+        <p class="mb-4">
+            Our drivers are professional, courteous, and well-versed with the road conditions. 
+            We provide <strong>station pickups and doorstep drop services</strong> for added convenience. 
+            Travelers visiting the famous <strong>Kanchipuram temples</strong> like Ekambareswarar Temple, 
+            Kamakshi Amman Temple, and Varadaraja Perumal Temple will find our service most suitable 
+            for a relaxed trip.
+        </p>
+
+        <p class="mb-4">
+            In addition to Kanchipuram, Fastpikcab provides taxi services across Tamil Nadu and neighboring states, 
+            including Chennai, Bangalore, Pondicherry, Vellore, and Tirupati. 
+            Our wide service coverage ensures you can plan all your intercity journeys with us.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Virudhunagar to Kanchipuram cab</strong> is quick and simple. 
+            You can book online through our website or call <strong>+91 88256 94157</strong> 
+            for instant assistance. Our 24x7 customer support team is ready to guide you with trip planning, 
+            pricing, and customized travel options.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Virudhunagar to Kanchipuram taxi booking</strong> 
+            and experience safe, reliable, and affordable long-distance travel like never before.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Virudhunagar to Kanchipuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

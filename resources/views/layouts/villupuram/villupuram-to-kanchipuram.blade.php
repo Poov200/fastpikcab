@@ -166,6 +166,53 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Villupuram to Kanchipuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Villupuram to Kanchipuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Searching for a cab from <strong>Villupuram to Kanchipuram</strong>?
+            Fastpikcab offers clean, well-maintained, and affordable taxis for families, students, and business travelers.
+            Our drivers are available <strong>24/7</strong> to make your trip safe and convenient.
+        </p>
+
+        <p class="mb-4">
+            The distance between Villupuram and Kanchipuram is about <strong>120 km</strong>,
+            and travel takes around <strong>3 hours</strong>.
+            The most common route is via <strong>NH45 and SH58</strong>, passing through <strong>Tindivanam and Walajapet</strong>.
+            Stopovers for refreshments and sightseeing can be included.
+        </p>
+
+        <p class="mb-4">
+            We provide <strong>Sedans, SUVs, and Premium Cars</strong> as part of our fleet.
+            All taxis are air-conditioned, GPS-enabled, and spacious, offering a smooth ride.
+            Our fare system follows <strong>transparent pricing</strong> with no extra charges.
+        </p>
+
+        <p class="mb-4">
+            If you are arriving at <strong>Villupuram Railway Station</strong>, we also arrange taxi pickups for passengers heading to Kanchipuram.
+            You can also avail our <strong>long-distance taxi packages</strong> for cost-effective travel.
+        </p>
+
+        <p class="mb-4">
+            Our network extends to all major Tamil Nadu cities including Chennai, Coimbatore, Erode, Hosur, Karur, Krishnagiri, Madurai, Salem,
+            Tiruvannamalai, Tiruppur, Vellore, Virudhunagar, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Villupuram to Kanchipuram cab</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or reserve online. Our <strong>24/7 team</strong> is here to assist.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a safe, reliable, and affordable <strong>Villupuram to Kanchipuram taxi service</strong>.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Villupuram to Kanchipuram Route Details</h2>
