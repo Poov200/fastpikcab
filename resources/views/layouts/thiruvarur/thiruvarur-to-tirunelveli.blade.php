@@ -153,6 +153,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvarur to Tirunelveli Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvarur to Tirunelveli Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Thiruvarur to Tirunelveli</strong>? Fastpikcab provides safe and affordable cabs with professional drivers.
+            We offer one-way, round trips, and urgent cab bookings <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvarur and Tirunelveli is around <strong>370 km</strong>,
+            taking approximately <strong>7–8 hours</strong> by road. The usual route is via <strong>NH36 and NH44</strong>. Stops for refreshments can be arranged on request.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong>, all of which are air-conditioned and GPS-enabled.
+            With spacious seating and well-maintained interiors, we ensure a comfortable ride.
+            We follow <strong>transparent pricing policies</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Thiruvarur Railway Station pickups</strong> for passengers heading to Tirunelveli.
+            Our long-distance taxi services are suitable for families, business travelers, and group travel.
+        </p>
+
+        <p class="mb-4">
+            Along with Tirunelveli, Fastpikcab offers services to major Tamil Nadu cities including:
+            Ariyalur, Arani, Arakkonam, Bangalore, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram,
+            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thoothukudi, Tirupathur, Thiruvannamalai, Trichy, Vellore, Villupuram, Virudhunagar, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvarur to Tirunelveli taxi</strong> is simple.
+            Visit our website or call <strong>+91 88256 94157</strong>.
+            Our support team is available <strong>24/7</strong> to help with fares, bookings, and travel guidance.
+        </p>
+
+        <p>
+            Enjoy a smooth and reliable ride with Fastpikcab’s <strong>Thiruvarur to Tirunelveli cab service</strong>.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvarur to Tirunelveli Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

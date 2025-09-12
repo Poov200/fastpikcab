@@ -153,6 +153,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvarur to Tirupati Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvarur to Tirupati Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Thiruvarur to Tirupati</strong>? Fastpikcab offers a seamless taxi service with professional drivers and well-maintained vehicles.
+            We provide <strong>one-way, round trip, and outstation taxi services</strong> for a safe and comfortable journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvarur and Tirupati is approximately <strong>400 km</strong>,
+            and the travel time by road is around <strong>8–9 hours</strong> depending on traffic and route conditions.
+            The most preferred routes are via <strong>NH32 and NH16</strong>, offering a smooth highway drive with refreshment stops on the way.
+        </p>
+
+        <p class="mb-4">
+            We provide multiple cab options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our cabs are air-conditioned, comfortable, and equipped with GPS for hassle-free navigation.
+            With <strong>transparent pricing</strong>, you can enjoy your ride with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also offers <strong>railway station pickup and drop services</strong> in Thiruvarur, ensuring convenience for travelers heading to Tirupati.
+            Our service is ideal for pilgrims, families, and business travelers.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tirupati, Fastpikcab provides taxi services to all major cities across Tamil Nadu and nearby states including:
+            Chennai, Bangalore, Coimbatore, Madurai, Trichy, Salem, Vellore, Villupuram, Virudhunagar, Thanjavur, Tirunelveli,
+            Puducherry, Cuddalore, Dindigul, Erode, Krishnagiri, Namakkal, Hosur, Nagercoil, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvarur to Tirupati taxi</strong> is simple and quick.
+            Visit our website or call us at <strong>+91 88256 94157</strong> for reservations, fare details, or travel assistance.
+            Our customer support team is available <strong>24/7</strong>.
+        </p>
+
+        <p>
+            Make your pilgrimage or trip memorable with Fastpikcab’s reliable <strong>Thiruvarur to Tirupati cab service</strong>.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvarur to Tirupati Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
