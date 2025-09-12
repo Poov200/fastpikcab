@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dharmapuri to Tiruppur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dharmapuri to Tiruppur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Dharmapuri to Tiruppur</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way trips,
+            round journeys, business travel, and family vacations. Our professional drivers ensure
+            a smooth and stress-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dharmapuri and Tiruppur</strong> is approximately
+            <strong>200–220 km</strong>, which usually takes around <strong>4.5–5 hours</strong> by road.
+            The common travel route is via <strong>NH44 and NH544</strong>, passing through
+            <strong>Salem and Erode</strong>. Stopovers for meals, refreshments, or sightseeing
+            can be arranged for your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicle choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and comfortable journey. With our <strong>transparent pricing</strong>,
+            you pay exactly what is quoted—no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Tiruppur, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+                Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+                Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Udagamandalam (Ooty),
+                Vellore, Villupuram, Virudhunagar, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dharmapuri to Tiruppur taxi</strong> with Fastpikcab is quick and easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our support team is available <strong>24/7</strong> to assist with bookings,
+            fare details, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dharmapuri to Tiruppur cab service</strong> and
+            enjoy a safe, reliable, and comfortable ride at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Tiruppur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

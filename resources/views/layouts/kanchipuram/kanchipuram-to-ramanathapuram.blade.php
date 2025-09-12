@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Ramanathapuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Ramanathapuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Ramanathapuram taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable cab services</strong> for one-way, round trips,
+            and long-distance travel. Our skilled drivers guarantee <strong>24/7 availability</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Ramanathapuram</strong> is nearly
+            <strong>520 km</strong>, taking about <strong>9.5–11 hours</strong> by road.
+            The common travel route is via <strong>NH38</strong>, passing through Trichy, Madurai, and Paramakudi.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>, ensuring a safe journey.
+            Our <strong>transparent fares</strong> mean no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            Apart from Ramanathapuram, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri,
+            Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai,
+            Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ranipet, Salem, Sivagangai,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy),
+            Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram,
+            and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Ramanathapuram taxi</strong> is simple and quick.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support team</strong> is always ready to assist.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Ramanathapuram cab service</strong>
+            and enjoy a safe, hassle-free ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Ramanathapuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

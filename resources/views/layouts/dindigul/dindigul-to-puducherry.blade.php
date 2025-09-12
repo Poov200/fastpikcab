@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Puducherry Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Puducherry Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Dindigul to Puducherry taxi</strong>? Fastpikcab offers
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way trips,
+            round journeys, family tours, and business travel. With professional drivers and
+            modern vehicles, we ensure a <strong>comfortable journey</strong> available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Puducherry</strong> is about
+            <strong>280–300 km</strong>, taking nearly <strong>6–7 hours</strong> by road.
+            The common travel route is via <strong>NH38 and NH32</strong>, passing through
+            <strong>Trichy and Villupuram</strong>. Food and sightseeing breaks can also be planned on the way.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple cab options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring a safe and pleasant journey. With <strong>transparent pricing</strong>, you never face hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Puducherry, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Puducherry taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our customer support team is available <strong>24/7</strong> for fares and booking queries.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Puducherry cab service</strong>
+            and enjoy a safe, affordable, and smooth journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Puducherry Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

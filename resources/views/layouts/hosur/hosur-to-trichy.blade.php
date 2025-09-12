@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Trichy Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Trichy Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Trichy taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and budget-friendly taxi services</strong> for business trips,
+            family tours, and one-way rides. With trained drivers and modern vehicles,
+            we guarantee <strong>comfortable journeys anytime</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Trichy</strong> is about
+            <strong>330–340 km</strong>, which usually takes <strong>6.5–7 hours</strong> by road.
+            The common route is via <strong>NH44 and NH38</strong>, passing through Salem and Namakkal.
+        </p>
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All taxis are <strong>AC, GPS-enabled, and spacious</strong>, ensuring safety and comfort.
+            With <strong>transparent pricing</strong>, there are no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Trichy, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Trichy taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is here to assist.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Trichy cab service</strong>
+            and enjoy a safe and comfortable ride at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Trichy Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,53 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Pudukkottai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Pudukkottai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Searching for a <strong>Dindigul to Pudukkottai taxi</strong>? Fastpikcab provides
+            <strong>safe, budget-friendly, and reliable taxi services</strong> for one-way transfers,
+            round trips, business tours, and leisure travel. Our professional drivers ensure
+            <strong>a smooth and stress-free ride</strong>, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Pudukkottai</strong> is about
+            <strong>105–115 km</strong>, taking nearly <strong>2.5–3 hours</strong> by road.
+            The common route is via <strong>NH36</strong>, passing through Manapparai and Keeranur.
+        </p>
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            Every cab is <strong>AC, GPS-enabled, and spacious</strong>, making your travel safe and comfortable.
+            With <strong>transparent pricing</strong>, no hidden charges apply.
+        </p>
+        <p class="mb-4">
+            Apart from Pudukkottai, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            To book your <strong>Dindigul to Pudukkottai taxi</strong>, call <strong>+91 88256 94157</strong>
+            or reserve online. Our <strong>24/7 support team</strong> is always ready to assist.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Pudukkottai cab service</strong>
+            and travel with ease, comfort, and peace of mind.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Pudukkottai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

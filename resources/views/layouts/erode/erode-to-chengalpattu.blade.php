@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Chengalpattu Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Chengalpattu Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Chengalpattu taxi</strong>? Fastpikcab provides
+            <strong>affordable, safe, and reliable taxi services</strong> for one-way transfers,
+            round trips, business rides, and family travel. Our experienced drivers make sure
+            your journey is <strong>comfortable and hassle-free</strong> 24/7.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Erode and Chengalpattu</strong> is around
+            <strong>430–450 km</strong>, which usually takes <strong>8–9 hours</strong> by road.
+            The most common route is via <strong>NH544 and NH48</strong>, passing through Salem, Vellore, and Chennai.
+        </p>
+        <p class="mb-4">
+            We offer <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring a smooth and safe trip. With <strong>transparent fares</strong>, you’ll never face hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Chengalpattu, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Erode to Chengalpattu taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> team is ready to assist with bookings, fares, and travel details.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Chengalpattu cab service</strong>
+            and enjoy a reliable, safe, and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Chengalpattu Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

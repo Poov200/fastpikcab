@@ -168,6 +168,66 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Coimbatore to Tirupati Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Coimbatore to Tirupati Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Coimbatore to Tirupati</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way travel,
+            round trips, and pilgrimage or leisure journeys. Our professional drivers ensure a smooth and
+            stress-free ride, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Coimbatore and Tirupati</strong> is approximately
+            <strong>500 km</strong>, which usually takes about <strong>9–10 hours</strong> by road.
+            The common travel route is via <strong>NH44 and NH716</strong>, passing through
+            <strong>Salem, Krishnagiri, and Chittoor</strong>. Short stopovers for meals, tea, or sightseeing can be arranged
+            as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers, and Premium
+                Cars</strong>.
+            All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring
+            a safe and comfortable journey. With <strong>transparent pricing</strong>, there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Coimbatore Airport</strong> and Railway Station taxi pickups,
+            making it convenient for passengers arriving at <strong>Coimbatore Airport</strong> to travel directly to
+            Tirupati.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tirupati, Fastpikcab operates across all major cities and districts of Tamil Nadu and Andhra Pradesh including:
+            <strong>Ariyalur, Chennai, Chengalpattu, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+                Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+                Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+                Udagamandalam (Ooty), Vellore, Villupuram, Virudhunagar, Hosur, and Chittoor</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Coimbatore to Tirupati taxi</strong> with Fastpikcab is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist you
+            with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Coimbatore to Tirupati cab service</strong> and
+            enjoy a safe, reliable, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Coimbatore to Tirupati Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Krishnagiri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Krishnagiri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Krishnagiri taxi</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way travel,
+            family trips, and business rides. Our skilled drivers and modern vehicles ensure
+            a comfortable and stress-free journey, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Krishnagiri</strong> is around
+            <strong>210 km</strong>, taking approximately <strong>4.5–5 hours</strong> by road.
+            The common travel route is via <strong>NH44</strong>, passing through Salem and Dharmapuri.
+            Short breaks for meals, tea, or sightseeing can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple taxi choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            offering a safe and enjoyable ride. With <strong>transparent fares</strong>, you can travel worry-free.
+        </p>
+
+        <p class="mb-4">
+            Apart from Krishnagiri, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Krishnagiri taxi</strong> is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is ready to assist with bookings and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Krishnagiri cab service</strong>
+            and enjoy a reliable and comfortable ride at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Krishnagiri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

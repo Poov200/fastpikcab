@@ -168,6 +168,49 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Madurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Hosur to Madurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Madurai taxi</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable cab services</strong> for one-way trips,
+            round journeys, family visits, and business travel.
+            With trained drivers and modern taxis, we ensure a <strong>comfortable journey 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Madurai</strong> is about
+            <strong>410–420 km</strong>, taking approximately <strong>7–8 hours</strong> by road.
+            The most common route is via <strong>NH44</strong>, passing through Salem, Namakkal, and Karur.
+        </p>
+        <p class="mb-4">
+            Our taxi fleet includes <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring a safe and comfortable trip.
+        </p>
+        <p class="mb-4">
+            Apart from Madurai, Fastpikcab provides taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur, Nagercoil,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal, Karur,
+            Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Madurai taxi</strong> is easy.
+            Call us at <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support</strong> is available for all your travel needs.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Madurai cab service</strong>
+            and travel comfortably at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Madurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

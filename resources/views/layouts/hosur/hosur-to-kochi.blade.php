@@ -157,6 +157,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Kochi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Hosur to Kochi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Kochi taxi</strong>? Fastpikcab provides
+            <strong>affordable, safe, and reliable cab services</strong> for one-way,
+            round trips, airport transfers, and business travel.
+            With professional drivers and well-maintained vehicles,
+            your journey will be <strong>comfortable 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Kochi</strong> is around
+            <strong>520–540 km</strong>, usually taking about <strong>10–12 hours</strong> by road.
+            The preferred route is via <strong>NH544</strong>, passing through Salem, Coimbatore, and Palakkad.
+        </p>
+        <p class="mb-4">
+            We offer different cab options like <strong>Sedans, SUVs, Tempo Travellers,
+            and Luxury Cars</strong>. All taxis are <strong>AC, GPS-enabled, and comfortable</strong>,
+            making long trips smooth and enjoyable.
+        </p>
+        <p class="mb-4">
+            Apart from Kochi, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Kochi taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online instantly.
+            Our <strong>24/7 customer support</strong> team is always ready to assist you.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Kochi cab service</strong>
+            and enjoy a hassle-free long-distance ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Kochi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

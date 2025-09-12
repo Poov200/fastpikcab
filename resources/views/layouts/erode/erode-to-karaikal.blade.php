@@ -171,6 +171,60 @@
 </section>
 
 <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Karaikal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Karaikal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Erode to Karaikal</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way rides,
+            family outings, business trips, and round journeys. Our experienced drivers ensure
+            <strong>a smooth and stress-free travel experience</strong>, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Karaikal</strong> is approximately
+            <strong>250–270 km</strong>, which usually takes about <strong>5.5–6.5 hours</strong> by road.
+            The common travel route is via <strong>NH79 and NH32</strong>, passing through
+            <strong>Salem, Ulundurpet, and Cuddalore</strong>. Stopovers for food, refreshments,
+            or sightseeing can also be arranged as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple taxi choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring comfort and safety throughout your trip. With <strong>transparent pricing</strong>,
+            you can be assured there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Karaikal, Fastpikcab operates in all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Karaikal taxi</strong> with Fastpikcab is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online via our website.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist
+            with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Karaikal cab service</strong>
+            and enjoy a safe, comfortable, and budget-friendly journey.
+        </p>
+    </div>
+</section>
+
+
+<section class="mb-12 px-4 md:px-12">
     <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Karaikal Route Details</h2>
     <div class="bg-white rounded-xl shadow-md p-8">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

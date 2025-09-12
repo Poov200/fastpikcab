@@ -167,6 +167,56 @@
         </div>
     </section>
 
+
+
+    <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Dharmapuri to Kerala Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Dharmapuri to Kerala Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Planning a trip from <strong>Dharmapuri to Kerala</strong>? Fastpikcab provides
+                <strong>safe, reliable, and comfortable taxi services</strong> for one-way travel,
+                round trips, and business or leisure journeys. Our professional drivers ensure a smooth and
+                stress-free ride, available <strong>24/7</strong>.
+            </p>
+            <p class="mb-4">
+                The distance between <strong>Dharmapuri and Kerala</strong> varies depending on your destination,
+                with major cities approximately <strong>350-400 km</strong> away, which usually takes about
+                <strong>7-9 hours</strong> by road. The common travel route is via <strong>NH44 and NH544</strong>,
+                passing through <strong>Coimbatore and Palakkad</strong>. Short stopovers for meals, tea, or
+                sightseeing can be arranged as per your convenience.
+            </p>
+            <p class="mb-4">
+                Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers, and Premium
+                    Cars</strong>.
+                All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring
+                a safe and comfortable journey. With <strong>transparent pricing</strong>, there are no hidden charges.
+            </p>
+            <p class="mb-4">
+                Apart from kerala, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+                <strong>Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                    Kanchipuram, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+                    Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+                    Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+                    Udagamandalam (Ooty), Vellore, Villupuram, Virudhunagar, and Hosur</strong>.
+            </p>
+            <p class <p class="mb-4">
+                Booking your <strong>Dharmapuri to Kerala taxi</strong> with Fastpikcab is simple.
+                Call us at <strong>+91 88256 94157</strong> or book online through our website.
+                Our dedicated customer support team is available <strong>24/7</strong> to assist you
+                with bookings, fare details, and travel guidance.
+            </p>
+            <p>
+                Choose Fastpikcab for your <strong>Dharmapuri to Kerala cab service</strong> and
+                enjoy a safe, reliable, and comfortable journey at the best price.
+            </p>
+        </div>
+    </section>
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dharmapuri to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
@@ -176,7 +226,8 @@
                     <ul class="space-y-4 text-gray-700">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Varies depending on destination city (e.g., to Kochi ~380 km)</span>
+                            <span><strong>Distance:</strong> Varies depending on destination city (e.g., to Kochi ~380
+                                km)</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
@@ -184,11 +235,13 @@
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> Dharmapuri → NH44 → Salem → NH544 → Your Destination in Kerala</span>
+                            <span><strong>Route:</strong> Dharmapuri → NH44 → Salem → NH544 → Your Destination in
+                                Kerala</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> The final route may vary based on your specific drop-off location in Kerala.</span>
+                            <span><strong>Note:</strong> The final route may vary based on your specific drop-off
+                                location in Kerala.</span>
                         </li>
                     </ul>
                 </div>
@@ -254,7 +307,8 @@
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and the specific destination in Kerala.</p>
+                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability,
+                    tolls, and the specific destination in Kerala.</p>
             </div>
         </div>
     </section>

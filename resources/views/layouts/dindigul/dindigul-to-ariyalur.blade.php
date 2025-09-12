@@ -168,6 +168,53 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Ariyalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Ariyalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Dindigul to Ariyalur taxi service</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and budget-friendly cab services</strong> for one-way travel,
+            round trips, family holidays, and business journeys. Our professional drivers ensure
+            a smooth and stress-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Ariyalur</strong> is approximately
+            <strong>120–130 km</strong>, which usually takes around <strong>3–3.5 hours</strong> by road.
+            The most common route is via <strong>NH83 and NH81</strong>, passing through
+            <strong>Trichy</strong>. Stopovers for meals, tea, or sightseeing can also be
+            arranged as per your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple cab options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring complete safety and comfort. With <strong>transparent pricing</strong>,
+            you pay only what is quoted—no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Ariyalur, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu such as:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Dindigul, Kanchipuram, Krishnagiri,
+                Namakkal, Karur, Pudukkottai, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Ariyalur taxi</strong> with Fastpikcab is simple and hassle-free.
+            Call us at <strong>+91 88256 94157</strong> or book directly on our website.
+            Our customer support team is available <strong>24/7</strong> to assist with bookings,
+            fare details, and travel assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Ariyalur cab service</strong> and
+            enjoy a reliable, safe, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Ariyalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

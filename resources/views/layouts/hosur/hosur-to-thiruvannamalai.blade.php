@@ -169,6 +169,51 @@
 </section>
 
 <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Thiruvannamalai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Thiruvannamalai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Hosur to Thiruvannamalai</strong>? Fastpikcab provides
+            <strong>affordable, comfortable, and reliable taxi services</strong> for pilgrimages,
+            business trips, and family tours. With skilled drivers and modern vehicles,
+            your <strong>journey is stress-free 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Thiruvannamalai</strong> is nearly
+            <strong>160–170 km</strong>, which takes about <strong>4–5 hours</strong> by road.
+            The usual route is via <strong>NH77</strong>, passing through Krishnagiri and Chengam.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong>, ensuring a
+            smooth and safe journey. With <strong>transparent fares</strong>, you can travel worry-free.
+        </p>
+        <p class="mb-4">
+            Apart from Thiruvannamalai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Thiruvannamalai taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support team</strong> is here to assist you.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Thiruvannamalai cab service</strong>
+            and enjoy a safe and reliable journey at the best rates.
+        </p>
+    </div>
+</section>
+
+
+<section class="mb-12 px-4 md:px-12">
     <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Thiruvannamalai Route Details</h2>
     <div class="bg-white rounded-xl shadow-md p-8">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

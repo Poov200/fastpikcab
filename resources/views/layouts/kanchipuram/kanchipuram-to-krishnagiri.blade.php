@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Krishnagiri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Krishnagiri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Kanchipuram to Krishnagiri taxi</strong>? Fastpikcab provides
+            <strong>affordable, reliable, and safe cab services</strong> for one-way travel,
+            round trips, and group journeys. Our expert drivers ensure a
+            <strong>comfortable journey 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Krishnagiri</strong> is around
+            <strong>200–220 km</strong>, usually taking <strong>4.5–5.5 hours</strong> by road.
+            The common travel route is via <strong>NH48</strong>.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>.
+            With <strong>transparent fares</strong>, there are no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            Apart from Krishnagiri, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore,
+            Dharmapuri, Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Madurai,
+            Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Krishnagiri taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support</strong> is always available for assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Krishnagiri cab service</strong>
+            and travel in comfort and safety.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Krishnagiri Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -166,6 +166,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Arani Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Arani Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Arani taxi</strong>? Fastpikcab offers
+            <strong>affordable, comfortable, and safe cab services</strong> for one-way transfers,
+            round trips, family visits, or business rides. With experienced drivers and
+            well-maintained cabs, we ensure <strong>a hassle-free journey 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Arani</strong> is around
+            <strong>230–250 km</strong>, taking nearly <strong>5–6 hours</strong> by road.
+            The common route is via <strong>NH48 and SH4</strong>, passing through Krishnagiri and Vellore.
+            Stopovers for meals and breaks can be added as per your needs.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple cab choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring comfort and safety throughout the journey. With <strong>transparent pricing</strong>,
+            there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Arani, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, and Ariyalur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Arani cab</strong> is easy and fast.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer service team</strong> is available for assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Arani cab service</strong>
+            and travel with safety and comfort.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Arani Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Vellore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Vellore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Vellore taxi</strong>? Fastpikcab offers
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way trips,
+            business travel, and family visits. With professional drivers and
+            modern vehicles, we ensure a <strong>comfortable ride 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Vellore</strong> is around
+            <strong>230–250 km</strong>, usually taking about <strong>5–6 hours</strong> by road.
+            The common travel route is via <strong>NH544 and NH48</strong>, passing through Salem and Krishnagiri.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring maximum comfort. With <strong>transparent pricing</strong>, you pay exactly what you see.
+        </p>
+
+        <p class="mb-4">
+            Apart from Vellore, Fastpikcab operates across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvannamalai, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli,
+            Tiruppur, Tirupathur, Udagamandalam (Ooty), Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Vellore taxi</strong> is easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is here to help you.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Vellore cab service</strong>
+            and enjoy a reliable, safe, and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Vellore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

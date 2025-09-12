@@ -166,6 +166,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Kerala Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Kerala taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable cab services</strong> for one-way trips,
+            round journeys, and family vacations. Our professional drivers are available
+            <strong>24/7</strong> for your travel needs.
+        </p>
+
+        <p class="mb-4">
+            The distance from <strong>Kanchipuram to Kerala</strong> depends on the chosen city,
+            ranging from <strong>600–750 km</strong>, with travel time of about
+            <strong>11–13 hours</strong> by road. Common routes are via <strong>NH44 and NH544</strong>,
+            passing through Salem and Coimbatore.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>AC, spacious, and GPS-enabled</strong> to ensure comfort and safety.
+            We provide <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kerala, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore,
+            Dharmapuri, Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Krishnagiri,
+            Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai,
+            Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Kerala taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or reserve online anytime.
+            Our <strong>24/7 support team</strong> is always ready to assist you.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Kerala cab service</strong> and
+            enjoy a reliable, safe, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

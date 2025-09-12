@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Kanchipuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Kanchipuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Kanchipuram taxi</strong>? Fastpikcab offers
+            <strong>affordable, safe, and comfortable taxi services</strong> for one-way travel,
+            round trips, pilgrimages, or business visits. With skilled drivers and
+            modern vehicles, we guarantee <strong>a stress-free ride anytime</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Kanchipuram</strong> is about
+            <strong>260–280 km</strong>, taking around <strong>5–6 hours</strong> by road.
+            The common route is via <strong>NH48</strong>, passing through Bangalore and Sriperumbudur.
+            Meal and refreshment breaks can be arranged at your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides a variety of vehicles such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring comfort and safety for your journey. With <strong>transparent fares</strong>,
+            there are no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Kanchipuram, Fastpikcab operates across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Krishnagiri, Namakkal, Karur,
+            Pudukkottai, Ranipet, Dharmapuri, and Ariyalur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Kanchipuram taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online through our website.
+            Our <strong>24/7 customer support team</strong> will assist you anytime.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Kanchipuram cab service</strong>
+            and travel with peace of mind.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Kanchipuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

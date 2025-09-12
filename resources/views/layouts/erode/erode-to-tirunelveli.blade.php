@@ -167,6 +167,57 @@
         </div>
     </section>
 
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Tirunelveli Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Tirunelveli Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for an <strong>Erode to Tirunelveli taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way trips,
+            business travel, leisure rides, and family tours. With professional drivers and
+            well-equipped cars, we ensure a <strong>smooth ride 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Tirunelveli</strong> is approximately
+            <strong>390–410 km</strong>, usually taking <strong>8–9 hours</strong> by road.
+            The popular route is via <strong>Dindigul and Madurai</strong>, providing convenient
+            travel options with stopovers for meals or rest.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides various cab types including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring comfort and safety. With <strong>transparent pricing</strong>, you only pay the actual fare.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tirunelveli, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Tirunelveli taxi</strong> is quick and hassle-free.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer care team</strong> is available for all assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Tirunelveli cab service</strong>
+            and enjoy a reliable, safe, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Tirunelveli Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

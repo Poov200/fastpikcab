@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Ranipet Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Ranipet Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Hosur to Ranipet</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way trips,
+            round journeys, family travel, and business visits. Our professional drivers
+            and modern vehicles ensure a <strong>smooth ride 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Ranipet</strong> is around
+            <strong>260–270 km</strong>, usually taking about <strong>5–6 hours</strong> by road.
+            The common route is via <strong>NH48</strong>, passing through Krishnagiri and Vellore.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers a wide range of taxis including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>AC, GPS-enabled, and spacious</strong>,
+            making your journey safe and comfortable. With <strong>transparent pricing</strong>,
+            you can travel without worrying about hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Ranipet, Fastpikcab provides taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Salem, Erode, Madurai, Trichy, Thanjavur, Tiruppur,
+            Tirunelveli, Vellore, Villupuram, Virudhunagar, Thoothukudi, Pudukkottai, Kanchipuram,
+            Krishnagiri, Namakkal, Karur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Ranipet taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support</strong> is always available to assist you.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Ranipet cab service</strong>
+            and enjoy a comfortable and budget-friendly ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Ranipet Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

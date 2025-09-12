@@ -159,6 +159,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Karaikal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Karaikal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Hosur to Karaikal</strong>? Fastpikcab provides
+            <strong>safe, comfortable, and affordable taxi services</strong> for one-way travel,
+            round trips, business rides, and family visits. With skilled drivers and
+            modern vehicles, we make sure your <strong>journey is smooth and reliable 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Karaikal</strong> is approximately
+            <strong>370–390 km</strong>, usually taking around <strong>7–8 hours</strong> by road.
+            The common route is via <strong>NH77 and NH32</strong>, passing through Salem, Villupuram, and Cuddalore.
+            Short halts for meals or refreshments can be arranged as needed.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring your safety and comfort. With <strong>transparent fares</strong>,
+            you won’t face hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Karaikal, Fastpikcab operates across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur,
+            Tiruppur, Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram,
+            Krishnagiri, Namakkal, Karur, Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Karaikal taxi</strong> is simple and quick.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer care</strong> team will help with bookings and fare details.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Karaikal cab service</strong>
+            and travel in comfort at the best price.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Karaikal Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

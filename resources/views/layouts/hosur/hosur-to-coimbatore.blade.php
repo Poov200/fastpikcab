@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Coimbatore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Coimbatore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Coimbatore taxi</strong>? Fastpikcab provides
+            <strong>affordable, reliable, and comfortable cab services</strong> for business travel,
+            family trips, one-way, and round journeys. With professional drivers, we ensure
+            <strong>a hassle-free ride anytime</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Coimbatore</strong> is about
+            <strong>325–340 km</strong>, usually taking <strong>6.5–7.5 hours</strong> by road.
+            The common route is via <strong>NH544</strong>, passing through Salem and Avinashi.
+            Refreshment breaks can be arranged as per your convenience.
+        </p>
+        <p class="mb-4">
+            We provide different cab types such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring safety and comfort. With <strong>clear pricing</strong>, you can travel without hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Coimbatore, Fastpikcab operates across Tamil Nadu including:
+            <strong>Chennai, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Coimbatore cab</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online at any time.
+            Our <strong>24/7 customer support</strong> will help with bookings and fare details.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Coimbatore cab service</strong>
+            and enjoy a safe, comfortable, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Coimbatore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

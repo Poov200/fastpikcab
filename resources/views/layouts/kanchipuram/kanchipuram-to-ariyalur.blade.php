@@ -157,6 +157,52 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Ariyalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Trusted Kanchipuram to Ariyalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning to travel from <strong>Kanchipuram to Ariyalur</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for all types of trips –
+            one-way, round trips, family tours, and business journeys. With skilled drivers and
+            well-maintained vehicles, we ensure <strong>a hassle-free travel experience</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Ariyalur</strong> is around
+            <strong>250 km</strong>, which usually takes <strong>5–6 hours</strong> by road.
+            The common route is via <strong>NH38</strong>, passing through Villupuram and Trichy.
+        </p>
+        <p class="mb-4">
+            We provide various taxi options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring your journey is safe and comfortable. With <strong>transparent pricing</strong>,
+            you always know what you’re paying for.
+        </p>
+        <p class="mb-4">
+            Apart from Ariyalur, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Hosur,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur,
+            Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Ariyalur taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or reserve online anytime.
+            Our <strong>24/7 customer support team</strong> is here to assist you.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Ariyalur cab service</strong>
+            and enjoy a smooth and reliable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Ariyalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

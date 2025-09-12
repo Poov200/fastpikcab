@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Mayiladuthurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Mayiladuthurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Mayiladuthurai taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable cabs</strong> for one-way travel, round trips,
+            family visits, and business needs. Our skilled drivers ensure <strong>24/7 availability</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Mayiladuthurai</strong> is around
+            <strong>230–250 km</strong>, taking about <strong>5–6 hours</strong> by road.
+            The usual route is via <strong>NH32</strong>, passing through Chengalpattu and Cuddalore.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All cabs are <strong>AC, GPS-enabled, and spacious</strong> for a smooth journey.
+            With <strong>transparent fares</strong>, there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Mayiladuthurai, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri,
+            Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam,
+            Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy),
+            Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Mayiladuthurai taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 support team</strong> is always ready to assist.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Mayiladuthurai cab service</strong>
+            and enjoy a safe, reliable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Mayiladuthurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

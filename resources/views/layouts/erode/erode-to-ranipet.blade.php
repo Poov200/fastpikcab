@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Ranipet Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Ranipet Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Ranipet taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way trips,
+            family tours, business travel, and round journeys. With skilled drivers and
+            modern vehicles, we make your travel <strong>smooth and comfortable 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Ranipet</strong> is about
+            <strong>260–280 km</strong>, taking nearly <strong>5–6 hours</strong> by road.
+            The usual route is via <strong>Salem and Vellore</strong> using <strong>NH44 and NH48</strong>.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our cabs are <strong>air-conditioned, GPS-enabled, and comfortable</strong>.
+            With <strong>transparent pricing</strong>, you can travel worry-free.
+        </p>
+
+        <p class="mb-4">
+            Apart from Ranipet, Fastpikcab serves across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Ranipet taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 support</strong> team is always available for help.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Ranipet cab service</strong>
+            and enjoy a reliable and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Ranipet Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

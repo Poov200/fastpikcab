@@ -168,6 +168,52 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Coimbatore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Coimbatore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Dindigul to Coimbatore taxi</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way trips,
+            round journeys, family travel, or business needs. Our experienced drivers ensure
+            a comfortable ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Coimbatore</strong> is about
+            <strong>200–210 km</strong>, which usually takes around <strong>4–5 hours</strong> by road.
+            The common route is via <strong>NH83</strong>, passing through <strong>Oddanchatram and Pollachi</strong>.
+            Stopovers for meals, tea, or sightseeing can be arranged as per your convenience.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple cab choices such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring both safety and comfort. With <strong>transparent fares</strong>,
+            you pay exactly what you see — no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Coimbatore, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+                Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+                Karur, Pudukkottai, Ranipet, Ariyalur, and Hosur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Coimbatore taxi</strong> with Fastpikcab is easy.
+            Call us at <strong>+91 88256 94157</strong> or book online via our website.
+            Our customer support team is available <strong>24/7</strong> to provide
+            booking assistance, fare details, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Coimbatore cab service</strong>
+            and enjoy a smooth, affordable, and stress-free travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Coimbatore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

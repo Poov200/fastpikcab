@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Vellore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Vellore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Dindigul to Vellore taxi</strong>? Fastpikcab offers
+            <strong>reliable, affordable, and safe taxi services</strong> for one-way trips,
+            round journeys, family tours, and business rides. With experienced drivers and
+            modern vehicles, we guarantee <strong>a hassle-free ride</strong> 24/7.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Vellore</strong> is about
+            <strong>330–340 km</strong>, which takes nearly <strong>6.5–7.5 hours</strong> by road.
+            The common travel route is via <strong>NH38 and NH48</strong>.
+        </p>
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, or Premium Cars</strong>.
+            All cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong>, making
+            your journey safe and comfortable. Our <strong>transparent pricing</strong> means no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Vellore, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur,
+                Tiruppur, Tiruvannamalai, Thiruvarur, Vellore, Viluppuram, Virudhunagar,
+                Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Vellore taxi</strong> is fast and simple.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer service</strong> is here to assist with bookings and fare details.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Vellore cab service</strong>
+            and enjoy a reliable, affordable, and comfortable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Vellore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -185,6 +185,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul Local Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Local Cabs in Dindigul Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>local taxi in Dindigul</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> within the city
+            for shopping, business meetings, family outings, railway station/airport transfers,
+            and sightseeing. Our professional drivers ensure a hassle-free ride, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers flexible packages for <strong>hourly rentals, full-day local trips,
+            and point-to-point travel</strong> across Dindigul. Whether you need a cab for
+            a few hours or the entire day, we have the right option for you.
+        </p>
+        <p class="mb-4">
+            Choose from our wide range of vehicles including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and comfortable travel experience. With <strong>transparent fares</strong>,
+            you never have to worry about hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from local taxi services, Fastpikcab also operates <strong>outstation cabs</strong>
+            from Dindigul to all major cities across Tamil Nadu including Chennai, Coimbatore, Madurai, Trichy, Salem, Erode,
+            Tirunelveli, Thanjavur, Tiruppur, Nagercoil, Vellore, and more.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul local taxi</strong> with Fastpikcab is easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist with bookings,
+            fare details, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for <strong>local cab service in Dindigul</strong> and enjoy
+            a smooth, safe, and budget-friendly travel experience.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul Local Sightseeing & Taxi Services</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

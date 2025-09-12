@@ -160,6 +160,59 @@
         </div>
     </section>
 
+    <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Cuddalore to Nagercoil Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Cuddalore to Nagercoil Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Cuddalore to Nagercoil</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way travel,
+            round trips, family visits, and business journeys. Our experienced drivers ensure
+            a smooth and stress-free ride, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Cuddalore and Nagercoil</strong> is approximately
+            <strong>570–590 km</strong>, which usually takes about <strong>10–11 hours</strong> by road.
+            The common travel route is via <strong>NH32 and NH44</strong>, passing through
+            <strong>Chidambaram, Trichy, Madurai, and Tirunelveli</strong>. Stopovers for meals, refreshments,
+            or sightseeing can be arranged as per your convenience.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring a safe and comfortable journey. With <strong>transparent pricing</strong>, there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Nagercoil, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Udagamandalam (Ooty),
+            Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Cuddalore to Nagercoil taxi</strong> with Fastpikcab is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist you
+            with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Cuddalore to Nagercoil cab service</strong> and
+            enjoy a safe, reliable, and comfortable journey at the best price.
+        </p>
+    </div>
+</section>
+
+
     <!-- Route Details -->
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Cuddalore to Nagercoil Route Details</h2>

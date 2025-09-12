@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Nagapattinam Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Nagapattinam Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Erode to Nagapattinam taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and comfortable taxi services</strong> for one-way journeys,
+            family tours, business trips, and temple visits. With professional drivers and modern vehicles,
+            your travel experience will be smooth and stress-free <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Nagapattinam</strong> is about
+            <strong>300 km</strong>, which usually takes around <strong>6–7 hours</strong> by road.
+            The common travel route is via <strong>NH544 and NH32</strong>, passing through Salem, Cuddalore, and Karaikal.
+            Stopovers for meals and refreshments can be arranged as per your needs.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicles including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>AC, spacious, and GPS-enabled</strong>,
+            ensuring maximum comfort and safety. With <strong>transparent pricing</strong>, there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Nagapattinam, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagercoil, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Nagapattinam taxi</strong> is easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer service</strong> team is always ready to assist.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Nagapattinam cab service</strong>
+            and enjoy a smooth, affordable, and reliable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Nagapattinam Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

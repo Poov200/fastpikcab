@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Erode Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Erode Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Kanchipuram to Erode taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for outstation trips,
+            family travel, and corporate rides. Our trained drivers ensure <strong>on-time pickups 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Erode</strong> is approximately
+            <strong>420–450 km</strong>, usually taking about <strong>7.5–8.5 hours</strong> by road.
+            The most common route is via <strong>NH48 and NH544</strong>, passing through Salem and Tiruppur.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple vehicles, from <strong>Sedans and SUVs to Tempo Travellers and Premium Cars</strong>.
+            All taxis are <strong>air-conditioned, GPS-enabled, and well-maintained</strong>. We follow
+            <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Erode, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Hosur,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur,
+            Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Erode taxi</strong> is fast and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is always available to help.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Erode cab service</strong>
+            and enjoy a reliable, comfortable, and safe journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Erode Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

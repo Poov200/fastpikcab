@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Perambalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Perambalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Erode to Perambalur taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable cab services</strong> for one-way trips,
+            round journeys, family travel, and business rides. With professional drivers and
+            well-maintained vehicles, we guarantee a <strong>comfortable journey 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Perambalur</strong> is around
+            <strong>165 km</strong>, which takes about <strong>3.5–4 hours</strong> by road.
+            The common route is via <strong>NH544 and NH38</strong>, passing through Karur and Trichy.
+            Short breaks for refreshments can be arranged on request.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our cabs are <strong>air-conditioned, spacious, and GPS-enabled</strong>,
+            ensuring maximum safety and comfort. With <strong>transparent pricing</strong>,
+            there are no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Perambalur, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Perambalur taxi</strong> is quick and simple.
+            Call us at <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer support team</strong> is always available to assist.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Perambalur cab service</strong>
+            and enjoy a smooth and reliable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Perambalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

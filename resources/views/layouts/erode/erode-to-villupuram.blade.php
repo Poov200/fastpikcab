@@ -168,6 +168,56 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Villupuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Villupuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Erode to Villupuram</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way journeys,
+            business visits, family travel, and round trips. Our expert drivers ensure
+            <strong>a hassle-free ride 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Villupuram</strong> is about
+            <strong>210–230 km</strong>, which usually takes <strong>4.5–5.5 hours</strong> by road.
+            The common route is via <strong>Salem and Ulundurpet</strong> on NH79 and NH38.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers several vehicle options like <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All our cabs are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring maximum safety and comfort. With <strong>transparent fares</strong>, you’ll never face hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Villupuram, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvannamalai, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli,
+            Tiruppur, Tirupathur, Udagamandalam (Ooty), Vellore, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Villupuram taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer service</strong> is available anytime for assistance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Villupuram cab service</strong>
+            and enjoy a safe, comfortable, and affordable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Villupuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Sivakasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Sivakasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Kanchipuram to Sivakasi taxi</strong>? Fastpikcab provides
+            <strong>affordable, reliable, and safe cab services</strong> for one-way and round trips.
+            Perfect for family travel, temple visits, and business travel with <strong>24/7 availability</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Sivakasi</strong> is nearly
+            <strong>500 km</strong>, taking about <strong>9–10 hours</strong> by road.
+            The common route is via <strong>NH38 and NH44</strong>, passing through Trichy and Madurai.
+        </p>
+
+        <p class="mb-4">
+            We provide <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>AC, GPS-enabled, and spacious</strong>.
+            Enjoy <strong>transparent fares</strong> without hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Sivakasi, Fastpikcab operates across Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri,
+            Dindigul, Erode, Hosur, Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai,
+            Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet,
+            Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi,
+            Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Book your <strong>Kanchipuram to Sivakasi taxi</strong> online or call <strong>+91 88256 94157</strong>.
+            Our <strong>24/7 support team</strong> is ready to help with all queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Sivakasi cab service</strong>
+            and enjoy a safe, comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Sivakasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

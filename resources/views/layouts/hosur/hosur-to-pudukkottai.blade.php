@@ -168,6 +168,49 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Pudukkottai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Pudukkottai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Hosur to Pudukkottai taxi</strong>? Fastpikcab offers
+            <strong>affordable, safe, and reliable cab services</strong> for one-way travel,
+            business visits, family trips, and round journeys. With professional drivers and
+            clean, modern vehicles, we make your journey <strong>comfortable and worry-free</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Pudukkottai</strong> is nearly
+            <strong>410–420 km</strong>, which usually takes around <strong>8 hours</strong> by road.
+            The common travel route is via <strong>NH44 and NH36</strong>, passing through Salem and Trichy.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers various vehicle options like <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring both comfort and safety for your long trip.
+        </p>
+        <p class="mb-4">
+            Apart from Pudukkottai, Fastpikcab operates across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Thanjavur, Tirunelveli, Tiruppur,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal, Karur,
+            Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Pudukkottai taxi</strong> is fast and simple.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 customer service</strong> is always available for assistance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Pudukkottai cab service</strong>
+            and enjoy a reliable, safe, and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Pudukkottai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

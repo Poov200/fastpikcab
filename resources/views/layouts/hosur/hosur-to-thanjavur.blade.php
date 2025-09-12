@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Thanjavur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Thanjavur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Hosur to Thanjavur taxi</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable taxi services</strong> for all types of trips
+            including one-way, round journeys, business travel, and family holidays.
+            Our expert drivers ensure a <strong>hassle-free travel experience</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Thanjavur</strong> is about
+            <strong>380–400 km</strong>, which usually takes <strong>7–8 hours</strong> by road.
+            The common route is via <strong>NH44 and NH38</strong>, passing through Salem and Trichy.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides a range of cab options such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC, spacious, and GPS-enabled</strong>,
+            making your journey comfortable and safe. With <strong>transparent pricing</strong>,
+            there are no surprises in your bill.
+        </p>
+        <p class="mb-4">
+            Apart from Thanjavur, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Salem, Erode, Madurai, Trichy, Tiruppur, Tirunelveli,
+            Vellore, Villupuram, Virudhunagar, Thoothukudi, Pudukkottai, Kanchipuram, Krishnagiri,
+            Namakkal, Karur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Thanjavur taxi</strong> is quick and easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support team</strong> is always ready to assist.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Thanjavur cab service</strong>
+            and enjoy a smooth, affordable, and reliable ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Thanjavur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

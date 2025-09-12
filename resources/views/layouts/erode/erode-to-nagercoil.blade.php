@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Erode to Nagercoil Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Erode to Nagercoil Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Erode to Nagercoil</strong>? Fastpikcab provides
+            <strong>safe, reliable, and budget-friendly taxi services</strong> for one-way trips,
+            round journeys, pilgrimages, and business travel. Our expert drivers and well-maintained vehicles
+            ensure a <strong>stress-free journey 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Erode and Nagercoil</strong> is about
+            <strong>420 km</strong>, usually taking around <strong>8–9 hours</strong> by road.
+            The common route is via <strong>NH44</strong>, passing through Karur, Madurai, and Tirunelveli.
+            Stopovers for food, tea, or sightseeing can be included.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle options like <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC-enabled, GPS-equipped, and spacious</strong>,
+            offering a comfortable and secure ride. With <strong>transparent pricing</strong>, you pay only what is shown.
+        </p>
+
+        <p class="mb-4">
+            Apart from Nagercoil, Fastpikcab operates taxi services across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Tirupathur,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Erode to Nagercoil taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or reserve online anytime.
+            Our <strong>24/7 customer care</strong> is here to help with travel details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Erode to Nagercoil cab service</strong>
+            and experience a comfortable and cost-effective ride.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Erode to Nagercoil Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Dindigul to Karur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Dindigul to Karur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Dindigul to Karur taxi</strong>? Fastpikcab provides
+            <strong>safe, affordable, and reliable taxi services</strong> for one-way travel,
+            round trips, business journeys, and family tours. With well-maintained vehicles
+            and professional drivers, your ride will be <strong>comfortable and stress-free</strong>,
+            available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Dindigul and Karur</strong> is about
+            <strong>75–80 km</strong>, usually taking around <strong>1.5–2 hours</strong> by road.
+            The common travel route is via <strong>NH44</strong>, offering a smooth and quick drive.
+            You can also plan short stopovers for meals or tea breaks during the trip.
+        </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>
+            to ensure a safe and convenient journey. With our <strong>transparent pricing</strong>,
+            you pay exactly what is quoted — no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Karur, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            <strong>
+                Ariyalur, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode, Kallakurichi,
+                Kanchipuram, Kanniyakumari (Nagercoil), Karur, Krishnagiri, Madurai, Mayiladuthurai,
+                Nagapattinam, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+                Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tiruchirappalli (Trichy),
+                Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai, Tiruvarur, Vellore, Viluppuram,
+                Virudhunagar, Udagamandalam (Ooty), Hosur, and more.
+            </strong>
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Dindigul to Karur taxi</strong> with Fastpikcab is quick and simple.
+            Call us at <strong>+91 88256 94157</strong> or make a booking online.
+            Our dedicated customer support team is available <strong>24/7</strong> to assist you
+            with fares, bookings, and travel guidance.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Dindigul to Karur cab service</strong>
+            and enjoy a smooth, reliable, and cost-effective journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Dindigul to Karur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

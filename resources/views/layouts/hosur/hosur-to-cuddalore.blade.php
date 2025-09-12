@@ -168,6 +168,50 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Cuddalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Cuddalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Searching for a <strong>Hosur to Cuddalore taxi</strong>? Fastpikcab offers
+            <strong>reliable, affordable, and safe cab services</strong> for family visits,
+            leisure, or business rides. With skilled drivers and comfortable cars, we provide
+            <strong>a smooth travel experience 24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Cuddalore</strong> is about
+            <strong>290–310 km</strong>, taking nearly <strong>6.5–7 hours</strong> by road.
+            The common travel route is via <strong>NH77 and NH32</strong>, passing through Krishnagiri and Villupuram.
+            Breaks for refreshments or meals can be arranged as needed.
+        </p>
+        <p class="mb-4">
+            Fastpikcab provides multiple cab options like <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cabs are <strong>air-conditioned, GPS-enabled, and well-maintained</strong>,
+            ensuring safety and comfort. With <strong>transparent pricing</strong>, there are no surprises in your fare.
+        </p>
+        <p class="mb-4">
+            Apart from Cuddalore, we operate taxi services across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, Dharmapuri, and Ariyalur</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Cuddalore taxi</strong> is easy.
+            Call <strong>+91 88256 94157</strong> or book online instantly.
+            Our <strong>24/7 support team</strong> ensures quick and hassle-free booking.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Cuddalore cab service</strong>
+            and enjoy a safe and reliable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Cuddalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

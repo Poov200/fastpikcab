@@ -168,6 +168,49 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Hosur to Mayiladuthurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Hosur to Mayiladuthurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Hosur to Mayiladuthurai</strong>? Fastpikcab provides
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way travel,
+            round trips, family visits, and business journeys. Our professional drivers
+            ensure a <strong>smooth and stress-free ride</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Hosur and Mayiladuthurai</strong> is around
+            <strong>360–370 km</strong>, taking nearly <strong>7–8 hours</strong> by road.
+            The popular travel route is via <strong>NH77 and NH32</strong>, passing through Krishnagiri, Villupuram, and Cuddalore.
+        </p>
+        <p class="mb-4">
+            We offer a wide range of cabs such as <strong>Sedans, SUVs, Tempo Travellers, and Luxury Cars</strong>.
+            All taxis are <strong>AC, GPS-enabled, and spacious</strong>,
+            making your journey safe and enjoyable.
+        </p>
+        <p class="mb-4">
+            Apart from Mayiladuthurai, Fastpikcab operates across Tamil Nadu including:
+            <strong>Chennai, Coimbatore, Madurai, Trichy, Salem, Erode, Tirunelveli, Thanjavur, Tiruppur,
+            Nagercoil, Vellore, Villupuram, Virudhunagar, Thoothukudi, Kanchipuram, Krishnagiri, Namakkal,
+            Karur, Pudukkottai, Ranipet, Dharmapuri, Ariyalur, and more</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Hosur to Mayiladuthurai taxi</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our support team is available <strong>24/7</strong> to assist with bookings and fares.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Hosur to Mayiladuthurai cab service</strong>
+            and enjoy a reliable and stress-free journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Hosur to Mayiladuthurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

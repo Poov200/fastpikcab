@@ -168,6 +168,58 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Viluppuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Viluppuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a cab from <strong>Kanchipuram to Viluppuram</strong>? Fastpikcab provides
+            <strong>affordable and reliable taxi services</strong> for one-way journeys, return trips,
+            and family or business travel. Our expert drivers ensure you travel comfortably and safely,
+            available <strong>round-the-clock</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Viluppuram</strong> is about
+            <strong>125 km</strong>, which takes around <strong>3 hours</strong> by road via
+            <strong>NH32</strong>. The route is smooth and well-connected, passing through
+            <strong>Chengalpattu</strong> and nearby towns.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicles such as <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All taxis are <strong>air-conditioned, spacious, and GPS-enabled</strong>
+            to ensure a comfortable and stress-free ride.
+        </p>
+
+        <p class="mb-4">
+            Apart from Viluppuram, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
+            Udagamandalam (Ooty), Vellore, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Viluppuram taxi</strong> is quick and easy.
+            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Our dedicated support team is available <strong>24/7</strong> for bookings, fare assistance,
+            and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Viluppuram cab service</strong> and
+            experience convenient and cost-effective travel.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Villupuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

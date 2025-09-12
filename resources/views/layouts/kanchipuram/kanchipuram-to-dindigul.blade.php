@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Kanchipuram to Dindigul Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Kanchipuram to Dindigul Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Kanchipuram to Dindigul taxi</strong>? Fastpikcab provides
+            <strong>safe, comfortable, and cost-effective taxi services</strong> for one-way transfers,
+            round trips, and business travel. Our experienced drivers ensure <strong>hassle-free rides 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Kanchipuram and Dindigul</strong> is approximately
+            <strong>300–330 km</strong>, which usually takes about <strong>6.5–7.5 hours</strong> by road.
+            The common route is via <strong>NH38 and NH83</strong>, passing through Trichy and Karur.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of vehicles including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All cars are <strong>air-conditioned, GPS-enabled, and spacious</strong>,
+            ensuring safety and comfort for long journeys. We maintain <strong>transparent fares</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Dindigul, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            <strong>Ariyalur, Arani, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Erode, Hosur,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
+            Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur,
+            Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Tiruppur, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Kanchipuram to Dindigul taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or reserve online.
+            Our <strong>24/7 customer care</strong> team will assist you with booking and fare queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Kanchipuram to Dindigul cab service</strong>
+            and enjoy a safe, comfortable, and timely journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Kanchipuram to Dindigul Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
