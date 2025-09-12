@@ -153,6 +153,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Thiruvarur to Thoothukudi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Thiruvarur to Thoothukudi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Thiruvarur to Thoothukudi</strong>? Fastpikcab provides well-maintained cabs with professional drivers for one-way, round trips, and urgent bookings.
+            Our service is available <strong>24/7</strong> for a hassle-free travel experience.
+        </p>
+
+        <p class="mb-4">
+            The distance between Thiruvarur and Thoothukudi is about <strong>340 km</strong>,
+            and the journey usually takes around <strong>7–8 hours</strong> by road. The common route is via <strong>NH36 and NH38</strong>, with options for short refreshment breaks along the way.
+        </p>
+
+        <p class="mb-4">
+            We offer multiple vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and equipped with GPS for a smooth journey.
+            Our pricing is <strong>transparent</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also provides <strong>railway station pickup and drop services</strong> in Thiruvarur for passengers traveling to Thoothukudi.
+            Our long-distance taxi packages are ideal for families, business travelers, and groups.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thoothukudi, Fastpikcab operates services to all major Tamil Nadu cities including:
+            Ariyalur, Arani, Arakkonam, Bangalore, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram,
+            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Tirunelveli, Tirupathur, Thiruvannamalai, Trichy, Vellore, Villupuram, Virudhunagar, and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Thiruvarur to Thoothukudi taxi</strong> is easy.
+            You can book online on our website or call us at <strong>+91 88256 94157</strong>.
+            Our support team is available <strong>24/7</strong> for bookings, fare details, and travel queries.
+        </p>
+
+        <p>
+            Travel safely and comfortably with Fastpikcab’s <strong>Thiruvarur to Thoothukudi cab service</strong>.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Thiruvarur to Thoothukudi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
