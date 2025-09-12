@@ -132,29 +132,51 @@
         Tiruppur to Karaikal Taxi Service – Fastpikcab
     </h1>
     <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Reliable Cabs Online from Tiruppur to Karaikal
+        Book Reliable Tiruppur to Karaikal Cabs Online
     </h2>
     <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
         <p class="mb-4">
-            Travel safely and comfortably from <strong>Tiruppur</strong> to <strong>Karaikal</strong> with Fastpikcab. We provide professional drivers, clean taxis, and 24/7 availability. Choose from affordable one-way or convenient round-trip options.
+            Need a taxi from <strong>Tiruppur to Karaikal</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
         </p>
+
         <p class="mb-4">
-            The distance between Tiruppur and Karaikal is approximately <strong>323 km</strong>, with an estimated driving time of around <strong>6 hours 52 minutes</strong>. Our drivers use the best routes to ensure a smooth journey.
+            The distance between Tiruppur and Karaikal is approximately <strong>390 km</strong>,
+            which usually takes around <strong>7–8 hours</strong> by road. The common route is via <strong>NH83 and NH32</strong>,
+            passing through <strong>Trichy, Villupuram, and Cuddalore</strong>. Short stops for refreshments, meals, or sightseeing can be arranged along the way.
         </p>
+
         <p class="mb-4">
-            Select from a range of vehicles including <strong>Hatchbacks, Sedans, and SUVs</strong>. All vehicles are air-conditioned and GPS-enabled for your comfort and safety. Pricing is transparent, with no hidden charges.
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
         </p>
+
         <p class="mb-4">
-            Karaikal is known for its beautiful beaches and religious sites. Our round-trip taxi packages allow you to explore at your own pace.
+            We also provide <strong>Tiruppur Railway Station taxi pickups</strong> for passengers traveling to Karaikal.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>.
         </p>
+
         <p class="mb-4">
-            Book your <strong>Tiruppur to Karaikal taxi</strong> easily online or call <strong>+91 88256 94157</strong>. Our customer support is available 24/7 for booking assistance and fare details.
+            Apart from Karaikal, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Arani, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet,
+            Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, Vellore, and Virudhunagar.
         </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tiruppur to Karaikal taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
         <p>
-            Choose Fastpikcab for a <strong>safe, reliable, and comfortable Tiruppur-Karaikal ride</strong>.
+            Choose Fastpikcab for your <strong>Tiruppur to Karaikal cab service</strong> and enjoy a safe, reliable, and comfortable journey.
         </p>
     </div>
 </section>
+
 <section class="mb-12 px-4 md:px-12">
     <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Karaikal Route Details</h2>
     <div class="bg-white rounded-xl shadow-md p-8">
@@ -217,7 +239,7 @@
                 </tr>
             </thead>
             <tbody class="divide-y divide-gray-200">
-                
+
                 <tr class="hover:bg-gray-50">
                     <td class="px-6 py-4 font-medium">Sedan</td>
                     <td class="px-6 py-4 text-center">Starts from ₹6,825</td>

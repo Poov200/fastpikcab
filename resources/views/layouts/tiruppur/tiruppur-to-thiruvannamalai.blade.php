@@ -138,34 +138,57 @@
             </div>
         </div>
     </section>
+
     <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Tiruppur to Thiruvannamalai Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Tiruppur to Thiruvannamalai
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Planning a stress-free ride from <strong>Tiruppur</strong> to <strong>Thiruvannamalai</strong>? Fastpikcab offers safe, clean, and affordable taxis with 24/7 availability. Professional drivers ensure punctual and comfortable trips.
-            </p>
-            <p class="mb-4">
-                The distance between Tiruppur and Thiruvannamalai is approximately <strong>248 to 288 km</strong>, with a travel time near <strong>6 hours</strong> depending on route and traffic.
-            </p>
-            <p class="mb-4">
-                Choose from <strong>Hatchback, Sedan, SUVs</strong> and more, all air-conditioned and GPS-enabled for your convenience. Transparent pricing ensures no surprises.
-            </p>
-            <p class="mb-4">
-                Thiruvannamalai is renowned for spiritual landmarks such as the <strong>Arunachaleswarar Temple</strong> and <strong>Ramana Ashram</strong>. Enjoy our round-trip packages for a flexible sightseeing experience.
-            </p>
-            <p class="mb-4">
-                Book your <strong>Tiruppur to Thiruvannamalai cab</strong> online or call <strong>+91 88256 94157</strong>. Our support team is available 24/7 for assistance.
-            </p>
-            <p>
-                Choose Fastpikcab for a <strong>safe, reliable, and comfortable Tiruppur to Thiruvannamalai journey</strong>.
-            </p>
-        </div>
-    </section>
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Tiruppur to Thiruvannamalai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Tiruppur to Thiruvannamalai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Tiruppur to Thiruvannamalai</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Tiruppur and Thiruvannamalai is approximately <strong>300 km</strong>,
+            which usually takes around <strong>6–6.5 hours</strong> by road. The common route is via <strong>NH79 and NH38</strong>. Short stops for refreshments or meals can be arranged along the way.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Tiruppur Railway Station taxi pickups</strong> for passengers traveling to Thiruvannamalai.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thiruvannamalai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Arani, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur,
+            Udagamandalam (Ooty), Villupuram, Vellore, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tiruppur to Thiruvannamalai taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Tiruppur to Thiruvannamalai cab service</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Thiruvannamalai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
@@ -227,7 +250,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                   
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">Starts from ₹4,032</td>

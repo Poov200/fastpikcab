@@ -168,6 +168,61 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Vellore to Chengalpattu Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Vellore to Chengalpattu Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Vellore to Chengalpattu</strong>? Fastpikcab provides safe,
+            clean, and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
+            Our drivers are available <strong>24/7</strong> to ensure a comfortable and timely journey.
+        </p>
+
+        <p class="mb-4">
+            The distance between Vellore and Chengalpattu is approximately <strong>130 km</strong>,
+            which usually takes about <strong>3–3.5 hours</strong> by road.
+            The most common route is via <strong>NH48</strong>, passing through <strong>Walajapet and Kanchipuram</strong>.
+            Short breaks for refreshments or meals can be arranged during your travel.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled to ensure a smooth, hassle-free ride.
+            Our pricing is <strong>transparent</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Vellore Railway Station taxi pickups</strong> for passengers traveling to Chengalpattu.
+            Families, students, business travelers, and groups can benefit from our <strong>long-distance taxi packages</strong>,
+            designed to make intercity travel cost-effective and comfortable.
+        </p>
+
+        <p class="mb-4">
+            Apart from Chengalpattu, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram,
+            Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Vellore to Chengalpattu taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team will assist you with bookings, fare information, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Vellore to Chengalpattu cab service</strong>
+            and enjoy a safe, reliable, and comfortable travel experience.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Vellore to Chengalpattu Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

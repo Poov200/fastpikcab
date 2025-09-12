@@ -139,34 +139,58 @@
         </div>
     </div>
 </section>
+
 <section class="mb-12 px-4 md:px-12">
     <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
         Tiruppur to Kochi Taxi Service – Fastpikcab
     </h1>
     <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-        Book Reliable Cabs Online from Tiruppur to Kochi
+        Book Reliable Tiruppur to Kochi Cabs Online
     </h2>
     <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
         <p class="mb-4">
-            Travel comfortably from <strong>Tiruppur</strong> to <strong>Kochi</strong> with Fastpikcab’s trusted taxi service. We offer clean, air-conditioned vehicles, expert drivers, and 24/7 availability for one-way or round-trip journeys.
+            Need a taxi from <strong>Tiruppur to Kochi</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
         </p>
+
         <p class="mb-4">
-            The road distance between Tiruppur and Kochi is approximately <strong>240 km</strong>, with an approximate travel time of <strong>5 to 6 hours</strong>, depending on traffic and route. Our routes are optimized for a smooth, scenic, and safe drive.
+            The distance between Tiruppur and Kochi is approximately <strong>420 km</strong>,
+            which usually takes around <strong>9–10 hours</strong> by road. The common route is via <strong>NH544 and NH66</strong>.
+            Short stops for refreshments, meals, or sightseeing can be arranged along the way.
         </p>
+
         <p class="mb-4">
-            Choose from a variety of vehicles including <strong>Hatchbacks, Sedans, SUVs, and Innova</strong> models. All vehicles are GPS-enabled and maintained for comfort and safety. We provide transparent pricing with no hidden fees.
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
         </p>
+
         <p class="mb-4">
-            Kochi, known for its stunning coastline, cultural landmarks, and vibrant city life, is an ideal destination for leisure and business. Our round-trip packages encourage exploration at your own pace.
+            We also provide <strong>Tiruppur Railway Station taxi pickups</strong> for passengers traveling to Kochi.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>.
         </p>
+
         <p class="mb-4">
-            Book your <strong>Tiruppur to Kochi taxi</strong> easily online or call <strong>+91 88256 94157</strong>. Our dedicated support team is available 24/7 to assist with bookings, fare estimates, and travel tips.
+            Apart from Kochi, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Arani, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet,
+            Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, Vellore, and Virudhunagar.
         </p>
+
+        <p class="mb-4">
+            Booking your <strong>Tiruppur to Kochi taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
         <p>
-            Choose Fastpikcab for a <strong>safe, reliable, and comfortable Tiruppur-Kochi ride</strong>.
+            Choose Fastpikcab for your <strong>Tiruppur to Kochi cab service</strong> and enjoy a safe, reliable, and comfortable journey.
         </p>
     </div>
 </section>
+
+
 <section class="mb-12 px-4 md:px-12">
     <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Tiruppur to Kochi Route Details</h2>
     <div class="bg-white rounded-xl shadow-md p-8">
@@ -251,7 +275,7 @@
                         </ul>
                     </td>
                 </tr>
-                
+
             </tbody>
         </table>
         <div class="p-4 bg-gray-50 text-center">

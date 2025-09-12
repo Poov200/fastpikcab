@@ -166,42 +166,58 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Trichy to Ariyalur Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Trichy to Ariyalur
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Looking for a quick and comfortable ride from <strong>Trichy</strong> to <strong>Ariyalur</strong>? Fastpikcab provides safe,
-                clean, and affordable cabs for one-way trips, round journeys, and outstation travel. Our professional drivers are available <strong>24/7</strong> to ensure you reach your destination in Ariyalur comfortably and on time.
-            </p>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Trichy to Ariyalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Trichy to Ariyalur Cabs & Airport Transfers Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Trichy to Ariyalur</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, airport transfers, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
 
-            <p class="mb-4">
-                The distance from Trichy to Ariyalur is approximately <strong>65-75 km</strong>. The journey by road takes about
-                <strong>1.5 to 2 hours</strong>, depending on traffic and your specific destination. The most common route is via the well-maintained NH38 and NH81, a scenic road
-                that ensures a smooth and quick journey. Our professional drivers are well-versed with this route, ensuring a stress-free and timely arrival for your travel needs.
-            </p>
+        <p class="mb-4">
+            The distance between Trichy and Ariyalur is approximately <strong>60 km</strong>,
+            which usually takes around <strong>1.5–2 hours</strong> by road. The common route is via <strong>NH38</strong>.
+            Short stops for refreshments or meals can be arranged along the way.
+            We also provide convenient <strong>airport drop-offs and pick-ups</strong> from <strong>Trichy International Airport (TRZ)</strong>.
+        </p>
 
-            <p class="mb-4">
-                Fastpikcab offers multiple taxi options including <strong>Hatchbacks, Sedans, and SUVs</strong>. All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free. We follow <strong>transparent pricing</strong> with no hidden charges, and tolls are typically included in the final quote for one-way services.
-            </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong> for intercity travel and airport transfers.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
 
-            <p class="mb-4">
-                Ariyalur is known for its rich history and monuments, especially the Gangaikondacholapuram temple. Our <strong>round-trip taxi packages</strong> are a cost-effective choice for your visit, allowing you to explore the historical sites and surrounding attractions at your own pace.
-            </p>
+        <p class="mb-4">
+            We also provide <strong>Trichy Railway Station and Airport taxi pickups</strong> for passengers traveling to Ariyalur.
+            Families, business travelers, students, and groups can benefit from our <strong>short and long-distance taxi packages</strong> and <strong>airport transfer services</strong>,
+            making intercity and airport travel convenient and cost-effective.
+        </p>
 
-            <p class="mb-4">
-                Booking your <strong>Trichy to Ariyalur taxi</strong> with Fastpikcab is simple. You can book online via our website or call us at <strong>+91 88256 94157</strong>. Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
-            </p>
+        <p class="mb-4">
+            Apart from Ariyalur, Fastpikcab operates across all major cities, districts, and airports of Tamil Nadu including:
+            Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur, Krishnagiri,
+            Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem,
+            Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruppur,
+            Tiruvannamalai, Udagamandalam (Ooty), Villupuram, Vellore, Virudhunagar, and <strong>Trichy International Airport (TRZ)</strong>.
+        </p>
 
-            <p>
-                Choose Fastpikcab for your <strong>Trichy to Ariyalur cab service</strong> and enjoy a safe, reliable, and comfortable travel experience.
-            </p>
-        </div>
-    </section>
+        <p class="mb-4">
+            Booking your <strong>Trichy to Ariyalur taxi or airport transfer</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Trichy to Ariyalur cab service and airport transfers</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Trichy to Ariyalur Route Details</h2>
@@ -266,7 +282,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">Starts from ₹2,200</td>

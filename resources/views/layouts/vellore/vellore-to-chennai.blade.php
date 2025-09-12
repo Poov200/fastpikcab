@@ -168,6 +168,63 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Vellore to Chennai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Vellore to Chennai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Vellore to Chennai</strong>? Fastpikcab provides affordable,
+            safe, and well-maintained cabs for one-way, round trip, and urgent travel needs.
+            Our professional drivers are available <strong>24/7</strong> to ensure you travel comfortably and on time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Vellore and Chennai is approximately <strong>140 km</strong>,
+            which typically takes around <strong>3–3.5 hours</strong> by road.
+            The most common travel route is via <strong>NH48</strong>, passing through
+            <strong>Walajapet, Kanchipuram, and Sriperumbudur</strong>.
+            Short breaks for meals or refreshments can also be arranged during your trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and equipped with GPS to make your ride smooth and stress-free.
+            We provide <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Vellore Railway Station taxi pickups</strong> for travelers heading towards Chennai.
+            Families, business travelers, students, and groups can all benefit from our
+            <strong>long-distance taxi packages</strong> designed for intercity travel.
+        </p>
+
+        <p class="mb-4">
+            Apart from Chennai, Fastpikcab operates taxi services across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Vellore to Chennai taxi</strong> with Fastpikcab is quick and easy.
+            You can book online through our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is always ready to assist you with bookings, fares, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Vellore to Chennai cab service</strong> and
+            experience a reliable, safe, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Vellore to Chennai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -168,6 +168,62 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Vellore to Cuddalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Vellore to Cuddalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a trusted taxi from <strong>Vellore to Cuddalore</strong>? Fastpikcab offers safe,
+            clean, and affordable cabs for one-way trips, round journeys, and outstation travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure you travel comfortably and reach on time.
+        </p>
+
+        <p class="mb-4">
+            The distance between Vellore and Cuddalore is around <strong>185 km</strong>,
+            which usually takes about <strong>4–4.5 hours</strong> by road. The most preferred route is via
+            <strong>NH38 and NH45</strong>, passing through <strong>Arcot, Villupuram, and Panruti</strong>.
+            Short breaks for food, tea, or sightseeing can also be arranged as per your needs.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple cab choices including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All our taxis are air-conditioned, spacious, and GPS-enabled to give you a smooth and hassle-free ride.
+            We follow <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also offer <strong>Vellore Railway Station taxi pickups</strong> for passengers heading towards Cuddalore.
+            Whether you are a family, a business traveler, a student, or a group,
+            our <strong>long-distance taxi packages</strong> make intercity travel cost-effective and comfortable.
+        </p>
+
+        <p class="mb-4">
+            Apart from Cuddalore, Fastpikcab operates taxis across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Vellore to Cuddalore taxi</strong> with Fastpikcab is quick and easy.
+            You can book online through our website or call us directly at <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team will assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Vellore to Cuddalore cab service</strong> and experience
+            a reliable, safe, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Vellore to Cuddalore Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

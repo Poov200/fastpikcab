@@ -166,49 +166,58 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Vellore to Kerala Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Vellore to Kerala
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Planning a trip from <strong>Vellore</strong> to <strong>Kerala</strong>? Fastpikcab provides safe, clean, and affordable
-                cabs for one-way trips, round journeys, and outstation travel. Our drivers are available <strong>24/7</strong> to
-                ensure you reach your destination in Kerala comfortably and on time.
-            </p>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Vellore to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Vellore to Kerala Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Vellore to Kerala</strong>? Fastpikcab provides safe, comfortable, and reliable cabs for one-way trips, round journeys, and urgent travel.
+            Our professional drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
 
-            <p class="mb-4">
-                The distance from Vellore to a major city in Kerala like Kochi is approximately <strong>550-600 km</strong>. The journey by road takes about
-                <strong>10 to 12 hours</strong>, depending on the specific destination and traffic. The route typically goes via the NH544, a well-maintained road
-                that ensures a smooth and quick journey. Our professional drivers are well-versed with this route, ensuring a stress-free
-                and timely arrival for your travel needs.
-            </p>
+        <p class="mb-4">
+            The distance between Vellore and Kerala varies depending on the city you are traveling to, ranging from approximately <strong>500 km to 700 km</strong>,
+            which usually takes around <strong>10–12 hours</strong> by road. Common routes pass through <strong>Salem, Coimbatore, and Palakkad</strong>.
+            Short breaks for meals, refreshments, or sightseeing can be arranged along the way.
+        </p>
 
-            <p class="mb-4">
-                Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>. All vehicles are
-                air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free. We follow
-                <strong>transparent pricing</strong> with no hidden charges, and tolls are typically included in the final quote for one-way services.
-            </p>
+        <p class="mb-4">
+            Fastpikcab offers a range of taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled to ensure a stress-free and comfortable ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
 
-            <p class="mb-4">
-                Kerala, famously known as "God's Own Country," offers a wide range of attractions from serene backwaters and lush tea plantations to pristine beaches and a vibrant culture. Our <strong>round-trip taxi packages</strong> are a cost-effective choice for your visit, allowing you to explore the state at your own pace.
-            </p>
+        <p class="mb-4">
+            We also provide <strong>Vellore Railway Station taxi pickups</strong> for passengers traveling to Kerala.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>,
+            making intercity and interstate travel convenient and cost-effective.
+        </p>
 
-            <p class="mb-4">
-                Booking your <strong>Vellore to Kerala taxi</strong> with Fastpikcab is simple. You can book online via our
-                website or call us at <strong>+91 88256 94157</strong>. Our 24/7 customer support team is ready to assist you with bookings,
-                fare details, and travel guidance.
-            </p>
+        <p class="mb-4">
+            Apart from Kerala, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, and Virudhunagar.
+        </p>
 
-            <p>
-                Choose Fastpikcab for your <strong>Vellore to Kerala cab service</strong> and enjoy a safe, reliable, and
-                comfortable travel experience.
-            </p>
-        </div>
-    </section>
+        <p class="mb-4">
+            Booking your <strong>Vellore to Kerala taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Vellore to Kerala cab service</strong> and enjoy a safe, reliable, and comfortable long-distance journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Vellore to Kerala Route Details</h2>
@@ -273,7 +282,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">Starts from ₹7,200</td>

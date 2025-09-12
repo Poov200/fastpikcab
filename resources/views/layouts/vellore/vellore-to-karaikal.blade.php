@@ -166,49 +166,58 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Vellore to Karaikal Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Vellore to Karaikal
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Planning a trip from <strong>Vellore</strong> to <strong>Karaikal</strong>? Fastpikcab provides safe, clean, and affordable
-                cabs for one-way trips, round journeys, and outstation travel. Our drivers are available <strong>24/7</strong> to
-                ensure you reach your destination in Karaikal comfortably and on time.
-            </p>
+ <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Vellore to Karaikal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Vellore to Karaikal Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Vellore to Karaikal</strong>? Fastpikcab provides safe, comfortable, and affordable cabs for one-way trips, round journeys, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
 
-            <p class="mb-4">
-                The distance from Vellore to Karaikal is approximately <strong>270-290 km</strong>. The journey by road takes about
-                <strong>5 to 6 hours</strong>, depending on traffic. The route typically goes via the NH38, a well-maintained road
-                that ensures a smooth and quick journey. Our professional drivers are well-versed with this route, ensuring a stress-free
-                and timely arrival for your travel needs.
-            </p>
+        <p class="mb-4">
+            The distance between Vellore and Karaikal is approximately <strong>300 km</strong>,
+            which usually takes around <strong>6.5–7.5 hours</strong> by road. The common route is via <strong>NH332 and NH36</strong>,
+            passing through <strong>Viluppuram and Nagapattinam</strong>. Short breaks for refreshments or meals can be arranged during the journey.
+        </p>
 
-            <p class="mb-4">
-                Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>. All vehicles are
-                air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free. We follow
-                <strong>transparent pricing</strong> with no hidden charges, and tolls are typically included in the final quote for one-way services.
-            </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled to provide a comfortable and stress-free ride.
+            We follow <strong>transparent pricing</strong> with no hidden charges.
+        </p>
 
-            <p class="mb-4">
-                Karaikal, a former French colony, is known for its serene beaches, historical temples, and vibrant cultural heritage. Our <strong>round-trip taxi packages</strong> are a cost-effective choice for your visit, allowing you to explore the sites at your own pace.
-            </p>
+        <p class="mb-4">
+            We also provide <strong>Vellore Railway Station taxi pickups</strong> for passengers traveling to Karaikal.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>,
+            making intercity travel convenient and cost-effective.
+        </p>
 
-            <p class="mb-4">
-                Booking your <strong>Vellore to Karaikal taxi</strong> with Fastpikcab is simple. You can book online via our
-                website or call us at <strong>+91 88256 94157</strong>. Our 24/7 customer support team is ready to assist you with bookings,
-                fare details, and travel guidance.
-            </p>
+        <p class="mb-4">
+            Apart from Karaikal, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, and Virudhunagar.
+        </p>
 
-            <p>
-                Choose Fastpikcab for your <strong>Vellore to Karaikal cab service</strong> and enjoy a safe, reliable, and
-                comfortable travel experience.
-            </p>
-        </div>
-    </section>
+        <p class="mb-4">
+            Booking your <strong>Vellore to Karaikal taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Vellore to Karaikal cab service</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Vellore to Karaikal Route Details</h2>
@@ -269,8 +278,8 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    
-                   
+
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">SUV</td>
                         <td class="px-6 py-4 text-center">Starts from ₹6,500</td>

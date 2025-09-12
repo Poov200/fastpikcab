@@ -166,42 +166,59 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Trichy to Karaikal Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Cabs Online from Trichy to Karaikal
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Looking for a quick and comfortable ride from <strong>Trichy</strong> to <strong>Karaikal</strong>? Fastpikcab provides safe,
-                clean, and affordable cabs for one-way trips, round journeys, and outstation travel. Our professional drivers are available <strong>24/7</strong> to ensure you reach your destination in Karaikal comfortably and on time.
-            </p>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Trichy to Karaikal Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Trichy to Karaikal Cabs & Airport Transfers Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Trichy to Karaikal</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, airport transfers, and urgent travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
+        </p>
 
-            <p class="mb-4">
-                The distance from Trichy to Karaikal is approximately <strong>155 km</strong>. The journey by road takes about
-                <strong>3 to 4 hours</strong>, depending on traffic and your specific destination. The most common route is via the well-maintained NH83 and NH32, a scenic road
-                that ensures a smooth and quick journey. Our professional drivers are well-versed with this route, ensuring a stress-free and timely arrival for your travel needs.
-            </p>
+        <p class="mb-4">
+            The distance between Trichy and Karaikal is approximately <strong>140 km</strong>,
+            which usually takes around <strong>3–3.5 hours</strong> by road. The common route is via <strong>NH32 and SH49</strong>,
+            passing through <strong>Sirkazhi and Nagapattinam</strong>. Short stops for refreshments, meals, or sightseeing can be arranged along the way.
+            We also offer convenient <strong>airport drop-offs and pick-ups</strong> from <strong>Trichy International Airport (TRZ)</strong> and <strong>Chennai International Airport (MAA)</strong>.
+        </p>
 
-            <p class="mb-4">
-                Fastpikcab offers multiple taxi options including <strong>Hatchbacks, Sedans, and SUVs</strong>. All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free. We follow <strong>transparent pricing</strong> with no hidden charges, and tolls are typically included in the final quote for one-way services.
-            </p>
+        <p class="mb-4">
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong> for intercity travel and airport transfers.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
+            We maintain <strong>transparent pricing</strong> with no hidden charges.
+        </p>
 
-            <p class="mb-4">
-                Karaikal is known for its religious sites and beautiful beach. Our <strong>round-trip taxi packages</strong> are a cost-effective choice for your visit, allowing you to explore the religious sites and surrounding attractions at your own pace.
-            </p>
+        <p class="mb-4">
+            We also provide <strong>Trichy Railway Station and Airport taxi pickups</strong> for passengers traveling to Karaikal.
+            Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong> and <strong>airport transfer services</strong>,
+            making intercity and airport travel convenient and cost-effective.
+        </p>
 
-            <p class="mb-4">
-                Booking your <strong>Trichy to Karaikal taxi</strong> with Fastpikcab is simple. You can book online via our website or call us at <strong>+91 88256 94157</strong>. Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
-            </p>
+        <p class="mb-4">
+            Apart from Karaikal, Fastpikcab operates across all major cities, districts, and airports of Tamil Nadu including:
+            Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur, Krishnagiri,
+            Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Villupuram, Vellore, Virudhunagar, Trichy International Airport (TRZ), and Chennai International Airport (MAA).
+        </p>
 
-            <p>
-                Choose Fastpikcab for your <strong>Trichy to Karaikal cab service</strong> and enjoy a safe, reliable, and comfortable travel experience.
-            </p>
-        </div>
-    </section>
+        <p class="mb-4">
+            Booking your <strong>Trichy to Karaikal taxi or airport transfer</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Trichy to Karaikal cab service and airport transfers</strong> and enjoy a safe, reliable, and comfortable journey.
+        </p>
+    </div>
+</section>
+
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Trichy to Karaikal Route Details</h2>
@@ -266,7 +283,7 @@
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                   
+
                     <tr class="hover:bg-gray-50">
                         <td class="px-6 py-4 font-medium">Sedan</td>
                         <td class="px-6 py-4 text-center">Starts from ₹2,800</td>
