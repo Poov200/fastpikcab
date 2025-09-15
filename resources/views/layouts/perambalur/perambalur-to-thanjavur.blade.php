@@ -166,7 +166,55 @@
             </div>
         </div>
     </section>
+<!-- perambalur-to-thanjavur.blade.php -->
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Thanjavur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Perambalur to Thanjavur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Perambalur to Thanjavur</strong>? Fastpikcab offers safe, comfortable, and reliable taxi services for one-way, round trips, and business or leisure travel.
+            Our professional drivers are available <strong>24/7</strong>.
+        </p>
 
+        <p class="mb-4">
+            The distance between Perambalur and Thanjavur is approximately <strong>100 km</strong>,
+            with a travel time of about <strong>2–2.5 hours</strong>. The preferred route is via <strong>NH36</strong>.
+            Refreshment and rest stops can be arranged on the way.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are air-conditioned, GPS-enabled, and spacious for your comfort.
+            We maintain <strong>transparent and fair pricing</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Perambalur Railway Station pickup taxis</strong> for passengers traveling to Thanjavur.
+            Our services are suitable for families, tourists, students, and business travelers.
+        </p>
+
+        <p class="mb-4">
+            Apart from Thanjavur, Fastpikcab operates across multiple destinations including: Chennai, Coimbatore, Cuddalore,
+            Dharmapuri, Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Namakkal,
+            Puducherry, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thiruvallur, Thiruvannamalai, Thiruvarur,
+            Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty, Kerala,
+            Kochi, Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Thanjavur cab</strong> is quick and easy. Book online via our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 team is always available to assist with your booking and travel needs.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Perambalur to Thanjavur taxi service</strong> and enjoy a safe, reliable, and stress-free ride.
+        </p>
+    </div>
+</section>
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Thanjavur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

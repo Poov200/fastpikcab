@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -47,13 +48,7 @@
             "openingHoursSpecification": {
                 "@type": "OpeningHoursSpecification",
                 "dayOfWeek": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday",
-                    "Sunday"
+                    "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
                 ],
                 "opens": "00:00",
                 "closes": "23:59"
@@ -85,7 +80,8 @@
             "description": "Book affordable and reliable taxis from Perambalur to Chengalpattu. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
-                "itemListElement": [{
+                "itemListElement": [
+                    {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
@@ -105,8 +101,8 @@
                 "offers": {
                     "@type": "AggregateOffer",
                     "priceCurrency": "INR",
-                    "lowPrice": "3500",
-                    "highPrice": "5500",
+                    "lowPrice": "3000",
+                    "highPrice": "5000",
                     "offerCount": "Multiple price points based on vehicle type"
                 }
             }
@@ -118,7 +114,6 @@
     <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik%20Logo.png">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -127,9 +122,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-        }
+        body { font-family: 'Poppins', sans-serif; }
     </style>
 </head>
 
@@ -137,28 +130,124 @@
 
     @include('layouts.bookingpage')
 
-    <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div class="bg-white p-6 rounded-xl shadow-md text-center">
-                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <i class="fas fa-shield-alt text-2xl text-blue-600"></i>
-                </div>
-                <h3 class="text-xl font-semibold mb-2">Safe & Secure</h3>
-                <p class="text-gray-600">All our vehicles are regularly sanitized and equipped with GPS tracking for
-                    your safety.</p>
+<!-- Perambalur to Chengalpattu -->
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Chengalpattu Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Perambalur to Chengalpattu Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Perambalur to Chengalpattu</strong>? Fastpikcab provides safe, comfortable, and affordable cabs for one-way, round trips, and business or family travel.
+            Our professional drivers are available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Perambalur and Chengalpattu is around <strong>250 km</strong>,
+            with a travel time of approximately <strong>5–6 hours</strong> via <strong>NH32</strong>.
+        </p>
+
+        <p class="mb-4">
+            We offer multiple vehicle options including <strong>Sedans, SUVs, and Premium Cars</strong> with AC, GPS, and spacious seating.
+            Enjoy <strong>transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>railway station pickup taxis in Perambalur</strong> for travelers heading towards Chengalpattu.
+            Ideal for tourists, families, and corporate travelers.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Chengalpattu cab</strong> is simple.
+            Call us at <strong>+91 88256 94157</strong> or book directly on our website.
+            Our support team is available round-the-clock.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Perambalur to Chengalpattu taxi service</strong> and enjoy a hassle-free journey.
+        </p>
+    </div>
+</section>
+
+<section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Chengalpattu Route Details</h2>
+    <div class="bg-white rounded-xl shadow-md p-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+                <h3 class="text-2xl font-semibold mb-4 text-blue-600">Route Overview</h3>
+                <ul class="space-y-4 text-gray-700">
+                    <li class="flex items-start"><i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i><span><strong>Distance:</strong> ~250 km</span></li>
+                    <li class="flex items-start"><i class="fas fa-clock text-blue-600 mt-1 mr-3"></i><span><strong>Travel Time:</strong> 5–6 hours</span></li>
+                    <li class="flex items-start"><i class="fas fa-road text-blue-600 mt-1 mr-3"></i><span><strong>Route:</strong> Via NH32 with smooth highways.</span></li>
+                </ul>
             </div>
-            <div class="bg-white p-6 rounded-xl shadow-md text-center">
-                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <i class="fas fa-clock text-2xl text-blue-600"></i>
+            <div>
+                <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
+                <div class="space-y-3">
+                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                        <span>Trichy</span>
+                        <span class="text-sm text-gray-500">A major city en route with food & rest options.</span>
+                    </div>
+                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                        <span>Villupuram</span>
+                        <span class="text-sm text-gray-500">Convenient mid-point stop for refreshments.</span>
+                    </div>
                 </div>
-                <h3 class="text-xl font-semibold mb-2">On-Time Guarantee</h3>
-                <p class="text-gray-600">We promise punctual service with real-time updates and 24/7 customer support.
-                </p>
             </div>
-            <div class="bg-white p-6 rounded-xl shadow-md text-center">
-                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <i class="fas fa-dollar-sign text-2xl text-blue-600"></i>
-                </div>
-                <h3 class="text-xl font-semibold mb-2">Transparent Pricing</h3>
-                <p class="
+        </div>
+    </div>
+</section>
+
+<section class="mb-12 px-4 md:px-12">
+    <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Chengalpattu Fare Structure</h2>
+    <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+        <table class="w-full table-auto">
+            <thead class="bg-blue-600 text-white">
+                <tr>
+                    <th class="px-6 py-4 text-left">Vehicle Type</th>
+                    <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                    <th class="px-6 py-4 text-center">Features</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">Sedan</td>
+                    <td class="px-6 py-4 text-center">₹3,000 - ₹4,000</td>
+                    <td class="px-6 py-4 text-center">₹6,000 - ₹8,000</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>AC & GPS enabled</li>
+                            <li>Up to 4 passengers</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4 font-medium">SUV</td>
+                    <td class="px-6 py-4 text-center">₹4,000 - ₹5,000</td>
+                    <td class="px-6 py-4 text-center">₹8,000 - ₹10,000</td>
+                    <td class="px-6 py-4">
+                        <ul class="list-disc list-inside text-sm text-gray-600">
+                            <li>Spacious & comfortable</li>
+                            <li>Seats up to 6 passengers</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="p-4 bg-gray-50 text-center">
+            <p class="text-sm text-gray-600">*Fares are approximate and may vary based on tolls, stops, and availability.</p>
+        </div>
+    </div>
+</section>
+
+@include('layouts.routes')
+@include('layouts.footer')
+
+<script src="{{ asset('js/app.js') }}"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap" async defer></script>
+
+</body>
+</html>

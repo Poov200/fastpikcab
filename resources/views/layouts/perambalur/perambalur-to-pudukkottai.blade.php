@@ -166,6 +166,58 @@
             </div>
         </div>
     </section>
+<!-- Perambalur to Pudukkottai -->
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Pudukkottai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Perambalur to Pudukkottai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Fastpikcab provides safe and reliable <strong>Perambalur to Pudukkottai taxi services</strong>
+            for one-way, round trips, and daily commutes. Our professional drivers ensure a comfortable
+            and timely journey for families, tourists, and business travelers.
+        </p>
+
+        <p class="mb-4">
+            The distance between Perambalur and Pudukkottai is around <strong>80 km</strong> and the travel
+            time is approximately <strong>1.5–2 hours</strong> via <strong>NH36</strong>. Our cabs are available
+            24/7 with flexible booking options.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, and Premium Cars</strong> at the best prices.
+            All our vehicles are <strong>AC-enabled, GPS-tracked</strong>, and regularly sanitized for safety.
+            Transparent billing with <strong>no hidden charges</strong>.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Perambalur railway station pickups</strong> for passengers
+            traveling to Pudukkottai. Students, business professionals, and families
+            can enjoy seamless transfers.
+        </p>
+
+        <p class="mb-4">
+            Our network also covers Chennai, Coimbatore, Madurai, Trichy, Thanjavur, Salem, Erode,
+            Tirunelveli, Nagercoil, Karaikal, Mayiladuthurai, Nagapattinam, Namakkal, Puducherry,
+            Ranipet, Sivakasi, Tenkasi, Thiruvannamalai, Thiruvarur, Thoothukudi, Tirupati,
+            Tiruppur, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala, Kochi,
+            Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Pudukkottai cab</strong> is simple.
+            Call us at <strong>+91 88256 94157</strong> or book online via our website.
+            Our support team is available round the clock.
+        </p>
+
+        <p>
+            Travel stress-free with Fastpikcab – your trusted choice for <strong>Perambalur to Pudukkottai taxi services</strong>.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Pudukkottai Route Details</h2>

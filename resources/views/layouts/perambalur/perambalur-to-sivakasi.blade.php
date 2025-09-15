@@ -166,7 +166,54 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Sivakasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Perambalur to Sivakasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Perambalur to Sivakasi</strong>? Fastpikcab offers safe, comfortable, and reliable cab services for one-way, round trips, and business or leisure travel.
+            Our drivers are available <strong>24/7</strong> to ensure a smooth ride.
+        </p>
 
+        <p class="mb-4">
+            The distance between Perambalur and Sivakasi is around <strong>300 km</strong>,
+            with a travel time of about <strong>6–7 hours</strong>. The preferred route is via <strong>NH38</strong>.
+            We can arrange refreshment and rest stops for your convenience.
+        </p>
+
+        <p class="mb-4">
+            Our fleet includes <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are equipped with air-conditioning, GPS, and spacious interiors for a pleasant ride.
+            We follow <strong>clear and transparent pricing</strong> policies without hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Perambalur Railway Station pickup taxis</strong> for passengers heading towards Sivakasi.
+            Families, business travelers, and tourists will find our services highly reliable.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also serves in other destinations like: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul,
+            Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Namakkal, Puducherry,
+            Pudukkottai, Ranipet, Salem, Tenkasi, Thanjavur, Thiruvallur, Thiruvannamalai, Thiruvarur,
+            Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty,
+            Kerala, Kochi, Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Sivakasi cab</strong> is simple. You can book online via our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 team is ready to assist you with bookings and travel support.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Perambalur to Sivakasi taxi service</strong> and experience a safe, affordable, and comfortable journey.
+        </p>
+    </div>
+</section>
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Sivakasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
