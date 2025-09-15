@@ -166,6 +166,53 @@
             </div>
         </div>
     </section>
+<!-- Perambalur to Ranipet -->
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Ranipet Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Affordable and Reliable Perambalur to Ranipet Cabs
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a cab from <strong>Perambalur to Ranipet</strong>? Fastpikcab offers affordable taxi services
+            with professional drivers and comfortable vehicles. We provide one-way trips, round trips, and
+            business travel cabs with <strong>24/7 availability</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Perambalur and Ranipet is about <strong>210 km</strong>, and the travel time
+            is approximately <strong>4.5–5 hours</strong> via <strong>NH38 and NH32</strong>. Our drivers ensure
+            timely pickups and smooth travel.
+        </p>
+
+        <p class="mb-4">
+            Choose from a fleet of <strong>Sedans, SUVs, and Premium Cars</strong>. All taxis are
+            air-conditioned, GPS-tracked, and sanitized for your safety. Our pricing is <strong>clear and transparent</strong>.
+        </p>
+
+        <p class="mb-4">
+            We also offer <strong>Perambalur to Ranipet railway station pickups</strong> for tourists, students,
+            and business travelers. Hassle-free booking and on-time service guaranteed.
+        </p>
+
+        <p class="mb-4">
+            Our cab services also cover other destinations like Chennai, Coimbatore, Salem, Madurai, Trichy, Thanjavur,
+            Nagercoil, Erode, Puducherry, Namakkal, Sivakasi, Tenkasi, Thiruvannamalai, Thiruvarur, Thoothukudi, Tirupati,
+            Tiruppur, Tirunelveli, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala, Kochi, Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Ranipet taxi</strong> is quick and easy. Call <strong>+91 88256 94157</strong>
+            or book online. Our 24/7 customer support ensures a smooth experience.
+        </p>
+
+        <p>
+            Enjoy a stress-free journey with Fastpikcab – the trusted choice for <strong>Perambalur to Ranipet taxi service</strong>.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Ranipet Route Details</h2>

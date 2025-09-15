@@ -166,7 +166,54 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Tenkasi Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Perambalur to Tenkasi Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Planning a trip from <strong>Perambalur to Tenkasi</strong>? Fastpikcab provides safe, comfortable, and reliable taxi services for one-way, round trips, or business and leisure purposes.
+            Our drivers are available <strong>24/7</strong>.
+        </p>
 
+        <p class="mb-4">
+            The distance between Perambalur and Tenkasi is around <strong>360 km</strong>,
+            with an approximate travel time of <strong>7–8 hours</strong>. The preferred route is via <strong>NH44 and NH744</strong>.
+            We arrange refreshment and rest stops to make your trip convenient.
+        </p>
+
+        <p class="mb-4">
+            You can choose from <strong>Sedans, SUVs, and Premium Cars</strong> as per your comfort.
+            All our taxis are well-maintained, air-conditioned, GPS-enabled, and spacious for a hassle-free ride.
+            We ensure <strong>clear and transparent pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Perambalur Railway Station pickup taxis</strong> for passengers heading towards Tenkasi.
+            Our services cater to families, tourists, students, and business travelers alike.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab operates across multiple destinations like Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul,
+            Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Namakkal, Puducherry, Pudukkottai,
+            Ranipet, Salem, Sivakasi, Thanjavur, Thiruvallur, Thiruvannamalai, Thiruvarur, Thoothukudi,
+            Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty, Kerala, Kochi,
+            Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Tenkasi cab</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is always ready to assist with bookings and guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Perambalur to Tenkasi taxi service</strong> and enjoy a reliable, affordable, and comfortable ride.
+        </p>
+    </div>
+</section>
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Tenkasi Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
