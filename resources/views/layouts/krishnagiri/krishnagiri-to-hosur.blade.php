@@ -10,7 +10,7 @@
         content="Book a reliable Krishnagiri to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Krishnagiri to Hosur taxi, Krishnagiri to Hosur one way taxi, Krishnagiri to Hosur outstation cabs, Krishnagiri to Hosur taxi fare, Krishnagiri to Hosur cab fare, Krishnagiri to Hosur round trip taxi, Krishnagiri to Hosur car rental, Krishnagiri to Hosur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Krishnagiri to Hosur taxi, Krishnagiri to Hosur one way taxi, Krishnagiri to Hosur outstation cabs, Krishnagiri to Hosur taxi fare, Krishnagiri to Hosur cab fare, Krishnagiri to Hosur round trip taxi, Krishnagiri to Hosur car rental, Krishnagiri to Hosur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Krishnagiri to Hosur Taxi Service">
     <meta property="og:description"

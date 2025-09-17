@@ -10,7 +10,7 @@
         content="Book a reliable Vellore to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Vellore to Thanjavur taxi, Vellore to Thanjavur one way taxi, Vellore to Thanjavur outstation cabs, Vellore to Thanjavur taxi fare, Vellore to Thanjavur cab fare, Vellore to Thanjavur round trip taxi, Vellore to Thanjavur car rental, Vellore to Thanjavur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Vellore to Thanjavur taxi, Vellore to Thanjavur one way taxi, Vellore to Thanjavur outstation cabs, Vellore to Thanjavur taxi fare, Vellore to Thanjavur cab fare, Vellore to Thanjavur round trip taxi, Vellore to Thanjavur car rental, Vellore to Thanjavur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Vellore to Thanjavur Taxi Service">
     <meta property="og:description"

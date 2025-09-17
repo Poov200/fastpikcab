@@ -10,7 +10,7 @@
         content="Book a reliable Namakkal to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Namakkal to Krishnagiri taxi, Namakkal to Krishnagiri one way taxi, Namakkal to Krishnagiri outstation cabs, Namakkal to Krishnagiri taxi fare, Namakkal to Krishnagiri cab fare, Namakkal to Krishnagiri round trip taxi, Namakkal to Krishnagiri car rental, Namakkal to Krishnagiri cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Namakkal to Krishnagiri taxi, Namakkal to Krishnagiri one way taxi, Namakkal to Krishnagiri outstation cabs, Namakkal to Krishnagiri taxi fare, Namakkal to Krishnagiri cab fare, Namakkal to Krishnagiri round trip taxi, Namakkal to Krishnagiri car rental, Namakkal to Krishnagiri cab booking">
 
     <meta property="og:title" content="Fastpikcab - Namakkal to Krishnagiri Taxi Service">
     <meta property="og:description"

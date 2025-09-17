@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Virudhunagar to Mayiladuthurai taxi, Virudhunagar to Mayiladuthurai one way taxi, Virudhunagar to Mayiladuthurai outstation cabs, Virudhunagar to Mayiladuthurai taxi fare, Virudhunagar to Mayiladuthurai cab fare, Virudhunagar to Mayiladuthurai round trip taxi, Virudhunagar to Mayiladuthurai car rental, Virudhunagar to Mayiladuthurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Virudhunagar to Mayiladuthurai taxi, Virudhunagar to Mayiladuthurai one way taxi, Virudhunagar to Mayiladuthurai outstation cabs, Virudhunagar to Mayiladuthurai taxi fare, Virudhunagar to Mayiladuthurai cab fare, Virudhunagar to Mayiladuthurai round trip taxi, Virudhunagar to Mayiladuthurai car rental, Virudhunagar to Mayiladuthurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Mayiladuthurai Taxi Service">
     <meta property="og:description"

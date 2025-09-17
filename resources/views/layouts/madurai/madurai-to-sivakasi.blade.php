@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Madurai to Sivakasi taxi, Madurai to Sivakasi one way taxi, Madurai to Sivakasi outstation cabs, Madurai to Sivakasi taxi fare, Madurai to Sivakasi cab fare, Madurai to Sivakasi round trip taxi, Madurai to Sivakasi car rental, Madurai to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Sivakasi taxi, Madurai to Sivakasi one way taxi, Madurai to Sivakasi outstation cabs, Madurai to Sivakasi taxi fare, Madurai to Sivakasi cab fare, Madurai to Sivakasi round trip taxi, Madurai to Sivakasi car rental, Madurai to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Madurai to Sivakasi Taxi Service">
     <meta property="og:description"

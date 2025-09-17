@@ -10,7 +10,7 @@
         content="Book a reliable Chengalpattu to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. ">
 
     <meta name="keywords"
-        content="Chengalpattu to Bangalore taxi, Chengalpattu to Bangalore one way taxi, Chengalpattu to Bangalore cab, Chengalpattu to Bangalore taxi fare, Chengalpattu to Bangalore cab fare, Chengalpattu to Bangalore car rental, Chengalpattu to Bangalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Chengalpattu to Bangalore taxi, Chengalpattu to Bangalore one way taxi, Chengalpattu to Bangalore cab, Chengalpattu to Bangalore taxi fare, Chengalpattu to Bangalore cab fare, Chengalpattu to Bangalore car rental, Chengalpattu to Bangalore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Chengalpattu to Bangalore Taxi Service">
     <meta property="og:description"

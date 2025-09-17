@@ -10,7 +10,7 @@
         content="Book a reliable taxi service within Sivakasi with Fastpik Cab. Get affordable fares for local travel, airport transfers, and one-way trips. ">
 
     <meta name="keywords"
-        content="Sivakasi taxi, Sivakasi city taxi, Sivakasi local taxi, Sivakasi cab, Sivakasi taxi fare, Sivakasi cab fare, Sivakasi car rental, Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Sivakasi taxi, Sivakasi city taxi, Sivakasi local taxi, Sivakasi cab, Sivakasi taxi fare, Sivakasi cab fare, Sivakasi car rental, Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Sivakasi City Taxi Service">
     <meta property="og:description"

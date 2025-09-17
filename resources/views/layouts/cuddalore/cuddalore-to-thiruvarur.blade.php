@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Cuddalore to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey.">
     <meta name="keywords"
-        content="Cuddalore to Thiruvarur taxi, Cuddalore to Thiruvarur one way taxi, Cuddalore to Thiruvarur outstation cabs, Cuddalore to Thiruvarur taxi fare, Cuddalore to Thiruvarur cab fare, Cuddalore to Thiruvarur round trip taxi, Cuddalore to Thiruvarur car rental, Cuddalore to Thiruvarur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Cuddalore to Thiruvarur taxi, Cuddalore to Thiruvarur one way taxi, Cuddalore to Thiruvarur outstation cabs, Cuddalore to Thiruvarur taxi fare, Cuddalore to Thiruvarur cab fare, Cuddalore to Thiruvarur round trip taxi, Cuddalore to Thiruvarur car rental, Cuddalore to Thiruvarur cab booking">
     <meta property="og:title" content="Fastpikcab - Cuddalore to Thiruvarur Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Cuddalore to Thiruvarur. Book online for one-way, round-trip, or outstation travel.">

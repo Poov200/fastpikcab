@@ -10,7 +10,7 @@
         content="Book a reliable Ranipet to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ranipet to Karur taxi, Ranipet to Karur one way taxi, Ranipet to Karur outstation cabs, Ranipet to Karur taxi fare, Ranipet to Karur cab fare, Ranipet to Karur round trip taxi, Ranipet to Karur car rental, Ranipet to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Karur taxi, Ranipet to Karur one way taxi, Ranipet to Karur outstation cabs, Ranipet to Karur taxi fare, Ranipet to Karur cab fare, Ranipet to Karur round trip taxi, Ranipet to Karur car rental, Ranipet to Karur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ranipet to Karur Taxi Service">
     <meta property="og:description"

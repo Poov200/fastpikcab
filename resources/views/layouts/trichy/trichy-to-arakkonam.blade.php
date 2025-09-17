@@ -10,7 +10,7 @@
         content="Book a reliable Trichy to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Trichy to Arakkonam taxi, Trichy to Arakkonam one way taxi, Trichy to Arakkonam outstation cabs, Trichy to Arakkonam taxi fare, Trichy to Arakkonam cab fare, Trichy to Arakkonam round trip taxi, Trichy to Arakkonam car rental, Trichy to Arakkonam cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Arakkonam taxi, Trichy to Arakkonam one way taxi, Trichy to Arakkonam outstation cabs, Trichy to Arakkonam taxi fare, Trichy to Arakkonam cab fare, Trichy to Arakkonam round trip taxi, Trichy to Arakkonam car rental, Trichy to Arakkonam cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Trichy to Arakkonam Taxi Service">
     <meta property="og:description"

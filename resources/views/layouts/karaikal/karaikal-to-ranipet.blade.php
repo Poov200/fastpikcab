@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karaikal to Ranipet taxi, Karaikal to Ranipet one way taxi, Karaikal to Ranipet outstation cabs, Karaikal to Ranipet taxi fare, Karaikal to Ranipet cab fare, Karaikal to Ranipet round trip taxi, Karaikal to Ranipet car rental, Karaikal to Ranipet cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Ranipet taxi, Karaikal to Ranipet one way taxi, Karaikal to Ranipet outstation cabs, Karaikal to Ranipet taxi fare, Karaikal to Ranipet cab fare, Karaikal to Ranipet round trip taxi, Karaikal to Ranipet car rental, Karaikal to Ranipet cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Ranipet Taxi Service">
     <meta property="og:description"

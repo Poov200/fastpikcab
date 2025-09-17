@@ -10,7 +10,7 @@
         content="Book a reliable Arani to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Arani to Thiruvarur taxi, Arani to Thiruvarur one way taxi, Arani to Thiruvarur outstation cabs, Arani to Thiruvarur taxi fare, Arani to Thiruvarur cab fare, Arani to Thiruvarur round trip taxi, Arani to Thiruvarur car rental, Arani to Thiruvarur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Arani to Thiruvarur taxi, Arani to Thiruvarur one way taxi, Arani to Thiruvarur outstation cabs, Arani to Thiruvarur taxi fare, Arani to Thiruvarur cab fare, Arani to Thiruvarur round trip taxi, Arani to Thiruvarur car rental, Arani to Thiruvarur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Arani to Thiruvarur Taxi Service">
     <meta property="og:description"

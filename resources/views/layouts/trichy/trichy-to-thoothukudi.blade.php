@@ -10,7 +10,7 @@
         content="Book a reliable Trichy to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Trichy to Thoothukudi taxi, Trichy to Thoothukudi one way taxi, Trichy to Thoothukudi outstation cabs, Trichy to Thoothukudi taxi fare, Trichy to Thoothukudi cab fare, Trichy to Thoothukudi round trip taxi, Trichy to Thoothukudi car rental, Trichy to Thoothukudi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Thoothukudi taxi, Trichy to Thoothukudi one way taxi, Trichy to Thoothukudi outstation cabs, Trichy to Thoothukudi taxi fare, Trichy to Thoothukudi cab fare, Trichy to Thoothukudi round trip taxi, Trichy to Thoothukudi car rental, Trichy to Thoothukudi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Trichy to Thoothukudi Taxi Service">
     <meta property="og:description"

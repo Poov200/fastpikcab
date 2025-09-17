@@ -10,7 +10,7 @@
         content="Book a reliable Chennai to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
 
     <meta name="keywords"
-        content="Chennai to Namakkal taxi, Chennai Airport to Namakkal taxi, Chennai to Namakkal one way taxi, Chennai to Namakkal outstation cabs, Chennai to Namakkal taxi fare, Chennai to Namakkal cab fare, Chennai Airport to Namakkal airport taxi, Chennai to Namakkal round trip taxi, Chennai to Namakkal round trip taxi fare, Chennai to Namakkal car rental, Chennai to Namakkal cab booking, Chennai to Namakkal taxi service">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Chennai to Namakkal taxi, Chennai Airport to Namakkal taxi, Chennai to Namakkal one way taxi, Chennai to Namakkal outstation cabs, Chennai to Namakkal taxi fare, Chennai to Namakkal cab fare, Chennai Airport to Namakkal airport taxi, Chennai to Namakkal round trip taxi, Chennai to Namakkal round trip taxi fare, Chennai to Namakkal car rental, Chennai to Namakkal cab booking, Chennai to Namakkal taxi service">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Namakkal Taxi Service">
     <meta property="og:description"

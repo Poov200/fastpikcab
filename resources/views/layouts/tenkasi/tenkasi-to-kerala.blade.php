@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Tenkasi to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to Thiruvananthapuram, Kochi, Kozhikode and more.">
     <meta name="keywords"
-        content="Tenkasi to Kerala taxi, Tenkasi to Kerala one way taxi, Tenkasi to Kerala outstation cabs, Tenkasi to Kerala taxi fare, Tenkasi to Kerala cab fare, Tenkasi to Kerala round trip taxi, Tenkasi to Kerala car rental, Tenkasi to Kerala cab booking, Tenkasi to Thiruvananthapuram taxi, Tenkasi to Kochi taxi">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tenkasi to Kerala taxi, Tenkasi to Kerala one way taxi, Tenkasi to Kerala outstation cabs, Tenkasi to Kerala taxi fare, Tenkasi to Kerala cab fare, Tenkasi to Kerala round trip taxi, Tenkasi to Kerala car rental, Tenkasi to Kerala cab booking, Tenkasi to Thiruvananthapuram taxi, Tenkasi to Kochi taxi">
     <meta property="og:title" content="Fastpikcab - Tenkasi to Kerala Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Tenkasi to Kerala. Book online for one-way, round-trip, or outstation travel to all major Kerala destinations.">

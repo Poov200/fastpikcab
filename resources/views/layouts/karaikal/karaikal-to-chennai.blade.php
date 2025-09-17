@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karaikal to Chennai taxi, Karaikal to Chennai one way taxi, Karaikal to Chennai outstation cabs, Karaikal to Chennai taxi fare, Karaikal to Chennai cab fare, Karaikal to Chennai round trip taxi, Karaikal to Chennai car rental, Karaikal to Chennai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Chennai taxi, Karaikal to Chennai one way taxi, Karaikal to Chennai outstation cabs, Karaikal to Chennai taxi fare, Karaikal to Chennai cab fare, Karaikal to Chennai round trip taxi, Karaikal to Chennai car rental, Karaikal to Chennai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Chennai Taxi Service">
     <meta property="og:description"

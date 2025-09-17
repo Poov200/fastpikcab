@@ -10,7 +10,7 @@
         content="Book a reliable Chengalpattu to Karur taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. ">
 
     <meta name="keywords"
-        content="Chengalpattu to Karur taxi, Chengalpattu to Karur one way taxi, Chengalpattu to Karur cab, Chengalpattu to Karur taxi fare, Chengalpattu to Karur cab fare, Chengalpattu to Karur car rental, Chengalpattu to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Chengalpattu to Karur taxi, Chengalpattu to Karur one way taxi, Chengalpattu to Karur cab, Chengalpattu to Karur taxi fare, Chengalpattu to Karur cab fare, Chengalpattu to Karur car rental, Chengalpattu to Karur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Chengalpattu to Karur Taxi Service">
     <meta property="og:description"

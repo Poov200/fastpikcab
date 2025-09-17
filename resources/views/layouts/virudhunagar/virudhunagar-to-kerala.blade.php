@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Kerala taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
-        content="Virudhunagar to Kerala taxi, Virudhunagar to Kerala one way taxi, Virudhunagar to Kerala drop taxi, Virudhunagar to Kerala outstation cabs, Virudhunagar to Kerala taxi fare, Virudhunagar to Kerala cab fare, Virudhunagar to Kerala round trip taxi, Virudhunagar to Kerala car rental, Virudhunagar to Kerala cab booking, taxi from Virudhunagar, cab to Kerala">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Virudhunagar to Kerala taxi, Virudhunagar to Kerala one way taxi, Virudhunagar to Kerala drop taxi, Virudhunagar to Kerala outstation cabs, Virudhunagar to Kerala taxi fare, Virudhunagar to Kerala cab fare, Virudhunagar to Kerala round trip taxi, Virudhunagar to Kerala car rental, Virudhunagar to Kerala cab booking, taxi from Virudhunagar, cab to Kerala">
 
     <meta property="og:title" content="Fastpik Cab - Virudhunagar to Kerala Taxi Service">
     <meta property="og:description"

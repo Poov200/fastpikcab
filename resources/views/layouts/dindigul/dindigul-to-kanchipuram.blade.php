@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Dindigul to Kanchipuram taxi, Dindigul to Kanchipuram one way taxi, Dindigul to Kanchipuram outstation cabs, Dindigul to Kanchipuram taxi fare, Dindigul to Kanchipuram cab fare, Dindigul to Kanchipuram round trip taxi, Dindigul to Kanchipuram car rental, Dindigul to Kanchipuram cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Kanchipuram taxi, Dindigul to Kanchipuram one way taxi, Dindigul to Kanchipuram outstation cabs, Dindigul to Kanchipuram taxi fare, Dindigul to Kanchipuram cab fare, Dindigul to Kanchipuram round trip taxi, Dindigul to Kanchipuram car rental, Dindigul to Kanchipuram cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Kanchipuram Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Ariyalur to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ariyalur to Erode taxi, Ariyalur to Erode one way taxi, Ariyalur to Erode outstation cabs, Ariyalur to Erode taxi fare, Ariyalur to Erode cab fare, Ariyalur to Erode round trip taxi, Ariyalur to Erode car rental, Ariyalur to Erode cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ariyalur to Erode taxi, Ariyalur to Erode one way taxi, Ariyalur to Erode outstation cabs, Ariyalur to Erode taxi fare, Ariyalur to Erode cab fare, Ariyalur to Erode round trip taxi, Ariyalur to Erode car rental, Ariyalur to Erode cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ariyalur to Erode Taxi Service">
     <meta property="og:description"

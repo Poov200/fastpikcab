@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Madurai to Vellore taxi, Madurai to Vellore one way taxi, Madurai to Vellore outstation cabs, Madurai to Vellore taxi fare, Madurai to Vellore cab fare, Madurai to Vellore round trip taxi, Madurai to Vellore car rental, Madurai to Vellore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Vellore taxi, Madurai to Vellore one way taxi, Madurai to Vellore outstation cabs, Madurai to Vellore taxi fare, Madurai to Vellore cab fare, Madurai to Vellore round trip taxi, Madurai to Vellore car rental, Madurai to Vellore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Madurai to Vellore Taxi Service">
     <meta property="og:description"

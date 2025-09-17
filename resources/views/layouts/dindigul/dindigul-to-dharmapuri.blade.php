@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Dindigul to Dharmapuri taxi, Dindigul to Dharmapuri one way taxi, Dindigul to Dharmapuri outstation cabs, Dindigul to Dharmapuri taxi fare, Dindigul to Dharmapuri cab fare, Dindigul to Dharmapuri round trip taxi, Dindigul to Dharmapuri car rental, Dindigul to Dharmapuri cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Dharmapuri taxi, Dindigul to Dharmapuri one way taxi, Dindigul to Dharmapuri outstation cabs, Dindigul to Dharmapuri taxi fare, Dindigul to Dharmapuri cab fare, Dindigul to Dharmapuri round trip taxi, Dindigul to Dharmapuri car rental, Dindigul to Dharmapuri cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Dharmapuri Taxi Service">
     <meta property="og:description"

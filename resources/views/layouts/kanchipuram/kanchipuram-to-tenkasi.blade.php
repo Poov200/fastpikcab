@@ -10,7 +10,7 @@
         content="Book a reliable Kanchipuram to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Kanchipuram to Tenkasi taxi, Kanchipuram to Tenkasi one way taxi, Kanchipuram to Tenkasi outstation cabs, Kanchipuram to Tenkasi taxi fare, Kanchipuram to Tenkasi cab fare, Kanchipuram to Tenkasi round trip taxi, Kanchipuram to Tenkasi car rental, Kanchipuram to Tenkasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Kanchipuram to Tenkasi taxi, Kanchipuram to Tenkasi one way taxi, Kanchipuram to Tenkasi outstation cabs, Kanchipuram to Tenkasi taxi fare, Kanchipuram to Tenkasi cab fare, Kanchipuram to Tenkasi round trip taxi, Kanchipuram to Tenkasi car rental, Kanchipuram to Tenkasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Kanchipuram to Tenkasi Taxi Service">
     <meta property="og:description"

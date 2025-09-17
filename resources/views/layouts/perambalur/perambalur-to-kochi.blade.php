@@ -10,7 +10,7 @@
         content="Book a reliable Perambalur to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Perambalur to Kochi taxi, Perambalur to Kochi one way taxi, Perambalur to Kochi outstation cabs, Perambalur to Kochi taxi fare, Perambalur to Kochi cab fare, Perambalur to Kochi round trip taxi, Perambalur to Kochi car rental, Perambalur to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Perambalur to Kochi taxi, Perambalur to Kochi one way taxi, Perambalur to Kochi outstation cabs, Perambalur to Kochi taxi fare, Perambalur to Kochi cab fare, Perambalur to Kochi round trip taxi, Perambalur to Kochi car rental, Perambalur to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Perambalur to Kochi Taxi Service">
     <meta property="og:description"

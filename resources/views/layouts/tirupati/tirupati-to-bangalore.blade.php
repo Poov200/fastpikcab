@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tirupati to Bangalore taxi, Tirupati to Bangalore one way taxi, Tirupati to Bangalore outstation cabs, Tirupati to Bangalore taxi fare, Tirupati to Bangalore cab fare, Tirupati to Bangalore round trip taxi, Tirupati to Bangalore car rental, Tirupati to Bangalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirupati to Bangalore taxi, Tirupati to Bangalore one way taxi, Tirupati to Bangalore outstation cabs, Tirupati to Bangalore taxi fare, Tirupati to Bangalore cab fare, Tirupati to Bangalore round trip taxi, Tirupati to Bangalore car rental, Tirupati to Bangalore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Bangalore Taxi Service">
     <meta property="og:description"

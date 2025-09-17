@@ -10,7 +10,7 @@
         content="Book a reliable Erode to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Erode to Karur taxi, Erode to Karur one way taxi, Erode to Karur outstation cabs, Erode to Karur taxi fare, Erode to Karur cab fare, Erode to Karur round trip taxi, Erode to Karur car rental, Erode to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Erode to Karur taxi, Erode to Karur one way taxi, Erode to Karur outstation cabs, Erode to Karur taxi fare, Erode to Karur cab fare, Erode to Karur round trip taxi, Erode to Karur car rental, Erode to Karur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Erode to Karur Taxi Service">
     <meta property="og:description"

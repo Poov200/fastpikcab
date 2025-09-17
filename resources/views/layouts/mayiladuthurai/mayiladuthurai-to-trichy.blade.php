@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Tiruchirappalli (Trichy) taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Mayiladuthurai to Tiruchirappalli taxi, Mayiladuthurai to Trichy one way taxi, Mayiladuthurai to Trichy outstation cabs, Mayiladuthurai to Trichy taxi fare, Mayiladuthurai to Trichy cab fare, Mayiladuthurai to Trichy round trip taxi, Mayiladuthurai to Trichy car rental, Mayiladuthurai to Tiruchirappalli cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Mayiladuthurai to Tiruchirappalli taxi, Mayiladuthurai to Trichy one way taxi, Mayiladuthurai to Trichy outstation cabs, Mayiladuthurai to Trichy taxi fare, Mayiladuthurai to Trichy cab fare, Mayiladuthurai to Trichy round trip taxi, Mayiladuthurai to Trichy car rental, Mayiladuthurai to Tiruchirappalli cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Tiruchirappalli Taxi Service">
     <meta property="og:description"

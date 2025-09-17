@@ -10,7 +10,7 @@
         content="Book a reliable Arani to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Arani to Virudhunagar taxi, Arani to Virudhunagar one way taxi, Arani to Virudhunagar outstation cabs, Arani to Virudhunagar taxi fare, Arani to Virudhunagar cab fare, Arani to Virudhunagar round trip taxi, Arani to Virudhunagar car rental, Arani to Virudhunagar cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Arani to Virudhunagar taxi, Arani to Virudhunagar one way taxi, Arani to Virudhunagar outstation cabs, Arani to Virudhunagar taxi fare, Arani to Virudhunagar cab fare, Arani to Virudhunagar round trip taxi, Arani to Virudhunagar car rental, Arani to Virudhunagar cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Arani to Virudhunagar Taxi Service">
     <meta property="og:description"

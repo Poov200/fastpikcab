@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Karaikal to Nagercoil taxi, Karaikal to Nagercoil one way taxi, Karaikal to Nagercoil outstation cabs, Karaikal to Nagercoil taxi fare, Karaikal to Nagercoil cab fare, Karaikal to Nagercoil round trip taxi, Karaikal to Nagercoil car rental, Karaikal to Nagercoil cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Nagercoil taxi, Karaikal to Nagercoil one way taxi, Karaikal to Nagercoil outstation cabs, Karaikal to Nagercoil taxi fare, Karaikal to Nagercoil cab fare, Karaikal to Nagercoil round trip taxi, Karaikal to Nagercoil car rental, Karaikal to Nagercoil cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Nagercoil Taxi Service">
     <meta property="og:description"

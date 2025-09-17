@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Puducherry to Sivakasi taxi, Puducherry to Sivakasi one way taxi, Puducherry to Sivakasi outstation cabs, Puducherry to Sivakasi taxi fare, Puducherry to Sivakasi cab fare, Puducherry to Sivakasi round trip taxi, Puducherry to Sivakasi car rental, Puducherry to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Sivakasi taxi, Puducherry to Sivakasi one way taxi, Puducherry to Sivakasi outstation cabs, Puducherry to Sivakasi taxi fare, Puducherry to Sivakasi cab fare, Puducherry to Sivakasi round trip taxi, Puducherry to Sivakasi car rental, Puducherry to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Sivakasi Taxi Service">
     <meta property="og:description"

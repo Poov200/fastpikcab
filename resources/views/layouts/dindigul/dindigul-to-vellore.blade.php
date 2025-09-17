@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Dindigul to Vellore taxi, Dindigul to Vellore one way taxi, Dindigul to Vellore outstation cabs, Dindigul to Vellore taxi fare, Dindigul to Vellore cab fare, Dindigul to Vellore round trip taxi, Dindigul to Vellore car rental, Dindigul to Vellore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Vellore taxi, Dindigul to Vellore one way taxi, Dindigul to Vellore outstation cabs, Dindigul to Vellore taxi fare, Dindigul to Vellore cab fare, Dindigul to Vellore round trip taxi, Dindigul to Vellore car rental, Dindigul to Vellore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Vellore Taxi Service">
     <meta property="og:description"

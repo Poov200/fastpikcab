@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Hosur to Tenkasi taxi, Hosur to Tenkasi one way taxi, Hosur to Tenkasi outstation cabs, Hosur to Tenkasi taxi fare, Hosur to Tenkasi cab fare, Hosur to Tenkasi round trip taxi, Hosur to Tenkasi car rental, Hosur to Tenkasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Hosur to Tenkasi taxi, Hosur to Tenkasi one way taxi, Hosur to Tenkasi outstation cabs, Hosur to Tenkasi taxi fare, Hosur to Tenkasi cab fare, Hosur to Tenkasi round trip taxi, Hosur to Tenkasi car rental, Hosur to Tenkasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Tenkasi Taxi Service">
     <meta property="og:description"

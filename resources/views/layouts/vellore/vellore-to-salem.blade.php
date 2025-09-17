@@ -10,7 +10,7 @@
         content="Book a reliable Vellore to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Vellore to Salem taxi, Vellore to Salem one way taxi, Vellore to Salem outstation cabs, Vellore to Salem taxi fare, Vellore to Salem cab fare, Vellore to Salem round trip taxi, Vellore to Salem car rental, Vellore to Salem cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Vellore to Salem taxi, Vellore to Salem one way taxi, Vellore to Salem outstation cabs, Vellore to Salem taxi fare, Vellore to Salem cab fare, Vellore to Salem round trip taxi, Vellore to Salem car rental, Vellore to Salem cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Vellore to Salem Taxi Service">
     <meta property="og:description"

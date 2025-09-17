@@ -10,7 +10,7 @@
         content="Book a reliable Cuddalore to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Cuddalore to Namakkal taxi, Cuddalore to Namakkal one way taxi, Cuddalore to Namakkal outstation cabs, Cuddalore to Namakkal taxi fare, Cuddalore to Namakkal cab fare, Cuddalore to Namakkal round trip taxi, Cuddalore to Namakkal car rental, Cuddalore to Namakkal cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Cuddalore to Namakkal taxi, Cuddalore to Namakkal one way taxi, Cuddalore to Namakkal outstation cabs, Cuddalore to Namakkal taxi fare, Cuddalore to Namakkal cab fare, Cuddalore to Namakkal round trip taxi, Cuddalore to Namakkal car rental, Cuddalore to Namakkal cab booking">
 
     <meta property="og:title" content="Fastpikcab - Cuddalore to Namakkal Taxi Service">
     <meta property="og:description"

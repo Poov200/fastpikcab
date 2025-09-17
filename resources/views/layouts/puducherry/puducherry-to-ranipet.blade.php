@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Puducherry to Ranipet taxi, Puducherry to Ranipet one way taxi, Puducherry to Ranipet outstation cabs, Puducherry to Ranipet taxi fare, Puducherry to Ranipet cab fare, Puducherry to Ranipet round trip taxi, Puducherry to Ranipet car rental, Puducherry to Ranipet cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Ranipet taxi, Puducherry to Ranipet one way taxi, Puducherry to Ranipet outstation cabs, Puducherry to Ranipet taxi fare, Puducherry to Ranipet cab fare, Puducherry to Ranipet round trip taxi, Puducherry to Ranipet car rental, Puducherry to Ranipet cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Ranipet Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Arani to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Arani to Karur taxi, Arani to Karur one way taxi, Arani to Karur outstation cabs, Arani to Karur taxi fare, Arani to Karur cab fare, Arani to Karur round trip taxi, Arani to Karur car rental, Arani to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Arani to Karur taxi, Arani to Karur one way taxi, Arani to Karur outstation cabs, Arani to Karur taxi fare, Arani to Karur cab fare, Arani to Karur round trip taxi, Arani to Karur car rental, Arani to Karur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Arani to Karur Taxi Service">
     <meta property="og:description"

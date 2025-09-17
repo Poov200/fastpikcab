@@ -10,7 +10,7 @@
         content="Book a reliable Chennai to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Chennai to Kochi taxi, Chennai to Kochi one way taxi, Chennai to Kochi outstation cabs, Chennai to Kochi taxi fare, Chennai to Kochi cab fare, Chennai to Kochi round trip taxi, Chennai to Kochi car rental, Chennai to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Chennai to Kochi taxi, Chennai to Kochi one way taxi, Chennai to Kochi outstation cabs, Chennai to Kochi taxi fare, Chennai to Kochi cab fare, Chennai to Kochi round trip taxi, Chennai to Kochi car rental, Chennai to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Kochi Taxi Service">
     <meta property="og:description"

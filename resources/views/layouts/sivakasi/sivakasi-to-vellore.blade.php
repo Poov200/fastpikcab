@@ -10,7 +10,7 @@
         content="Book a reliable Sivakasi to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Sivakasi to Vellore taxi, Sivakasi to Vellore one way taxi, Sivakasi to Vellore outstation cabs, Sivakasi to Vellore taxi fare, Sivakasi to Vellore cab fare, Sivakasi to Vellore round trip taxi, Sivakasi to Vellore car rental, Sivakasi to Vellore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Sivakasi to Vellore taxi, Sivakasi to Vellore one way taxi, Sivakasi to Vellore outstation cabs, Sivakasi to Vellore taxi fare, Sivakasi to Vellore cab fare, Sivakasi to Vellore round trip taxi, Sivakasi to Vellore car rental, Sivakasi to Vellore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Sivakasi to Vellore Taxi Service">
     <meta property="og:description"

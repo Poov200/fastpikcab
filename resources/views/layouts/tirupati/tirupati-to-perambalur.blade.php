@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tirupati to Perambalur taxi, Tirupati to Perambalur one way taxi, Tirupati to Perambalur outstation cabs, Tirupati to Perambalur taxi fare, Tirupati to Perambalur cab fare, Tirupati to Perambalur round trip taxi, Tirupati to Perambalur car rental, Tirupati to Perambalur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirupati to Perambalur taxi, Tirupati to Perambalur one way taxi, Tirupati to Perambalur outstation cabs, Tirupati to Perambalur taxi fare, Tirupati to Perambalur cab fare, Tirupati to Perambalur round trip taxi, Tirupati to Perambalur car rental, Tirupati to Perambalur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Perambalur Taxi Service">
     <meta property="og:description"

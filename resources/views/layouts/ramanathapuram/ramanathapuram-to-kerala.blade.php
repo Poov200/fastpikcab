@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Ramanathapuram to Kerala taxi, Ramanathapuram to Kerala one way taxi, Ramanathapuram to Kerala outstation cabs, Ramanathapuram to Kerala taxi fare, Ramanathapuram to Kerala cab fare, Ramanathapuram to Kerala round trip taxi, Ramanathapuram to Kerala car rental, Ramanathapuram to Kerala cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ramanathapuram to Kerala taxi, Ramanathapuram to Kerala one way taxi, Ramanathapuram to Kerala outstation cabs, Ramanathapuram to Kerala taxi fare, Ramanathapuram to Kerala cab fare, Ramanathapuram to Kerala round trip taxi, Ramanathapuram to Kerala car rental, Ramanathapuram to Kerala cab booking">
 
     <meta property="og:title" content="Fastpikcab - Ramanathapuram to Kerala Taxi Service">
     <meta property="og:description"

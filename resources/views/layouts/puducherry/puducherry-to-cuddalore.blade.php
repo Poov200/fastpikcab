@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your short journey.">
 
     <meta name="keywords"
-        content="Puducherry to Cuddalore taxi, Puducherry to Cuddalore one way taxi, Puducherry to Cuddalore outstation cabs, Puducherry to Cuddalore taxi fare, Puducherry to Cuddalore cab fare, Puducherry to Cuddalore round trip taxi, Puducherry to Cuddalore car rental, Puducherry to Cuddalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Cuddalore taxi, Puducherry to Cuddalore one way taxi, Puducherry to Cuddalore outstation cabs, Puducherry to Cuddalore taxi fare, Puducherry to Cuddalore cab fare, Puducherry to Cuddalore round trip taxi, Puducherry to Cuddalore car rental, Puducherry to Cuddalore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Cuddalore Taxi Service">
     <meta property="og:description"

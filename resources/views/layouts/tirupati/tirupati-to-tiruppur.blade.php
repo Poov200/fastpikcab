@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tirupati to Tiruppur taxi, Tirupati to Tiruppur one way taxi, Tirupati to Tiruppur outstation cabs, Tirupati to Tiruppur taxi fare, Tirupati to Tiruppur cab fare, Tirupati to Tiruppur round trip taxi, Tirupati to Tiruppur car rental, Tirupati to Tiruppur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirupati to Tiruppur taxi, Tirupati to Tiruppur one way taxi, Tirupati to Tiruppur outstation cabs, Tirupati to Tiruppur taxi fare, Tirupati to Tiruppur cab fare, Tirupati to Tiruppur round trip taxi, Tirupati to Tiruppur car rental, Tirupati to Tiruppur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Tiruppur Taxi Service">
     <meta property="og:description"

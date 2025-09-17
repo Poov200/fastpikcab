@@ -10,7 +10,7 @@
         content="Book a reliable Perambalur to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Perambalur to Dindigul taxi, Perambalur to Dindigul one way taxi, Perambalur to Dindigul outstation cabs, Perambalur to Dindigul taxi fare, Perambalur to Dindigul cab fare, Perambalur to Dindigul round trip taxi, Perambalur to Dindigul car rental, Perambalur to Dindigul cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Perambalur to Dindigul taxi, Perambalur to Dindigul one way taxi, Perambalur to Dindigul outstation cabs, Perambalur to Dindigul taxi fare, Perambalur to Dindigul cab fare, Perambalur to Dindigul round trip taxi, Perambalur to Dindigul car rental, Perambalur to Dindigul cab booking">
 
     <meta property="og:title" content="Fastpikcab - Perambalur to Dindigul Taxi Service">
     <meta property="og:description"

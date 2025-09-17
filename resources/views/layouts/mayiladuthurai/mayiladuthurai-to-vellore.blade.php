@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Vellore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Mayiladuthurai to Vellore taxi, Mayiladuthurai to Vellore one way taxi, Mayiladuthurai to Vellore outstation cabs, Mayiladuthurai to Vellore taxi fare, Mayiladuthurai to Vellore cab fare, Mayiladuthurai to Vellore round trip taxi, Mayiladuthurai to Vellore car rental, Mayiladuthurai to Vellore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Mayiladuthurai to Vellore taxi, Mayiladuthurai to Vellore one way taxi, Mayiladuthurai to Vellore outstation cabs, Mayiladuthurai to Vellore taxi fare, Mayiladuthurai to Vellore cab fare, Mayiladuthurai to Vellore round trip taxi, Mayiladuthurai to Vellore car rental, Mayiladuthurai to Vellore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Vellore Taxi Service">
     <meta property="og:description"

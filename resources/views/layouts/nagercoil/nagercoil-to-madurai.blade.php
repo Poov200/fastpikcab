@@ -10,7 +10,7 @@
         content="Book a reliable Nagercoil to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Nagercoil to Madurai taxi, Nagercoil to Madurai one way taxi, Nagercoil to Madurai outstation cabs, Nagercoil to Madurai taxi fare, Nagercoil to Madurai cab fare, Nagercoil to Madurai round trip taxi, Nagercoil to Madurai car rental, Nagercoil to Madurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Nagercoil to Madurai taxi, Nagercoil to Madurai one way taxi, Nagercoil to Madurai outstation cabs, Nagercoil to Madurai taxi fare, Nagercoil to Madurai cab fare, Nagercoil to Madurai round trip taxi, Nagercoil to Madurai car rental, Nagercoil to Madurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Nagercoil to Madurai Taxi Service">
     <meta property="og:description"

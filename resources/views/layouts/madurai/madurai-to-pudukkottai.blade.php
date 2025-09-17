@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Madurai to Pudukkottai taxi, Madurai to Pudukkottai one way taxi, Madurai to Pudukkottai outstation cabs, Madurai to Pudukkottai taxi fare, Madurai to Pudukkottai cab fare, Madurai to Pudukkottai round trip taxi, Madurai to Pudukkottai car rental, Madurai to Pudukkottai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Pudukkottai taxi, Madurai to Pudukkottai one way taxi, Madurai to Pudukkottai outstation cabs, Madurai to Pudukkottai taxi fare, Madurai to Pudukkottai cab fare, Madurai to Pudukkottai round trip taxi, Madurai to Pudukkottai car rental, Madurai to Pudukkottai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Madurai to Pudukkottai Taxi Service">
     <meta property="og:description"

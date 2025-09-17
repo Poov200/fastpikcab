@@ -10,7 +10,7 @@
         content="Book a reliable Trichy to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Trichy to Thanjavur taxi, Trichy to Thanjavur one way taxi, Trichy to Thanjavur outstation cabs, Trichy to Thanjavur taxi fare, Trichy to Thanjavur cab fare, Trichy to Thanjavur round trip taxi, Trichy to Thanjavur car rental, Trichy to Thanjavur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Thanjavur taxi, Trichy to Thanjavur one way taxi, Trichy to Thanjavur outstation cabs, Trichy to Thanjavur taxi fare, Trichy to Thanjavur cab fare, Trichy to Thanjavur round trip taxi, Trichy to Thanjavur car rental, Trichy to Thanjavur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Trichy to Thanjavur Taxi Service">
     <meta property="og:description"

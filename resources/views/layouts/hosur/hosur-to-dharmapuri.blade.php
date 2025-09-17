@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Hosur to Dharmapuri taxi, Hosur to Dharmapuri one way taxi, Hosur to Dharmapuri outstation cabs, Hosur to Dharmapuri taxi fare, Hosur to Dharmapuri cab fare, Hosur to Dharmapuri round trip taxi, Hosur to Dharmapuri car rental, Hosur to Dharmapuri cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Hosur to Dharmapuri taxi, Hosur to Dharmapuri one way taxi, Hosur to Dharmapuri outstation cabs, Hosur to Dharmapuri taxi fare, Hosur to Dharmapuri cab fare, Hosur to Dharmapuri round trip taxi, Hosur to Dharmapuri car rental, Hosur to Dharmapuri cab booking">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Dharmapuri Taxi Service">
     <meta property="og:description"

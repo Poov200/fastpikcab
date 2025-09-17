@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Coimbatore to Salem taxi, Coimbatore to Salem one way taxi, Coimbatore to Salem outstation cabs, Coimbatore to Salem taxi fare, Coimbatore to Salem cab fare, Coimbatore to Salem round trip taxi, Coimbatore to Salem car rental, Coimbatore to Salem cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Salem taxi, Coimbatore to Salem one way taxi, Coimbatore to Salem outstation cabs, Coimbatore to Salem taxi fare, Coimbatore to Salem cab fare, Coimbatore to Salem round trip taxi, Coimbatore to Salem car rental, Coimbatore to Salem cab booking">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Salem Taxi Service">
     <meta property="og:description"

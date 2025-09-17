@@ -10,7 +10,7 @@
         content="Book a reliable Krishnagiri to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Krishnagiri to Bangalore taxi, Krishnagiri to Bangalore one way taxi, Krishnagiri to Bangalore outstation cabs, Krishnagiri to Bangalore taxi fare, Krishnagiri to Bangalore cab fare, Krishnagiri to Bangalore round trip taxi, Krishnagiri to Bangalore car rental, Krishnagiri to Bangalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Krishnagiri to Bangalore taxi, Krishnagiri to Bangalore one way taxi, Krishnagiri to Bangalore outstation cabs, Krishnagiri to Bangalore taxi fare, Krishnagiri to Bangalore cab fare, Krishnagiri to Bangalore round trip taxi, Krishnagiri to Bangalore car rental, Krishnagiri to Bangalore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Krishnagiri to Bangalore Taxi Service">
     <meta property="og:description"

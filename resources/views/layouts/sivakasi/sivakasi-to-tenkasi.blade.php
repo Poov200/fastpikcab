@@ -10,7 +10,7 @@
         content="Book a reliable Sivakasi to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Sivakasi to Tenkasi taxi, Sivakasi to Tenkasi one way taxi, Sivakasi to Tenkasi outstation cabs, Sivakasi to Tenkasi taxi fare, Sivakasi to Tenkasi cab fare, Sivakasi to Tenkasi round trip taxi, Sivakasi to Tenkasi car rental, Sivakasi to Tenkasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Sivakasi to Tenkasi taxi, Sivakasi to Tenkasi one way taxi, Sivakasi to Tenkasi outstation cabs, Sivakasi to Tenkasi taxi fare, Sivakasi to Tenkasi cab fare, Sivakasi to Tenkasi round trip taxi, Sivakasi to Tenkasi car rental, Sivakasi to Tenkasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Sivakasi to Tenkasi Taxi Service">
     <meta property="og:description"

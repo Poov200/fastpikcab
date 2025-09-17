@@ -10,7 +10,7 @@
         content="Book a reliable Sivakasi to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Sivakasi to Coimbatore taxi, Sivakasi to Coimbatore one way taxi, Sivakasi to Coimbatore outstation cabs, Sivakasi to Coimbatore taxi fare, Sivakasi to Coimbatore cab fare, Sivakasi to Coimbatore round trip taxi, Sivakasi to Coimbatore car rental, Sivakasi to Coimbatore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Sivakasi to Coimbatore taxi, Sivakasi to Coimbatore one way taxi, Sivakasi to Coimbatore outstation cabs, Sivakasi to Coimbatore taxi fare, Sivakasi to Coimbatore cab fare, Sivakasi to Coimbatore round trip taxi, Sivakasi to Coimbatore car rental, Sivakasi to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Sivakasi to Coimbatore Taxi Service">
     <meta property="og:description"

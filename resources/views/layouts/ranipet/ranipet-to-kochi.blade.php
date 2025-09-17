@@ -10,7 +10,7 @@
         content="Book a reliable Ranipet to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Ranipet to Kochi taxi, Ranipet to Kochi one way taxi, Ranipet to Kochi outstation cabs, Ranipet to Kochi taxi fare, Ranipet to Kochi cab fare, Ranipet to Kochi round trip taxi, Ranipet to Kochi car rental, Ranipet to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Kochi taxi, Ranipet to Kochi one way taxi, Ranipet to Kochi outstation cabs, Ranipet to Kochi taxi fare, Ranipet to Kochi cab fare, Ranipet to Kochi round trip taxi, Ranipet to Kochi car rental, Ranipet to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Ranipet to Kochi Taxi Service">
     <meta property="og:description"
@@ -275,7 +275,7 @@
         content="Book a reliable Ranipet to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Ranipet to Kochi taxi, Ranipet to Kochi one way taxi, Ranipet to Kochi outstation cabs, Ranipet to Kochi taxi fare, Ranipet to Kochi cab fare, Ranipet to Kochi round trip taxi, Ranipet to Kochi car rental, Ranipet to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Kochi taxi, Ranipet to Kochi one way taxi, Ranipet to Kochi outstation cabs, Ranipet to Kochi taxi fare, Ranipet to Kochi cab fare, Ranipet to Kochi round trip taxi, Ranipet to Kochi car rental, Ranipet to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Ranipet to Kochi Taxi Service">
     <meta property="og:description"

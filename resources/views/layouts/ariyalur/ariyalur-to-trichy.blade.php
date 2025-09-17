@@ -10,7 +10,7 @@
         content="Book a reliable Ariyalur to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ariyalur to Trichy taxi, Ariyalur to Trichy one way taxi, Ariyalur to Trichy outstation cabs, Ariyalur to Trichy taxi fare, Ariyalur to Trichy cab fare, Ariyalur to Trichy round trip taxi, Ariyalur to Trichy car rental, Ariyalur to Trichy cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ariyalur to Trichy taxi, Ariyalur to Trichy one way taxi, Ariyalur to Trichy outstation cabs, Ariyalur to Trichy taxi fare, Ariyalur to Trichy cab fare, Ariyalur to Trichy round trip taxi, Ariyalur to Trichy car rental, Ariyalur to Trichy cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ariyalur to Trichy Taxi Service">
     <meta property="og:description"

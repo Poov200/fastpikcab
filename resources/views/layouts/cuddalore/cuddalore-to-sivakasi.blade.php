@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Cuddalore to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey.">
     <meta name="keywords"
-        content="Cuddalore to Sivakasi taxi, Cuddalore to Sivakasi one way taxi, Cuddalore to Sivakasi outstation cabs, Cuddalore to Sivakasi taxi fare, Cuddalore to Sivakasi cab fare, Cuddalore to Sivakasi round trip taxi, Cuddalore to Sivakasi car rental, Cuddalore to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Cuddalore to Sivakasi taxi, Cuddalore to Sivakasi one way taxi, Cuddalore to Sivakasi outstation cabs, Cuddalore to Sivakasi taxi fare, Cuddalore to Sivakasi cab fare, Cuddalore to Sivakasi round trip taxi, Cuddalore to Sivakasi car rental, Cuddalore to Sivakasi cab booking">
     <meta property="og:title" content="Fastpikcab - Cuddalore to Sivakasi Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Cuddalore to Sivakasi. Book online for one-way, round-trip, or outstation travel.">

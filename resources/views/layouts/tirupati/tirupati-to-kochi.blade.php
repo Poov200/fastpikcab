@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long-distance journey.">
 
     <meta name="keywords"
-        content="Tirupati to Kochi taxi, Tirupati to Kochi one way taxi, Tirupati to Kochi outstation cabs, Tirupati to Kochi taxi fare, Tirupati to Kochi cab fare, Tirupati to Kochi round trip taxi, Tirupati to Kochi car rental, Tirupati to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirupati to Kochi taxi, Tirupati to Kochi one way taxi, Tirupati to Kochi outstation cabs, Tirupati to Kochi taxi fare, Tirupati to Kochi cab fare, Tirupati to Kochi round trip taxi, Tirupati to Kochi car rental, Tirupati to Kochi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Kochi Taxi Service">
     <meta property="og:description"

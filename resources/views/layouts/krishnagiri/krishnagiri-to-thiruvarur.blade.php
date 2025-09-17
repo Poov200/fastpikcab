@@ -10,7 +10,7 @@
         content="Book a reliable Krishnagiri to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Krishnagiri to Thiruvarur taxi, Krishnagiri to Thiruvarur one way taxi, Krishnagiri to Thiruvarur outstation cabs, Krishnagiri to Thiruvarur taxi fare, Krishnagiri to Thiruvarur cab fare, Krishnagiri to Thiruvarur round trip taxi, Krishnagiri to Thiruvarur car rental, Krishnagiri to Thiruvarur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Krishnagiri to Thiruvarur taxi, Krishnagiri to Thiruvarur one way taxi, Krishnagiri to Thiruvarur outstation cabs, Krishnagiri to Thiruvarur taxi fare, Krishnagiri to Thiruvarur cab fare, Krishnagiri to Thiruvarur round trip taxi, Krishnagiri to Thiruvarur car rental, Krishnagiri to Thiruvarur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Krishnagiri to Thiruvarur Taxi Service">
     <meta property="og:description"

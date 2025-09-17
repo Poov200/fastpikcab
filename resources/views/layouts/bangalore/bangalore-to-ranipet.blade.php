@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Bangalore to Ranipet taxi, Bangalore to Ranipet one way taxi, Bangalore to Ranipet outstation cabs, Bangalore to Ranipet taxi fare, Bangalore to Ranipet cab fare, Bangalore to Ranipet round trip taxi, Bangalore to Ranipet car rental, Bangalore to Ranipet cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Bangalore to Ranipet taxi, Bangalore to Ranipet one way taxi, Bangalore to Ranipet outstation cabs, Bangalore to Ranipet taxi fare, Bangalore to Ranipet cab fare, Bangalore to Ranipet round trip taxi, Bangalore to Ranipet car rental, Bangalore to Ranipet cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Ranipet Taxi Service">
     <meta property="og:description"

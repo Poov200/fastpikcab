@@ -10,7 +10,7 @@
         content="Book a reliable Vellore to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Vellore to Chennai taxi, Vellore to Chennai one way taxi, Vellore to Chennai outstation cabs, Vellore to Chennai taxi fare, Vellore to Chennai cab fare, Vellore to Chennai round trip taxi, Vellore to Chennai car rental, Vellore to Chennai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Vellore to Chennai taxi, Vellore to Chennai one way taxi, Vellore to Chennai outstation cabs, Vellore to Chennai taxi fare, Vellore to Chennai cab fare, Vellore to Chennai round trip taxi, Vellore to Chennai car rental, Vellore to Chennai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Vellore to Chennai Taxi Service">
     <meta property="og:description"

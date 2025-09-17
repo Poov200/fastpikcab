@@ -10,7 +10,7 @@
         content="Book a reliable Thoothukudi to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Thoothukudi to Hosur taxi, Thoothukudi to Hosur one way taxi, Thoothukudi to Hosur outstation cabs, Thoothukudi to Hosur taxi fare, Thoothukudi to Hosur cab fare, Thoothukudi to Hosur round trip taxi, Thoothukudi to Hosur car rental, Thoothukudi to Hosur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thoothukudi to Hosur taxi, Thoothukudi to Hosur one way taxi, Thoothukudi to Hosur outstation cabs, Thoothukudi to Hosur taxi fare, Thoothukudi to Hosur cab fare, Thoothukudi to Hosur round trip taxi, Thoothukudi to Hosur car rental, Thoothukudi to Hosur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thoothukudi to Hosur Taxi Service">
     <meta property="og:description"

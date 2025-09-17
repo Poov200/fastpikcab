@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your pilgrimage or business trip.">
 
     <meta name="keywords"
-        content="Mayiladuthurai to Tirupati taxi, Mayiladuthurai to Tirupati one way taxi, Mayiladuthurai to Tirupati outstation cabs, Mayiladuthurai to Tirupati taxi fare, Mayiladuthurai to Tirupati cab fare, Mayiladuthurai to Tirupati round trip taxi, Mayiladuthurai to Tirupati car rental, Mayiladuthurai to Tirupati cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Mayiladuthurai to Tirupati taxi, Mayiladuthurai to Tirupati one way taxi, Mayiladuthurai to Tirupati outstation cabs, Mayiladuthurai to Tirupati taxi fare, Mayiladuthurai to Tirupati cab fare, Mayiladuthurai to Tirupati round trip taxi, Mayiladuthurai to Tirupati car rental, Mayiladuthurai to Tirupati cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Tirupati Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Erode to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Erode to Trichy taxi, Erode to Trichy one way taxi, Erode to Trichy outstation cabs, Erode to Trichy taxi fare, Erode to Trichy cab fare, Erode to Trichy round trip taxi, Erode to Trichy car rental, Erode to Trichy cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Erode to Trichy taxi, Erode to Trichy one way taxi, Erode to Trichy outstation cabs, Erode to Trichy taxi fare, Erode to Trichy cab fare, Erode to Trichy round trip taxi, Erode to Trichy car rental, Erode to Trichy cab booking">
 
     <meta property="og:title" content="Fastpikcab - Erode to Trichy Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Kanchipuram to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Kanchipuram to Kochi taxi, Kanchipuram to Kochi one way taxi, Kanchipuram to Kochi outstation cabs, Kanchipuram to Kochi taxi fare, Kanchipuram to Kochi cab fare, Kanchipuram to Kochi round trip taxi, Kanchipuram to Kochi car rental, Kanchipuram to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Kanchipuram to Kochi taxi, Kanchipuram to Kochi one way taxi, Kanchipuram to Kochi outstation cabs, Kanchipuram to Kochi taxi fare, Kanchipuram to Kochi cab fare, Kanchipuram to Kochi round trip taxi, Kanchipuram to Kochi car rental, Kanchipuram to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Kanchipuram to Kochi Taxi Service">
     <meta property="og:description"

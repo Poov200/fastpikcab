@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Karaikal to Erode taxi, Karaikal to Erode one way taxi, Karaikal to Erode outstation cabs, Karaikal to Erode taxi fare, Karaikal to Erode cab fare, Karaikal to Erode round trip taxi, Karaikal to Erode car rental, Karaikal to Erode cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Erode taxi, Karaikal to Erode one way taxi, Karaikal to Erode outstation cabs, Karaikal to Erode taxi fare, Karaikal to Erode cab fare, Karaikal to Erode round trip taxi, Karaikal to Erode car rental, Karaikal to Erode cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Erode Taxi Service">
     <meta property="og:description"

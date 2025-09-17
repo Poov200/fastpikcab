@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Hosur to Dindigul taxi, Hosur to Dindigul one way taxi, Hosur to Dindigul outstation cabs, Hosur to Dindigul taxi fare, Hosur to Dindigul cab fare, Hosur to Dindigul round trip taxi, Hosur to Dindigul car rental, Hosur to Dindigul cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Hosur to Dindigul taxi, Hosur to Dindigul one way taxi, Hosur to Dindigul outstation cabs, Hosur to Dindigul taxi fare, Hosur to Dindigul cab fare, Hosur to Dindigul round trip taxi, Hosur to Dindigul car rental, Hosur to Dindigul cab booking">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Dindigul Taxi Service">
     <meta property="og:description"

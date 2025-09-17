@@ -8,7 +8,7 @@
     <meta name="description"
         content="Book a reliable Thanjavur to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords"
-        content="Thanjavur to Tenkasi taxi, Thanjavur to Tenkasi one way taxi, Thanjavur to Tenkasi outstation cabs, Thanjavur to Tenkasi taxi fare, Thanjavur to Tenkasi cab fare, Thanjavur to Tenkasi round trip taxi, Thanjavur to Tenkasi car rental, Thanjavur to Tenkasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thanjavur to Tenkasi taxi, Thanjavur to Tenkasi one way taxi, Thanjavur to Tenkasi outstation cabs, Thanjavur to Tenkasi taxi fare, Thanjavur to Tenkasi cab fare, Thanjavur to Tenkasi round trip taxi, Thanjavur to Tenkasi car rental, Thanjavur to Tenkasi cab booking">
     <meta property="og:title" content="Fastpik Cab - Thanjavur to Tenkasi Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Thanjavur to Tenkasi. Book online for one-way, round-trip, or outstation travel.">

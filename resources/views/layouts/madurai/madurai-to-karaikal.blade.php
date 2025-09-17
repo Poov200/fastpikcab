@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Karaikal taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
-        content="Madurai to Karaikal taxi, Madurai to Karaikal one way taxi, Madurai to Karaikal drop taxi, Madurai to Karaikal outstation cabs, Madurai to Karaikal taxi fare, Madurai to Karaikal cab fare, Madurai to Karaikal round trip taxi, Madurai to Karaikal car rental, Madurai to Karaikal cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Karaikal taxi, Madurai to Karaikal one way taxi, Madurai to Karaikal drop taxi, Madurai to Karaikal outstation cabs, Madurai to Karaikal taxi fare, Madurai to Karaikal cab fare, Madurai to Karaikal round trip taxi, Madurai to Karaikal car rental, Madurai to Karaikal cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Madurai to Karaikal Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Tirunelveli to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tirunelveli to Karur taxi, Tirunelveli to Karur one way taxi, Tirunelveli to Karur outstation cabs, Tirunelveli to Karur taxi fare, Tirunelveli to Karur cab fare, Tirunelveli to Karur round trip taxi, Tirunelveli to Karur car rental, Tirunelveli to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirunelveli to Karur taxi, Tirunelveli to Karur one way taxi, Tirunelveli to Karur outstation cabs, Tirunelveli to Karur taxi fare, Tirunelveli to Karur cab fare, Tirunelveli to Karur round trip taxi, Tirunelveli to Karur car rental, Tirunelveli to Karur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirunelveli to Karur Taxi Service">
     <meta property="og:description"

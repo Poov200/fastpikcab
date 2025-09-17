@@ -10,7 +10,7 @@
         content="Book a reliable Thoothukudi to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Thoothukudi to Krishnagiri taxi, Thoothukudi to Krishnagiri one way taxi, Thoothukudi to Krishnagiri outstation cabs, Thoothukudi to Krishnagiri taxi fare, Thoothukudi to Krishnagiri cab fare, Thoothukudi to Krishnagiri round trip taxi, Thoothukudi to Krishnagiri car rental, Thoothukudi to Krishnagiri cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thoothukudi to Krishnagiri taxi, Thoothukudi to Krishnagiri one way taxi, Thoothukudi to Krishnagiri outstation cabs, Thoothukudi to Krishnagiri taxi fare, Thoothukudi to Krishnagiri cab fare, Thoothukudi to Krishnagiri round trip taxi, Thoothukudi to Krishnagiri car rental, Thoothukudi to Krishnagiri cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thoothukudi to Krishnagiri Taxi Service">
     <meta property="og:description"

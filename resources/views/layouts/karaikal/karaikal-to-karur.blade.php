@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Karur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karaikal to Karur taxi, Karaikal to Karur one way taxi, Karaikal to Karur outstation cabs, Karaikal to Karur taxi fare, Karaikal to Karur cab fare, Karaikal to Karur round trip taxi, Karaikal to Karur car rental, Karaikal to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Karur taxi, Karaikal to Karur one way taxi, Karaikal to Karur outstation cabs, Karaikal to Karur taxi fare, Karaikal to Karur cab fare, Karaikal to Karur round trip taxi, Karaikal to Karur car rental, Karaikal to Karur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Karur Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Ranipet to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ranipet to Sivakasi taxi, Ranipet to Sivakasi one way taxi, Ranipet to Sivakasi outstation cabs, Ranipet to Sivakasi taxi fare, Ranipet to Sivakasi cab fare, Ranipet to Sivakasi round trip taxi, Ranipet to Sivakasi car rental, Ranipet to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Sivakasi taxi, Ranipet to Sivakasi one way taxi, Ranipet to Sivakasi outstation cabs, Ranipet to Sivakasi taxi fare, Ranipet to Sivakasi cab fare, Ranipet to Sivakasi round trip taxi, Ranipet to Sivakasi car rental, Ranipet to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ranipet to Sivakasi Taxi Service">
     <meta property="og:description"

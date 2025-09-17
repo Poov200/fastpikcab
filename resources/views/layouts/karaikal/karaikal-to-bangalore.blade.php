@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Karaikal to Bangalore taxi, Karaikal to Bangalore one way taxi, Karaikal to Bangalore outstation cabs, Karaikal to Bangalore taxi fare, Karaikal to Bangalore cab fare, Karaikal to Bangalore round trip taxi, Karaikal to Bangalore car rental, Karaikal to Bangalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Bangalore taxi, Karaikal to Bangalore one way taxi, Karaikal to Bangalore outstation cabs, Karaikal to Bangalore taxi fare, Karaikal to Bangalore cab fare, Karaikal to Bangalore round trip taxi, Karaikal to Bangalore car rental, Karaikal to Bangalore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Bangalore Taxi Service">
     <meta property="og:description"

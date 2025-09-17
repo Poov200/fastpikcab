@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Bangalore to Madurai taxi, Bangalore to Madurai one way taxi, Bangalore to Madurai outstation cabs, Bangalore to Madurai taxi fare, Bangalore to Madurai cab fare, Bangalore to Madurai round trip taxi, Bangalore to Madurai car rental, Bangalore to Madurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Bangalore to Madurai taxi, Bangalore to Madurai one way taxi, Bangalore to Madurai outstation cabs, Bangalore to Madurai taxi fare, Bangalore to Madurai cab fare, Bangalore to Madurai round trip taxi, Bangalore to Madurai car rental, Bangalore to Madurai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Madurai Taxi Service">
     <meta property="og:description"

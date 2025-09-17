@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ramanathapuram to Puducherry taxi, Ramanathapuram to Puducherry one way taxi, Ramanathapuram to Puducherry outstation cabs, Ramanathapuram to Puducherry taxi fare, Ramanathapuram to Puducherry cab fare, Ramanathapuram to Puducherry round trip taxi, Ramanathapuram to Puducherry car rental, Ramanathapuram to Puducherry cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ramanathapuram to Puducherry taxi, Ramanathapuram to Puducherry one way taxi, Ramanathapuram to Puducherry outstation cabs, Ramanathapuram to Puducherry taxi fare, Ramanathapuram to Puducherry cab fare, Ramanathapuram to Puducherry round trip taxi, Ramanathapuram to Puducherry car rental, Ramanathapuram to Puducherry cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ramanathapuram to Puducherry Taxi Service">
     <meta property="og:description"

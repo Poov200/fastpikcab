@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ramanathapuram to Madurai taxi, Ramanathapuram to Madurai one way taxi, Ramanathapuram to Madurai outstation cabs, Ramanathapuram to Madurai taxi fare, Ramanathapuram to Madurai cab fare, Ramanathapuram to Madurai round trip taxi, Ramanathapuram to Madurai car rental, Ramanathapuram to Madurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ramanathapuram to Madurai taxi, Ramanathapuram to Madurai one way taxi, Ramanathapuram to Madurai outstation cabs, Ramanathapuram to Madurai taxi fare, Ramanathapuram to Madurai cab fare, Ramanathapuram to Madurai round trip taxi, Ramanathapuram to Madurai car rental, Ramanathapuram to Madurai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ramanathapuram to Madurai Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Cuddalore to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Cuddalore to Kochi taxi, Cuddalore to Kochi one way taxi, Cuddalore to Kochi outstation cabs, Cuddalore to Kochi taxi fare, Cuddalore to Kochi cab fare, Cuddalore to Kochi round trip taxi, Cuddalore to Kochi car rental, Cuddalore to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Cuddalore to Kochi taxi, Cuddalore to Kochi one way taxi, Cuddalore to Kochi outstation cabs, Cuddalore to Kochi taxi fare, Cuddalore to Kochi cab fare, Cuddalore to Kochi round trip taxi, Cuddalore to Kochi car rental, Cuddalore to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Cuddalore to Kochi Taxi Service">
     <meta property="og:description"

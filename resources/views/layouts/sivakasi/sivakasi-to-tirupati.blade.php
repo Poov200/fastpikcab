@@ -10,7 +10,7 @@
         content="Book a reliable Sivakasi to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your pilgrimage.">
 
     <meta name="keywords"
-        content="Sivakasi to Tirupati taxi, Sivakasi to Tirupati one way taxi, Sivakasi to Tirupati outstation cabs, Sivakasi to Tirupati taxi fare, Sivakasi to Tirupati cab fare, Sivakasi to Tirupati round trip taxi, Sivakasi to Tirupati car rental, Sivakasi to Tirupati cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Sivakasi to Tirupati taxi, Sivakasi to Tirupati one way taxi, Sivakasi to Tirupati outstation cabs, Sivakasi to Tirupati taxi fare, Sivakasi to Tirupati cab fare, Sivakasi to Tirupati round trip taxi, Sivakasi to Tirupati car rental, Sivakasi to Tirupati cab booking">
 
     <meta property="og:title" content="Fastpikcab - Sivakasi to Tirupati Taxi Service">
     <meta property="og:description"

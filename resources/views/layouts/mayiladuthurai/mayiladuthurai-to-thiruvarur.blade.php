@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Mayiladuthurai to Thiruvarur taxi, Mayiladuthurai to Thiruvarur one way taxi, Mayiladuthurai to Thiruvarur outstation cabs, Mayiladuthurai to Thiruvarur taxi fare, Mayiladuthurai to Thiruvarur cab fare, Mayiladuthurai to Thiruvarur round trip taxi, Mayiladuthurai to Thiruvarur car rental, Mayiladuthurai to Thiruvarur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Mayiladuthurai to Thiruvarur taxi, Mayiladuthurai to Thiruvarur one way taxi, Mayiladuthurai to Thiruvarur outstation cabs, Mayiladuthurai to Thiruvarur taxi fare, Mayiladuthurai to Thiruvarur cab fare, Mayiladuthurai to Thiruvarur round trip taxi, Mayiladuthurai to Thiruvarur car rental, Mayiladuthurai to Thiruvarur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Thiruvarur Taxi Service">
     <meta property="og:description"

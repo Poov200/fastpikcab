@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Ariyalur taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
-        content="Madurai to Ariyalur taxi, Madurai to Ariyalur one way taxi, Madurai to Ariyalur drop taxi, Madurai to Ariyalur outstation cabs, Madurai to Ariyalur taxi fare, Madurai to Ariyalur cab fare, Madurai to Ariyalur round trip taxi, Madurai to Ariyalur car rental, Madurai to Ariyalur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Ariyalur taxi, Madurai to Ariyalur one way taxi, Madurai to Ariyalur drop taxi, Madurai to Ariyalur outstation cabs, Madurai to Ariyalur taxi fare, Madurai to Ariyalur cab fare, Madurai to Ariyalur round trip taxi, Madurai to Ariyalur car rental, Madurai to Ariyalur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Madurai to Ariyalur Taxi Service">
     <meta property="og:description"

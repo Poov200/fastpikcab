@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Mayiladuthurai to Kochi taxi, Mayiladuthurai to Kochi one way taxi, Mayiladuthurai to Kochi outstation cabs, Mayiladuthurai to Kochi taxi fare, Mayiladuthurai to Kochi cab fare, Mayiladuthurai to Kochi round trip taxi, Mayiladuthurai to Kochi car rental, Mayiladuthurai to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Mayiladuthurai to Kochi taxi, Mayiladuthurai to Kochi one way taxi, Mayiladuthurai to Kochi outstation cabs, Mayiladuthurai to Kochi taxi fare, Mayiladuthurai to Kochi cab fare, Mayiladuthurai to Kochi round trip taxi, Mayiladuthurai to Kochi car rental, Mayiladuthurai to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Kochi Taxi Service">
     <meta property="og:description"

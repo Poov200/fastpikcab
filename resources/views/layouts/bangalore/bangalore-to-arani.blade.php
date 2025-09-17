@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Bangalore to Arani taxi, Bangalore to Arani one way taxi, Bangalore to Arani outstation cabs, Bangalore to Arani taxi fare, Bangalore to Arani cab fare, Bangalore to Arani round trip taxi, Bangalore to Arani car rental, Bangalore to Arani cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Bangalore to Arani taxi, Bangalore to Arani one way taxi, Bangalore to Arani outstation cabs, Bangalore to Arani taxi fare, Bangalore to Arani cab fare, Bangalore to Arani round trip taxi, Bangalore to Arani car rental, Bangalore to Arani cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Arani Taxi Service">
     <meta property="og:description"

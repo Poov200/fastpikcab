@@ -10,7 +10,7 @@
         content="Book a reliable Thanjavur to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Thanjavur to Madurai taxi, Thanjavur to Madurai one way taxi, Thanjavur to Madurai outstation cabs, Thanjavur to Madurai taxi fare, Thanjavur to Madurai cab fare, Thanjavur to Madurai round trip taxi, Thanjavur to Madurai car rental, Thanjavur to Madurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thanjavur to Madurai taxi, Thanjavur to Madurai one way taxi, Thanjavur to Madurai outstation cabs, Thanjavur to Madurai taxi fare, Thanjavur to Madurai cab fare, Thanjavur to Madurai round trip taxi, Thanjavur to Madurai car rental, Thanjavur to Madurai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thanjavur to Madurai Taxi Service">
     <meta property="og:description"

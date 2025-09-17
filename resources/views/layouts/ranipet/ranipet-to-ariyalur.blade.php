@@ -10,7 +10,7 @@
         content="Book a reliable Ranipet to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Ranipet to Ariyalur taxi, Ranipet to Ariyalur one way taxi, Ranipet to Ariyalur outstation cabs, Ranipet to Ariyalur taxi fare, Ranipet to Ariyalur cab fare, Ranipet to Ariyalur round trip taxi, Ranipet to Ariyalur car rental, Ranipet to Ariyalur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Ariyalur taxi, Ranipet to Ariyalur one way taxi, Ranipet to Ariyalur outstation cabs, Ranipet to Ariyalur taxi fare, Ranipet to Ariyalur cab fare, Ranipet to Ariyalur round trip taxi, Ranipet to Ariyalur car rental, Ranipet to Ariyalur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Ranipet to Ariyalur Taxi Service">
     <meta property="og:description"

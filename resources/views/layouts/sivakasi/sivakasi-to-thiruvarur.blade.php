@@ -10,7 +10,7 @@
         content="Book a reliable Sivakasi to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Sivakasi to Thiruvarur taxi, Sivakasi to Thiruvarur one way taxi, Sivakasi to Thiruvarur outstation cabs, Sivakasi to Thiruvarur taxi fare, Sivakasi to Thiruvarur cab fare, Sivakasi to Thiruvarur round trip taxi, Sivakasi to Thiruvarur car rental, Sivakasi to Thiruvarur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Sivakasi to Thiruvarur taxi, Sivakasi to Thiruvarur one way taxi, Sivakasi to Thiruvarur outstation cabs, Sivakasi to Thiruvarur taxi fare, Sivakasi to Thiruvarur cab fare, Sivakasi to Thiruvarur round trip taxi, Sivakasi to Thiruvarur car rental, Sivakasi to Thiruvarur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Sivakasi to Thiruvarur Taxi Service">
     <meta property="og:description"
