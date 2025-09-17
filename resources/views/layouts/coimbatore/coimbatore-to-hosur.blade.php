@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Coimbatore to Hosur taxi, Coimbatore to Hosur one way taxi, Coimbatore to Hosur outstation cabs, Coimbatore to Hosur taxi fare, Coimbatore to Hosur cab fare, Coimbatore to Hosur round trip taxi, Coimbatore to Hosur car rental, Coimbatore to Hosur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Hosur taxi, Coimbatore to Hosur one way taxi, Coimbatore to Hosur outstation cabs, Coimbatore to Hosur taxi fare, Coimbatore to Hosur cab fare, Coimbatore to Hosur round trip taxi, Coimbatore to Hosur car rental, Coimbatore to Hosur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Hosur Taxi Service">
     <meta property="og:description"

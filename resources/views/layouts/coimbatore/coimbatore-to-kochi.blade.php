@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Coimbatore to Kochi taxi, Coimbatore to Kochi one way taxi, Coimbatore to Kochi outstation cabs, Coimbatore to Kochi taxi fare, Coimbatore to Kochi cab fare, Coimbatore to Kochi round trip taxi, Coimbatore to Kochi car rental, Coimbatore to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Kochi taxi, Coimbatore to Kochi one way taxi, Coimbatore to Kochi outstation cabs, Coimbatore to Kochi taxi fare, Coimbatore to Kochi cab fare, Coimbatore to Kochi round trip taxi, Coimbatore to Kochi car rental, Coimbatore to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Kochi Taxi Service">
     <meta property="og:description"

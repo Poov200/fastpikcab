@@ -10,7 +10,7 @@
         content="Book a reliable Ranipet to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ranipet to Dharmapuri taxi, Ranipet to Dharmapuri one way taxi, Ranipet to Dharmapuri outstation cabs, Ranipet to Dharmapuri taxi fare, Ranipet to Dharmapuri cab fare, Ranipet to Dharmapuri round trip taxi, Ranipet to Dharmapuri car rental, Ranipet to Dharmapuri cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Dharmapuri taxi, Ranipet to Dharmapuri one way taxi, Ranipet to Dharmapuri outstation cabs, Ranipet to Dharmapuri taxi fare, Ranipet to Dharmapuri cab fare, Ranipet to Dharmapuri round trip taxi, Ranipet to Dharmapuri car rental, Ranipet to Dharmapuri cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ranipet to Dharmapuri Taxi Service">
     <meta property="og:description"

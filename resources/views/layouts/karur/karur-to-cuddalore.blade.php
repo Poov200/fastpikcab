@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karur to Cuddalore taxi, Karur to Cuddalore one way taxi, Karur to Cuddalore outstation cabs, Karur to Cuddalore taxi fare, Karur to Cuddalore cab fare, Karur to Cuddalore round trip taxi, Karur to Cuddalore car rental, Karur to Cuddalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karur to Cuddalore taxi, Karur to Cuddalore one way taxi, Karur to Cuddalore outstation cabs, Karur to Cuddalore taxi fare, Karur to Cuddalore cab fare, Karur to Cuddalore round trip taxi, Karur to Cuddalore car rental, Karur to Cuddalore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Cuddalore Taxi Service">
     <meta property="og:description"

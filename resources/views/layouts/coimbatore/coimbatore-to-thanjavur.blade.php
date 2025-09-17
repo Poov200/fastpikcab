@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Coimbatore to Thanjavur taxi, Coimbatore to Thanjavur one way taxi, Coimbatore to Thanjavur outstation cabs, Coimbatore to Thanjavur taxi fare, Coimbatore to Thanjavur cab fare, Coimbatore to Thanjavur round trip taxi, Coimbatore to Thanjavur car rental, Coimbatore to Thanjavur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Thanjavur taxi, Coimbatore to Thanjavur one way taxi, Coimbatore to Thanjavur outstation cabs, Coimbatore to Thanjavur taxi fare, Coimbatore to Thanjavur cab fare, Coimbatore to Thanjavur round trip taxi, Coimbatore to Thanjavur car rental, Coimbatore to Thanjavur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Thanjavur Taxi Service">
     <meta property="og:description"

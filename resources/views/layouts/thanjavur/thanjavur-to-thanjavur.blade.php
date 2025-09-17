@@ -8,7 +8,7 @@
     <meta name="description"
         content="Book a reliable Thanjavur local taxi service with Fastpik Cab. Get affordable fares for city tours, airport transfers, and hourly rentals. ">
     <meta name="keywords"
-        content="Thanjavur local taxi, Thanjavur city cabs, Thanjavur taxi fare, Thanjavur cab booking, Thanjavur airport taxi, Thanjavur railway station taxi, Thanjavur car rental, taxi in Thanjavur">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thanjavur local taxi, Thanjavur city cabs, Thanjavur taxi fare, Thanjavur cab booking, Thanjavur airport taxi, Thanjavur railway station taxi, Thanjavur car rental, taxi in Thanjavur">
     <meta property="og:title" content="Fastpik Cab - Thanjavur Local Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable local taxi service in Thanjavur. Book online for city tours and local transfers.">

@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karur to Thoothukudi taxi, Karur to Thoothukudi one way taxi, Karur to Thoothukudi outstation cabs, Karur to Thoothukudi taxi fare, Karur to Thoothukudi cab fare, Karur to Thoothukudi round trip taxi, Karur to Thoothukudi car rental, Karur to Thoothukudi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karur to Thoothukudi taxi, Karur to Thoothukudi one way taxi, Karur to Thoothukudi outstation cabs, Karur to Thoothukudi taxi fare, Karur to Thoothukudi cab fare, Karur to Thoothukudi round trip taxi, Karur to Thoothukudi car rental, Karur to Thoothukudi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Thoothukudi Taxi Service">
     <meta property="og:description"

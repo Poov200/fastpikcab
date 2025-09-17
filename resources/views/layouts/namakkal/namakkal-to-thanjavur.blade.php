@@ -10,7 +10,7 @@
         content="Book a reliable Namakkal to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Namakkal to Thanjavur taxi, Namakkal to Thanjavur one way taxi, Namakkal to Thanjavur outstation cabs, Namakkal to Thanjavur taxi fare, Namakkal to Thanjavur cab fare, Namakkal to Thanjavur round trip taxi, Namakkal to Thanjavur car rental, Namakkal to Thanjavur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Namakkal to Thanjavur taxi, Namakkal to Thanjavur one way taxi, Namakkal to Thanjavur outstation cabs, Namakkal to Thanjavur taxi fare, Namakkal to Thanjavur cab fare, Namakkal to Thanjavur round trip taxi, Namakkal to Thanjavur car rental, Namakkal to Thanjavur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Namakkal to Thanjavur Taxi Service">
     <meta property="og:description"

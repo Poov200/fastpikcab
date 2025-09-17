@@ -10,7 +10,7 @@
         content="Book a reliable Tiruppur to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tiruppur to Cuddalore taxi, Tiruppur to Cuddalore one way taxi, Tiruppur to Cuddalore outstation cabs, Tiruppur to Cuddalore taxi fare, Tiruppur to Cuddalore cab fare, Tiruppur to Cuddalore round trip taxi, Tiruppur to Cuddalore car rental, Tiruppur to Cuddalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tiruppur to Cuddalore taxi, Tiruppur to Cuddalore one way taxi, Tiruppur to Cuddalore outstation cabs, Tiruppur to Cuddalore taxi fare, Tiruppur to Cuddalore cab fare, Tiruppur to Cuddalore round trip taxi, Tiruppur to Cuddalore car rental, Tiruppur to Cuddalore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tiruppur to Cuddalore Taxi Service">
     <meta property="og:description"

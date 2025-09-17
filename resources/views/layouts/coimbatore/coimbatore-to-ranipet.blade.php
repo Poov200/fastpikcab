@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Coimbatore to Ranipet taxi, Coimbatore to Ranipet one way taxi, Coimbatore to Ranipet outstation cabs, Coimbatore to Ranipet taxi fare, Coimbatore to Ranipet cab fare, Coimbatore to Ranipet round trip taxi, Coimbatore to Ranipet car rental, Coimbatore to Ranipet cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Ranipet taxi, Coimbatore to Ranipet one way taxi, Coimbatore to Ranipet outstation cabs, Coimbatore to Ranipet taxi fare, Coimbatore to Ranipet cab fare, Coimbatore to Ranipet round trip taxi, Coimbatore to Ranipet car rental, Coimbatore to Ranipet cab booking">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Ranipet Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Kanchipuram to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Kanchipuram to Coimbatore taxi, Kanchipuram to Coimbatore one way taxi, Kanchipuram to Coimbatore outstation cabs, Kanchipuram to Coimbatore taxi fare, Kanchipuram to Coimbatore cab fare, Kanchipuram to Coimbatore round trip taxi, Kanchipuram to Coimbatore car rental, Kanchipuram to Coimbatore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Kanchipuram to Coimbatore taxi, Kanchipuram to Coimbatore one way taxi, Kanchipuram to Coimbatore outstation cabs, Kanchipuram to Coimbatore taxi fare, Kanchipuram to Coimbatore cab fare, Kanchipuram to Coimbatore round trip taxi, Kanchipuram to Coimbatore car rental, Kanchipuram to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Kanchipuram to Coimbatore Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Krishnagiri to Kochi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Krishnagiri to Kochi taxi, Krishnagiri to Kochi one way taxi, Krishnagiri to Kochi outstation cabs, Krishnagiri to Kochi taxi fare, Krishnagiri to Kochi cab fare, Krishnagiri to Kochi round trip taxi, Krishnagiri to Kochi car rental, Krishnagiri to Kochi cab booking, Krishnagiri to Kerala taxi">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Krishnagiri to Kochi taxi, Krishnagiri to Kochi one way taxi, Krishnagiri to Kochi outstation cabs, Krishnagiri to Kochi taxi fare, Krishnagiri to Kochi cab fare, Krishnagiri to Kochi round trip taxi, Krishnagiri to Kochi car rental, Krishnagiri to Kochi cab booking, Krishnagiri to Kerala taxi">
 
     <meta property="og:title" content="Fastpik Cab - Krishnagiri to Kochi Taxi Service">
     <meta property="og:description"

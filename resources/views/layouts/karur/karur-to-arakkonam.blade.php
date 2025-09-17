@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Arakkonam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karur to Arakkonam taxi, Karur to Arakkonam one way taxi, Karur to Arakkonam outstation cabs, Karur to Arakkonam taxi fare, Karur to Arakkonam cab fare, Karur to Arakkonam round trip taxi, Karur to Arakkonam car rental, Karur to Arakkonam cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karur to Arakkonam taxi, Karur to Arakkonam one way taxi, Karur to Arakkonam outstation cabs, Karur to Arakkonam taxi fare, Karur to Arakkonam cab fare, Karur to Arakkonam round trip taxi, Karur to Arakkonam car rental, Karur to Arakkonam cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Arakkonam Taxi Service">
     <meta property="og:description"

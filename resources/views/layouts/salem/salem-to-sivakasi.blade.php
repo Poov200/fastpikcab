@@ -10,7 +10,7 @@
         content="Book a reliable Salem to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Salem to Sivakasi taxi, Salem to Sivakasi one way taxi, Salem to Sivakasi outstation cabs, Salem to Sivakasi taxi fare, Salem to Sivakasi cab fare, Salem to Sivakasi round trip taxi, Salem to Sivakasi car rental, Salem to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Salem to Sivakasi taxi, Salem to Sivakasi one way taxi, Salem to Sivakasi outstation cabs, Salem to Sivakasi taxi fare, Salem to Sivakasi cab fare, Salem to Sivakasi round trip taxi, Salem to Sivakasi car rental, Salem to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Salem to Sivakasi Taxi Service">
     <meta property="og:description"

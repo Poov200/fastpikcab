@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Bangalore to Erode taxi, Bangalore to Erode one way taxi, Bangalore to Erode outstation cabs, Bangalore to Erode taxi fare, Bangalore to Erode cab fare, Bangalore to Erode round trip taxi, Bangalore to Erode car rental, Bangalore to Erode cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Bangalore to Erode taxi, Bangalore to Erode one way taxi, Bangalore to Erode outstation cabs, Bangalore to Erode taxi fare, Bangalore to Erode cab fare, Bangalore to Erode round trip taxi, Bangalore to Erode car rental, Bangalore to Erode cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Erode Taxi Service">
     <meta property="og:description"

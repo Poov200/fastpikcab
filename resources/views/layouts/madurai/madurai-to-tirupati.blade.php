@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Tirupati taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your pilgrimage or travel.">
 
     <meta name="keywords"
-        content="Madurai to Tirupati taxi, Madurai to Tirupati one way taxi, Madurai to Tirupati drop taxi, Madurai to Tirupati outstation cabs, Madurai to Tirupati taxi fare, Madurai to Tirupati cab fare, Madurai to Tirupati round trip taxi, Madurai to Tirupati car rental, Madurai to Tirupati cab booking, Madurai to Tirumala taxi">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Tirupati taxi, Madurai to Tirupati one way taxi, Madurai to Tirupati drop taxi, Madurai to Tirupati outstation cabs, Madurai to Tirupati taxi fare, Madurai to Tirupati cab fare, Madurai to Tirupati round trip taxi, Madurai to Tirupati car rental, Madurai to Tirupati cab booking, Madurai to Tirumala taxi">
 
     <meta property="og:title" content="Fastpik Cab - Madurai to Tirupati Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Perambalur to Krishnagiri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Perambalur to Krishnagiri taxi, Perambalur to Krishnagiri one way taxi, Perambalur to Krishnagiri outstation cabs, Perambalur to Krishnagiri taxi fare, Perambalur to Krishnagiri cab fare, Perambalur to Krishnagiri round trip taxi, Perambalur to Krishnagiri car rental, Perambalur to Krishnagiri cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Perambalur to Krishnagiri taxi, Perambalur to Krishnagiri one way taxi, Perambalur to Krishnagiri outstation cabs, Perambalur to Krishnagiri taxi fare, Perambalur to Krishnagiri cab fare, Perambalur to Krishnagiri round trip taxi, Perambalur to Krishnagiri car rental, Perambalur to Krishnagiri cab booking">
 
     <meta property="og:title" content="Fastpikcab - Perambalur to Krishnagiri Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Kanchipuram to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Kanchipuram to Madurai taxi, Kanchipuram to Madurai one way taxi, Kanchipuram to Madurai outstation cabs, Kanchipuram to Madurai taxi fare, Kanchipuram to Madurai cab fare, Kanchipuram to Madurai round trip taxi, Kanchipuram to Madurai car rental, Kanchipuram to Madurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Kanchipuram to Madurai taxi, Kanchipuram to Madurai one way taxi, Kanchipuram to Madurai outstation cabs, Kanchipuram to Madurai taxi fare, Kanchipuram to Madurai cab fare, Kanchipuram to Madurai round trip taxi, Kanchipuram to Madurai car rental, Kanchipuram to Madurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Kanchipuram to Madurai Taxi Service">
     <meta property="og:description"

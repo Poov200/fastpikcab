@@ -10,7 +10,7 @@
         content="Book a reliable Thoothukudi to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Thoothukudi to Thanjavur taxi, Thoothukudi to Thanjavur one way taxi, Thoothukudi to Thanjavur outstation cabs, Thoothukudi to Thanjavur taxi fare, Thoothukudi to Thanjavur cab fare, Thoothukudi to Thanjavur round trip taxi, Thoothukudi to Thanjavur car rental, Thoothukudi to Thanjavur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thoothukudi to Thanjavur taxi, Thoothukudi to Thanjavur one way taxi, Thoothukudi to Thanjavur outstation cabs, Thoothukudi to Thanjavur taxi fare, Thoothukudi to Thanjavur cab fare, Thoothukudi to Thanjavur round trip taxi, Thoothukudi to Thanjavur car rental, Thoothukudi to Thanjavur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thoothukudi to Thanjavur Taxi Service">
     <meta property="og:description"

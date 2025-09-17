@@ -10,7 +10,7 @@
         content="Book a reliable Erode to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Erode to Coimbatore taxi, Erode to Coimbatore one way taxi, Erode to Coimbatore outstation cabs, Erode to Coimbatore taxi fare, Erode to Coimbatore cab fare, Erode to Coimbatore round trip taxi, Erode to Coimbatore car rental, Erode to Coimbatore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Erode to Coimbatore taxi, Erode to Coimbatore one way taxi, Erode to Coimbatore outstation cabs, Erode to Coimbatore taxi fare, Erode to Coimbatore cab fare, Erode to Coimbatore round trip taxi, Erode to Coimbatore car rental, Erode to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Erode to Coimbatore Taxi Service">
     <meta property="og:description"

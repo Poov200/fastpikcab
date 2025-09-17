@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tirupati to Chennai taxi, Tirupati to Chennai one way taxi, Tirupati to Chennai outstation cabs, Tirupati to Chennai taxi fare, Tirupati to Chennai cab fare, Tirupati to Chennai round trip taxi, Tirupati to Chennai car rental, Tirupati to Chennai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirupati to Chennai taxi, Tirupati to Chennai one way taxi, Tirupati to Chennai outstation cabs, Tirupati to Chennai taxi fare, Tirupati to Chennai cab fare, Tirupati to Chennai round trip taxi, Tirupati to Chennai car rental, Tirupati to Chennai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Chennai Taxi Service">
     <meta property="og:description"

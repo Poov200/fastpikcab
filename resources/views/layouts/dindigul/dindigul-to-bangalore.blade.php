@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Dindigul to Bangalore taxi, Dindigul to Bangalore one way taxi, Dindigul to Bangalore outstation cabs, Dindigul to Bangalore taxi fare, Dindigul to Bangalore cab fare, Dindigul to Bangalore round trip taxi, Dindigul to Bangalore car rental, Dindigul to Bangalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Bangalore taxi, Dindigul to Bangalore one way taxi, Dindigul to Bangalore outstation cabs, Dindigul to Bangalore taxi fare, Dindigul to Bangalore cab fare, Dindigul to Bangalore round trip taxi, Dindigul to Bangalore car rental, Dindigul to Bangalore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Bangalore Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karaikal to Ramanathapuram taxi, Karaikal to Ramanathapuram one way taxi, Karaikal to Ramanathapuram outstation cabs, Karaikal to Ramanathapuram taxi fare, Karaikal to Ramanathapuram cab fare, Karaikal to Ramanathapuram round trip taxi, Karaikal to Ramanathapuram car rental, Karaikal to Ramanathapuram cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Ramanathapuram taxi, Karaikal to Ramanathapuram one way taxi, Karaikal to Ramanathapuram outstation cabs, Karaikal to Ramanathapuram taxi fare, Karaikal to Ramanathapuram cab fare, Karaikal to Ramanathapuram round trip taxi, Karaikal to Ramanathapuram car rental, Karaikal to Ramanathapuram cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Ramanathapuram Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Puducherry to Arani taxi, Puducherry to Arani one way taxi, Puducherry to Arani outstation cabs, Puducherry to Arani taxi fare, Puducherry to Arani cab fare, Puducherry to Arani round trip taxi, Puducherry to Arani car rental, Puducherry to Arani cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Arani taxi, Puducherry to Arani one way taxi, Puducherry to Arani outstation cabs, Puducherry to Arani taxi fare, Puducherry to Arani cab fare, Puducherry to Arani round trip taxi, Puducherry to Arani car rental, Puducherry to Arani cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Arani Taxi Service">
     <meta property="og:description"

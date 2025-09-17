@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Virudhunagar to Pudukkottai taxi, Virudhunagar to Pudukkottai one way taxi, Virudhunagar to Pudukkottai outstation cabs, Virudhunagar to Pudukkottai taxi fare, Virudhunagar to Pudukkottai cab fare, Virudhunagar to Pudukkottai round trip taxi, Virudhunagar to Pudukkottai car rental, Virudhunagar to Pudukkottai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Virudhunagar to Pudukkottai taxi, Virudhunagar to Pudukkottai one way taxi, Virudhunagar to Pudukkottai outstation cabs, Virudhunagar to Pudukkottai taxi fare, Virudhunagar to Pudukkottai cab fare, Virudhunagar to Pudukkottai round trip taxi, Virudhunagar to Pudukkottai car rental, Virudhunagar to Pudukkottai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Pudukkottai Taxi Service">
     <meta property="og:description"

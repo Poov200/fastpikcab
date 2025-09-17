@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Dindigul to Pudukkottai taxi, Dindigul to Pudukkottai one way taxi, Dindigul to Pudukkottai outstation cabs, Dindigul to Pudukkottai taxi fare, Dindigul to Pudukkottai cab fare, Dindigul to Pudukkottai round trip taxi, Dindigul to Pudukkottai car rental, Dindigul to Pudukkottai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Pudukkottai taxi, Dindigul to Pudukkottai one way taxi, Dindigul to Pudukkottai outstation cabs, Dindigul to Pudukkottai taxi fare, Dindigul to Pudukkottai cab fare, Dindigul to Pudukkottai round trip taxi, Dindigul to Pudukkottai car rental, Dindigul to Pudukkottai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Pudukkottai Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Madurai to Thiruvarur taxi, Madurai to Thiruvarur one way taxi, Madurai to Thiruvarur outstation cabs, Madurai to Thiruvarur taxi fare, Madurai to Thiruvarur cab fare, Madurai to Thiruvarur round trip taxi, Madurai to Thiruvarur car rental, Madurai to Thiruvarur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Thiruvarur taxi, Madurai to Thiruvarur one way taxi, Madurai to Thiruvarur outstation cabs, Madurai to Thiruvarur taxi fare, Madurai to Thiruvarur cab fare, Madurai to Thiruvarur round trip taxi, Madurai to Thiruvarur car rental, Madurai to Thiruvarur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Madurai to Thiruvarur Taxi Service">
     <meta property="og:description"

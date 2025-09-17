@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karur to Sivakasi taxi, Karur to Sivakasi one way taxi, Karur to Sivakasi outstation cabs, Karur to Sivakasi taxi fare, Karur to Sivakasi cab fare, Karur to Sivakasi round trip taxi, Karur to Sivakasi car rental, Karur to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karur to Sivakasi taxi, Karur to Sivakasi one way taxi, Karur to Sivakasi outstation cabs, Karur to Sivakasi taxi fare, Karur to Sivakasi cab fare, Karur to Sivakasi round trip taxi, Karur to Sivakasi car rental, Karur to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Sivakasi Taxi Service">
     <meta property="og:description"

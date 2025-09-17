@@ -10,7 +10,7 @@
         content="Book a reliable Perambalur to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Perambalur to Namakkal taxi, Perambalur to Namakkal one way taxi, Perambalur to Namakkal outstation cabs, Perambalur to Namakkal taxi fare, Perambalur to Namakkal cab fare, Perambalur to Namakkal round trip taxi, Perambalur to Namakkal car rental, Perambalur to Namakkal cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Perambalur to Namakkal taxi, Perambalur to Namakkal one way taxi, Perambalur to Namakkal outstation cabs, Perambalur to Namakkal taxi fare, Perambalur to Namakkal cab fare, Perambalur to Namakkal round trip taxi, Perambalur to Namakkal car rental, Perambalur to Namakkal cab booking">
 
     <meta property="og:title" content="Fastpikcab - Perambalur to Namakkal Taxi Service">
     <meta property="og:description"

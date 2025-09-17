@@ -10,7 +10,7 @@
         content="Book a reliable Ariyalur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ariyalur to Bangalore taxi, Ariyalur to Bangalore one way taxi, Ariyalur to Bangalore outstation cabs, Ariyalur to Bangalore taxi fare, Ariyalur to Bangalore cab fare, Ariyalur to Bangalore round trip taxi, Ariyalur to Bangalore car rental, Ariyalur to Bangalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ariyalur to Bangalore taxi, Ariyalur to Bangalore one way taxi, Ariyalur to Bangalore outstation cabs, Ariyalur to Bangalore taxi fare, Ariyalur to Bangalore cab fare, Ariyalur to Bangalore round trip taxi, Ariyalur to Bangalore car rental, Ariyalur to Bangalore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ariyalur to Bangalore Taxi Service">
     <meta property="og:description"

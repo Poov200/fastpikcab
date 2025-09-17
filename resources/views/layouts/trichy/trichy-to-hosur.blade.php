@@ -10,7 +10,7 @@
         content="Book a reliable Trichy to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Trichy to Hosur taxi, Trichy to Hosur one way taxi, Trichy to Hosur outstation cabs, Trichy to Hosur taxi fare, Trichy to Hosur cab fare, Trichy to Hosur round trip taxi, Trichy to Hosur car rental, Trichy to Hosur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Hosur taxi, Trichy to Hosur one way taxi, Trichy to Hosur outstation cabs, Trichy to Hosur taxi fare, Trichy to Hosur cab fare, Trichy to Hosur round trip taxi, Trichy to Hosur car rental, Trichy to Hosur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Trichy to Hosur Taxi Service">
     <meta property="og:description"

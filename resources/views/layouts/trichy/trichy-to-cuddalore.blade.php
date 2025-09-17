@@ -10,7 +10,7 @@
         content="Book a reliable Trichy to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Trichy to Cuddalore taxi, Trichy to Cuddalore one way taxi, Trichy to Cuddalore outstation cabs, Trichy to Cuddalore taxi fare, Trichy to Cuddalore cab fare, Trichy to Cuddalore round trip taxi, Trichy to Cuddalore car rental, Trichy to Cuddalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Cuddalore taxi, Trichy to Cuddalore one way taxi, Trichy to Cuddalore outstation cabs, Trichy to Cuddalore taxi fare, Trichy to Cuddalore cab fare, Trichy to Cuddalore round trip taxi, Trichy to Cuddalore car rental, Trichy to Cuddalore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Trichy to Cuddalore Taxi Service">
     <meta property="og:description"

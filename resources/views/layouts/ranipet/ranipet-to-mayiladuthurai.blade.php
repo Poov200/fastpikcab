@@ -10,7 +10,7 @@
         content="Book a reliable Ranipet to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ranipet to Mayiladuthurai taxi, Ranipet to Mayiladuthurai one way taxi, Ranipet to Mayiladuthurai outstation cabs, Ranipet to Mayiladuthurai taxi fare, Ranipet to Mayiladuthurai cab fare, Ranipet to Mayiladuthurai round trip taxi, Ranipet to Mayiladuthurai car rental, Ranipet to Mayiladuthurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Mayiladuthurai taxi, Ranipet to Mayiladuthurai one way taxi, Ranipet to Mayiladuthurai outstation cabs, Ranipet to Mayiladuthurai taxi fare, Ranipet to Mayiladuthurai cab fare, Ranipet to Mayiladuthurai round trip taxi, Ranipet to Mayiladuthurai car rental, Ranipet to Mayiladuthurai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ranipet to Mayiladuthurai Taxi Service">
     <meta property="og:description"

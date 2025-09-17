@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Hosur to Ariyalur taxi, Hosur to Ariyalur one way taxi, Hosur to Ariyalur outstation cabs, Hosur to Ariyalur taxi fare, Hosur to Ariyalur cab fare, Hosur to Ariyalur round trip taxi, Hosur to Ariyalur car rental, Hosur to Ariyalur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Hosur to Ariyalur taxi, Hosur to Ariyalur one way taxi, Hosur to Ariyalur outstation cabs, Hosur to Ariyalur taxi fare, Hosur to Ariyalur cab fare, Hosur to Ariyalur round trip taxi, Hosur to Ariyalur car rental, Hosur to Ariyalur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Ariyalur Taxi Service">
     <meta property="og:description"

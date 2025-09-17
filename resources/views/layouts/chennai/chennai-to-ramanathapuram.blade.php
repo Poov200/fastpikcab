@@ -10,7 +10,7 @@
         content="Book a reliable Chennai to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Chennai to Ramanathapuram taxi, Chennai Airport to Ramanathapuram taxi, Chennai to Ramanathapuram one way taxi, Chennai to Ramanathapuram outstation cabs, Chennai to Ramanathapuram taxi fare, Chennai to Ramanathapuram cab fare, Chennai to Ramanathapuram round trip taxi, Chennai to Ramanathapuram car rental, Chennai to Ramanathapuram cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Chennai to Ramanathapuram taxi, Chennai Airport to Ramanathapuram taxi, Chennai to Ramanathapuram one way taxi, Chennai to Ramanathapuram outstation cabs, Chennai to Ramanathapuram taxi fare, Chennai to Ramanathapuram cab fare, Chennai to Ramanathapuram round trip taxi, Chennai to Ramanathapuram car rental, Chennai to Ramanathapuram cab booking">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Ramanathapuram Taxi Service">
     <meta property="og:description"

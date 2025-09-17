@@ -10,7 +10,7 @@
         content="Book a reliable Vellore to Karaikal taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
-        content="Vellore to Karaikal taxi, Vellore to Karaikal one way taxi, Vellore to Karaikal drop taxi, Vellore to Karaikal cabs, Vellore to Karaikal taxi fare, Vellore to Karaikal cab fare, Vellore to Karaikal round trip taxi, Vellore to Karaikal car rental, Vellore to Karaikal cab booking, taxi from Vellore, cab to Karaikal">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Vellore to Karaikal taxi, Vellore to Karaikal one way taxi, Vellore to Karaikal drop taxi, Vellore to Karaikal cabs, Vellore to Karaikal taxi fare, Vellore to Karaikal cab fare, Vellore to Karaikal round trip taxi, Vellore to Karaikal car rental, Vellore to Karaikal cab booking, taxi from Vellore, cab to Karaikal">
 
     <meta property="og:title" content="Fastpik Cab - Vellore to Karaikal Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Virudhunagar to Thanjavur taxi, Virudhunagar to Thanjavur one way taxi, Virudhunagar to Thanjavur outstation cabs, Virudhunagar to Thanjavur taxi fare, Virudhunagar to Thanjavur cab fare, Virudhunagar to Thanjavur round trip taxi, Virudhunagar to Thanjavur car rental, Virudhunagar to Thanjavur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Virudhunagar to Thanjavur taxi, Virudhunagar to Thanjavur one way taxi, Virudhunagar to Thanjavur outstation cabs, Virudhunagar to Thanjavur taxi fare, Virudhunagar to Thanjavur cab fare, Virudhunagar to Thanjavur round trip taxi, Virudhunagar to Thanjavur car rental, Virudhunagar to Thanjavur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Thanjavur Taxi Service">
     <meta property="og:description"

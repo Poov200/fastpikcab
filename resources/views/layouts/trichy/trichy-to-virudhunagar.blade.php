@@ -10,7 +10,7 @@
         content="Book a reliable Trichy to Virudhunagar taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Trichy to Virudhunagar taxi, Trichy to Virudhunagar one way taxi, Trichy to Virudhunagar outstation cabs, Trichy to Virudhunagar taxi fare, Trichy to Virudhunagar cab fare, Trichy to Virudhunagar round trip taxi, Trichy to Virudhunagar car rental, Trichy to Virudhunagar cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Virudhunagar taxi, Trichy to Virudhunagar one way taxi, Trichy to Virudhunagar outstation cabs, Trichy to Virudhunagar taxi fare, Trichy to Virudhunagar cab fare, Trichy to Virudhunagar round trip taxi, Trichy to Virudhunagar car rental, Trichy to Virudhunagar cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Trichy to Virudhunagar Taxi Service">
     <meta property="og:description"

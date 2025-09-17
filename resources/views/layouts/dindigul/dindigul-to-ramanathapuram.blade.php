@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Dindigul to Ramanathapuram taxi, Dindigul to Ramanathapuram one way taxi, Dindigul to Ramanathapuram outstation cabs, Dindigul to Ramanathapuram taxi fare, Dindigul to Ramanathapuram cab fare, Dindigul to Ramanathapuram round trip taxi, Dindigul to Ramanathapuram car rental, Dindigul to Ramanathapuram cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Ramanathapuram taxi, Dindigul to Ramanathapuram one way taxi, Dindigul to Ramanathapuram outstation cabs, Dindigul to Ramanathapuram taxi fare, Dindigul to Ramanathapuram cab fare, Dindigul to Ramanathapuram round trip taxi, Dindigul to Ramanathapuram car rental, Dindigul to Ramanathapuram cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Ramanathapuram Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Thanjavur to Pondicherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Thanjavur to Pondicherry taxi, Thanjavur to Pondicherry one way taxi, Thanjavur to Pondicherry outstation cabs, Thanjavur to Pondicherry taxi fare, Thanjavur to Pondicherry cab fare, Thanjavur to Pondicherry round trip taxi, Thanjavur to Pondicherry car rental, Thanjavur to Pondicherry cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thanjavur to Pondicherry taxi, Thanjavur to Pondicherry one way taxi, Thanjavur to Pondicherry outstation cabs, Thanjavur to Pondicherry taxi fare, Thanjavur to Pondicherry cab fare, Thanjavur to Pondicherry round trip taxi, Thanjavur to Pondicherry car rental, Thanjavur to Pondicherry cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thanjavur to Pondicherry Taxi Service">
     <meta property="og:description"

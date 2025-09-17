@@ -10,7 +10,7 @@
         content="Book a reliable Chennai to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
 
     <meta name="keywords"
-        content="Chennai to Hosur taxi, Chennai Airport to Hosur taxi, Chennai to Hosur one way taxi, Chennai to Hosur outstation cabs, Chennai to Hosur taxi fare, Chennai to Hosur cab fare, Chennai Airport to Hosur airport taxi, Chennai to Hosur round trip taxi, Chennai to Hosur round trip taxi fare, Chennai to Hosur car rental, Chennai to Hosur cab booking, Chennai to Hosur taxi service">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Chennai to Hosur taxi, Chennai Airport to Hosur taxi, Chennai to Hosur one way taxi, Chennai to Hosur outstation cabs, Chennai to Hosur taxi fare, Chennai to Hosur cab fare, Chennai Airport to Hosur airport taxi, Chennai to Hosur round trip taxi, Chennai to Hosur round trip taxi fare, Chennai to Hosur car rental, Chennai to Hosur cab booking, Chennai to Hosur taxi service">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Hosur Taxi Service">
     <meta property="og:description"

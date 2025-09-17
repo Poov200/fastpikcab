@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karaikal to Puducherry taxi, Karaikal to Puducherry one way taxi, Karaikal to Puducherry outstation cabs, Karaikal to Puducherry taxi fare, Karaikal to Puducherry cab fare, Karaikal to Puducherry round trip taxi, Karaikal to Puducherry car rental, Karaikal to Puducherry cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Puducherry taxi, Karaikal to Puducherry one way taxi, Karaikal to Puducherry outstation cabs, Karaikal to Puducherry taxi fare, Karaikal to Puducherry cab fare, Karaikal to Puducherry round trip taxi, Karaikal to Puducherry car rental, Karaikal to Puducherry cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Puducherry Taxi Service">
     <meta property="og:description"

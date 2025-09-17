@@ -10,7 +10,7 @@
         content="Book a reliable Erode to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your journey to various Kerala destinations.">
 
     <meta name="keywords"
-        content="Erode to Kerala taxi, Erode to Kerala one way taxi, Erode to Kerala outstation cabs, Erode to Kerala taxi fare, Erode to Kerala cab fare, Erode to Kerala round trip taxi, Erode to Kerala car rental, Erode to Kerala cab booking, Erode to Kochi taxi, Erode to Trivandrum taxi, Erode to Munnar taxi, Erode to Alleppey taxi">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Erode to Kerala taxi, Erode to Kerala one way taxi, Erode to Kerala outstation cabs, Erode to Kerala taxi fare, Erode to Kerala cab fare, Erode to Kerala round trip taxi, Erode to Kerala car rental, Erode to Kerala cab booking, Erode to Kochi taxi, Erode to Trivandrum taxi, Erode to Munnar taxi, Erode to Alleppey taxi">
 
     <meta property="og:title" content="Fastpikcab - Erode to Kerala Taxi Service">
     <meta property="og:description"

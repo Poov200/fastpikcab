@@ -10,7 +10,7 @@
         content="Book a reliable Pudukkottai to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Pudukkottai to Tiruppur taxi, Pudukkottai to Tiruppur one way taxi, Pudukkottai to Tiruppur outstation cabs, Pudukkottai to Tiruppur taxi fare, Pudukkottai to Tiruppur cab fare, Pudukkottai to Tiruppur round trip taxi, Pudukkottai to Tiruppur car rental, Pudukkottai to Tiruppur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Pudukkottai to Tiruppur taxi, Pudukkottai to Tiruppur one way taxi, Pudukkottai to Tiruppur outstation cabs, Pudukkottai to Tiruppur taxi fare, Pudukkottai to Tiruppur cab fare, Pudukkottai to Tiruppur round trip taxi, Pudukkottai to Tiruppur car rental, Pudukkottai to Tiruppur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Pudukkottai to Tiruppur Taxi Service">
     <meta property="og:description"

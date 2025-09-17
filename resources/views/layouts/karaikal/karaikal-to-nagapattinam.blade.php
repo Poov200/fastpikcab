@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karaikal to Nagapattinam taxi, Karaikal to Nagapattinam one way taxi, Karaikal to Nagapattinam outstation cabs, Karaikal to Nagapattinam taxi fare, Karaikal to Nagapattinam cab fare, Karaikal to Nagapattinam round trip taxi, Karaikal to Nagapattinam car rental, Karaikal to Nagapattinam cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Nagapattinam taxi, Karaikal to Nagapattinam one way taxi, Karaikal to Nagapattinam outstation cabs, Karaikal to Nagapattinam taxi fare, Karaikal to Nagapattinam cab fare, Karaikal to Nagapattinam round trip taxi, Karaikal to Nagapattinam car rental, Karaikal to Nagapattinam cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Nagapattinam Taxi Service">
     <meta property="og:description"

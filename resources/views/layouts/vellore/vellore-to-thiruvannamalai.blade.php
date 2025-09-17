@@ -10,7 +10,7 @@
         content="Book a reliable Vellore to Thiruvannamalai taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
-        content="Vellore to Thiruvannamalai taxi, Vellore to Thiruvannamalai one way taxi, Vellore to Thiruvannamalai drop taxi, Vellore to Thiruvannamalai cabs, Vellore to Thiruvannamalai taxi fare, Vellore to Thiruvannamalai cab fare, Vellore to Thiruvannamalai round trip taxi, Vellore to Thiruvannamalai car rental, Vellore to Thiruvannamalai cab booking, taxi from Vellore, cab to Thiruvannamalai">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Vellore to Thiruvannamalai taxi, Vellore to Thiruvannamalai one way taxi, Vellore to Thiruvannamalai drop taxi, Vellore to Thiruvannamalai cabs, Vellore to Thiruvannamalai taxi fare, Vellore to Thiruvannamalai cab fare, Vellore to Thiruvannamalai round trip taxi, Vellore to Thiruvannamalai car rental, Vellore to Thiruvannamalai cab booking, taxi from Vellore, cab to Thiruvannamalai">
 
     <meta property="og:title" content="Fastpik Cab - Vellore to Thiruvannamalai Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Virudhunagar to Nagapattinam taxi, Virudhunagar to Nagapattinam one way taxi, Virudhunagar to Nagapattinam outstation cabs, Virudhunagar to Nagapattinam taxi fare, Virudhunagar to Nagapattinam cab fare, Virudhunagar to Nagapattinam round trip taxi, Virudhunagar to Nagapattinam car rental, Virudhunagar to Nagapattinam cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Virudhunagar to Nagapattinam taxi, Virudhunagar to Nagapattinam one way taxi, Virudhunagar to Nagapattinam outstation cabs, Virudhunagar to Nagapattinam taxi fare, Virudhunagar to Nagapattinam cab fare, Virudhunagar to Nagapattinam round trip taxi, Virudhunagar to Nagapattinam car rental, Virudhunagar to Nagapattinam cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Nagapattinam Taxi Service">
     <meta property="og:description"

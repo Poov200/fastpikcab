@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tirupati to Kanchipuram taxi, Tirupati to Kanchipuram one way taxi, Tirupati to Kanchipuram outstation cabs, Tirupati to Kanchipuram taxi fare, Tirupati to Kanchipuram cab fare, Tirupati to Kanchipuram round trip taxi, Tirupati to Kanchipuram car rental, Tirupati to Kanchipuram cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirupati to Kanchipuram taxi, Tirupati to Kanchipuram one way taxi, Tirupati to Kanchipuram outstation cabs, Tirupati to Kanchipuram taxi fare, Tirupati to Kanchipuram cab fare, Tirupati to Kanchipuram round trip taxi, Tirupati to Kanchipuram car rental, Tirupati to Kanchipuram cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Kanchipuram Taxi Service">
     <meta property="og:description"

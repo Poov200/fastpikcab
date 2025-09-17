@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ramanathapuram to Coimbatore taxi, Ramanathapuram to Coimbatore one way taxi, Ramanathapuram to Coimbatore outstation cabs, Ramanathapuram to Coimbatore taxi fare, Ramanathapuram to Coimbatore cab fare, Ramanathapuram to Coimbatore round trip taxi, Ramanathapuram to Coimbatore car rental, Ramanathapuram to Coimbatore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ramanathapuram to Coimbatore taxi, Ramanathapuram to Coimbatore one way taxi, Ramanathapuram to Coimbatore outstation cabs, Ramanathapuram to Coimbatore taxi fare, Ramanathapuram to Coimbatore cab fare, Ramanathapuram to Coimbatore round trip taxi, Ramanathapuram to Coimbatore car rental, Ramanathapuram to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ramanathapuram to Coimbatore Taxi Service">
     <meta property="og:description"

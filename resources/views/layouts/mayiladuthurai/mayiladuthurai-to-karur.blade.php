@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Mayiladuthurai to Karur taxi, Mayiladuthurai to Karur one way taxi, Mayiladuthurai to Karur outstation cabs, Mayiladuthurai to Karur taxi fare, Mayiladuthurai to Karur cab fare, Mayiladuthurai to Karur round trip taxi, Mayiladuthurai to Karur car rental, Mayiladuthurai to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Mayiladuthurai to Karur taxi, Mayiladuthurai to Karur one way taxi, Mayiladuthurai to Karur outstation cabs, Mayiladuthurai to Karur taxi fare, Mayiladuthurai to Karur cab fare, Mayiladuthurai to Karur round trip taxi, Mayiladuthurai to Karur car rental, Mayiladuthurai to Karur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Karur Taxi Service">
     <meta property="og:description"

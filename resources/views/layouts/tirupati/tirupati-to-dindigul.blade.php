@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Dindigul taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long-distance journey.">
 
     <meta name="keywords"
-        content="Tirupati to Dindigul taxi, Tirupati to Dindigul one way taxi, Tirupati to Dindigul outstation cabs, Tirupati to Dindigul taxi fare, Tirupati to Dindigul cab fare, Tirupati to Dindigul round trip taxi, Tirupati to Dindigul car rental, Tirupati to Dindigul cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirupati to Dindigul taxi, Tirupati to Dindigul one way taxi, Tirupati to Dindigul outstation cabs, Tirupati to Dindigul taxi fare, Tirupati to Dindigul cab fare, Tirupati to Dindigul round trip taxi, Tirupati to Dindigul car rental, Tirupati to Dindigul cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Dindigul Taxi Service">
     <meta property="og:description"

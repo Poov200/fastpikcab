@@ -10,7 +10,7 @@
         content="Book a reliable Salem to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Salem to Nagapattinam taxi, Salem to Nagapattinam one way taxi, Salem to Nagapattinam outstation cabs, Salem to Nagapattinam taxi fare, Salem to Nagapattinam cab fare, Salem to Nagapattinam round trip taxi, Salem to Nagapattinam car rental, Salem to Nagapattinam cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Salem to Nagapattinam taxi, Salem to Nagapattinam one way taxi, Salem to Nagapattinam outstation cabs, Salem to Nagapattinam taxi fare, Salem to Nagapattinam cab fare, Salem to Nagapattinam round trip taxi, Salem to Nagapattinam car rental, Salem to Nagapattinam cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Salem to Nagapattinam Taxi Service">
     <meta property="og:description"

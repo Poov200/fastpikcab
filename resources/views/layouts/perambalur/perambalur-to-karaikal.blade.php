@@ -10,7 +10,7 @@
         content="Book a reliable Perambalur to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Perambalur to Karaikal taxi, Perambalur to Karaikal one way taxi, Perambalur to Karaikal outstation cabs, Perambalur to Karaikal taxi fare, Perambalur to Karaikal cab fare, Perambalur to Karaikal round trip taxi, Perambalur to Karaikal car rental, Perambalur to Karaikal cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Perambalur to Karaikal taxi, Perambalur to Karaikal one way taxi, Perambalur to Karaikal outstation cabs, Perambalur to Karaikal taxi fare, Perambalur to Karaikal cab fare, Perambalur to Karaikal round trip taxi, Perambalur to Karaikal car rental, Perambalur to Karaikal cab booking">
 
     <meta property="og:title" content="Fastpikcab - Perambalur to Karaikal Taxi Service">
     <meta property="og:description"

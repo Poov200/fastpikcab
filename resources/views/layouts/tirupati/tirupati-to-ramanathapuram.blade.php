@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tirupati to Ramanathapuram taxi, Tirupati to Ramanathapuram one way taxi, Tirupati to Ramanathapuram outstation cabs, Tirupati to Ramanathapuram taxi fare, Tirupati to Ramanathapuram cab fare, Tirupati to Ramanathapuram round trip taxi, Tirupati to Ramanathapuram car rental, Tirupati to Ramanathapuram cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirupati to Ramanathapuram taxi, Tirupati to Ramanathapuram one way taxi, Tirupati to Ramanathapuram outstation cabs, Tirupati to Ramanathapuram taxi fare, Tirupati to Ramanathapuram cab fare, Tirupati to Ramanathapuram round trip taxi, Tirupati to Ramanathapuram car rental, Tirupati to Ramanathapuram cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Ramanathapuram Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Trichy to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Trichy to Vellore taxi, Trichy to Vellore one way taxi, Trichy to Vellore outstation cabs, Trichy to Vellore taxi fare, Trichy to Vellore cab fare, Trichy to Vellore round trip taxi, Trichy to Vellore car rental, Trichy to Vellore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Vellore taxi, Trichy to Vellore one way taxi, Trichy to Vellore outstation cabs, Trichy to Vellore taxi fare, Trichy to Vellore cab fare, Trichy to Vellore round trip taxi, Trichy to Vellore car rental, Trichy to Vellore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Trichy to Vellore Taxi Service">
     <meta property="og:description"

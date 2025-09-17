@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Ramanathapuram to Kochi taxi, Ramanathapuram to Kochi one way taxi, Ramanathapuram to Kochi outstation cabs, Ramanathapuram to Kochi taxi fare, Ramanathapuram to Kochi cab fare, Ramanathapuram to Kochi round trip taxi, Ramanathapuram to Kochi car rental, Ramanathapuram to Kochi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ramanathapuram to Kochi taxi, Ramanathapuram to Kochi one way taxi, Ramanathapuram to Kochi outstation cabs, Ramanathapuram to Kochi taxi fare, Ramanathapuram to Kochi cab fare, Ramanathapuram to Kochi round trip taxi, Ramanathapuram to Kochi car rental, Ramanathapuram to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Ramanathapuram to Kochi Taxi Service">
     <meta property="og:description"

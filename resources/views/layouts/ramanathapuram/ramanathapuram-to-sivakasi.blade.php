@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ramanathapuram to Sivakasi taxi, Ramanathapuram to Sivakasi one way taxi, Ramanathapuram to Sivakasi outstation cabs, Ramanathapuram to Sivakasi taxi fare, Ramanathapuram to Sivakasi cab fare, Ramanathapuram to Sivakasi round trip taxi, Ramanathapuram to Sivakasi car rental, Ramanathapuram to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ramanathapuram to Sivakasi taxi, Ramanathapuram to Sivakasi one way taxi, Ramanathapuram to Sivakasi outstation cabs, Ramanathapuram to Sivakasi taxi fare, Ramanathapuram to Sivakasi cab fare, Ramanathapuram to Sivakasi round trip taxi, Ramanathapuram to Sivakasi car rental, Ramanathapuram to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ramanathapuram to Sivakasi Taxi Service">
     <meta property="og:description"

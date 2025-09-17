@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Puducherry to Thiruvarur taxi, Puducherry to Thiruvarur one way taxi, Puducherry to Thiruvarur outstation cabs, Puducherry to Thiruvarur taxi fare, Puducherry to Thiruvarur cab fare, Puducherry to Thiruvarur round trip taxi, Puducherry to Thiruvarur car rental, Puducherry to Thiruvarur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Thiruvarur taxi, Puducherry to Thiruvarur one way taxi, Puducherry to Thiruvarur outstation cabs, Puducherry to Thiruvarur taxi fare, Puducherry to Thiruvarur cab fare, Puducherry to Thiruvarur round trip taxi, Puducherry to Thiruvarur car rental, Puducherry to Thiruvarur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Thiruvarur Taxi Service">
     <meta property="og:description"

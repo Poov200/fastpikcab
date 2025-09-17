@@ -10,7 +10,7 @@
         content="Book a reliable local taxi service in Pudukkottai with Fastpik Cab. Get affordable rates for city travel, hourly rentals, and airport/railway station transfers. Your convenient travel partner in Pudukkottai.">
 
     <meta name="keywords"
-        content="Pudukkottai local taxi, Pudukkottai city taxi, Pudukkottai taxi rental, Pudukkottai hourly taxi, Pudukkottai airport taxi, Pudukkottai railway station taxi, Pudukkottai sightseeing taxi, local cab Pudukkottai">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Pudukkottai local taxi, Pudukkottai city taxi, Pudukkottai taxi rental, Pudukkottai hourly taxi, Pudukkottai airport taxi, Pudukkottai railway station taxi, Pudukkottai sightseeing taxi, local cab Pudukkottai">
 
     <meta property="og:title" content="Fastpik Cab - Pudukkottai Local Taxi Service">
     <meta property="og:description"

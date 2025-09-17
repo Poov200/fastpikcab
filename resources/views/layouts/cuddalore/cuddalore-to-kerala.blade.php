@@ -10,7 +10,7 @@
         content="Book a reliable Cuddalore to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Cuddalore to Kerala taxi, Cuddalore to Kerala one way taxi, Cuddalore to Kerala outstation cabs, Cuddalore to Kerala taxi fare, Cuddalore to Kerala cab fare, Cuddalore to Kerala round trip taxi, Cuddalore to Kerala car rental, Cuddalore to Kerala cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Cuddalore to Kerala taxi, Cuddalore to Kerala one way taxi, Cuddalore to Kerala outstation cabs, Cuddalore to Kerala taxi fare, Cuddalore to Kerala cab fare, Cuddalore to Kerala round trip taxi, Cuddalore to Kerala car rental, Cuddalore to Kerala cab booking">
 
     <meta property="og:title" content="Fastpikcab - Cuddalore to Kerala Taxi Service">
     <meta property="og:description"

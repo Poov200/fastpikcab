@@ -8,7 +8,7 @@
     <meta name="description"
         content="Book a reliable Puducherry to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. Comfortable cabs for your long journey.">
     <meta name="keywords"
-        content="Puducherry to Dharmapuri taxi, Puducherry to Dharmapuri one way taxi, Puducherry to Dharmapuri outstation cabs, Puducherry to Dharmapuri taxi fare, Puducherry to Dharmapuri cab fare, Puducherry to Dharmapuri round trip taxi, Puducherry to Dharmapuri car rental, Puducherry to Dharmapuri cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Dharmapuri taxi, Puducherry to Dharmapuri one way taxi, Puducherry to Dharmapuri outstation cabs, Puducherry to Dharmapuri taxi fare, Puducherry to Dharmapuri cab fare, Puducherry to Dharmapuri round trip taxi, Puducherry to Dharmapuri car rental, Puducherry to Dharmapuri cab booking">
     <meta property="og:title" content="Fastpikcab - Puducherry to Dharmapuri Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Puducherry to Dharmapuri. Book online for one-way or round-trip travel.">

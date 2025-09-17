@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Virudhunagar to Sivakasi taxi, Virudhunagar to Sivakasi one way taxi, Virudhunagar to Sivakasi outstation cabs, Virudhunagar to Sivakasi taxi fare, Virudhunagar to Sivakasi cab fare, Virudhunagar to Sivakasi round trip taxi, Virudhunagar to Sivakasi car rental, Virudhunagar to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Virudhunagar to Sivakasi taxi, Virudhunagar to Sivakasi one way taxi, Virudhunagar to Sivakasi outstation cabs, Virudhunagar to Sivakasi taxi fare, Virudhunagar to Sivakasi cab fare, Virudhunagar to Sivakasi round trip taxi, Virudhunagar to Sivakasi car rental, Virudhunagar to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Sivakasi Taxi Service">
     <meta property="og:description"

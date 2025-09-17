@@ -10,7 +10,7 @@
         content="Book a reliable Namakkal to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Namakkal to Karur taxi, Namakkal to Karur one way taxi, Namakkal to Karur outstation cabs, Namakkal to Karur taxi fare, Namakkal to Karur cab fare, Namakkal to Karur round trip taxi, Namakkal to Karur car rental, Namakkal to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Namakkal to Karur taxi, Namakkal to Karur one way taxi, Namakkal to Karur outstation cabs, Namakkal to Karur taxi fare, Namakkal to Karur cab fare, Namakkal to Karur round trip taxi, Namakkal to Karur car rental, Namakkal to Karur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Namakkal to Karur Taxi Service">
     <meta property="og:description"

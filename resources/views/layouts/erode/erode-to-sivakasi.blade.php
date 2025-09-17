@@ -10,7 +10,7 @@
         content="Book a reliable Erode to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Erode to Sivakasi taxi, Erode to Sivakasi one way taxi, Erode to Sivakasi outstation cabs, Erode to Sivakasi taxi fare, Erode to Sivakasi cab fare, Erode to Sivakasi round trip taxi, Erode to Sivakasi car rental, Erode to Sivakasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Erode to Sivakasi taxi, Erode to Sivakasi one way taxi, Erode to Sivakasi outstation cabs, Erode to Sivakasi taxi fare, Erode to Sivakasi cab fare, Erode to Sivakasi round trip taxi, Erode to Sivakasi car rental, Erode to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Erode to Sivakasi Taxi Service">
     <meta property="og:description"

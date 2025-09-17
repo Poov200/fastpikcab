@@ -10,7 +10,7 @@
         content="Book a reliable Tenkasi to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tenkasi to Nagercoil taxi, Tenkasi to Nagercoil one way taxi, Tenkasi to Nagercoil outstation cabs, Tenkasi to Nagercoil taxi fare, Tenkasi to Nagercoil cab fare, Tenkasi to Nagercoil round trip taxi, Tenkasi to Nagercoil car rental, Tenkasi to Nagercoil cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tenkasi to Nagercoil taxi, Tenkasi to Nagercoil one way taxi, Tenkasi to Nagercoil outstation cabs, Tenkasi to Nagercoil taxi fare, Tenkasi to Nagercoil cab fare, Tenkasi to Nagercoil round trip taxi, Tenkasi to Nagercoil car rental, Tenkasi to Nagercoil cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tenkasi to Nagercoil Taxi Service">
     <meta property="og:description"

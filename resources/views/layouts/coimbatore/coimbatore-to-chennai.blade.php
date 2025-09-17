@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Coimbatore to Chennai taxi, Coimbatore to Chennai one way taxi, Coimbatore to Chennai outstation cabs, Coimbatore to Chennai taxi fare, Coimbatore to Chennai cab fare, Coimbatore to Chennai round trip taxi, Coimbatore to Chennai car rental, Coimbatore to Chennai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Chennai taxi, Coimbatore to Chennai one way taxi, Coimbatore to Chennai outstation cabs, Coimbatore to Chennai taxi fare, Coimbatore to Chennai cab fare, Coimbatore to Chennai round trip taxi, Coimbatore to Chennai car rental, Coimbatore to Chennai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Chennai Taxi Service">
     <meta property="og:description"

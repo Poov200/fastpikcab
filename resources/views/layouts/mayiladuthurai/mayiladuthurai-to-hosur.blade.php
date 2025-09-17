@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Hosur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Mayiladuthurai to Hosur taxi, Mayiladuthurai to Hosur one way taxi, Mayiladuthurai to Hosur outstation cabs, Mayiladuthurai to Hosur taxi fare, Mayiladuthurai to Hosur cab fare, Mayiladuthurai to Hosur round trip taxi, Mayiladuthurai to Hosur car rental, Mayiladuthurai to Hosur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Mayiladuthurai to Hosur taxi, Mayiladuthurai to Hosur one way taxi, Mayiladuthurai to Hosur outstation cabs, Mayiladuthurai to Hosur taxi fare, Mayiladuthurai to Hosur cab fare, Mayiladuthurai to Hosur round trip taxi, Mayiladuthurai to Hosur car rental, Mayiladuthurai to Hosur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Hosur Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Ariyalur to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ariyalur to Vellore taxi, Ariyalur to Vellore one way taxi, Ariyalur to Vellore outstation cabs, Ariyalur to Vellore taxi fare, Ariyalur to Vellore cab fare, Ariyalur to Vellore round trip taxi, Ariyalur to Vellore car rental, Ariyalur to Vellore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ariyalur to Vellore taxi, Ariyalur to Vellore one way taxi, Ariyalur to Vellore outstation cabs, Ariyalur to Vellore taxi fare, Ariyalur to Vellore cab fare, Ariyalur to Vellore round trip taxi, Ariyalur to Vellore car rental, Ariyalur to Vellore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ariyalur to Vellore Taxi Service">
     <meta property="og:description"

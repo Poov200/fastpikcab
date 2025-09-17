@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Nagapattinam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Bangalore to Nagapattinam taxi, Bangalore to Nagapattinam one way taxi, Bangalore to Nagapattinam outstation cabs, Bangalore to Nagapattinam taxi fare, Bangalore to Nagapattinam cab fare, Bangalore to Nagapattinam round trip taxi, Bangalore to Nagapattinam car rental, Bangalore to Nagapattinam cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Bangalore to Nagapattinam taxi, Bangalore to Nagapattinam one way taxi, Bangalore to Nagapattinam outstation cabs, Bangalore to Nagapattinam taxi fare, Bangalore to Nagapattinam cab fare, Bangalore to Nagapattinam round trip taxi, Bangalore to Nagapattinam car rental, Bangalore to Nagapattinam cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Nagapattinam Taxi Service">
     <meta property="og:description"

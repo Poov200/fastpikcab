@@ -9,7 +9,7 @@
     <meta name="description"
         content="Book a taxi online with Fastpikcab for fast, safe, and affordable rides. Your trusted local cab service for airport transfers, city commutes, and reliable taxi booking." />
     <meta name="keywords"
-        content="Fastpikcab, taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Fastpikcab, taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
     <meta name="author" content="Fastpikcab" />
     <meta name="robots" content="index, follow"> <link rel="canonical" href="https://www.fastpikcab.com/" /> <meta property="og:title" content="Fastpikcab - Online Taxi Booking & Cab Service" />
     <meta property="og:description"

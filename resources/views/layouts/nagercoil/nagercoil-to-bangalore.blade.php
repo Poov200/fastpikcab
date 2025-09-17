@@ -10,7 +10,7 @@
         content="Book a reliable Nagercoil to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Nagercoil to Bangalore taxi, Nagercoil to Bangalore one way taxi, Nagercoil to Bangalore outstation cabs, Nagercoil to Bangalore taxi fare, Nagercoil to Bangalore cab fare, Nagercoil to Bangalore round trip taxi, Nagercoil to Bangalore car rental, Nagercoil to Bangalore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Nagercoil to Bangalore taxi, Nagercoil to Bangalore one way taxi, Nagercoil to Bangalore outstation cabs, Nagercoil to Bangalore taxi fare, Nagercoil to Bangalore cab fare, Nagercoil to Bangalore round trip taxi, Nagercoil to Bangalore car rental, Nagercoil to Bangalore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Nagercoil to Bangalore Taxi Service">
     <meta property="og:description"

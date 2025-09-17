@@ -10,7 +10,7 @@
         content="Book a reliable Dharmapuri to Karaikal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Dharmapuri to Karaikal taxi, Dharmapuri to Karaikal one way taxi, Dharmapuri to Karaikal outstation cabs, Dharmapuri to Karaikal taxi fare, Dharmapuri to Karaikal cab fare, Dharmapuri to Karaikal round trip taxi, Dharmapuri to Karaikal car rental, Dharmapuri to Karaikal cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dharmapuri to Karaikal taxi, Dharmapuri to Karaikal one way taxi, Dharmapuri to Karaikal outstation cabs, Dharmapuri to Karaikal taxi fare, Dharmapuri to Karaikal cab fare, Dharmapuri to Karaikal round trip taxi, Dharmapuri to Karaikal car rental, Dharmapuri to Karaikal cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dharmapuri to Karaikal Taxi Service">
     <meta property="og:description"

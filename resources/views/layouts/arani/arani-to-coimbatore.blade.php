@@ -10,7 +10,7 @@
         content="Book a reliable Arani to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Arani to Coimbatore taxi, Arani to Coimbatore one way taxi, Arani to Coimbatore outstation cabs, Arani to Coimbatore taxi fare, Arani to Coimbatore cab fare, Arani to Coimbatore round trip taxi, Arani to Coimbatore car rental, Arani to Coimbatore cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Arani to Coimbatore taxi, Arani to Coimbatore one way taxi, Arani to Coimbatore outstation cabs, Arani to Coimbatore taxi fare, Arani to Coimbatore cab fare, Arani to Coimbatore round trip taxi, Arani to Coimbatore car rental, Arani to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Arani to Coimbatore Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Thoothukudi to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long-distance journey.">
 
     <meta name="keywords"
-        content="Thoothukudi to Ranipet taxi, Thoothukudi to Ranipet one way taxi, Thoothukudi to Ranipet outstation cabs, Thoothukudi to Ranipet taxi fare, Thoothukudi to Ranipet cab fare, Thoothukudi to Ranipet round trip taxi, Thoothukudi to Ranipet car rental, Thoothukudi to Ranipet cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thoothukudi to Ranipet taxi, Thoothukudi to Ranipet one way taxi, Thoothukudi to Ranipet outstation cabs, Thoothukudi to Ranipet taxi fare, Thoothukudi to Ranipet cab fare, Thoothukudi to Ranipet round trip taxi, Thoothukudi to Ranipet car rental, Thoothukudi to Ranipet cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thoothukudi to Ranipet Taxi Service">
     <meta property="og:description"

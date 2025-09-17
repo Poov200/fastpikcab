@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Puducherry to Dindigul taxi, Puducherry to Dindigul one way taxi, Puducherry to Dindigul outstation cabs, Puducherry to Dindigul taxi fare, Puducherry to Dindigul cab fare, Puducherry to Dindigul round trip taxi, Puducherry to Dindigul car rental, Puducherry to Dindigul cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Dindigul taxi, Puducherry to Dindigul one way taxi, Puducherry to Dindigul outstation cabs, Puducherry to Dindigul taxi fare, Puducherry to Dindigul cab fare, Puducherry to Dindigul round trip taxi, Puducherry to Dindigul car rental, Puducherry to Dindigul cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Dindigul Taxi Service">
     <meta property="og:description"

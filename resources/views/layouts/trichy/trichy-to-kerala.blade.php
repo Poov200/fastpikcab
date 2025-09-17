@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Trichy to Kerala taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
     <meta name="keywords"
-        content="Trichy to Kerala taxi, Trichy to Kerala one way taxi, Trichy to Kerala drop taxi, Trichy to Kerala cabs, Trichy to Kerala taxi fare, Trichy to Kerala cab fare, Trichy to Kerala round trip taxi, Trichy to Kerala car rental, Trichy to Kerala cab booking, taxi from Trichy, cab to Kerala">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Kerala taxi, Trichy to Kerala one way taxi, Trichy to Kerala drop taxi, Trichy to Kerala cabs, Trichy to Kerala taxi fare, Trichy to Kerala cab fare, Trichy to Kerala round trip taxi, Trichy to Kerala car rental, Trichy to Kerala cab booking, taxi from Trichy, cab to Kerala">
     <meta property="og:title" content="Fastpik Cab - Trichy to Kerala Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Trichy to Kerala. Book online for one-way, round-trip, or outstation travel for your journey.">

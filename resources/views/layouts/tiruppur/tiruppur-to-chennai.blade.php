@@ -10,7 +10,7 @@
         content="Book a reliable Tiruppur to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tiruppur to Chennai taxi, Tiruppur to Chennai one way taxi, Tiruppur to Chennai outstation cabs, Tiruppur to Chennai taxi fare, Tiruppur to Chennai cab fare, Tiruppur to Chennai round trip taxi, Tiruppur to Chennai car rental, Tiruppur to Chennai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tiruppur to Chennai taxi, Tiruppur to Chennai one way taxi, Tiruppur to Chennai outstation cabs, Tiruppur to Chennai taxi fare, Tiruppur to Chennai cab fare, Tiruppur to Chennai round trip taxi, Tiruppur to Chennai car rental, Tiruppur to Chennai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tiruppur to Chennai Taxi Service">
     <meta property="og:description"

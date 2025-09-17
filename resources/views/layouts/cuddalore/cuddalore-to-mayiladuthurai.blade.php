@@ -10,7 +10,7 @@
         content="Book a reliable Cuddalore to Mayiladuthurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Cuddalore to Mayiladuthurai taxi, Cuddalore to Mayiladuthurai one way taxi, Cuddalore to Mayiladuthurai outstation cabs, Cuddalore to Mayiladuthurai taxi fare, Cuddalore to Mayiladuthurai cab fare, Cuddalore to Mayiladuthurai round trip taxi, Cuddalore to Mayiladuthurai car rental, Cuddalore to Mayiladuthurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Cuddalore to Mayiladuthurai taxi, Cuddalore to Mayiladuthurai one way taxi, Cuddalore to Mayiladuthurai outstation cabs, Cuddalore to Mayiladuthurai taxi fare, Cuddalore to Mayiladuthurai cab fare, Cuddalore to Mayiladuthurai round trip taxi, Cuddalore to Mayiladuthurai car rental, Cuddalore to Mayiladuthurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Cuddalore to Mayiladuthurai Taxi Service">
     <meta property="og:description"

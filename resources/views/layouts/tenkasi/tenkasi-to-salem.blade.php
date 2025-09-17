@@ -10,7 +10,7 @@
         content="Book a reliable Tenkasi to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tenkasi to Salem taxi, Tenkasi to Salem one way taxi, Tenkasi to Salem outstation cabs, Tenkasi to Salem taxi fare, Tenkasi to Salem cab fare, Tenkasi to Salem round trip taxi, Tenkasi to Salem car rental, Tenkasi to Salem cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tenkasi to Salem taxi, Tenkasi to Salem one way taxi, Tenkasi to Salem outstation cabs, Tenkasi to Salem taxi fare, Tenkasi to Salem cab fare, Tenkasi to Salem round trip taxi, Tenkasi to Salem car rental, Tenkasi to Salem cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tenkasi to Salem Taxi Service">
     <meta property="og:description"

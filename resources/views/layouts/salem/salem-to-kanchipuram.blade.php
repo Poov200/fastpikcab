@@ -10,7 +10,7 @@
         content="Book a reliable Salem to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Salem to Kanchipuram taxi, Salem to Kanchipuram one way taxi, Salem to Kanchipuram outstation cabs, Salem to Kanchipuram taxi fare, Salem to Kanchipuram cab fare, Salem to Kanchipuram round trip taxi, Salem to Kanchipuram car rental, Salem to Kanchipuram cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Salem to Kanchipuram taxi, Salem to Kanchipuram one way taxi, Salem to Kanchipuram outstation cabs, Salem to Kanchipuram taxi fare, Salem to Kanchipuram cab fare, Salem to Kanchipuram round trip taxi, Salem to Kanchipuram car rental, Salem to Kanchipuram cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Salem to Kanchipuram Taxi Service">
     <meta property="og:description"

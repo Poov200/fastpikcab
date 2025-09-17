@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Puducherry to Thoothukudi taxi, Puducherry to Thoothukudi one way taxi, Puducherry to Thoothukudi outstation cabs, Puducherry to Thoothukudi taxi fare, Puducherry to Thoothukudi cab fare, Puducherry to Thoothukudi round trip taxi, Puducherry to Thoothukudi car rental, Puducherry to Thoothukudi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Thoothukudi taxi, Puducherry to Thoothukudi one way taxi, Puducherry to Thoothukudi outstation cabs, Puducherry to Thoothukudi taxi fare, Puducherry to Thoothukudi cab fare, Puducherry to Thoothukudi round trip taxi, Puducherry to Thoothukudi car rental, Puducherry to Thoothukudi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Thoothukudi Taxi Service">
     <meta property="og:description"

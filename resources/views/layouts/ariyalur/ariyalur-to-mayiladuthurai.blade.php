@@ -10,7 +10,7 @@
         content="Book a reliable Ariyalur to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Ariyalur to Mayiladuthurai taxi, Ariyalur to Mayiladuthurai one way taxi, Ariyalur to Mayiladuthurai outstation cabs, Ariyalur to Mayiladuthurai taxi fare, Ariyalur to Mayiladuthurai cab fare, Ariyalur to Mayiladuthurai round trip taxi, Ariyalur to Mayiladuthurai car rental, Ariyalur to Mayiladuthurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ariyalur to Mayiladuthurai taxi, Ariyalur to Mayiladuthurai one way taxi, Ariyalur to Mayiladuthurai outstation cabs, Ariyalur to Mayiladuthurai taxi fare, Ariyalur to Mayiladuthurai cab fare, Ariyalur to Mayiladuthurai round trip taxi, Ariyalur to Mayiladuthurai car rental, Ariyalur to Mayiladuthurai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ariyalur to Mayiladuthurai Taxi Service">
     <meta property="og:description"

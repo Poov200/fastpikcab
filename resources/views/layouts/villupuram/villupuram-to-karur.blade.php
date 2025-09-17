@@ -10,7 +10,7 @@
         content="Book a reliable Villupuram to Karur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Villupuram to Karur taxi, Villupuram to Karur one way taxi, Villupuram to Karur outstation cabs, Villupuram to Karur taxi fare, Villupuram to Karur cab fare, Villupuram to Karur round trip taxi, Villupuram to Karur car rental, Villupuram to Karur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Villupuram to Karur taxi, Villupuram to Karur one way taxi, Villupuram to Karur outstation cabs, Villupuram to Karur taxi fare, Villupuram to Karur cab fare, Villupuram to Karur round trip taxi, Villupuram to Karur car rental, Villupuram to Karur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Villupuram to Karur Taxi Service">
     <meta property="og:description"

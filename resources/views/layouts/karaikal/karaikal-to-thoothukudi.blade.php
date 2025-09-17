@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Karaikal to Thoothukudi taxi, Karaikal to Thoothukudi one way taxi, Karaikal to Thoothukudi outstation cabs, Karaikal to Thoothukudi taxi fare, Karaikal to Thoothukudi cab fare, Karaikal to Thoothukudi round trip taxi, Karaikal to Thoothukudi car rental, Karaikal to Thoothukudi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Thoothukudi taxi, Karaikal to Thoothukudi one way taxi, Karaikal to Thoothukudi outstation cabs, Karaikal to Thoothukudi taxi fare, Karaikal to Thoothukudi cab fare, Karaikal to Thoothukudi round trip taxi, Karaikal to Thoothukudi car rental, Karaikal to Thoothukudi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Thoothukudi Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Puducherry to Madurai taxi, Puducherry to Madurai one way taxi, Puducherry to Madurai outstation cabs, Puducherry to Madurai taxi fare, Puducherry to Madurai cab fare, Puducherry to Madurai round trip taxi, Puducherry to Madurai car rental, Puducherry to Madurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Madurai taxi, Puducherry to Madurai one way taxi, Puducherry to Madurai outstation cabs, Puducherry to Madurai taxi fare, Puducherry to Madurai cab fare, Puducherry to Madurai round trip taxi, Puducherry to Madurai car rental, Puducherry to Madurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Madurai Taxi Service">
     <meta property="og:description"

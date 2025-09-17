@@ -10,7 +10,7 @@
         content="Book a reliable Salem to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Salem to Namakkal taxi, Salem to Namakkal one way taxi, Salem to Namakkal outstation cabs, Salem to Namakkal taxi fare, Salem to Namakkal cab fare, Salem to Namakkal round trip taxi, Salem to Namakkal car rental, Salem to Namakkal cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Salem to Namakkal taxi, Salem to Namakkal one way taxi, Salem to Namakkal outstation cabs, Salem to Namakkal taxi fare, Salem to Namakkal cab fare, Salem to Namakkal round trip taxi, Salem to Namakkal car rental, Salem to Namakkal cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Salem to Namakkal Taxi Service">
     <meta property="og:description"

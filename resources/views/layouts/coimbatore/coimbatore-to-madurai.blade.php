@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Coimbatore to Madurai taxi, Coimbatore to Madurai one way taxi, Coimbatore to Madurai outstation cabs, Coimbatore to Madurai taxi fare, Coimbatore to Madurai cab fare, Coimbatore to Madurai round trip taxi, Coimbatore to Madurai car rental, Coimbatore to Madurai cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Madurai taxi, Coimbatore to Madurai one way taxi, Coimbatore to Madurai outstation cabs, Coimbatore to Madurai taxi fare, Coimbatore to Madurai cab fare, Coimbatore to Madurai round trip taxi, Coimbatore to Madurai car rental, Coimbatore to Madurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Madurai Taxi Service">
     <meta property="og:description"

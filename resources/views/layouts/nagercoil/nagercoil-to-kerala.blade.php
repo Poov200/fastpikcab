@@ -10,7 +10,7 @@
         content="Book a reliable Nagercoil to Kerala taxi service with Fastpikcab. Affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Nagercoil to Kerala taxi, Nagercoil to Kerala one way taxi, Nagercoil to Kerala outstation cabs, Nagercoil to Kerala taxi fare, Nagercoil to Kerala cab fare, Nagercoil to Kerala round trip taxi, Nagercoil to Kerala car rental, Nagercoil to Kerala cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Nagercoil to Kerala taxi, Nagercoil to Kerala one way taxi, Nagercoil to Kerala outstation cabs, Nagercoil to Kerala taxi fare, Nagercoil to Kerala cab fare, Nagercoil to Kerala round trip taxi, Nagercoil to Kerala car rental, Nagercoil to Kerala cab booking">
 
     <meta property="og:title" content="Fastpikcab - Nagercoil to Kerala Taxi Service">
     <meta property="og:description"

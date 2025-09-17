@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Hosur to Perambalur taxi, Hosur to Perambalur one way taxi, Hosur to Perambalur outstation cabs, Hosur to Perambalur taxi fare, Hosur to Perambalur cab fare, Hosur to Perambalur round trip taxi, Hosur to Perambalur car rental, Hosur to Perambalur cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Hosur to Perambalur taxi, Hosur to Perambalur one way taxi, Hosur to Perambalur outstation cabs, Hosur to Perambalur taxi fare, Hosur to Perambalur cab fare, Hosur to Perambalur round trip taxi, Hosur to Perambalur car rental, Hosur to Perambalur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Perambalur Taxi Service">
     <meta property="og:description"

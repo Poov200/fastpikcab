@@ -10,7 +10,7 @@
         content="Book a reliable Tenkasi to Ranipet taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Tenkasi to Ranipet taxi, Tenkasi to Ranipet one way taxi, Tenkasi to Ranipet outstation cabs, Tenkasi to Ranipet taxi fare, Tenkasi to Ranipet cab fare, Tenkasi to Ranipet round trip taxi, Tenkasi to Ranipet car rental, Tenkasi to Ranipet cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tenkasi to Ranipet taxi, Tenkasi to Ranipet one way taxi, Tenkasi to Ranipet outstation cabs, Tenkasi to Ranipet taxi fare, Tenkasi to Ranipet cab fare, Tenkasi to Ranipet round trip taxi, Tenkasi to Ranipet car rental, Tenkasi to Ranipet cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tenkasi to Ranipet Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Krishnagiri to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Krishnagiri to Tenkasi taxi, Krishnagiri to Tenkasi one way taxi, Krishnagiri to Tenkasi outstation cabs, Krishnagiri to Tenkasi taxi fare, Krishnagiri to Tenkasi cab fare, Krishnagiri to Tenkasi round trip taxi, Krishnagiri to Tenkasi car rental, Krishnagiri to Tenkasi cab booking">
+        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Krishnagiri to Tenkasi taxi, Krishnagiri to Tenkasi one way taxi, Krishnagiri to Tenkasi outstation cabs, Krishnagiri to Tenkasi taxi fare, Krishnagiri to Tenkasi cab fare, Krishnagiri to Tenkasi round trip taxi, Krishnagiri to Tenkasi car rental, Krishnagiri to Tenkasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Krishnagiri to Tenkasi Taxi Service">
     <meta property="og:description"
