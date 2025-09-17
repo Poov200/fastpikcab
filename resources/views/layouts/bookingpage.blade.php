@@ -17,7 +17,7 @@
 
             <!-- Desktop Navigation -->
             <div class="hidden md:flex flex-wrap items-center space-x-6">
-                <a href="#home" class="text-white hover:text-yellow-400 font-medium">Home</a>
+                <a href="/" class="text-white hover:text-yellow-400 font-medium">Home</a>
 
                 <a href="{{ route('contactpage') }}" class="text-white hover:text-yellow-400 font-medium">Contact</a>
                 {{-- <a href="#" class="text-white hover:text-yellow-400 font-medium">FAQ</a> --}}
