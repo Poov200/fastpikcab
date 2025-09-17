@@ -168,6 +168,57 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Karaikal to Madurai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Karaikal to Madurai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Karaikal to Madurai taxi</strong>? Fastpikcab provides
+            <strong>safe, reliable, and comfortable taxi services</strong> for one-way trips,
+            round journeys, and family visits. Our experienced drivers ensure a
+            <strong>smooth journey 24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Karaikal and Madurai</strong> is around
+            <strong>265 km</strong>, which usually takes about <strong>6 hours</strong> by road.
+            The common travel route is via <strong>NH36</strong>, passing through <strong>Thanjavur and Trichy</strong>.
+            Stopovers for refreshments and meals can be arranged during the trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a variety of cabs including <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All our vehicles are <strong>air-conditioned, GPS-enabled, and spacious</strong>, providing
+            maximum comfort and safety. With <strong>transparent pricing</strong>, you get complete clarity on fares.
+        </p>
+
+        <p class="mb-4">
+            Apart from Madurai, Fastpikcab operates across Tamil Nadu including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Cuddalore, Dindigul, Erode, Kallakurichi,
+            Kanchipuram, Karur, Krishnagiri, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Karaikal to Madurai cab</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or book online via our website.
+            Our support team is available <strong>24/7</strong> for bookings and fare details.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Karaikal to Madurai taxi service</strong>
+            and enjoy a smooth, safe, and budget-friendly journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Karaikal to Madurai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

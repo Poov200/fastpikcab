@@ -168,6 +168,54 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Karaikal to Kanchipuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Karaikal to Kanchipuram Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Traveling from <strong>Karaikal to Kanchipuram</strong>? Fastpikcab offers
+            <strong>safe, reliable, and affordable taxi services</strong> for one-way travel,
+            family visits, and business needs, available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Karaikal and Kanchipuram</strong> is around
+            <strong>240 km</strong>, taking about <strong>5–6 hours</strong> by road.
+            The most common route is via <strong>Cuddalore, Villupuram, and Chengalpattu</strong>.
+        </p>
+
+        <p class="mb-4">
+            We offer a wide range of cabs such as <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All vehicles are <strong>AC, GPS-enabled, and comfortable</strong>, with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kanchipuram, Fastpikcab operates taxi services in all major Tamil Nadu districts including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
+            Kallakurichi, Karaikal, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvannamalai, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tirupati,
+            Udagamandalam (Ooty), Vellore, Viluppuram, Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Karaikal to Kanchipuram cab</strong> is easy.
+            Call <strong>+91 88256 94157</strong> or book online.
+            Our <strong>24/7 support team</strong> is always available.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Karaikal to Kanchipuram taxi service</strong>
+            and travel hassle-free.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Karaikal to Kanchipuram Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

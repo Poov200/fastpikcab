@@ -168,6 +168,51 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Karaikal to Ariyalur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Karaikal to Ariyalur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Karaikal to Ariyalur taxi</strong>? Fastpikcab offers
+            <strong>safe, affordable, and reliable cab services</strong> for one-way travel,
+            round trips, business visits, and family rides. Our professional drivers ensure a
+            smooth and stress-free journey available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Karaikal and Ariyalur</strong> is around
+            <strong>115 km</strong>, which takes about <strong>3 hours</strong> by road.
+            The most common route is via <strong>NH36</strong>, passing through
+            Thiruvarur and Jayankondam.
+        </p>
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, or Premium Cars</strong>.
+            All taxis are <strong>air-conditioned, spacious, and GPS-enabled</strong> to make
+            your ride safe and comfortable. Our <strong>transparent pricing policy</strong> ensures
+            no hidden costs.
+        </p>
+        <p class="mb-4">
+            Apart from Ariyalur, Fastpikcab serves major Tamil Nadu cities like:
+            <strong>Chennai, Coimbatore, Madurai, Salem, Erode, Trichy, Thanjavur, Tirunelveli,
+            Villupuram, Vellore, Namakkal, Karur, Ranipet, Pudukkottai, Thoothukudi, Nagercoil,
+            Dindigul, Krishnagiri, Kanchipuram, and Virudhunagar</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Karaikal to Ariyalur taxi</strong> is quick and simple.
+            Call <strong>+91 88256 94157</strong> or reserve online. Our customer support team is
+            available <strong>24/7</strong> to guide you with fares and bookings.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Karaikal to Ariyalur cab service</strong> and
+            enjoy a safe and affordable journey.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Karaikal to Ariyalur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

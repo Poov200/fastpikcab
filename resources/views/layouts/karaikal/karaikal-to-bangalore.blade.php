@@ -167,58 +167,49 @@
         </div>
     </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-            Karaikal to Bangalore Taxi Service – Fastpikcab
-        </h1>
-        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-            Book Reliable Karaikal to Bangalore Cabs Online
-        </h2>
-        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
-            <p class="mb-4">
-                Need a taxi from <strong>Karaikal to Bangalore</strong>? Fastpikcab provides safe, clean,
-                and affordable cabs for one-way trips, round journeys, and urgent travel requirements.
-                Our drivers are available <strong>24/7</strong> to ensure you reach your destination comfortably and on
-                time.
-            </p>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Karaikal to Bangalore Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Karaikal to Bangalore Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Karaikal to Bangalore taxi</strong>? Fastpikcab provides
+            <strong>comfortable, reliable, and affordable cab services</strong> for long-distance
+            travel, business trips, family holidays, or one-way rides. Our professional drivers
+            ensure you travel safely, available <strong>24/7</strong>.
+        </p>
+        <p class="mb-4">
+            The distance between <strong>Karaikal and Bangalore</strong> is about
+            <strong>450–480 km</strong>, which usually takes <strong>9–10 hours</strong> by road.
+            The most common route is via <strong>NH44 and NH77</strong>, passing through
+            Salem and Krishnagiri.
+        </p>
+        <p class="mb-4">
+            We provide multiple taxi choices including <strong>Sedans, SUVs, Tempo Travellers,
+            and Premium Cars</strong>. All vehicles are <strong>AC, GPS-enabled, and spacious</strong>,
+            ensuring safety and comfort. With <strong>clear fare policies</strong>, you get the best
+            value with no hidden charges.
+        </p>
+        <p class="mb-4">
+            Apart from Bangalore, we operate across Tamil Nadu in:
+            <strong>Chennai, Coimbatore, Trichy, Madurai, Salem, Erode, Thanjavur, Tirunelveli,
+            Karur, Namakkal, Ranipet, Krishnagiri, Villupuram, Pudukkottai, Nagercoil, and Vellore</strong>.
+        </p>
+        <p class="mb-4">
+            Booking your <strong>Karaikal to Bangalore cab</strong> is simple.
+            Call <strong>+91 88256 94157</strong> or book online. Our
+            <strong>24/7 customer support</strong> is ready to assist with booking and travel queries.
+        </p>
+        <p>
+            Choose Fastpikcab for your <strong>Karaikal to Bangalore taxi service</strong> and
+            enjoy a stress-free long-distance journey.
+        </p>
+    </div>
+</section>
 
-            <p class="mb-4">
-                The distance between Karaikal and Bangalore is approximately <strong>410 - 440 km</strong>,
-                which usually takes about <strong>8 - 10 hours</strong> by road. The most common travel route
-                is via <strong>NH38 and NH44</strong>, passing through <strong>Trichy and Salem</strong>.
-                Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
-            </p>
-
-            <p class="mb-4">
-                Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
-                All vehicles are air-conditioned, spacious, and GPS-enabled, making your journey smooth and stress-free.
-                We follow <strong>transparent pricing</strong> with no hidden charges.
-            </p>
-
-            <p class="mb-4">
-                We also provide <strong>Bangalore Airport (BLR) taxi drop-offs</strong> for passengers arriving from
-                Karaikal.
-                Families, business professionals, students, and group travelers can benefit from our
-                <strong>round-trip taxi packages</strong>, which are cost-effective for long-distance travel.
-            </p>
-
-            <p class="mb-4">
-                Apart from Bangalore, Fastpikcab operates across all major cities and districts of Tamil Nadu and
-                Karnataka.
-            </p>
-
-            <p class="mb-4">
-                Booking your <strong>Karaikal to Bangalore taxi</strong> with Fastpikcab is simple.
-                You can book online via our website or call us at <strong>+91 88256 94157</strong>.
-                Our 24/7 customer support team is ready to assist you with bookings, fare details, and travel guidance.
-            </p>
-
-            <p>
-                Choose Fastpikcab for your <strong>Karaikal to Bangalore cab service</strong> and enjoy
-                a safe, reliable, and comfortable travel experience.
-            </p>
-        </div>
-    </section>
 
 
     <section class="mb-12 px-4 md:px-12">

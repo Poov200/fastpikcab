@@ -168,6 +168,55 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Karaikal to Karur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Karaikal to Karur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a <strong>Karaikal to Karur taxi</strong>? Fastpikcab offers
+            <strong>safe, comfortable, and affordable cab services</strong> for one-way trips,
+            round journeys, and family or business travel. Available <strong>24/7</strong> with
+            professional drivers.
+        </p>
+
+        <p class="mb-4">
+            The distance between <strong>Karaikal and Karur</strong> is about <strong>190 km</strong>,
+            usually covered in <strong>4–5 hours</strong> by road.
+            The most common route is via <strong>Thanjavur and Trichy</strong>.
+        </p>
+
+        <p class="mb-4">
+            Choose from <strong>Sedans, SUVs, Tempo Travellers, and Premium Cars</strong>.
+            All taxis are <strong>AC, GPS-enabled, clean, and spacious</strong>, with
+            <strong>transparent pricing</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Karur, Fastpikcab operates taxi services in all major Tamil Nadu districts including:
+            <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
+            Kallakurichi, Kanchipuram, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
+            Thiruvallur, Thiruvannamalai, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli,
+            Tirupathur, Tiruppur, Tirupati, Udagamandalam (Ooty), Vellore, Viluppuram, Virudhunagar</strong>.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Karaikal to Karur cab</strong> is easy.
+            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Our <strong>24/7 customer support</strong> is ready to assist.
+        </p>
+
+        <p>
+            Travel comfortably with Fastpikcab – your best choice for <strong>Karaikal to Karur taxi service</strong>.
+        </p>
+    </div>
+</section>
+
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Karaikal to Karur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
