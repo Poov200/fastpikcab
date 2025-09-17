@@ -43,7 +43,7 @@
 <body>
 
     <div class="booking-banner">
-        <span>📞 For Immediate Booking: <a href="tel:1234567890">+91 8825694157</a></span>
+        <span>📞 For Immediate Booking: <a href="tel:8825694157">+91 8825694157</a></span>
     </div>
 
     <!-- Header Section -->
