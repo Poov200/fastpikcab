@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+<!-- Perambalur to Dharmapuri -->
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Dharmapuri Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Perambalur to Dharmapuri Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Perambalur to Dharmapuri</strong>? Fastpikcab offers safe, comfortable, and reliable cab services for one-way, round trips, and business or leisure travel.
+            Our drivers are professional and available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Perambalur and Dharmapuri is approximately <strong>210 km</strong>,
+            with a travel time of about <strong>4.5–5 hours</strong>. The preferred route is via <strong>NH44</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a range of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are air-conditioned, GPS-enabled, and spacious for a comfortable ride.
+            We maintain <strong>clear and transparent pricing</strong> with no hidden costs.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Perambalur Railway Station pickup taxis</strong> for passengers heading to Dharmapuri.
+            Families, students, tourists, and business travelers can all benefit from our service.
+        </p>
+
+        <p class="mb-4">
+            Apart from Dharmapuri, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore,
+            Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Puducherry, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram,
+            Bangalore, Ooty, Kerala, Kochi, Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Dharmapuri cab</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 team is always ready to help with bookings and travel guidance.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Perambalur to Dharmapuri taxi service</strong> and enjoy a safe, reliable, and convenient ride.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Dharmapuri Route Details</h2>

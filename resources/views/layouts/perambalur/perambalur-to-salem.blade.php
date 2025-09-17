@@ -166,6 +166,54 @@
             </div>
         </div>
     </section>
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Salem Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Perambalur to Salem Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a taxi from <strong>Perambalur to Salem</strong>? Fastpikcab provides safe, comfortable, and reliable cab services for one-way trips, round journeys, business, or leisure travel.
+            Our professional drivers are available <strong>24/7</strong>.
+        </p>
+
+        <p class="mb-4">
+            The distance between Perambalur and Salem is approximately <strong>120 km</strong>,
+            with a travel time of about <strong>2.5–3 hours</strong>. The preferred route is via <strong>NH79</strong>.
+            Refreshment and rest stops can be arranged during the trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab offers a wide range of vehicles including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are air-conditioned, GPS-enabled, and spacious for a smooth ride.
+            We follow <strong>transparent and affordable pricing</strong> with no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also offer <strong>Perambalur Railway Station pickup taxis</strong> for passengers traveling to Salem.
+            Our service is ideal for families, tourists, business travelers, and students.
+        </p>
+
+        <p class="mb-4">
+            Apart from Salem, Fastpikcab also operates in cities like: Chennai, Coimbatore, Cuddalore, Dharmapuri,
+            Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Namakkal, Puducherry,
+            Pudukkottai, Ranipet, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, Thiruvannamalai, Thiruvarur,
+            Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty, Kerala,
+            Kochi, Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Salem cab</strong> is quick and simple. Book online through our website or call <strong>+91 88256 94157</strong>.
+            Our customer support team is available <strong>24/7</strong> to assist with bookings and travel planning.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Perambalur to Salem taxi service</strong> and enjoy a comfortable, reliable, and stress-free journey.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Salem Route Details</h2>

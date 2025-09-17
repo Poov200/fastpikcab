@@ -161,101 +161,135 @@
             </div>
         </div>
     </section>
-
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Pudukkottai to Kerala Route Details</h2>
-        <div class="bg-white rounded-xl shadow-md p-8">
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <div>
-                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Route Overview</h3>
-                    <ul class="space-y-4 text-gray-700">
-                        <li class="flex items-start">
-                            <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Distance:</strong> Approximately 450 km</span>
-                        </li>
-                        <li class="flex items-start">
-                            <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Travel Time:</strong> Around 9-10 hours depending on traffic and route taken</span>
-                        </li>
-                        <li class="flex items-start">
-                            <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> The journey follows NH83, NH544, and major state roads connecting Pudukkottai to Kerala.</span>
-                        </li>
-                        <li class="flex items-start">
-                            <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Note:</strong> Connects Pudukkottai to Kerala, covering popular destinations in the state including Kochi and Trivandrum.</span>
-                        </li>
-                    </ul>
-                </div>
-                <div>
-                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
-                    <div class="space-y-3">
-                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Madurai</span>
-                            <span class="text-sm text-gray-500">Convenient stop for refreshments and breaks.</span>
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Pudukkottai to Kerala Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Pudukkottai to Kerala Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Need a cab from <strong>Pudukkottai to Kerala</strong>? Fastpikcab offers comfortable, reliable, and safe taxi services for one-way, round trips, or corporate travel.
+                Our trained drivers are available <strong>24/7</strong>.
+            </p>
+
+            <p class="mb-4">
+                The distance between Pudukkottai and Kerala is around <strong>600 km</strong>,
+                with a travel time of <strong>11–12 hours</strong>. The preferred route is via <strong>NH44</strong>.
+            </p>
+
+            <p class="mb-4">
+                We provide a fleet of <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All taxis are equipped with AC, GPS, and ample space for a pleasant journey.
+                We follow <strong>fair and transparent pricing</strong> without hidden charges.
+            </p>
+
+            <p class="mb-4">
+                Passengers can also book <strong>Pudukkottai Railway Station pickup taxis</strong> to Kerala.
+                Our service suits tourists, families, students, and business professionals.
+            </p>
+
+            <p class="mb-4">
+                Fastpikcab operates across various destinations including Chennai, Coimbatore,
+                Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam,
+                Namakkal, Perambalur, Puducherry, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, Thiruvannamalai,
+                Thiruvarur, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty, Kochi, Krish
+
+            <section class="mb-12 px-4 md:px-12">
+                <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Pudukkottai to Kerala Route Details</h2>
+                <div class="bg-white rounded-xl shadow-md p-8">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        <div>
+                            <h3 class="text-2xl font-semibold mb-4 text-blue-600">Route Overview</h3>
+                            <ul class="space-y-4 text-gray-700">
+                                <li class="flex items-start">
+                                    <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
+                                    <span><strong>Distance:</strong> Approximately 450 km</span>
+                                </li>
+                                <li class="flex items-start">
+                                    <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
+                                    <span><strong>Travel Time:</strong> Around 9-10 hours depending on traffic and route taken</span>
+                                </li>
+                                <li class="flex items-start">
+                                    <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
+                                    <span><strong>Route:</strong> The journey follows NH83, NH544, and major state roads connecting Pudukkottai to Kerala.</span>
+                                </li>
+                                <li class="flex items-start">
+                                    <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
+                                    <span><strong>Note:</strong> Connects Pudukkottai to Kerala, covering popular destinations in the state including Kochi and Trivandrum.</span>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Palakkad</span>
-                            <span class="text-sm text-gray-500">Major town with food and fuel options.</span>
+                        <div>
+                            <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
+                            <div class="space-y-3">
+                                <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                                    <span>Madurai</span>
+                                    <span class="text-sm text-gray-500">Convenient stop for refreshments and breaks.</span>
+                                </div>
+                                <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                                    <span>Palakkad</span>
+                                    <span class="text-sm text-gray-500">Major town with food and fuel options.</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
+            </section>
 
-    <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Pudukkottai to Kerala Fare Structure</h2>
-        <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
-            <table class="w-full table-auto">
-                <thead class="bg-blue-600 text-white">
-                    <tr>
-                        <th class="px-6 py-4 text-left">Vehicle Type</th>
-                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
-                        <th class="px-6 py-4 text-center">Features</th>
-                    </tr>
-                </thead>
-                <tbody class="divide-y divide-gray-200">
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹4,000 - ₹5,500</td>
-                        <td class="px-6 py-4 text-center">₹7,500 - ₹9,000</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Air-conditioned</li>
-                                <li>Up to 4 passengers</li>
-                                <li>Luggage capacity: 2 medium bags</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr class="hover:bg-gray-50">
-                        <td class="px-6 py-4 font-medium">SUV</td>
-                        <td class="px-6 py-4 text-center">₹5,500 - ₹7,500</td>
-                        <td class="px-6 py-4 text-center">₹10,000 - ₹12,500</td>
-                        <td class="px-6 py-4">
-                            <ul class="list-disc list-inside text-sm text-gray-600">
-                                <li>Spacious and comfortable</li>
-                                <li>Seating for up to 6 passengers</li>
-                                <li>Extra legroom for the journey</li>
-                            </ul>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-            <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops. Prices are indicative and subject to change.</p>
-            </div>
-        </div>
-    </section>
+            <section class="mb-12 px-4 md:px-12">
+                <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Pudukkottai to Kerala Fare Structure</h2>
+                <div class="bg-white rounded-xl shadow-md overflow-hidden overflow-x-auto">
+                    <table class="w-full table-auto">
+                        <thead class="bg-blue-600 text-white">
+                            <tr>
+                                <th class="px-6 py-4 text-left">Vehicle Type</th>
+                                <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                                <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
+                                <th class="px-6 py-4 text-center">Features</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-gray-200">
+                            <tr class="hover:bg-gray-50">
+                                <td class="px-6 py-4 font-medium">Sedan</td>
+                                <td class="px-6 py-4 text-center">₹4,000 - ₹5,500</td>
+                                <td class="px-6 py-4 text-center">₹7,500 - ₹9,000</td>
+                                <td class="px-6 py-4">
+                                    <ul class="list-disc list-inside text-sm text-gray-600">
+                                        <li>Air-conditioned</li>
+                                        <li>Up to 4 passengers</li>
+                                        <li>Luggage capacity: 2 medium bags</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr class="hover:bg-gray-50">
+                                <td class="px-6 py-4 font-medium">SUV</td>
+                                <td class="px-6 py-4 text-center">₹5,500 - ₹7,500</td>
+                                <td class="px-6 py-4 text-center">₹10,000 - ₹12,500</td>
+                                <td class="px-6 py-4">
+                                    <ul class="list-disc list-inside text-sm text-gray-600">
+                                        <li>Spacious and comfortable</li>
+                                        <li>Seating for up to 6 passengers</li>
+                                        <li>Extra legroom for the journey</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="p-4 bg-gray-50 text-center">
+                        <p class="text-sm text-gray-600">* Fares are approximate and may vary based on vehicle availability, tolls, and additional stops. Prices are indicative and subject to change.</p>
+                    </div>
+                </div>
+            </section>
 
-    @include('layouts.routes')
-    @include('layouts.footer')
+            @include('layouts.routes')
+            @include('layouts.footer')
 
-    <script src="{{ asset('js/app.js') }}"></script>
-    <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
-        async defer></script>
+            <script src="{{ asset('js/app.js') }}"></script>
+            <script
+                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
+                async defer></script>
 </body>
 
 </html>

@@ -166,6 +166,52 @@
             </div>
         </div>
     </section>
+    <section class="mb-12 px-4 md:px-12">
+        <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+            Puducherry to Vellore Taxi Service – Fastpikcab
+        </h1>
+        <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+            Book Reliable Puducherry to Vellore Cabs Online
+        </h2>
+        <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+            <p class="mb-4">
+                Need a cab from <strong>Puducherry to Vellore</strong>? Fastpikcab offers comfortable, reliable, and safe taxi services for one-way, round trips, or corporate travel.
+                Our trained drivers are available <strong>24/7</strong>.
+            </p>
+
+            <p class="mb-4">
+                The distance between Puducherry and Vellore is around <strong>120 km</strong>,
+                with a travel time of <strong>2.5–3 hours</strong>. The preferred route is via <strong>NH77</strong>.
+            </p>
+
+            <p class="mb-4">
+                We provide a fleet of <strong>Sedans, SUVs, and Premium Cars</strong>.
+                All taxis are equipped with AC, GPS, and ample space for a pleasant journey.
+                We follow <strong>fair and transparent pricing</strong> without hidden charges.
+            </p>
+
+            <p class="mb-4">
+                Passengers can also book <strong>Puducherry Railway Station pickup taxis</strong> to Vellore.
+                Our service suits tourists, families, students, and business professionals.
+            </p>
+
+            <p class="mb-4">
+                Fastpikcab operates across various destinations including Chennai, Coimbatore, Cuddalore,
+                Dharmapuri, Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam,
+                Namakkal, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, Thiruvannamalai,
+                Thiruvarur, Tirunelveli, Tirupati, Tiruppur, Trichy, Villupuram, Bangalore, Ooty, Kerala, Kochi, Krishnagiri and more.
+            </p>
+
+            <p class="mb-4">
+                Booking your <strong>Puducherry to Vellore cab</strong> is easy. You can book online or call <strong>+91 88256 94157</strong>.
+                Our 24/7 support team is always ready to help with bookings and queries.
+            </p>
+
+            <p>
+                Choose Fastpikcab for your <strong>Puducherry to Vellore taxi service</strong> and enjoy safe, affordable travel.
+            </p>
+        </div>
+    </section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Puducherry to Vellore Route Details</h2>

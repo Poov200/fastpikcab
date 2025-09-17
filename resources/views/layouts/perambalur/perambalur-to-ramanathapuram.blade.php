@@ -166,6 +166,56 @@
             </div>
         </div>
     </section>
+<!-- Perambalur to Ramanathapuram -->
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Ramanathapuram Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Perambalur to Ramanathapuram Cabs Online at Best Price
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a <strong>Perambalur to Ramanathapuram taxi service</strong>?
+            Fastpikcab offers professional, safe, and affordable cab services for one-way trips, round trips,
+            and long-distance journeys. Our cabs are available <strong>24/7</strong> with easy booking options.
+        </p>
+
+        <p class="mb-4">
+            The distance from Perambalur to Ramanathapuram is about <strong>230 km</strong>,
+            with an average travel time of <strong>4.5–5 hours</strong> via <strong>NH38 and NH87</strong>.
+            Our drivers ensure smooth rides with regular breaks when required.
+        </p>
+
+        <p class="mb-4">
+            Choose from our wide range of <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All taxis are well-maintained, air-conditioned, and GPS-enabled for a safe journey.
+            Our pricing is <strong>transparent with no hidden charges</strong>.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>Perambalur Railway Station pickup taxis</strong> to Ramanathapuram.
+            Whether you are a student, tourist, or business traveler, we ensure a reliable and comfortable ride.
+        </p>
+
+        <p class="mb-4">
+            Our services are not limited to Ramanathapuram. We also operate in Chennai, Coimbatore, Madurai, Trichy,
+            Thanjavur, Erode, Tirunelveli, Nagercoil, Pudukkottai, Puducherry, Namakkal, Ranipet, Salem, Sivakasi,
+            Tenkasi, Thiruvannamalai, Thiruvarur, Thoothukudi, Tirupati, Tiruppur, Vellore, Villupuram, Virudhunagar,
+            Bangalore, Ooty, Kerala, Kochi, Krishnagiri and many more cities.
+        </p>
+
+        <p class="mb-4">
+            To book your <strong>Perambalur to Ramanathapuram cab</strong>, simply call
+            <strong>+91 88256 94157</strong> or use our website for instant booking.
+            Our customer support team is available 24/7 to assist you.
+        </p>
+
+        <p>
+            Choose Fastpikcab for a safe, comfortable, and reliable <strong>Perambalur to Ramanathapuram taxi service</strong>.
+        </p>
+    </div>
+</section>
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Ramanathapuram Route Details</h2>

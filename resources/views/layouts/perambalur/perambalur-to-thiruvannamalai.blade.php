@@ -161,7 +161,55 @@
             </div>
         </div>
     </section>
+<!-- perambalur-to-thiruvannamalai.blade.php -->
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Thiruvannamalai Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Perambalur to Thiruvannamalai Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Need a taxi from <strong>Perambalur to Thiruvannamalai</strong>? Fastpikcab provides comfortable, safe, and reliable taxi services for one-way, round trips, and leisure or business travel.
+            Our drivers are available <strong>24/7</strong>.
+        </p>
 
+        <p class="mb-4">
+            The distance between Perambalur and Thiruvannamalai is about <strong>160 km</strong>,
+            taking around <strong>3.5–4 hours</strong> via <strong>NH38</strong>.
+            Refreshment and rest stops can be arranged as needed.
+        </p>
+
+        <p class="mb-4">
+            Choose from our fleet of <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, GPS-enabled, and well-maintained for your journey.
+            We guarantee <strong>clear and transparent pricing</strong> without hidden fees.
+        </p>
+
+        <p class="mb-4">
+            We also offer <strong>Perambalur Railway Station pickup taxis</strong> for passengers traveling to Thiruvannamalai.
+            Our services are well-suited for tourists, pilgrims, families, and corporate travelers.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also operates across other destinations such as Chennai, Coimbatore, Cuddalore, Dharmapuri,
+            Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Namakkal,
+            Puducherry, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, Thiruvarur,
+            Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty,
+            Kerala, Kochi, Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Thiruvannamalai cab</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 support team is ready to assist with your booking and travel planning.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Perambalur to Thiruvannamalai taxi service</strong> and travel with comfort and peace of mind.
+        </p>
+    </div>
+</section>
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Thiruvannamalai Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">

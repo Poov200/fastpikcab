@@ -166,7 +166,54 @@
             </div>
         </div>
     </section>
+<!-- perambalur-to-thiruvarur.blade.php -->
+<section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Perambalur to Thiruvarur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Reliable Perambalur to Thiruvarur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a reliable taxi from <strong>Perambalur to Thiruvarur</strong>? Fastpikcab offers comfortable, affordable, and safe cab services for all types of travel needs.
+            Our experienced drivers are available <strong>24/7</strong>.
+        </p>
 
+        <p class="mb-4">
+            The distance between Perambalur and Thiruvarur is about <strong>150 km</strong>,
+            with a travel time of around <strong>3–3.5 hours</strong>. The preferred route is via <strong>NH36</strong>.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides <strong>Sedans, SUVs, and Premium Cars</strong>.
+            Our taxis are GPS-enabled, air-conditioned, and spacious for maximum comfort.
+            We maintain <strong>transparent pricing</strong> without hidden charges.
+        </p>
+
+        <p class="mb-4">
+            Passengers can also avail <strong>Perambalur Railway Station pickup taxis</strong> to Thiruvarur.
+            Our services are ideal for families, students, tourists, and business travelers.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab also operates in other major destinations such as Chennai, Coimbatore, Cuddalore, Dharmapuri,
+            Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Namakkal,
+            Puducherry, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, Thiruvannamalai,
+            Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty,
+            Kerala, Kochi, Krishnagiri and more.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Perambalur to Thiruvarur cab</strong> is simple. Book online on our website or call <strong>+91 88256 94157</strong>.
+            Our 24/7 customer support team will assist you with all your travel needs.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Perambalur to Thiruvarur taxi service</strong> and travel worry-free.
+        </p>
+    </div>
+</section>
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Perambalur to Thiruvarur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
