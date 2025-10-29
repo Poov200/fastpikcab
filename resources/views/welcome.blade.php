@@ -3,13 +3,13 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FastpikCab | Online Taxi Booking & Cab Service | Affordable, Safe Rides</title>
+    <title>FastpikCab | Online Taxi Booking & Cab Service</title>
 
     <meta charset="UTF-8" />
     <meta name="description"
         content="Book a taxi online with FastpikCab for fast, safe, and affordable rides. Your trusted local cab service for airport transfers, city commutes, and reliable taxi booking." />
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, FastpikCab,Fastpikcab taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, FastpikCab,Fastpikcab taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
     <meta name="author" content="Fastpikcab" />
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://fastpikcab.com/" />

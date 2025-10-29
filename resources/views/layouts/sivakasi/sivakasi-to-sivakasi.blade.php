@@ -10,7 +10,7 @@
         content="Book a reliable taxi service within Sivakasi with Fastpik Cab. Get affordable fares for local travel, airport transfers, and one-way trips. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Sivakasi taxi, Sivakasi city taxi, Sivakasi local taxi, Sivakasi cab, Sivakasi taxi fare, Sivakasi cab fare, Sivakasi car rental, Sivakasi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Sivakasi taxi, Sivakasi city taxi, Sivakasi local taxi, Sivakasi cab, Sivakasi taxi fare, Sivakasi cab fare, Sivakasi car rental, Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Sivakasi City Taxi Service">
     <meta property="og:description"

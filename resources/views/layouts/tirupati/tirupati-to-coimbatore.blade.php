@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Tirupati to Coimbatore taxi, Tirupati to Coimbatore one way taxi, Tirupati to Coimbatore outstation cabs, Tirupati to Coimbatore taxi fare, Tirupati to Coimbatore cab fare, Tirupati to Coimbatore round trip taxi, Tirupati to Coimbatore car rental, Tirupati to Coimbatore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Tirupati to Coimbatore taxi, Tirupati to Coimbatore one way taxi, Tirupati to Coimbatore outstation cabs, Tirupati to Coimbatore taxi fare, Tirupati to Coimbatore cab fare, Tirupati to Coimbatore round trip taxi, Tirupati to Coimbatore car rental, Tirupati to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Coimbatore Taxi Service">
     <meta property="og:description"

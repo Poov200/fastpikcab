@@ -10,7 +10,7 @@
         content="Book a reliable Chennai to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Chennai to Sivakasi taxi, Chennai Airport to Sivakasi taxi, Chennai to Sivakasi one way taxi, Chennai to Sivakasi outstation cabs, Chennai to Sivakasi taxi fare, Chennai to Sivakasi cab fare, Chennai Airport to Sivakasi airport taxi, Chennai to Sivakasi round trip taxi, Chennai to Sivakasi round trip taxi fare, Chennai to Sivakasi car rental, Chennai to Sivakasi cab booking, Chennai to Sivakasi taxi service">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Chennai to Sivakasi taxi, Chennai Airport to Sivakasi taxi, Chennai to Sivakasi one way taxi, Chennai to Sivakasi outstation cabs, Chennai to Sivakasi taxi fare, Chennai to Sivakasi cab fare, Chennai Airport to Sivakasi airport taxi, Chennai to Sivakasi round trip taxi, Chennai to Sivakasi round trip taxi fare, Chennai to Sivakasi car rental, Chennai to Sivakasi cab booking, Chennai to Sivakasi taxi service">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Sivakasi Taxi Service">
     <meta property="og:description"

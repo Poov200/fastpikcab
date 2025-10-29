@@ -10,7 +10,7 @@
         content="Book a reliable Salem to Krishnagiri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Salem to Krishnagiri taxi, Salem to Krishnagiri one way taxi, Salem to Krishnagiri outstation cabs, Salem to Krishnagiri taxi fare, Salem to Krishnagiri cab fare, Salem to Krishnagiri round trip taxi, Salem to Krishnagiri car rental, Salem to Krishnagiri cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Salem to Krishnagiri taxi, Salem to Krishnagiri one way taxi, Salem to Krishnagiri outstation cabs, Salem to Krishnagiri taxi fare, Salem to Krishnagiri cab fare, Salem to Krishnagiri round trip taxi, Salem to Krishnagiri car rental, Salem to Krishnagiri cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Salem to Krishnagiri Taxi Service">
     <meta property="og:description"

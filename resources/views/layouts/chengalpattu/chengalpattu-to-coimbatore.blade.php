@@ -10,7 +10,7 @@
         content="Book a reliable Chengalpattu to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Chengalpattu to Coimbatore taxi, Chengalpattu to Coimbatore one way taxi, Chengalpattu to Coimbatore cab, Chengalpattu to Coimbatore taxi fare, Chengalpattu to Coimbatore cab fare, Chengalpattu to Coimbatore car rental, Chengalpattu to Coimbatore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Chengalpattu to Coimbatore taxi, Chengalpattu to Coimbatore one way taxi, Chengalpattu to Coimbatore cab, Chengalpattu to Coimbatore taxi fare, Chengalpattu to Coimbatore cab fare, Chengalpattu to Coimbatore car rental, Chengalpattu to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Chengalpattu to Coimbatore Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Sivakasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Mayiladuthurai to Sivakasi taxi, Mayiladuthurai to Sivakasi one way taxi, Mayiladuthurai to Sivakasi outstation cabs, Mayiladuthurai to Sivakasi taxi fare, Mayiladuthurai to Sivakasi cab fare, Mayiladuthurai to Sivakasi round trip taxi, Mayiladuthurai to Sivakasi car rental, Mayiladuthurai to Sivakasi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Mayiladuthurai to Sivakasi taxi, Mayiladuthurai to Sivakasi one way taxi, Mayiladuthurai to Sivakasi outstation cabs, Mayiladuthurai to Sivakasi taxi fare, Mayiladuthurai to Sivakasi cab fare, Mayiladuthurai to Sivakasi round trip taxi, Mayiladuthurai to Sivakasi car rental, Mayiladuthurai to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Sivakasi Taxi Service">
     <meta property="og:description"

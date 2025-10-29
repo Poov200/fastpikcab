@@ -10,7 +10,7 @@
         content="Book a reliable Tirupati to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Tirupati to Thiruvarur taxi, Tirupati to Thiruvarur one way taxi, Tirupati to Thiruvarur outstation cabs, Tirupati to Thiruvarur taxi fare, Tirupati to Thiruvarur cab fare, Tirupati to Thiruvarur round trip taxi, Tirupati to Thiruvarur car rental, Tirupati to Thiruvarur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Tirupati to Thiruvarur taxi, Tirupati to Thiruvarur one way taxi, Tirupati to Thiruvarur outstation cabs, Tirupati to Thiruvarur taxi fare, Tirupati to Thiruvarur cab fare, Tirupati to Thiruvarur round trip taxi, Tirupati to Thiruvarur car rental, Tirupati to Thiruvarur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tirupati to Thiruvarur Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Mayiladuthurai to Arani taxi, Mayiladuthurai to Arani one way taxi, Mayiladuthurai to Arani outstation cabs, Mayiladuthurai to Arani taxi fare, Mayiladuthurai to Arani cab fare, Mayiladuthurai to Arani round trip taxi, Mayiladuthurai to Arani car rental, Mayiladuthurai to Arani cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Mayiladuthurai to Arani taxi, Mayiladuthurai to Arani one way taxi, Mayiladuthurai to Arani outstation cabs, Mayiladuthurai to Arani taxi fare, Mayiladuthurai to Arani cab fare, Mayiladuthurai to Arani round trip taxi, Mayiladuthurai to Arani car rental, Mayiladuthurai to Arani cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Arani Taxi Service">
     <meta property="og:description"

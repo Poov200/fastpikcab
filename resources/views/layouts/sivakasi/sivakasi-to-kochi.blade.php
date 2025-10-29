@@ -10,7 +10,7 @@
         content="Book a reliable Sivakasi to Kerala (Kochi) taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Sivakasi to Kerala taxi, Sivakasi to Kochi taxi, Sivakasi to Kerala one way taxi, Sivakasi to Kerala outstation cabs, Sivakasi to Kerala taxi fare, Sivakasi to Kerala cab fare, Sivakasi to Kerala round trip taxi, Sivakasi to Kerala car rental, Sivakasi to Kerala cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Sivakasi to Kerala taxi, Sivakasi to Kochi taxi, Sivakasi to Kerala one way taxi, Sivakasi to Kerala outstation cabs, Sivakasi to Kerala taxi fare, Sivakasi to Kerala cab fare, Sivakasi to Kerala round trip taxi, Sivakasi to Kerala car rental, Sivakasi to Kerala cab booking">
 
     <meta property="og:title" content="Fastpikcab - Sivakasi to Kerala (Kochi) Taxi Service">
     <meta property="og:description"

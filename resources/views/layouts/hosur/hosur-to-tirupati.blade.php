@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Hosur to Tirupati taxi, Hosur to Tirupati one way taxi, Hosur to Tirupati outstation cabs, Hosur to Tirupati taxi fare, Hosur to Tirupati cab fare, Hosur to Tirupati round trip taxi, Hosur to Tirupati car rental, Hosur to Tirupati cab booking, Tirupati taxi service, Hosur cab service">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Hosur to Tirupati taxi, Hosur to Tirupati one way taxi, Hosur to Tirupati outstation cabs, Hosur to Tirupati taxi fare, Hosur to Tirupati cab fare, Hosur to Tirupati round trip taxi, Hosur to Tirupati car rental, Hosur to Tirupati cab booking, Tirupati taxi service, Hosur cab service">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Tirupati Taxi Service">
     <meta property="og:description"

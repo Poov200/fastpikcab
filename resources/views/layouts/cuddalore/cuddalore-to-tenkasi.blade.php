@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Cuddalore to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey.">
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Cuddalore to Tenkasi taxi, Cuddalore to Tenkasi one way taxi, Cuddalore to Tenkasi outstation cabs, Cuddalore to Tenkasi taxi fare, Cuddalore to Tenkasi cab fare, Cuddalore to Tenkasi round trip taxi, Cuddalore to Tenkasi car rental, Cuddalore to Tenkasi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Cuddalore to Tenkasi taxi, Cuddalore to Tenkasi one way taxi, Cuddalore to Tenkasi outstation cabs, Cuddalore to Tenkasi taxi fare, Cuddalore to Tenkasi cab fare, Cuddalore to Tenkasi round trip taxi, Cuddalore to Tenkasi car rental, Cuddalore to Tenkasi cab booking">
     <meta property="og:title" content="Fastpikcab - Cuddalore to Tenkasi Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Cuddalore to Tenkasi. Book online for one-way, round-trip, or outstation travel.">

@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Virudhunagar to Trichy taxi, Virudhunagar to Trichy one way taxi, Virudhunagar to Trichy outstation cabs, Virudhunagar to Trichy taxi fare, Virudhunagar to Trichy cab fare, Virudhunagar to Trichy round trip taxi, Virudhunagar to Trichy car rental, Virudhunagar to Trichy cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Virudhunagar to Trichy taxi, Virudhunagar to Trichy one way taxi, Virudhunagar to Trichy outstation cabs, Virudhunagar to Trichy taxi fare, Virudhunagar to Trichy cab fare, Virudhunagar to Trichy round trip taxi, Virudhunagar to Trichy car rental, Virudhunagar to Trichy cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Trichy Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Cuddalore to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Cuddalore to Perambalur taxi, Cuddalore to Perambalur one way taxi, Cuddalore to Perambalur outstation cabs, Cuddalore to Perambalur taxi fare, Cuddalore to Perambalur cab fare, Cuddalore to Perambalur round trip taxi, Cuddalore to Perambalur car rental, Cuddalore to Perambalur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Cuddalore to Perambalur taxi, Cuddalore to Perambalur one way taxi, Cuddalore to Perambalur outstation cabs, Cuddalore to Perambalur taxi fare, Cuddalore to Perambalur cab fare, Cuddalore to Perambalur round trip taxi, Cuddalore to Perambalur car rental, Cuddalore to Perambalur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Cuddalore to Perambalur Taxi Service">
     <meta property="og:description"

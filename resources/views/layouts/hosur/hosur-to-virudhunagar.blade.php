@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Virudhunagar taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Hosur to Virudhunagar taxi, Hosur to Virudhunagar one way taxi, Hosur to Virudhunagar outstation cabs, Hosur to Virudhunagar taxi fare, Hosur to Virudhunagar cab fare, Hosur to Virudhunagar round trip taxi, Hosur to Virudhunagar car rental, Hosur to Virudhunagar cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Hosur to Virudhunagar taxi, Hosur to Virudhunagar one way taxi, Hosur to Virudhunagar outstation cabs, Hosur to Virudhunagar taxi fare, Hosur to Virudhunagar cab fare, Hosur to Virudhunagar round trip taxi, Hosur to Virudhunagar car rental, Hosur to Virudhunagar cab booking">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Virudhunagar Taxi Service">
     <meta property="og:description"

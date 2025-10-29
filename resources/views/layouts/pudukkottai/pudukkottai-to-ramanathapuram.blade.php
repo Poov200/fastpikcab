@@ -10,7 +10,7 @@
         content="Book a reliable Pudukkottai to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Pudukkottai to Ramanathapuram taxi, Pudukkottai to Ramanathapuram one way taxi, Pudukkottai to Ramanathapuram outstation cabs, Pudukkottai to Ramanathapuram taxi fare, Pudukkottai to Ramanathapuram cab fare, Pudukkottai to Ramanathapuram round trip taxi, Pudukkottai to Ramanathapuram car rental, Pudukkottai to Ramanathapuram cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Pudukkottai to Ramanathapuram taxi, Pudukkottai to Ramanathapuram one way taxi, Pudukkottai to Ramanathapuram outstation cabs, Pudukkottai to Ramanathapuram taxi fare, Pudukkottai to Ramanathapuram cab fare, Pudukkottai to Ramanathapuram round trip taxi, Pudukkottai to Ramanathapuram car rental, Pudukkottai to Ramanathapuram cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Pudukkottai to Ramanathapuram Taxi Service">
     <meta property="og:description"

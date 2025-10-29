@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Hosur to Kerala taxi, Hosur to Kerala one way taxi, Hosur to Kerala outstation cabs, Hosur to Kerala taxi fare, Hosur to Kerala cab fare, Hosur to Kerala round trip taxi, Hosur to Kerala car rental, Hosur to Kerala cab booking, Kerala taxi service, Hosur cab service">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Hosur to Kerala taxi, Hosur to Kerala one way taxi, Hosur to Kerala outstation cabs, Hosur to Kerala taxi fare, Hosur to Kerala cab fare, Hosur to Kerala round trip taxi, Hosur to Kerala car rental, Hosur to Kerala cab booking, Kerala taxi service, Hosur cab service">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Kerala Taxi Service">
     <meta property="og:description"

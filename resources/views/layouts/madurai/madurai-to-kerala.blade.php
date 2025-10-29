@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Kerala taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel to cities like Kochi, Munnar, or Trivandrum.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Madurai to Kerala taxi, Madurai to Kerala one way taxi, Madurai to Kerala drop taxi, Madurai to Kerala outstation cabs, Madurai to Kerala taxi fare, Madurai to Kerala cab fare, Madurai to Kerala round trip taxi, Madurai to Kerala car rental, Madurai to Kerala cab booking, Madurai to Kochi taxi, Madurai to Munnar taxi">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Madurai to Kerala taxi, Madurai to Kerala one way taxi, Madurai to Kerala drop taxi, Madurai to Kerala outstation cabs, Madurai to Kerala taxi fare, Madurai to Kerala cab fare, Madurai to Kerala round trip taxi, Madurai to Kerala car rental, Madurai to Kerala cab booking, Madurai to Kochi taxi, Madurai to Munnar taxi">
 
     <meta property="og:title" content="Fastpik Cab - Madurai to Kerala Taxi Service">
     <meta property="og:description"

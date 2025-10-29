@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Cuddalore taxi service with Fastpikcab. Get affordable fares for one-way and round-trip travel. We offer comfortable cabs for your short journey.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Puducherry to Cuddalore taxi, Puducherry to Cuddalore one way taxi, Puducherry to Cuddalore outstation cabs, Puducherry to Cuddalore taxi fare, Puducherry to Cuddalore cab fare, Puducherry to Cuddalore round trip taxi, Puducherry to Cuddalore car rental, Puducherry to Cuddalore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Puducherry to Cuddalore taxi, Puducherry to Cuddalore one way taxi, Puducherry to Cuddalore outstation cabs, Puducherry to Cuddalore taxi fare, Puducherry to Cuddalore cab fare, Puducherry to Cuddalore round trip taxi, Puducherry to Cuddalore car rental, Puducherry to Cuddalore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Cuddalore Taxi Service">
     <meta property="og:description"

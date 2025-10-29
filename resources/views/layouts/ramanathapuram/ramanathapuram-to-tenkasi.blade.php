@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ramanathapuram to Tenkasi taxi, Ramanathapuram to Tenkasi one way taxi, Ramanathapuram to Tenkasi outstation cabs, Ramanathapuram to Tenkasi taxi fare, Ramanathapuram to Tenkasi cab fare, Ramanathapuram to Tenkasi round trip taxi, Ramanathapuram to Tenkasi car rental, Ramanathapuram to Tenkasi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ramanathapuram to Tenkasi taxi, Ramanathapuram to Tenkasi one way taxi, Ramanathapuram to Tenkasi outstation cabs, Ramanathapuram to Tenkasi taxi fare, Ramanathapuram to Tenkasi cab fare, Ramanathapuram to Tenkasi round trip taxi, Ramanathapuram to Tenkasi car rental, Ramanathapuram to Tenkasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ramanathapuram to Tenkasi Taxi Service">
     <meta property="og:description"

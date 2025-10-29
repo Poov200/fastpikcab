@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Dindigul to Coimbatore taxi, Dindigul to Coimbatore one way taxi, Dindigul to Coimbatore outstation cabs, Dindigul to Coimbatore taxi fare, Dindigul to Coimbatore cab fare, Dindigul to Coimbatore round trip taxi, Dindigul to Coimbatore car rental, Dindigul to Coimbatore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Dindigul to Coimbatore taxi, Dindigul to Coimbatore one way taxi, Dindigul to Coimbatore outstation cabs, Dindigul to Coimbatore taxi fare, Dindigul to Coimbatore cab fare, Dindigul to Coimbatore round trip taxi, Dindigul to Coimbatore car rental, Dindigul to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Coimbatore Taxi Service">
     <meta property="og:description"

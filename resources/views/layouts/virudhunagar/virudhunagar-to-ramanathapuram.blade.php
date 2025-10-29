@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Virudhunagar to Ramanathapuram taxi, Virudhunagar to Ramanathapuram one way taxi, Virudhunagar to Ramanathapuram outstation cabs, Virudhunagar to Ramanathapuram taxi fare, Virudhunagar to Ramanathapuram cab fare, Virudhunagar to Ramanathapuram round trip taxi, Virudhunagar to Ramanathapuram car rental, Virudhunagar to Ramanathapuram cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Virudhunagar to Ramanathapuram taxi, Virudhunagar to Ramanathapuram one way taxi, Virudhunagar to Ramanathapuram outstation cabs, Virudhunagar to Ramanathapuram taxi fare, Virudhunagar to Ramanathapuram cab fare, Virudhunagar to Ramanathapuram round trip taxi, Virudhunagar to Ramanathapuram car rental, Virudhunagar to Ramanathapuram cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Ramanathapuram Taxi Service">
     <meta property="og:description"

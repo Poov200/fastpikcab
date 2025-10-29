@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Bangalore to Salem taxi, Bangalore to Salem one way taxi, Bangalore to Salem outstation cabs, Bangalore to Salem taxi fare, Bangalore to Salem cab fare, Bangalore to Salem round trip taxi, Bangalore to Salem car rental, Bangalore to Salem cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Bangalore to Salem taxi, Bangalore to Salem one way taxi, Bangalore to Salem outstation cabs, Bangalore to Salem taxi fare, Bangalore to Salem cab fare, Bangalore to Salem round trip taxi, Bangalore to Salem car rental, Bangalore to Salem cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Salem Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Namakkal to Dindigul taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Namakkal to Dindigul taxi, Namakkal to Dindigul one way taxi, Namakkal to Dindigul outstation cabs, Namakkal to Dindigul taxi fare, Namakkal to Dindigul cab fare, Namakkal to Dindigul round trip taxi, Namakkal to Dindigul car rental, Namakkal to Dindigul cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Namakkal to Dindigul taxi, Namakkal to Dindigul one way taxi, Namakkal to Dindigul outstation cabs, Namakkal to Dindigul taxi fare, Namakkal to Dindigul cab fare, Namakkal to Dindigul round trip taxi, Namakkal to Dindigul car rental, Namakkal to Dindigul cab booking">
 
     <meta property="og:title" content="Fastpikcab - Namakkal to Dindigul Taxi Service">
     <meta property="og:description"

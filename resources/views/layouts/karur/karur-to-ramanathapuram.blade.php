@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karur to Ramanathapuram taxi, Karur to Ramanathapuram one way taxi, Karur to Ramanathapuram outstation cabs, Karur to Ramanathapuram taxi fare, Karur to Ramanathapuram cab fare, Karur to Ramanathapuram round trip taxi, Karur to Ramanathapuram car rental, Karur to Ramanathapuram cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Karur to Ramanathapuram taxi, Karur to Ramanathapuram one way taxi, Karur to Ramanathapuram outstation cabs, Karur to Ramanathapuram taxi fare, Karur to Ramanathapuram cab fare, Karur to Ramanathapuram round trip taxi, Karur to Ramanathapuram car rental, Karur to Ramanathapuram cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Ramanathapuram Taxi Service">
     <meta property="og:description"

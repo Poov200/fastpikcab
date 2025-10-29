@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Mayiladuthurai to Madurai taxi, Mayiladuthurai to Madurai one way taxi, Mayiladuthurai to Madurai outstation cabs, Mayiladuthurai to Madurai taxi fare, Mayiladuthurai to Madurai cab fare, Mayiladuthurai to Madurai round trip taxi, Mayiladuthurai to Madurai car rental, Mayiladuthurai to Madurai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Mayiladuthurai to Madurai taxi, Mayiladuthurai to Madurai one way taxi, Mayiladuthurai to Madurai outstation cabs, Mayiladuthurai to Madurai taxi fare, Mayiladuthurai to Madurai cab fare, Mayiladuthurai to Madurai round trip taxi, Mayiladuthurai to Madurai car rental, Mayiladuthurai to Madurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Madurai Taxi Service">
     <meta property="og:description"

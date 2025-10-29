@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Tenkasi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Dindigul to Tenkasi taxi, Dindigul to Tenkasi one way taxi, Dindigul to Tenkasi outstation cabs, Dindigul to Tenkasi taxi fare, Dindigul to Tenkasi cab fare, Dindigul to Tenkasi round trip taxi, Dindigul to Tenkasi car rental, Dindigul to Tenkasi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Dindigul to Tenkasi taxi, Dindigul to Tenkasi one way taxi, Dindigul to Tenkasi outstation cabs, Dindigul to Tenkasi taxi fare, Dindigul to Tenkasi cab fare, Dindigul to Tenkasi round trip taxi, Dindigul to Tenkasi car rental, Dindigul to Tenkasi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Tenkasi Taxi Service">
     <meta property="og:description"

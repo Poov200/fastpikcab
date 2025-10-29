@@ -10,7 +10,7 @@
         content="Book a reliable Chennai to Arani taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Chennai to Arani taxi, Chennai Airport to Arani taxi, Chennai to Arani one way taxi, Chennai to Arani outstation cabs, Chennai to Arani taxi fare, Chennai to Arani cab fare, Chennai to Arani round trip taxi, Chennai to Arani car rental, Chennai to Arani cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Chennai to Arani taxi, Chennai Airport to Arani taxi, Chennai to Arani one way taxi, Chennai to Arani outstation cabs, Chennai to Arani taxi fare, Chennai to Arani cab fare, Chennai to Arani round trip taxi, Chennai to Arani car rental, Chennai to Arani cab booking">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Arani Taxi Service">
     <meta property="og:description"

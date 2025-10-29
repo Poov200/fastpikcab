@@ -10,7 +10,7 @@
         content="Book a reliable Thoothukudi to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Thoothukudi to Madurai taxi, Thoothukudi to Madurai one way taxi, Thoothukudi to Madurai outstation cabs, Thoothukudi to Madurai taxi fare, Thoothukudi to Madurai cab fare, Thoothukudi to Madurai round trip taxi, Thoothukudi to Madurai car rental, Thoothukudi to Madurai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Thoothukudi to Madurai taxi, Thoothukudi to Madurai one way taxi, Thoothukudi to Madurai outstation cabs, Thoothukudi to Madurai taxi fare, Thoothukudi to Madurai cab fare, Thoothukudi to Madurai round trip taxi, Thoothukudi to Madurai car rental, Thoothukudi to Madurai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thoothukudi to Madurai Taxi Service">
     <meta property="og:description"

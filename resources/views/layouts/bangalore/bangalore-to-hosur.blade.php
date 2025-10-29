@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Bangalore to Hosur taxi, Bangalore to Hosur one way taxi, Bangalore to Hosur outstation cabs, Bangalore to Hosur taxi fare, Bangalore to Hosur cab fare, Bangalore to Hosur round trip taxi, Bangalore to Hosur car rental, Bangalore to Hosur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Bangalore to Hosur taxi, Bangalore to Hosur one way taxi, Bangalore to Hosur outstation cabs, Bangalore to Hosur taxi fare, Bangalore to Hosur cab fare, Bangalore to Hosur round trip taxi, Bangalore to Hosur car rental, Bangalore to Hosur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Hosur Taxi Service">
     <meta property="og:description"
