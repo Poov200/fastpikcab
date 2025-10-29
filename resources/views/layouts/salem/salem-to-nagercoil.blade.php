@@ -10,7 +10,7 @@
         content="Book a reliable Salem to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Salem to Nagercoil taxi, Salem to Nagercoil one way taxi, Salem to Nagercoil outstation cabs, Salem to Nagercoil taxi fare, Salem to Nagercoil cab fare, Salem to Nagercoil round trip taxi, Salem to Nagercoil car rental, Salem to Nagercoil cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Salem to Nagercoil taxi, Salem to Nagercoil one way taxi, Salem to Nagercoil outstation cabs, Salem to Nagercoil taxi fare, Salem to Nagercoil cab fare, Salem to Nagercoil round trip taxi, Salem to Nagercoil car rental, Salem to Nagercoil cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Salem to Nagercoil Taxi Service">
     <meta property="og:description"

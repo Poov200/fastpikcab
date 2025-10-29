@@ -10,7 +10,7 @@
         content="Book a reliable Krishnagiri to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Krishnagiri to Chennai taxi, Krishnagiri to Chennai one way taxi, Krishnagiri to Chennai outstation cabs, Krishnagiri to Chennai taxi fare, Krishnagiri to Chennai cab fare, Krishnagiri to Chennai round trip taxi, Krishnagiri to Chennai car rental, Krishnagiri to Chennai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Krishnagiri to Chennai taxi, Krishnagiri to Chennai one way taxi, Krishnagiri to Chennai outstation cabs, Krishnagiri to Chennai taxi fare, Krishnagiri to Chennai cab fare, Krishnagiri to Chennai round trip taxi, Krishnagiri to Chennai car rental, Krishnagiri to Chennai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Krishnagiri to Chennai Taxi Service">
     <meta property="og:description"

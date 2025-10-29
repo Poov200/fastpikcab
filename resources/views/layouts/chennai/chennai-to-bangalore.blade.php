@@ -10,7 +10,7 @@
         content="Book a reliable Chennai to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Chennai to Bangalore taxi, Chennai Airport to Bangalore taxi, Chennai to Bangalore one way taxi, Chennai to Bangalore outstation cabs, Chennai to Bangalore taxi fare, Chennai to Bangalore cab fare, Chennai Airport to Bangalore airport taxi, Chennai to Bangalore round trip taxi, Chennai to Bangalore round trip taxi fare, Chennai to Bangalore car rental, Chennai to Bangalore cab booking, Chennai to Bangalore taxi service">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Chennai to Bangalore taxi, Chennai Airport to Bangalore taxi, Chennai to Bangalore one way taxi, Chennai to Bangalore outstation cabs, Chennai to Bangalore taxi fare, Chennai to Bangalore cab fare, Chennai Airport to Bangalore airport taxi, Chennai to Bangalore round trip taxi, Chennai to Bangalore round trip taxi fare, Chennai to Bangalore car rental, Chennai to Bangalore cab booking, Chennai to Bangalore taxi service">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Bangalore Taxi Service">
     <meta property="og:description"

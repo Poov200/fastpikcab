@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Madurai to Namakkal taxi, Madurai to Namakkal one way taxi, Madurai to Namakkal outstation cabs, Madurai to Namakkal taxi fare, Madurai to Namakkal cab fare, Madurai to Namakkal round trip taxi, Madurai to Namakkal car rental, Madurai to Namakkal cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Madurai to Namakkal taxi, Madurai to Namakkal one way taxi, Madurai to Namakkal outstation cabs, Madurai to Namakkal taxi fare, Madurai to Namakkal cab fare, Madurai to Namakkal round trip taxi, Madurai to Namakkal car rental, Madurai to Namakkal cab booking">
 
     <meta property="og:title" content="Fastpikcab - Madurai to Namakkal Taxi Service">
     <meta property="og:description"

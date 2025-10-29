@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Dindigul to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Dindigul to Tirupati taxi, Dindigul to Tirupati one way taxi, Dindigul to Tirupati outstation cabs, Dindigul to Tirupati taxi fare, Dindigul to Tirupati cab fare, Dindigul to Tirupati round trip taxi, Dindigul to Tirupati car rental, Dindigul to Tirupati cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Dindigul to Tirupati taxi, Dindigul to Tirupati one way taxi, Dindigul to Tirupati outstation cabs, Dindigul to Tirupati taxi fare, Dindigul to Tirupati cab fare, Dindigul to Tirupati round trip taxi, Dindigul to Tirupati car rental, Dindigul to Tirupati cab booking">
     <meta property="og:title" content="Fastpikcab - Dindigul to Tirupati Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Dindigul to Tirupati. Book online for one-way, round-trip, or outstation travel.">

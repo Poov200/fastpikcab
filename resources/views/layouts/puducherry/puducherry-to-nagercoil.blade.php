@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Puducherry to Nagercoil taxi, Puducherry to Nagercoil one way taxi, Puducherry to Nagercoil outstation cabs, Puducherry to Nagercoil taxi fare, Puducherry to Nagercoil cab fare, Puducherry to Nagercoil round trip taxi, Puducherry to Nagercoil car rental, Puducherry to Nagercoil cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Puducherry to Nagercoil taxi, Puducherry to Nagercoil one way taxi, Puducherry to Nagercoil outstation cabs, Puducherry to Nagercoil taxi fare, Puducherry to Nagercoil cab fare, Puducherry to Nagercoil round trip taxi, Puducherry to Nagercoil car rental, Puducherry to Nagercoil cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Nagercoil Taxi Service">
     <meta property="og:description"

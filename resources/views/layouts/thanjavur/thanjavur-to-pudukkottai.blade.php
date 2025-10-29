@@ -10,7 +10,7 @@
         content="Book a reliable Thanjavur to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Thanjavur to Pudukkottai taxi, Thanjavur to Pudukkottai one way taxi, Thanjavur to Pudukkottai outstation cabs, Thanjavur to Pudukkottai taxi fare, Thanjavur to Pudukkottai cab fare, Thanjavur to Pudukkottai round trip taxi, Thanjavur to Pudukkottai car rental, Thanjavur to Pudukkottai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Thanjavur to Pudukkottai taxi, Thanjavur to Pudukkottai one way taxi, Thanjavur to Pudukkottai outstation cabs, Thanjavur to Pudukkottai taxi fare, Thanjavur to Pudukkottai cab fare, Thanjavur to Pudukkottai round trip taxi, Thanjavur to Pudukkottai car rental, Thanjavur to Pudukkottai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thanjavur to Pudukkottai Taxi Service">
     <meta property="og:description"

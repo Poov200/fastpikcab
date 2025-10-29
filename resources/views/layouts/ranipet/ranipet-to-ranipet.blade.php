@@ -10,7 +10,7 @@
         content="Book a reliable local taxi service in Ranipet with Fastpik Cab. Get affordable fares for one-way, round-trip, and hourly rentals within Ranipet. We offer comfortable cabs for your local travel needs.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ranipet local taxi, Ranipet taxi service, Ranipet car rental, Ranipet cab booking, Ranipet to Ranipet taxi, local taxi Ranipet, hire car Ranipet">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ranipet local taxi, Ranipet taxi service, Ranipet car rental, Ranipet cab booking, Ranipet to Ranipet taxi, local taxi Ranipet, hire car Ranipet">
 
     <meta property="og:title" content="Fastpik Cab - Ranipet Local Taxi Service">
     <meta property="og:description"

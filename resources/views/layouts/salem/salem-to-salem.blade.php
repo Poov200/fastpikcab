@@ -10,7 +10,7 @@
         content="Book a reliable Salem local taxi service with Fastpik Cab. Get affordable fares for hourly rentals, city tours, and airport transfers within Salem. We offer comfortable cabs for your local travel needs.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Salem local taxi, Salem city taxi, Salem car rental, Salem airport taxi, Salem taxi fare, Salem cab booking, local taxi Salem, taxi service Salem">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Salem local taxi, Salem city taxi, Salem car rental, Salem airport taxi, Salem taxi fare, Salem cab booking, local taxi Salem, taxi service Salem">
 
     <meta property="og:title" content="Fastpik Cab - Salem Local Taxi Service">
     <meta property="og:description"

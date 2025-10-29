@@ -10,7 +10,7 @@
         content="Book a reliable Arani to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Arani to Madurai taxi, Arani to Madurai one way taxi, Arani to Madurai outstation cabs, Arani to Madurai taxi fare, Arani to Madurai cab fare, Arani to Madurai round trip taxi, Arani to Madurai car rental, Arani to Madurai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Arani to Madurai taxi, Arani to Madurai one way taxi, Arani to Madurai outstation cabs, Arani to Madurai taxi fare, Arani to Madurai cab fare, Arani to Madurai round trip taxi, Arani to Madurai car rental, Arani to Madurai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Arani to Madurai Taxi Service">
     <meta property="og:description"

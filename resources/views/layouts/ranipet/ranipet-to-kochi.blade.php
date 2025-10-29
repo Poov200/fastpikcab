@@ -7,10 +7,10 @@
     <title>Fastpikcab - Ranipet to Kochi Taxi Service</title>
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ranipet to Kochi taxi, Ranipet to Kochi one way taxi, Ranipet to Kochi outstation cabs, Ranipet to Kochi taxi fare, Ranipet to Kochi cab fare, Ranipet to Kochi round trip taxi, Ranipet to Kochi car rental, Ranipet to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ranipet to Kochi taxi, Ranipet to Kochi one way taxi, Ranipet to Kochi outstation cabs, Ranipet to Kochi taxi fare, Ranipet to Kochi cab fare, Ranipet to Kochi round trip taxi, Ranipet to Kochi car rental, Ranipet to Kochi cab booking">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ranipet to Kochi taxi, Ranipet to Kochi one way taxi, Ranipet to Kochi outstation cabs, Ranipet to Kochi taxi fare, Ranipet to Kochi cab fare, Ranipet to Kochi round trip taxi, Ranipet to Kochi car rental, Ranipet to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ranipet to Kochi taxi, Ranipet to Kochi one way taxi, Ranipet to Kochi outstation cabs, Ranipet to Kochi taxi fare, Ranipet to Kochi cab fare, Ranipet to Kochi round trip taxi, Ranipet to Kochi car rental, Ranipet to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Ranipet to Kochi Taxi Service">
     <meta property="og:description"

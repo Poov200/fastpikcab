@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Tirunelveli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karaikal to Tirunelveli taxi, Karaikal to Tirunelveli one way taxi, Karaikal to Tirunelveli outstation cabs, Karaikal to Tirunelveli taxi fare, Karaikal to Tirunelveli cab fare, Karaikal to Tirunelveli round trip taxi, Karaikal to Tirunelveli car rental, Karaikal to Tirunelveli cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Karaikal to Tirunelveli taxi, Karaikal to Tirunelveli one way taxi, Karaikal to Tirunelveli outstation cabs, Karaikal to Tirunelveli taxi fare, Karaikal to Tirunelveli cab fare, Karaikal to Tirunelveli round trip taxi, Karaikal to Tirunelveli car rental, Karaikal to Tirunelveli cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Tirunelveli Taxi Service">
     <meta property="og:description"

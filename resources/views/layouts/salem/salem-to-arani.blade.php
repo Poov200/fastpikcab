@@ -10,7 +10,7 @@
         content="Book a reliable Salem to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Salem to Arani taxi, Salem to Arani one way taxi, Salem to Arani outstation cabs, Salem to Arani taxi fare, Salem to Arani cab fare, Salem to Arani round trip taxi, Salem to Arani car rental, Salem to Arani cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Salem to Arani taxi, Salem to Arani one way taxi, Salem to Arani outstation cabs, Salem to Arani taxi fare, Salem to Arani cab fare, Salem to Arani round trip taxi, Salem to Arani car rental, Salem to Arani cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Salem to Arani Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ramanathapuram to Tiruppur taxi, Ramanathapuram to Tiruppur one way taxi, Ramanathapuram to Tiruppur outstation cabs, Ramanathapuram to Tiruppur taxi fare, Ramanathapuram to Tiruppur cab fare, Ramanathapuram to Tiruppur round trip taxi, Ramanathapuram to Tiruppur car rental, Ramanathapuram to Tiruppur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ramanathapuram to Tiruppur taxi, Ramanathapuram to Tiruppur one way taxi, Ramanathapuram to Tiruppur outstation cabs, Ramanathapuram to Tiruppur taxi fare, Ramanathapuram to Tiruppur cab fare, Ramanathapuram to Tiruppur round trip taxi, Ramanathapuram to Tiruppur car rental, Ramanathapuram to Tiruppur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ramanathapuram to Tiruppur Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Namakkal to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Namakkal to Kerala taxi, Namakkal to Kerala one way taxi, Namakkal to Kerala outstation cabs, Namakkal to Kerala taxi fare, Namakkal to Kerala cab fare, Namakkal to Kerala round trip taxi, Namakkal to Kerala car rental, Namakkal to Kerala cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Namakkal to Kerala taxi, Namakkal to Kerala one way taxi, Namakkal to Kerala outstation cabs, Namakkal to Kerala taxi fare, Namakkal to Kerala cab fare, Namakkal to Kerala round trip taxi, Namakkal to Kerala car rental, Namakkal to Kerala cab booking">
 
     <meta property="og:title" content="Fastpikcab - Namakkal to Kerala Taxi Service">
     <meta property="og:description"

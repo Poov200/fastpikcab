@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karur to Tiruppur taxi, Karur to Tiruppur one way taxi, Karur to Tiruppur outstation cabs, Karur to Tiruppur taxi fare, Karur to Tiruppur cab fare, Karur to Tiruppur round trip taxi, Karur to Tiruppur car rental, Karur to Tiruppur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Karur to Tiruppur taxi, Karur to Tiruppur one way taxi, Karur to Tiruppur outstation cabs, Karur to Tiruppur taxi fare, Karur to Tiruppur cab fare, Karur to Tiruppur round trip taxi, Karur to Tiruppur car rental, Karur to Tiruppur cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Tiruppur Taxi Service">
     <meta property="og:description"

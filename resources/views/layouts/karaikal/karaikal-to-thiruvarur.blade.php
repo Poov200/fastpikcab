@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karaikal to Thiruvarur taxi, Karaikal to Thiruvarur one way taxi, Karaikal to Thiruvarur outstation cabs, Karaikal to Thiruvarur taxi fare, Karaikal to Thiruvarur cab fare, Karaikal to Thiruvarur round trip taxi, Karaikal to Thiruvarur car rental, Karaikal to Thiruvarur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Karaikal to Thiruvarur taxi, Karaikal to Thiruvarur one way taxi, Karaikal to Thiruvarur outstation cabs, Karaikal to Thiruvarur taxi fare, Karaikal to Thiruvarur cab fare, Karaikal to Thiruvarur round trip taxi, Karaikal to Thiruvarur car rental, Karaikal to Thiruvarur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Thiruvarur Taxi Service">
     <meta property="og:description"

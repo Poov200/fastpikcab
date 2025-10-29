@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Cuddalore to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey.">
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Cuddalore to Thanjavur taxi, Cuddalore to Thanjavur one way taxi, Cuddalore to Thanjavur outstation cabs, Cuddalore to Thanjavur taxi fare, Cuddalore to Thanjavur cab fare, Cuddalore to Thanjavur round trip taxi, Cuddalore to Thanjavur car rental, Cuddalore to Thanjavur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Cuddalore to Thanjavur taxi, Cuddalore to Thanjavur one way taxi, Cuddalore to Thanjavur outstation cabs, Cuddalore to Thanjavur taxi fare, Cuddalore to Thanjavur cab fare, Cuddalore to Thanjavur round trip taxi, Cuddalore to Thanjavur car rental, Cuddalore to Thanjavur cab booking">
     <meta property="og:title" content="Fastpikcab - Cuddalore to Thanjavur Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Cuddalore to Thanjavur. Book online for one-way, round-trip, or outstation travel.">

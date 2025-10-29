@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ramanathapuram to Thanjavur taxi, Ramanathapuram to Thanjavur one way taxi, Ramanathapuram to Thanjavur outstation cabs, Ramanathapuram to Thanjavur taxi fare, Ramanathapuram to Thanjavur cab fare, Ramanathapuram to Thanjavur round trip taxi, Ramanathapuram to Thanjavur car rental, Ramanathapuram to Thanjavur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ramanathapuram to Thanjavur taxi, Ramanathapuram to Thanjavur one way taxi, Ramanathapuram to Thanjavur outstation cabs, Ramanathapuram to Thanjavur taxi fare, Ramanathapuram to Thanjavur cab fare, Ramanathapuram to Thanjavur round trip taxi, Ramanathapuram to Thanjavur car rental, Ramanathapuram to Thanjavur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ramanathapuram to Thanjavur Taxi Service">
     <meta property="og:description"

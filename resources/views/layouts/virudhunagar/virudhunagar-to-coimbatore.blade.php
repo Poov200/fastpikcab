@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Virudhunagar to Coimbatore taxi, Virudhunagar to Coimbatore one way taxi, Virudhunagar to Coimbatore outstation cabs, Virudhunagar to Coimbatore taxi fare, Virudhunagar to Coimbatore cab fare, Virudhunagar to Coimbatore round trip taxi, Virudhunagar to Coimbatore car rental, Virudhunagar to Coimbatore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Virudhunagar to Coimbatore taxi, Virudhunagar to Coimbatore one way taxi, Virudhunagar to Coimbatore outstation cabs, Virudhunagar to Coimbatore taxi fare, Virudhunagar to Coimbatore cab fare, Virudhunagar to Coimbatore round trip taxi, Virudhunagar to Coimbatore car rental, Virudhunagar to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Coimbatore Taxi Service">
     <meta property="og:description"

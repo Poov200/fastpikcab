@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Trichy taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Puducherry to Trichy taxi, Puducherry to Trichy one way taxi, Puducherry to Trichy outstation cabs, Puducherry to Trichy taxi fare, Puducherry to Trichy cab fare, Puducherry to Trichy round trip taxi, Puducherry to Trichy car rental, Puducherry to Trichy cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Puducherry to Trichy taxi, Puducherry to Trichy one way taxi, Puducherry to Trichy outstation cabs, Puducherry to Trichy taxi fare, Puducherry to Trichy cab fare, Puducherry to Trichy round trip taxi, Puducherry to Trichy car rental, Puducherry to Trichy cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Trichy Taxi Service">
     <meta property="og:description"

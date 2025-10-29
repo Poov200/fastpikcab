@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karur to Kochi taxi, Karur to Kochi one way taxi, Karur to Kochi outstation cabs, Karur to Kochi taxi fare, Karur to Kochi cab fare, Karur to Kochi round trip taxi, Karur to Kochi car rental, Karur to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Karur to Kochi taxi, Karur to Kochi one way taxi, Karur to Kochi outstation cabs, Karur to Kochi taxi fare, Karur to Kochi cab fare, Karur to Kochi round trip taxi, Karur to Kochi car rental, Karur to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Kochi Taxi Service">
     <meta property="og:description"

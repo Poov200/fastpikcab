@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Nagapattinam taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Madurai to Nagapattinam taxi, Madurai to Nagapattinam one way taxi, Madurai to Nagapattinam outstation cabs, Madurai to Nagapattinam taxi fare, Madurai to Nagapattinam cab fare, Madurai to Nagapattinam round trip taxi, Madurai to Nagapattinam car rental, Madurai to Nagapattinam cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Madurai to Nagapattinam taxi, Madurai to Nagapattinam one way taxi, Madurai to Nagapattinam outstation cabs, Madurai to Nagapattinam taxi fare, Madurai to Nagapattinam cab fare, Madurai to Nagapattinam round trip taxi, Madurai to Nagapattinam car rental, Madurai to Nagapattinam cab booking">
 
     <meta property="og:title" content="Fastpikcab - Madurai to Nagapattinam Taxi Service">
     <meta property="og:description"

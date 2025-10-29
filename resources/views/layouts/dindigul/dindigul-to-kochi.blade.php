@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Dindigul to Kochi taxi, Dindigul to Kochi one way taxi, Dindigul to Kochi outstation cabs, Dindigul to Kochi taxi fare, Dindigul to Kochi cab fare, Dindigul to Kochi round trip taxi, Dindigul to Kochi car rental, Dindigul to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Dindigul to Kochi taxi, Dindigul to Kochi one way taxi, Dindigul to Kochi outstation cabs, Dindigul to Kochi taxi fare, Dindigul to Kochi cab fare, Dindigul to Kochi round trip taxi, Dindigul to Kochi car rental, Dindigul to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Kochi Taxi Service">
     <meta property="og:description"
