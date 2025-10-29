@@ -168,6 +168,61 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Karur to Tiruppur Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Karur to Tiruppur Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a comfortable journey from <strong>Karur to Tiruppur</strong>? Fastpikcab offers
+            reliable, clean, and well-maintained taxis for one-way trips, round journeys, and urgent travel needs.
+            With 24/7 availability, our professional drivers ensure a safe and hassle-free ride.
+        </p>
+
+        <p class="mb-4">
+            The distance between Karur and Tiruppur is around <strong>90 km</strong>, which usually takes
+            about <strong>2 hours</strong> by road. The route covers <strong>NH 81</strong>, passing through
+            <strong>Kangayam</strong>. You can also request short stopovers
+            for food, refreshments, or sightseeing during your trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle options such as <strong>Sedans, SUVs, and Premium Cars</strong>
+            depending on your budget and group size. All taxis are air-conditioned, spacious, and GPS-enabled,
+            ensuring a stress-free experience with <strong>transparent pricing</strong> and no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>pickups from Karur Railway Station</strong> and doorstep cab service
+            for passengers traveling to Tiruppur. Families, students, business professionals, and group travelers
+            can benefit from our <strong>round-trip packages</strong> that are affordable and convenient.
+        </p>
+
+        <p class="mb-4">
+            Apart from Tiruppur, Fastpikcab also offers taxi services to all major cities and districts in Tamil Nadu
+            including: Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Karur to Tiruppur taxi</strong> with Fastpikcab is quick and simple.
+            You can book online through our website or call us at <strong>+91 88256 94157</strong>. Our
+            24/7 customer support team is always ready to assist with bookings, fare details, and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Karur to Tiruppur taxi service</strong> and enjoy
+            affordable, reliable, and safe travel. We make every journey smooth, punctual, and memorable.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Karur to Tiruppur Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -4,17 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Kerala Taxi Service | Book Online</title>
+    <title>Fastpikcab - Nagapattinam to Kerala Taxi Service </title>
 
     <meta name="description"
-        content="Book a reliable Nagapattinam to Kerala taxi service with Fastpikcab. Affordable fares for one-way, round-trip, and outstation cabs with comfortable travel options.">
+        content="Book a reliable Nagapattinam to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Nagapattinam to Kerala taxi, Nagapattinam to Kerala one way taxi, Nagapattinam to Kerala outstation cabs, Nagapattinam to Kerala cab fare, Nagapattinam to Kerala round trip taxi, Nagapattinam to Kerala car rental, Nagapattinam to Kerala cab booking">
+        content="Nagapattinam to Kerala taxi, Nagapattinam to Kerala one way taxi, Nagapattinam to Kerala outstation cabs, Nagapattinam to Kerala taxi fare, Nagapattinam to Kerala cab fare, Nagapattinam to Kerala round trip taxi, Nagapattinam to Kerala car rental, Nagapattinam to Kerala cab booking, Nagapattinam to Kochi taxi, Fastcab, Fast cab, fast taxi, speed cab, fastpik, Drop taxi , oneway taxi">
 
     <meta property="og:title" content="Fastpikcab - Nagapattinam to Kerala Taxi Service">
     <meta property="og:description"
-        content="Affordable and reliable taxi service from Nagapattinam to Kerala. Book online for one-way, round-trip, or outstation cabs.">
+        content="Reliable and affordable taxi service from Nagapattinam to Kerala. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/nagapattinam-to-kerala-drop-taxi">
     <meta property="og:type" content="website">
@@ -27,126 +27,243 @@
 
     <link rel="canonical" href="https://www.fastpikcab.com/nagapattinam-to-kerala-drop-taxi">
 
-    <!-- LocalBusiness Schema -->
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "LocalBusiness",
-        "name": "Fastpikcab",
-        "url": "https://www.fastpikcab.com/",
-        "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
-        "image": "https://www.fastpikcab.com/img/heroimg.png",
-        "telephone": "+91-8825694157",
-        "priceRange": "$$",
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Throw Pathi Amman Kovil Street",
-            "addressLocality": "Kalanjukuppam",
-            "addressRegion": "Tamil Nadu",
-            "postalCode": "607104",
-            "addressCountry": "IN"
-        },
-        "openingHoursSpecification": {
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": [
-                "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
-            ],
-            "opens": "00:00",
-            "closes": "23:59"
-        },
-        "makesOffer": {
-            "@type": "Offer",
-            "itemOffered": {
-                "@type": "Service",
-                "name": "Nagapattinam to Kerala Taxi Service",
-                "description": "Affordable taxi service from Nagapattinam to Kerala for one-way, round-trip, and outstation travel.",
-                "serviceType": "TaxiService",
-                "areaServed": ["Nagapattinam","Kerala"],
-                "provider": {
-                    "@type": "Organization",
-                    "name": "Fastpikcab"
-                }
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Fastpikcab",
+            "url": "https://www.fastpikcab.com/",
+            "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
+            "image": "https://www.fastpikcab.com/img/heroimg.png",
+            "telephone": "+91-8825694157",
+            "priceRange": "$$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "addressLocality": "Kalanjukuppam",
+                "addressRegion": "Tamil Nadu",
+                "postalCode": "607104",
+                "addressCountry": "IN"
             },
-            "priceCurrency": "INR",
-            "priceValidUntil": "2024-12-31"
-        }
-    }
-    </script>
-
-    <!-- WebPage Schema -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebPage",
-        "name": "Nagapattinam to Kerala Taxi Service | Fastpikcab",
-        "description": "Book affordable and reliable taxis from Nagapattinam to Kerala. Choose sedan, SUV, and premium cars for a comfortable ride.",
-        "breadcrumb": {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-                { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.fastpikcab.com/" },
-                { "@type": "ListItem", "position": 2, "name": "Nagapattinam to Kerala", "item": "https://www.fastpikcab.com/nagapattinam-to-kerala-drop-taxi" }
-            ]
-        },
-        "mainEntityOfPage": {
-            "@type": "Product",
-            "name": "Nagapattinam to Kerala Taxi Service",
-            "offers": {
-                "@type": "AggregateOffer",
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "makesOffer": {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Nagapattinam to Kerala Taxi Service",
+                    "description": "Reliable long-distance taxi service connecting Nagapattinam to various destinations in Kerala, with options for one-way and round-trip travel.",
+                    "serviceType": "TaxiService",
+                    "areaServed": ["Nagapattinam", "Kerala"],
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Fastpikcab"
+                    }
+                },
                 "priceCurrency": "INR",
-                "lowPrice": "6000",
-                "highPrice": "12000",
-                "offerCount": "Multiple vehicle options"
+                "priceValidUntil": "2026-12-31"
             }
         }
-    }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Nagapattinam to Kerala Taxi Service | Fastpikcab",
+            "description": "Book affordable and reliable taxis from Nagapattinam to Kerala. Choose from sedan, SUV, and premium vehicles for a comfortable long-distance journey.",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [{
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fastpikcab.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Nagapattinam to Kerala",
+                        "item": "https://www.fastpikcab.com/nagapattinam-to-kerala-drop-taxi"
+                    }
+                ]
+            },
+            "mainEntityOfPage": {
+                "@type": "Product",
+                "name": "Nagapattinam to Kerala Taxi Service",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "priceCurrency": "INR",
+                    "lowPrice": "9000",
+                    "highPrice": "24000",
+                    "offerCount": "Multiple price points based on vehicle type and destination"
+                }
+            }
+        }
     </script>
 
     <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik%20Logo.png">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
 </head>
 
 <body>
+
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
-                <i class="fas fa-shield-alt text-2xl text-blue-600 mb-3"></i>
-                <h3 class="text-xl font-semibold">Safe & Secure</h3>
-                <p class="text-gray-600">Vehicles sanitized regularly, GPS tracking for safety.</p>
+                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-shield-alt text-2xl text-blue-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-2">Safe & Secure</h3>
+                <p class="text-gray-600">All our vehicles are regularly sanitized and equipped with GPS tracking for
+                    your safety.</p>
             </div>
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
-                <i class="fas fa-clock text-2xl text-blue-600 mb-3"></i>
-                <h3 class="text-xl font-semibold">On-Time Guarantee</h3>
-                <p class="text-gray-600">Punctual service with 24/7 support.</p>
+                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-clock text-2xl text-blue-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-2">On-Time Guarantee</h3>
+                <p class="text-gray-600">We promise punctual service with real-time updates and 24/7 customer support.
+                </p>
             </div>
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
-                <i class="fas fa-dollar-sign text-2xl text-blue-600 mb-3"></i>
-                <h3 class="text-xl font-semibold">Transparent Pricing</h3>
-                <p class="text-gray-600">Upfront pricing with no hidden charges.</p>
+                <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-dollar-sign text-2xl text-blue-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-2">Transparent Pricing</h3>
+                <p class="text-gray-600">No hidden charges with upfront pricing and easy cancellation policies.</p>
             </div>
         </div>
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Nagapattinam to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Nagapattinam to Kerala Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a comfortable long-distance journey from <strong>Nagapattinam to Kerala</strong>? Fastpikcab offers
+            reliable, clean, and well-maintained taxis for one-way trips, round journeys, and multi-day outstation tours.
+            With 24/7 availability, our professional drivers ensure a safe and hassle-free ride to "God's Own Country."
+        </p>
+
+        <p class="mb-4">
+            The distance from Nagapattinam to major cities in Kerala like <strong>Kochi (Cochin)</strong> is around <strong>530 km</strong>, which typically takes
+            about <strong>9 to 11 hours</strong> by road, depending on your exact destination and traffic conditions. The route crosses Tamil Nadu, passing through
+            <strong>Trichy, Dindigul, and Coimbatore</strong> before entering Kerala. You can request stopovers
+            for food, refreshments, or sightseeing during this extensive trip.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle options such as <strong>Sedans (Dezire, Etios) and SUVs (Innova, Xylo)</strong>
+            to suit your budget and group size. All taxis are air-conditioned, spacious, and GPS-enabled,
+            ensuring a stress-free experience with <strong>transparent pricing</strong> and no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We provide <strong>pickups from any location in Nagapattinam</strong>, including the Railway Station,
+            for passengers traveling to any city in Kerala, be it <strong>Kochi, Trivandrum, Kozhikode, or Munnar</strong>. Families, tourist groups, and business professionals
+            can benefit from our <strong>round-trip packages</strong> that are affordable and convenient for a return journey.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kerala, Fastpikcab also offers taxi services to all major cities and districts in Tamil Nadu
+            including: Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Nagapattinam to Kerala taxi</strong> with Fastpikcab is quick and simple.
+            You can book online through our website or call us at <strong>+91 88256 94157</strong>. Our
+            24/7 customer support team is always ready to assist with bookings, fare details, and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Nagapattinam to Kerala taxi service</strong> and enjoy
+            affordable, reliable, and safe long-distance travel. We make every journey smooth, punctual, and memorable.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Nagapattinam to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
-            <ul class="space-y-4 text-gray-700">
-                <li><strong>Distance:</strong> Around 300–350 km (depending on Kerala city)</li>
-                <li><strong>Travel Time:</strong> 7–8 hours approx</li>
-                <li><strong>Route:</strong> Via NH32, Trichy → Dindigul → Palakkad (common route)</li>
-                <li><strong>Note:</strong> Expect moderate traffic near temple towns and Kerala border check posts.</li>
-            </ul>
-            <h3 class="text-2xl font-semibold mt-6 mb-3 text-blue-600">Popular Stops</h3>
-            <div class="space-y-2">
-                <p><strong>Trichy:</strong> Major city with rest points and eateries.</p>
-                <p><strong>Coimbatore:</strong> Industrial hub before entering Kerala.</p>
-                <p><strong>Palakkad:</strong> Scenic gateway into Kerala with lush greenery.</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Route Overview</h3>
+                    <ul class="space-y-4 text-gray-700">
+                        <li class="flex items-start">
+                            <i class="fas fa-map-marker-alt text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Distance:</strong> Approximately 500 - 600 km (e.g., ~530 km to Kochi)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-clock text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Travel Time:</strong> 9 - 11 hours, depending on destination & traffic</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Route:</strong> Via NH 83 / NH 38 (via Trichy, Dindigul) & NH 544 (via Coimbatore).</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
+                            <span><strong>Note:</strong> This is a long-distance drive. Multiple driver-rest and passenger stops are recommended.</span>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops En Route</h3>
+                    <div class="space-y-3">
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Trichy / Thanjavur</span>
+                            <span class="text-sm text-gray-500">Major cities for an early break or meal.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Dindigul</span>
+                            <span class="text-sm text-gray-500">Known for biryani; a good midway stop.</span>
+                        </div>
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                            <span>Coimbatore</span>
+                            <span class="text-sm text-gray-500">Last major city in TN before entering Kerala.</span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -158,28 +275,40 @@
                 <thead class="bg-blue-600 text-white">
                     <tr>
                         <th class="px-6 py-4 text-left">Vehicle Type</th>
-                        <th class="px-6 py-4 text-center">One-Way Fare</th>
-                        <th class="px-6 py-4 text-center">Round-Trip Fare</th>
+                        <th class="px-6 py-4 text-center">One-Way Fare (approx)</th>
+                        <th class="px-6 py-4 text-center">Round-Trip Fare (approx)</th>
                         <th class="px-6 py-4 text-center">Features</th>
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-200">
-                    <tr>
-                        <td class="px-6 py-4">Sedan</td>
-                        <td class="px-6 py-4 text-center">₹6,000</td>
-                        <td class="px-6 py-4 text-center">₹12,000</td>
-                        <td class="px-6 py-4">4 passengers, A/C, 2 medium bags</td>
+                    <tr class="hover:bg-gray-50">
+                        <td class="px-6 py-4 font-medium">Sedan</td>
+                        <td class="px-6 py-4 text-center">₹9,000</td>
+                        <td class="px-6 py-4 text-center">₹18,000</td>
+                        <td class="px-6 py-4">
+                            <ul class="list-disc list-inside text-sm text-gray-600">
+                                <li>Air-conditioned</li>
+                                <li>Up to 4 passengers</li>
+                                <li>Luggage capacity: 2 medium bags</li>
+                            </ul>
+                        </td>
                     </tr>
-                    <tr>
-                        <td class="px-6 py-4">SUV</td>
-                        <td class="px-6 py-4 text-center">₹7,800</td>
-                        <td class="px-6 py-4 text-center">₹15,600</td>
-                        <td class="px-6 py-4">6 passengers, Spacious, Extra legroom</td>
+                    <tr class="hover:bg-gray-50">
+                        <td class="px-6 py-4 font-medium">SUV</td>
+                        <td class="px-6 py-4 text-center">₹11,500</td>
+                        <td class="px-6 py-4 text-center">₹23,000</td>
+                        <td class="px-6 py-4">
+                            <ul class="list-disc list-inside text-sm text-gray-600">
+                                <li>Spacious and comfortable</li>
+                                <li>Seating for up to 6 passengers</li>
+                                <li>Extra legroom for the journey</li>
+                            </ul>
+                        </td>
                     </tr>
                 </tbody>
             </table>
             <div class="p-4 bg-gray-50 text-center">
-                <p class="text-sm text-gray-600">* Fares are approximate. May vary with tolls, peak season, or additional stops.</p>
+                <p class="text-sm text-gray-600">* Fares are approximate (to central Kerala, e.g., Kochi) and may vary based on exact destination, vehicle availability, tolls, and inter-state permits.</p>
             </div>
         </div>
     </section>
@@ -187,8 +316,10 @@
     @include('layouts.routes')
     @include('layouts.footer')
 
- <script src="{{ asset('js/app.js') }}"></script>
+    <script src="{{ asset('js/app.js') }}"></script>
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap"
-        async defer></script></body>
+        async defer></script>
+</body>
+
 </html>
