@@ -145,6 +145,61 @@
     </section>
 
     <section class="mb-12 px-4 md:px-12">
+    <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
+        Mayiladuthurai to Kerala Taxi Service – Fastpikcab
+    </h1>
+    <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
+        Book Affordable Mayiladuthurai to Kerala Cabs Online
+    </h2>
+    <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
+        <p class="mb-4">
+            Looking for a comfortable journey from <strong>Mayiladuthurai to Kerala</strong>? Fastpikcab offers
+            reliable, clean, and well-maintained taxis for one-way trips, round journeys, and urgent travel needs
+            to all major cities in Kerala like Kochi, Trivandrum, Munnar, etc.
+        </p>
+
+        <p class="mb-4">
+            The distance from Mayiladuthurai to various destinations in Kerala varies. For example,
+            <strong>Kochi is around 450 km (8-9 hours)</strong> via Trichy & Coimbatore, while <strong>Trivandrum is approx 470 km (9-10 hours)</strong> via Madurai & Nagercoil.
+            We cover all major routes, typically passing through <strong>Trichy, Karur, Coimbatore or Madurai</strong> depending on the destination.
+            You can also request short stopovers for food or refreshments.
+        </p>
+
+        <p class="mb-4">
+            Fastpikcab provides multiple vehicle options such as <strong>Sedans, SUVs, and Premium Cars</strong>
+            depending on your budget and group size. All taxis are air-conditioned, spacious, and GPS-enabled,
+            ensuring a stress-free experience with <strong>transparent pricing</strong> and no hidden charges.
+        </p>
+
+        <p class="mb-4">
+            We also provide <strong>pickups from Mayiladuthurai Railway Station</strong> and doorstep cab service
+            for passengers traveling to <strong>popular destinations in Kerala like Kochi, Munnar, Alleppey, or Trivandrum</strong>.
+            Families, students, and group travelers can benefit from our <strong>round-trip packages</strong>.
+        </p>
+
+        <p class="mb-4">
+            Apart from Kerala, Fastpikcab also offers taxi services to all major cities and districts in Tamil Nadu
+            including: Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
+            Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvallur,
+            Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,
+            Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
+        </p>
+
+        <p class="mb-4">
+            Booking your <strong>Mayiladuthurai to Kerala taxi</strong> with Fastpikcab is quick and simple.
+            You can book online through our website or call us at <strong>+91 88256 94157</strong>. Our
+            24/7 customer support team is always ready to assist with bookings, fare details, and travel queries.
+        </p>
+
+        <p>
+            Choose Fastpikcab for your <strong>Mayiladuthurai to Kerala taxi service</strong> and enjoy
+            affordable, reliable, and safe travel. We make every journey smooth, punctual, and memorable.
+        </p>
+    </div>
+</section>
+
+    <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Mayiladuthurai to Kerala Route Details</h2>
         <div class="bg-white rounded-xl shadow-md p-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
