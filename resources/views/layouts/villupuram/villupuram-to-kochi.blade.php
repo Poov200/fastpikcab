@@ -10,7 +10,7 @@
         content="Book a reliable Villupuram to Kochi taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your long-distance travel.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Villupuram to Kochi taxi, Villupuram to Kochi one way taxi, Villupuram to Kochi drop taxi, Villupuram to Kochi outstation cabs, Villupuram to Kochi taxi fare, Villupuram to Kochi cab fare, Villupuram to Kochi round trip taxi, Villupuram to Kochi car rental, Villupuram to Kochi cab booking, taxi from Villupuram, cab to Kochi">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Villupuram to Kochi taxi, Villupuram to Kochi one way taxi, Villupuram to Kochi drop taxi, Villupuram to Kochi outstation cabs, Villupuram to Kochi taxi fare, Villupuram to Kochi cab fare, Villupuram to Kochi round trip taxi, Villupuram to Kochi car rental, Villupuram to Kochi cab booking, taxi from Villupuram, cab to Kochi">
 
     <meta property="og:title" content="Fastpik Cab - Villupuram to Kochi Taxi Service">
     <meta property="og:description"

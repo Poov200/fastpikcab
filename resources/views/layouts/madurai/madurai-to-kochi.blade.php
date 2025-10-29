@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Kochi taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Kochi taxi, Madurai to Kochi one way taxi, Madurai to Kochi drop taxi, Madurai to Kochi outstation cabs, Madurai to Kochi taxi fare, Madurai to Kochi cab fare, Madurai to Kochi round trip taxi, Madurai to Kochi car rental, Madurai to Kochi cab booking, Madurai to Kerala taxi, Madurai to Munnar taxi">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Madurai to Kochi taxi, Madurai to Kochi one way taxi, Madurai to Kochi drop taxi, Madurai to Kochi outstation cabs, Madurai to Kochi taxi fare, Madurai to Kochi cab fare, Madurai to Kochi round trip taxi, Madurai to Kochi car rental, Madurai to Kochi cab booking, Madurai to Kerala taxi, Madurai to Munnar taxi">
 
     <meta property="og:title" content="Fastpik Cab - Madurai to Kochi Taxi Service">
     <meta property="og:description"

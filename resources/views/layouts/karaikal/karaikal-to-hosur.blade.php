@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Hosur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Hosur taxi, Karaikal to Hosur one way taxi, Karaikal to Hosur outstation cabs, Karaikal to Hosur taxi fare, Karaikal to Hosur cab fare, Karaikal to Hosur round trip taxi, Karaikal to Hosur car rental, Karaikal to Hosur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karaikal to Hosur taxi, Karaikal to Hosur one way taxi, Karaikal to Hosur outstation cabs, Karaikal to Hosur taxi fare, Karaikal to Hosur cab fare, Karaikal to Hosur round trip taxi, Karaikal to Hosur car rental, Karaikal to Hosur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Hosur Taxi Service">
     <meta property="og:description"

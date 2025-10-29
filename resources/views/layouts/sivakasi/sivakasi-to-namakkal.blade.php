@@ -10,7 +10,7 @@
         content="Book a reliable Sivakasi to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Sivakasi to Namakkal taxi, Sivakasi to Namakkal one way taxi, Sivakasi to Namakkal outstation cabs, Sivakasi to Namakkal taxi fare, Sivakasi to Namakkal cab fare, Sivakasi to Namakkal round trip taxi, Sivakasi to Namakkal car rental, Sivakasi to Namakkal cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Sivakasi to Namakkal taxi, Sivakasi to Namakkal one way taxi, Sivakasi to Namakkal outstation cabs, Sivakasi to Namakkal taxi fare, Sivakasi to Namakkal cab fare, Sivakasi to Namakkal round trip taxi, Sivakasi to Namakkal car rental, Sivakasi to Namakkal cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Sivakasi to Namakkal Taxi Service">
     <meta property="og:description"

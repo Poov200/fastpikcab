@@ -10,7 +10,7 @@
         content="Book a reliable Madurai to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Madurai to Dharmapuri taxi, Madurai to Dharmapuri one way taxi, Madurai to Dharmapuri outstation cabs, Madurai to Dharmapuri taxi fare, Madurai to Dharmapuri cab fare, Madurai to Dharmapuri round trip taxi, Madurai to Dharmapuri car rental, Madurai to Dharmapuri cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Madurai to Dharmapuri taxi, Madurai to Dharmapuri one way taxi, Madurai to Dharmapuri outstation cabs, Madurai to Dharmapuri taxi fare, Madurai to Dharmapuri cab fare, Madurai to Dharmapuri round trip taxi, Madurai to Dharmapuri car rental, Madurai to Dharmapuri cab booking">
 
     <meta property="og:title" content="Fastpikcab - Madurai to Dharmapuri Taxi Service">
     <meta property="og:description"

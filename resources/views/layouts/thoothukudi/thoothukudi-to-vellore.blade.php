@@ -10,7 +10,7 @@
         content="Book a reliable Thoothukudi to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long-distance journey.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thoothukudi to Vellore taxi, Thoothukudi to Vellore one way taxi, Thoothukudi to Vellore outstation cabs, Thoothukudi to Vellore taxi fare, Thoothukudi to Vellore cab fare, Thoothukudi to Vellore round trip taxi, Thoothukudi to Vellore car rental, Thoothukudi to Vellore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Thoothukudi to Vellore taxi, Thoothukudi to Vellore one way taxi, Thoothukudi to Vellore outstation cabs, Thoothukudi to Vellore taxi fare, Thoothukudi to Vellore cab fare, Thoothukudi to Vellore round trip taxi, Thoothukudi to Vellore car rental, Thoothukudi to Vellore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thoothukudi to Vellore Taxi Service">
     <meta property="og:description"

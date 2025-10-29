@@ -10,7 +10,7 @@
         content="Book a reliable Sivakasi to Thanjavur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Sivakasi to Thanjavur taxi, Sivakasi to Thanjavur one way taxi, Sivakasi to Thanjavur outstation cabs, Sivakasi to Thanjavur taxi fare, Sivakasi to Thanjavur cab fare, Sivakasi to Thanjavur round trip taxi, Sivakasi to Thanjavur car rental, Sivakasi to Thanjavur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Sivakasi to Thanjavur taxi, Sivakasi to Thanjavur one way taxi, Sivakasi to Thanjavur outstation cabs, Sivakasi to Thanjavur taxi fare, Sivakasi to Thanjavur cab fare, Sivakasi to Thanjavur round trip taxi, Sivakasi to Thanjavur car rental, Sivakasi to Thanjavur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Sivakasi to Thanjavur Taxi Service">
     <meta property="og:description"

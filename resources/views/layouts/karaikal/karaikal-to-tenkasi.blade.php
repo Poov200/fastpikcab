@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Tenkasi taxi, Karaikal to Tenkasi one way taxi, Karaikal to Tenkasi outstation cabs, Karaikal to Tenkasi taxi fare, Karaikal to Tenkasi cab fare, Karaikal to Tenkasi round trip taxi, Karaikal to Tenkasi car rental, Karaikal to Tenkasi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karaikal to Tenkasi taxi, Karaikal to Tenkasi one way taxi, Karaikal to Tenkasi outstation cabs, Karaikal to Tenkasi taxi fare, Karaikal to Tenkasi cab fare, Karaikal to Tenkasi round trip taxi, Karaikal to Tenkasi car rental, Karaikal to Tenkasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Tenkasi Taxi Service">
     <meta property="og:description"

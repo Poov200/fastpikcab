@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Madurai taxi, Dindigul to Madurai one way taxi, Dindigul to Madurai outstation cabs, Dindigul to Madurai taxi fare, Dindigul to Madurai cab fare, Dindigul to Madurai round trip taxi, Dindigul to Madurai car rental, Dindigul to Madurai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Dindigul to Madurai taxi, Dindigul to Madurai one way taxi, Dindigul to Madurai outstation cabs, Dindigul to Madurai taxi fare, Dindigul to Madurai cab fare, Dindigul to Madurai round trip taxi, Dindigul to Madurai car rental, Dindigul to Madurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Madurai Taxi Service">
     <meta property="og:description"

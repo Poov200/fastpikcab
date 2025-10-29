@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Nagercoil taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karur to Nagercoil taxi, Karur to Nagercoil one way taxi, Karur to Nagercoil outstation cabs, Karur to Nagercoil taxi fare, Karur to Nagercoil cab fare, Karur to Nagercoil round trip taxi, Karur to Nagercoil car rental, Karur to Nagercoil cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karur to Nagercoil taxi, Karur to Nagercoil one way taxi, Karur to Nagercoil outstation cabs, Karur to Nagercoil taxi fare, Karur to Nagercoil cab fare, Karur to Nagercoil round trip taxi, Karur to Nagercoil car rental, Karur to Nagercoil cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Nagercoil Taxi Service">
     <meta property="og:description"

@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Trichy to Kochi taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Kochi taxi, Trichy to Kochi one way taxi, Trichy to Kochi drop taxi, Trichy to Kochi cabs, Trichy to Kochi taxi fare, Trichy to Kochi cab fare, Trichy to Kochi round trip taxi, Trichy to Kochi car rental, Trichy to Kochi cab booking, taxi from Trichy, cab to Kochi">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Trichy to Kochi taxi, Trichy to Kochi one way taxi, Trichy to Kochi drop taxi, Trichy to Kochi cabs, Trichy to Kochi taxi fare, Trichy to Kochi cab fare, Trichy to Kochi round trip taxi, Trichy to Kochi car rental, Trichy to Kochi cab booking, taxi from Trichy, cab to Kochi">
     <meta property="og:title" content="Fastpik Cab - Trichy to Kochi Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Trichy to Kochi. Book online for one-way, round-trip, or outstation travel for your journey.">

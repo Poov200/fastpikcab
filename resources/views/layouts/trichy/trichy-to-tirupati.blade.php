@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Trichy to Tirupati taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Tirupati taxi, Trichy to Tirupati one way taxi, Trichy to Tirupati drop taxi, Trichy to Tirupati cabs, Trichy to Tirupati taxi fare, Trichy to Tirupati cab fare, Trichy to Tirupati round trip taxi, Trichy to Tirupati car rental, Trichy to Tirupati cab booking, taxi from Trichy, cab to Tirupati">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Trichy to Tirupati taxi, Trichy to Tirupati one way taxi, Trichy to Tirupati drop taxi, Trichy to Tirupati cabs, Trichy to Tirupati taxi fare, Trichy to Tirupati cab fare, Trichy to Tirupati round trip taxi, Trichy to Tirupati car rental, Trichy to Tirupati cab booking, taxi from Trichy, cab to Tirupati">
     <meta property="og:title" content="Fastpik Cab - Trichy to Tirupati Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Trichy to Tirupati. Book online for one-way, round-trip, or outstation travel for your journey.">

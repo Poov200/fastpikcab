@@ -10,7 +10,7 @@
         content="Book a reliable Tenkasi to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tenkasi to Chennai taxi, Tenkasi to Chennai one way taxi, Tenkasi to Chennai outstation cabs, Tenkasi to Chennai taxi fare, Tenkasi to Chennai cab fare, Tenkasi to Chennai round trip taxi, Tenkasi to Chennai car rental, Tenkasi to Chennai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Tenkasi to Chennai taxi, Tenkasi to Chennai one way taxi, Tenkasi to Chennai outstation cabs, Tenkasi to Chennai taxi fare, Tenkasi to Chennai cab fare, Tenkasi to Chennai round trip taxi, Tenkasi to Chennai car rental, Tenkasi to Chennai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Tenkasi to Chennai Taxi Service">
     <meta property="og:description"

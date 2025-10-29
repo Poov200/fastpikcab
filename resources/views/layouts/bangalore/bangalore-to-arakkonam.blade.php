@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Bangalore to Arakkonam taxi, Bangalore to Arakkonam one way taxi, Bangalore to Arakkonam outstation cabs, Bangalore to Arakkonam taxi fare, Bangalore to Arakkonam cab fare, Bangalore to Arakkonam round trip taxi, Bangalore to Arakkonam car rental, Bangalore to Arakkonam cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Bangalore to Arakkonam taxi, Bangalore to Arakkonam one way taxi, Bangalore to Arakkonam outstation cabs, Bangalore to Arakkonam taxi fare, Bangalore to Arakkonam cab fare, Bangalore to Arakkonam round trip taxi, Bangalore to Arakkonam car rental, Bangalore to Arakkonam cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Arakkonam Taxi Service">
     <meta property="og:description"

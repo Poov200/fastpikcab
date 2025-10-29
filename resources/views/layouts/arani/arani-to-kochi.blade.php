@@ -10,7 +10,7 @@
         content="Book a reliable Arani to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Arani to Kochi taxi, Arani to Kochi one way taxi, Arani to Kochi outstation cabs, Arani to Kochi taxi fare, Arani to Kochi cab fare, Arani to Kochi round trip taxi, Arani to Kochi car rental, Arani to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Arani to Kochi taxi, Arani to Kochi one way taxi, Arani to Kochi outstation cabs, Arani to Kochi taxi fare, Arani to Kochi cab fare, Arani to Kochi round trip taxi, Arani to Kochi car rental, Arani to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Arani to Kochi Taxi Service">
     <meta property="og:description"

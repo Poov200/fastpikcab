@@ -10,7 +10,7 @@
         content="Book a reliable Vellore to Kerala taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Vellore to Kerala taxi, Vellore to Kerala one way taxi, Vellore to Kerala drop taxi, Vellore to Kerala cabs, Vellore to Kerala taxi fare, Vellore to Kerala cab fare, Vellore to Kerala round trip taxi, Vellore to Kerala car rental, Vellore to Kerala cab booking, taxi from Vellore, cab to Kerala">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Vellore to Kerala taxi, Vellore to Kerala one way taxi, Vellore to Kerala drop taxi, Vellore to Kerala cabs, Vellore to Kerala taxi fare, Vellore to Kerala cab fare, Vellore to Kerala round trip taxi, Vellore to Kerala car rental, Vellore to Kerala cab booking, taxi from Vellore, cab to Kerala">
 
     <meta property="og:title" content="Fastpik Cab - Vellore to Kerala Taxi Service">
     <meta property="og:description"

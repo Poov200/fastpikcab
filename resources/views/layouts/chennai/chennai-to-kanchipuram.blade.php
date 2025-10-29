@@ -10,7 +10,7 @@
         content="Book a reliable Chennai to Kanchipuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Chennai to Kanchipuram taxi, Chennai Airport to Kanchipuram taxi, Chennai to Kanchipuram one way taxi, Chennai to Kanchipuram outstation cabs, Chennai to Kanchipuram taxi fare, Chennai to Kanchipuram cab fare, Chennai Airport to Kanchipuram airport taxi, Chennai to Kanchipuram round trip taxi, Chennai to Kanchipuram round trip taxi fare, Chennai to Kanchipuram car rental, Chennai to Kanchipuram cab booking, Chennai to Kanchipuram taxi service">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Chennai to Kanchipuram taxi, Chennai Airport to Kanchipuram taxi, Chennai to Kanchipuram one way taxi, Chennai to Kanchipuram outstation cabs, Chennai to Kanchipuram taxi fare, Chennai to Kanchipuram cab fare, Chennai Airport to Kanchipuram airport taxi, Chennai to Kanchipuram round trip taxi, Chennai to Kanchipuram round trip taxi fare, Chennai to Kanchipuram car rental, Chennai to Kanchipuram cab booking, Chennai to Kanchipuram taxi service">
 
     <meta property="og:title" content="Fastpikcab - Chennai to Kanchipuram Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Arani to Tenkasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Arani to Tenkasi taxi, Arani to Tenkasi one way taxi, Arani to Tenkasi outstation cabs, Arani to Tenkasi taxi fare, Arani to Tenkasi cab fare, Arani to Tenkasi round trip taxi, Arani to Tenkasi car rental, Arani to Tenkasi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Arani to Tenkasi taxi, Arani to Tenkasi one way taxi, Arani to Tenkasi outstation cabs, Arani to Tenkasi taxi fare, Arani to Tenkasi cab fare, Arani to Tenkasi round trip taxi, Arani to Tenkasi car rental, Arani to Tenkasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Arani to Tenkasi Taxi Service">
     <meta property="og:description"

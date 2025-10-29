@@ -10,7 +10,7 @@
         content="Book a reliable Ramanathapuram local taxi service with Fastpik Cab. Get affordable fares for city tours, airport transfers, and local commutes. We offer comfortable cabs for your journey within Ramanathapuram.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ramanathapuram local taxi, Ramanathapuram city taxi, Ramanathapuram taxi service, Ramanathapuram car rental, Ramanathapuram cab booking, local cabs in Ramanathapuram, Ramanathapuram airport taxi">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ramanathapuram local taxi, Ramanathapuram city taxi, Ramanathapuram taxi service, Ramanathapuram car rental, Ramanathapuram cab booking, local cabs in Ramanathapuram, Ramanathapuram airport taxi">
 
     <meta property="og:title" content="Fastpik Cab - Ramanathapuram Local Taxi Service">
     <meta property="og:description"

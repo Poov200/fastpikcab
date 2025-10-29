@@ -10,7 +10,7 @@
         content="Book a reliable Vellore to Puducherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Vellore to Puducherry taxi, Vellore to Puducherry one way taxi, Vellore to Puducherry outstation cabs, Vellore to Puducherry taxi fare, Vellore to Puducherry cab fare, Vellore to Puducherry round trip taxi, Vellore to Puducherry car rental, Vellore to Puducherry cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Vellore to Puducherry taxi, Vellore to Puducherry one way taxi, Vellore to Puducherry outstation cabs, Vellore to Puducherry taxi fare, Vellore to Puducherry cab fare, Vellore to Puducherry round trip taxi, Vellore to Puducherry car rental, Vellore to Puducherry cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Vellore to Puducherry Taxi Service">
     <meta property="og:description"

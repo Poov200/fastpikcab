@@ -7,7 +7,7 @@
     <meta name="description"
         content="Fastpikcab offers reliable outstation cab services across Tamil Nadu. Book one-way taxis from Chennai, Coimbatore, Madurai, Trichy, Vellore, Salem, Bangalore and more to any destination in the state.">
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, outstation cab service, taxi booking, one way taxi, Chennai to Bangalore, Coimbatore to Madurai, Tamil Nadu taxi service, Fastpikcab">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, outstation cab service, taxi booking, one way taxi, Chennai to Bangalore, Coimbatore to Madurai, Tamil Nadu taxi service, Fastpikcab">
 
     <!-- Schema.org markup for local business -->
     <script type="application/ld+json">

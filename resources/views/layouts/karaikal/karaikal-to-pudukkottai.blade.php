@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Pudukkottai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Pudukkottai taxi, Karaikal to Pudukkottai one way taxi, Karaikal to Pudukkottai outstation cabs, Karaikal to Pudukkottai taxi fare, Karaikal to Pudukkottai cab fare, Karaikal to Pudukkottai round trip taxi, Karaikal to Pudukkottai car rental, Karaikal to Pudukkottai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karaikal to Pudukkottai taxi, Karaikal to Pudukkottai one way taxi, Karaikal to Pudukkottai outstation cabs, Karaikal to Pudukkottai taxi fare, Karaikal to Pudukkottai cab fare, Karaikal to Pudukkottai round trip taxi, Karaikal to Pudukkottai car rental, Karaikal to Pudukkottai cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Pudukkottai Taxi Service">
     <meta property="og:description"

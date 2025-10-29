@@ -10,7 +10,7 @@
         content="Book a reliable Ranipet to Ramanathapuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Ramanathapuram taxi, Ranipet to Ramanathapuram one way taxi, Ranipet to Ramanathapuram outstation cabs, Ranipet to Ramanathapuram taxi fare, Ranipet to Ramanathapuram cab fare, Ranipet to Ramanathapuram round trip taxi, Ranipet to Ramanathapuram car rental, Ranipet to Ramanathapuram cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ranipet to Ramanathapuram taxi, Ranipet to Ramanathapuram one way taxi, Ranipet to Ramanathapuram outstation cabs, Ranipet to Ramanathapuram taxi fare, Ranipet to Ramanathapuram cab fare, Ranipet to Ramanathapuram round trip taxi, Ranipet to Ramanathapuram car rental, Ranipet to Ramanathapuram cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ranipet to Ramanathapuram Taxi Service">
     <meta property="og:description"

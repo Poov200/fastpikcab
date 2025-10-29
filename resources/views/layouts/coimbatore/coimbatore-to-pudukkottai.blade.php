@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Pudukkottai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Pudukkottai taxi, Coimbatore to Pudukkottai one way taxi, Coimbatore to Pudukkottai outstation cabs, Coimbatore to Pudukkottai taxi fare, Coimbatore to Pudukkottai cab fare, Coimbatore to Pudukkottai round trip taxi, Coimbatore to Pudukkottai car rental, Coimbatore to Pudukkottai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Coimbatore to Pudukkottai taxi, Coimbatore to Pudukkottai one way taxi, Coimbatore to Pudukkottai outstation cabs, Coimbatore to Pudukkottai taxi fare, Coimbatore to Pudukkottai cab fare, Coimbatore to Pudukkottai round trip taxi, Coimbatore to Pudukkottai car rental, Coimbatore to Pudukkottai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Pudukkottai Taxi Service">
     <meta property="og:description"

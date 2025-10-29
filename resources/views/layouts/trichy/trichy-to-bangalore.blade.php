@@ -10,7 +10,7 @@
         content="Book a reliable Trichy to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long-distance journey.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Trichy to Bangalore taxi, Trichy to Bangalore one way taxi, Trichy to Bangalore outstation cabs, Trichy to Bangalore taxi fare, Trichy to Bangalore cab fare, Trichy to Bangalore round trip taxi, Trichy to Bangalore car rental, Trichy to Bangalore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Trichy to Bangalore taxi, Trichy to Bangalore one way taxi, Trichy to Bangalore outstation cabs, Trichy to Bangalore taxi fare, Trichy to Bangalore cab fare, Trichy to Bangalore round trip taxi, Trichy to Bangalore car rental, Trichy to Bangalore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Trichy to Bangalore Taxi Service">
     <meta property="og:description"
