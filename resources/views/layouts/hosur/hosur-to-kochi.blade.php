@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Hosur to Kochi taxi, Hosur to Kochi one way taxi, Hosur to Kochi outstation cabs, Hosur to Kochi taxi fare, Hosur to Kochi cab fare, Hosur to Kochi round trip taxi, Hosur to Kochi car rental, Hosur to Kochi cab booking, Kochi taxi service, Hosur cab service">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Hosur to Kochi taxi, Hosur to Kochi one way taxi, Hosur to Kochi outstation cabs, Hosur to Kochi taxi fare, Hosur to Kochi cab fare, Hosur to Kochi round trip taxi, Hosur to Kochi car rental, Hosur to Kochi cab booking, Kochi taxi service, Hosur cab service">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Kochi Taxi Service">
     <meta property="og:description"

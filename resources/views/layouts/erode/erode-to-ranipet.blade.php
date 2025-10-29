@@ -10,7 +10,7 @@
         content="Book a reliable Erode to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Erode to Ranipet taxi, Erode to Ranipet one way taxi, Erode to Ranipet outstation cabs, Erode to Ranipet taxi fare, Erode to Ranipet cab fare, Erode to Ranipet round trip taxi, Erode to Ranipet car rental, Erode to Ranipet cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Erode to Ranipet taxi, Erode to Ranipet one way taxi, Erode to Ranipet outstation cabs, Erode to Ranipet taxi fare, Erode to Ranipet cab fare, Erode to Ranipet round trip taxi, Erode to Ranipet car rental, Erode to Ranipet cab booking">
 
     <meta property="og:title" content="Fastpikcab - Erode to Ranipet Taxi Service">
     <meta property="og:description"

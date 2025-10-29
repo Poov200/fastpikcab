@@ -10,7 +10,7 @@
         content="Book a reliable Salem to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Salem to Kochi taxi, Salem to Kochi one way taxi, Salem to Kochi outstation cabs, Salem to Kochi taxi fare, Salem to Kochi cab fare, Salem to Kochi round trip taxi, Salem to Kochi car rental, Salem to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Salem to Kochi taxi, Salem to Kochi one way taxi, Salem to Kochi outstation cabs, Salem to Kochi taxi fare, Salem to Kochi cab fare, Salem to Kochi round trip taxi, Salem to Kochi car rental, Salem to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Salem to Kochi Taxi Service">
     <meta property="og:description"

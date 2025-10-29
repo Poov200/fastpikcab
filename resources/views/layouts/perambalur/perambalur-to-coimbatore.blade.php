@@ -10,7 +10,7 @@
         content="Book a reliable Perambalur to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Perambalur to Coimbatore taxi, Perambalur to Coimbatore one way taxi, Perambalur to Coimbatore outstation cabs, Perambalur to Coimbatore taxi fare, Perambalur to Coimbatore cab fare, Perambalur to Coimbatore round trip taxi, Perambalur to Coimbatore car rental, Perambalur to Coimbatore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Perambalur to Coimbatore taxi, Perambalur to Coimbatore one way taxi, Perambalur to Coimbatore outstation cabs, Perambalur to Coimbatore taxi fare, Perambalur to Coimbatore cab fare, Perambalur to Coimbatore round trip taxi, Perambalur to Coimbatore car rental, Perambalur to Coimbatore cab booking">
 
     <meta property="og:title" content="Fastpikcab - Perambalur to Coimbatore Taxi Service">
     <meta property="og:description"

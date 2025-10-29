@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Salem taxi, Dindigul to Salem one way taxi, Dindigul to Salem outstation cabs, Dindigul to Salem taxi fare, Dindigul to Salem cab fare, Dindigul to Salem round trip taxi, Dindigul to Salem car rental, Dindigul to Salem cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Dindigul to Salem taxi, Dindigul to Salem one way taxi, Dindigul to Salem outstation cabs, Dindigul to Salem taxi fare, Dindigul to Salem cab fare, Dindigul to Salem round trip taxi, Dindigul to Salem car rental, Dindigul to Salem cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Salem Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Ranipet to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Ranipet to Namakkal taxi, Ranipet to Namakkal one way taxi, Ranipet to Namakkal outstation cabs, Ranipet to Namakkal taxi fare, Ranipet to Namakkal cab fare, Ranipet to Namakkal round trip taxi, Ranipet to Namakkal car rental, Ranipet to Namakkal cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Ranipet to Namakkal taxi, Ranipet to Namakkal one way taxi, Ranipet to Namakkal outstation cabs, Ranipet to Namakkal taxi fare, Ranipet to Namakkal cab fare, Ranipet to Namakkal round trip taxi, Ranipet to Namakkal car rental, Ranipet to Namakkal cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Ranipet to Namakkal Taxi Service">
     <meta property="og:description"

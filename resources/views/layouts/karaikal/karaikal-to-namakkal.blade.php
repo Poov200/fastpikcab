@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Namakkal taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Namakkal taxi, Karaikal to Namakkal one way taxi, Karaikal to Namakkal outstation cabs, Karaikal to Namakkal taxi fare, Karaikal to Namakkal cab fare, Karaikal to Namakkal round trip taxi, Karaikal to Namakkal car rental, Karaikal to Namakkal cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karaikal to Namakkal taxi, Karaikal to Namakkal one way taxi, Karaikal to Namakkal outstation cabs, Karaikal to Namakkal taxi fare, Karaikal to Namakkal cab fare, Karaikal to Namakkal round trip taxi, Karaikal to Namakkal car rental, Karaikal to Namakkal cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Namakkal Taxi Service">
     <meta property="og:description"

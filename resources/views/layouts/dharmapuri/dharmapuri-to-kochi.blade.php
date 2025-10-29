@@ -10,7 +10,7 @@
         content="Book a reliable Dharmapuri to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dharmapuri to Kochi taxi, Dharmapuri to Kochi one way taxi, Dharmapuri to Kochi outstation cabs, Dharmapuri to Kochi taxi fare, Dharmapuri to Kochi cab fare, Dharmapuri to Kochi round trip taxi, Dharmapuri to Kochi car rental, Dharmapuri to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Dharmapuri to Kochi taxi, Dharmapuri to Kochi one way taxi, Dharmapuri to Kochi outstation cabs, Dharmapuri to Kochi taxi fare, Dharmapuri to Kochi cab fare, Dharmapuri to Kochi round trip taxi, Dharmapuri to Kochi car rental, Dharmapuri to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dharmapuri to Kochi Taxi Service">
     <meta property="og:description"

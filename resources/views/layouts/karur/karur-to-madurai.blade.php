@@ -10,7 +10,7 @@
         content="Book a reliable Karur to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karur to Madurai taxi, Karur to Madurai one way taxi, Karur to Madurai outstation cabs, Karur to Madurai taxi fare, Karur to Madurai cab fare, Karur to Madurai round trip taxi, Karur to Madurai car rental, Karur to Madurai cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karur to Madurai taxi, Karur to Madurai one way taxi, Karur to Madurai outstation cabs, Karur to Madurai taxi fare, Karur to Madurai cab fare, Karur to Madurai round trip taxi, Karur to Madurai car rental, Karur to Madurai cab booking">
 
     <meta property="og:title" content="Fastpikcab - Karur to Madurai Taxi Service">
     <meta property="og:description"

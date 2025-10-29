@@ -10,7 +10,7 @@
         content="Book a reliable Tirunelveli to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Tirunelveli to Kochi taxi, Tirunelveli to Kochi one way taxi, Tirunelveli to Kochi outstation cabs, Tirunelveli to Kochi taxi fare, Tirunelveli to Kochi cab fare, Tirunelveli to Kochi round trip taxi, Tirunelveli to Kochi car rental, Tirunelveli to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Tirunelveli to Kochi taxi, Tirunelveli to Kochi one way taxi, Tirunelveli to Kochi outstation cabs, Tirunelveli to Kochi taxi fare, Tirunelveli to Kochi cab fare, Tirunelveli to Kochi round trip taxi, Tirunelveli to Kochi car rental, Tirunelveli to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Tirunelveli to Kochi Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Coimbatore to Puducherry taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Coimbatore to Puducherry taxi, Coimbatore to Puducherry one way taxi, Coimbatore to Puducherry outstation cabs, Coimbatore to Puducherry taxi fare, Coimbatore to Puducherry cab fare, Coimbatore to Puducherry round trip taxi, Coimbatore to Puducherry car rental, Coimbatore to Puducherry cab booking, taxi from Coimbatore to Pondicherry">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Coimbatore to Puducherry taxi, Coimbatore to Puducherry one way taxi, Coimbatore to Puducherry outstation cabs, Coimbatore to Puducherry taxi fare, Coimbatore to Puducherry cab fare, Coimbatore to Puducherry round trip taxi, Coimbatore to Puducherry car rental, Coimbatore to Puducherry cab booking, taxi from Coimbatore to Pondicherry">
 
     <meta property="og:title" content="Fastpikcab - Coimbatore to Puducherry Taxi Service">
     <meta property="og:description"

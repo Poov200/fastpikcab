@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Kanchipuram taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Bangalore to Kanchipuram taxi, Bangalore to Kanchipuram one way taxi, Bangalore to Kanchipuram outstation cabs, Bangalore to Kanchipuram taxi fare, Bangalore to Kanchipuram cab fare, Bangalore to Kanchipuram round trip taxi, Bangalore to Kanchipuram car rental, Bangalore to Kanchipuram cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Bangalore to Kanchipuram taxi, Bangalore to Kanchipuram one way taxi, Bangalore to Kanchipuram outstation cabs, Bangalore to Kanchipuram taxi fare, Bangalore to Kanchipuram cab fare, Bangalore to Kanchipuram round trip taxi, Bangalore to Kanchipuram car rental, Bangalore to Kanchipuram cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Kanchipuram Taxi Service">
     <meta property="og:description"

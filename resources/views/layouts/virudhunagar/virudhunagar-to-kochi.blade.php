@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Kochi taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Virudhunagar to Kochi taxi, Virudhunagar to Kochi one way taxi, Virudhunagar to Kochi drop taxi, Virudhunagar to Kochi outstation cabs, Virudhunagar to Kochi taxi fare, Virudhunagar to Kochi cab fare, Virudhunagar to Kochi round trip taxi, Virudhunagar to Kochi car rental, Virudhunagar to Kochi cab booking, taxi from Virudhunagar, cab to Kochi">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Virudhunagar to Kochi taxi, Virudhunagar to Kochi one way taxi, Virudhunagar to Kochi drop taxi, Virudhunagar to Kochi outstation cabs, Virudhunagar to Kochi taxi fare, Virudhunagar to Kochi cab fare, Virudhunagar to Kochi round trip taxi, Virudhunagar to Kochi car rental, Virudhunagar to Kochi cab booking, taxi from Virudhunagar, cab to Kochi">
 
     <meta property="og:title" content="Fastpik Cab - Virudhunagar to Kochi Taxi Service">
     <meta property="og:description"

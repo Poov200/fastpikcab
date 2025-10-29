@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Cuddalore to Ramanathapuram taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey.">
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Cuddalore to Ramanathapuram taxi, Cuddalore to Ramanathapuram one way taxi, Cuddalore to Ramanathapuram outstation cabs, Cuddalore to Ramanathapuram taxi fare, Cuddalore to Ramanathapuram cab fare, Cuddalore to Ramanathapuram round trip taxi, Cuddalore to Ramanathapuram car rental, Cuddalore to Ramanathapuram cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Cuddalore to Ramanathapuram taxi, Cuddalore to Ramanathapuram one way taxi, Cuddalore to Ramanathapuram outstation cabs, Cuddalore to Ramanathapuram taxi fare, Cuddalore to Ramanathapuram cab fare, Cuddalore to Ramanathapuram round trip taxi, Cuddalore to Ramanathapuram car rental, Cuddalore to Ramanathapuram cab booking">
     <meta property="og:title" content="Fastpikcab - Cuddalore to Ramanathapuram Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Cuddalore to Ramanathapuram. Book online for one-way, round-trip, or outstation travel.">

@@ -10,7 +10,7 @@
         content="Book a reliable Hosur to Namakkal taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Hosur to Namakkal taxi, Hosur to Namakkal one way taxi, Hosur to Namakkal outstation cabs, Hosur to Namakkal taxi fare, Hosur to Namakkal cab fare, Hosur to Namakkal round trip taxi, Hosur to Namakkal car rental, Hosur to Namakkal cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Hosur to Namakkal taxi, Hosur to Namakkal one way taxi, Hosur to Namakkal outstation cabs, Hosur to Namakkal taxi fare, Hosur to Namakkal cab fare, Hosur to Namakkal round trip taxi, Hosur to Namakkal car rental, Hosur to Namakkal cab booking">
 
     <meta property="og:title" content="Fastpikcab - Hosur to Namakkal Taxi Service">
     <meta property="og:description"

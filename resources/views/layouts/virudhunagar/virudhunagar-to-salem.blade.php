@@ -10,7 +10,7 @@
         content="Book a reliable Virudhunagar to Salem taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Virudhunagar to Salem taxi, Virudhunagar to Salem one way taxi, Virudhunagar to Salem outstation cabs, Virudhunagar to Salem taxi fare, Virudhunagar to Salem cab fare, Virudhunagar to Salem round trip taxi, Virudhunagar to Salem car rental, Virudhunagar to Salem cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Virudhunagar to Salem taxi, Virudhunagar to Salem one way taxi, Virudhunagar to Salem outstation cabs, Virudhunagar to Salem taxi fare, Virudhunagar to Salem cab fare, Virudhunagar to Salem round trip taxi, Virudhunagar to Salem car rental, Virudhunagar to Salem cab booking">
 
     <meta property="og:title" content="Fastpikcab - Virudhunagar to Salem Taxi Service">
     <meta property="og:description"

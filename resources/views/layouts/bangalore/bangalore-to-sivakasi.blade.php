@@ -10,7 +10,7 @@
         content="Book a reliable Bangalore to Sivakasi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Bangalore to Sivakasi taxi, Bangalore to Sivakasi one way taxi, Bangalore to Sivakasi outstation cabs, Bangalore to Sivakasi taxi fare, Bangalore to Sivakasi cab fare, Bangalore to Sivakasi round trip taxi, Bangalore to Sivakasi car rental, Bangalore to Sivakasi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Bangalore to Sivakasi taxi, Bangalore to Sivakasi one way taxi, Bangalore to Sivakasi outstation cabs, Bangalore to Sivakasi taxi fare, Bangalore to Sivakasi cab fare, Bangalore to Sivakasi round trip taxi, Bangalore to Sivakasi car rental, Bangalore to Sivakasi cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Bangalore to Sivakasi Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Mayiladuthurai to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Comfortable cabs for your journey from Mayiladuthurai to Kerala.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Mayiladuthurai to Kerala taxi, Mayiladuthurai to Kerala one way taxi, Mayiladuthurai to Kerala outstation cabs, Mayiladuthurai to Kerala taxi fare, Mayiladuthurai to Kerala cab fare, Mayiladuthurai to Kerala round trip taxi, Mayiladuthurai to Kerala car rental, Mayiladuthurai to Kerala cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Mayiladuthurai to Kerala taxi, Mayiladuthurai to Kerala one way taxi, Mayiladuthurai to Kerala outstation cabs, Mayiladuthurai to Kerala taxi fare, Mayiladuthurai to Kerala cab fare, Mayiladuthurai to Kerala round trip taxi, Mayiladuthurai to Kerala car rental, Mayiladuthurai to Kerala cab booking">
 
     <meta property="og:title" content="Fastpikcab - Mayiladuthurai to Kerala Taxi Service">
     <meta property="og:description"

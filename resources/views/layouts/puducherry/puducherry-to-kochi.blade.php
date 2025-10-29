@@ -10,7 +10,7 @@
         content="Book a reliable Puducherry to Kochi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Puducherry to Kochi taxi, Puducherry to Kochi one way taxi, Puducherry to Kochi outstation cabs, Puducherry to Kochi taxi fare, Puducherry to Kochi cab fare, Puducherry to Kochi round trip taxi, Puducherry to Kochi car rental, Puducherry to Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Puducherry to Kochi taxi, Puducherry to Kochi one way taxi, Puducherry to Kochi outstation cabs, Puducherry to Kochi taxi fare, Puducherry to Kochi cab fare, Puducherry to Kochi round trip taxi, Puducherry to Kochi car rental, Puducherry to Kochi cab booking">
 
     <meta property="og:title" content="Fastpikcab - Puducherry to Kochi Taxi Service">
     <meta property="og:description"

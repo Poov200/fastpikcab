@@ -10,7 +10,7 @@
         content="Book a reliable Dindigul to Ranipet taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Dindigul to Ranipet taxi, Dindigul to Ranipet one way taxi, Dindigul to Ranipet outstation cabs, Dindigul to Ranipet taxi fare, Dindigul to Ranipet cab fare, Dindigul to Ranipet round trip taxi, Dindigul to Ranipet car rental, Dindigul to Ranipet cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Dindigul to Ranipet taxi, Dindigul to Ranipet one way taxi, Dindigul to Ranipet outstation cabs, Dindigul to Ranipet taxi fare, Dindigul to Ranipet cab fare, Dindigul to Ranipet round trip taxi, Dindigul to Ranipet car rental, Dindigul to Ranipet cab booking">
 
     <meta property="og:title" content="Fastpikcab - Dindigul to Ranipet Taxi Service">
     <meta property="og:description"

@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Tiruppur taxi, Karaikal to Tiruppur one way taxi, Karaikal to Tiruppur outstation cabs, Karaikal to Tiruppur taxi fare, Karaikal to Tiruppur cab fare, Karaikal to Tiruppur round trip taxi, Karaikal to Tiruppur car rental, Karaikal to Tiruppur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karaikal to Tiruppur taxi, Karaikal to Tiruppur one way taxi, Karaikal to Tiruppur outstation cabs, Karaikal to Tiruppur taxi fare, Karaikal to Tiruppur cab fare, Karaikal to Tiruppur round trip taxi, Karaikal to Tiruppur car rental, Karaikal to Tiruppur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Tiruppur Taxi Service">
     <meta property="og:description"

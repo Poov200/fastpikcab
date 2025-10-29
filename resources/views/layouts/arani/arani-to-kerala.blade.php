@@ -10,7 +10,7 @@
         content="Book a reliable Arani to Kerala taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. We offer comfortable cabs for your long journey.">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Arani to Kerala taxi, Arani to Kerala one way taxi, Arani to Kerala outstation cabs, Arani to Kerala taxi fare, Arani to Kerala cab fare, Arani to Kerala round trip taxi, Arani to Kerala car rental, Arani to Kerala cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Arani to Kerala taxi, Arani to Kerala one way taxi, Arani to Kerala outstation cabs, Arani to Kerala taxi fare, Arani to Kerala cab fare, Arani to Kerala round trip taxi, Arani to Kerala car rental, Arani to Kerala cab booking">
 
     <meta property="og:title" content="Fastpikcab - Arani to Kerala Taxi Service">
     <meta property="og:description"

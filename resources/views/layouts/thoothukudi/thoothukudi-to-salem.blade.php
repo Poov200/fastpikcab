@@ -10,7 +10,7 @@
         content="Book a reliable Thoothukudi to Salem taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Thoothukudi to Salem taxi, Thoothukudi to Salem one way taxi, Thoothukudi to Salem outstation cabs, Thoothukudi to Salem taxi fare, Thoothukudi to Salem cab fare, Thoothukudi to Salem round trip taxi, Thoothukudi to Salem car rental, Thoothukudi to Salem cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Thoothukudi to Salem taxi, Thoothukudi to Salem one way taxi, Thoothukudi to Salem outstation cabs, Thoothukudi to Salem taxi fare, Thoothukudi to Salem cab fare, Thoothukudi to Salem round trip taxi, Thoothukudi to Salem car rental, Thoothukudi to Salem cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Thoothukudi to Salem Taxi Service">
     <meta property="og:description"

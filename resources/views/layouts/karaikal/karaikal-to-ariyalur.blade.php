@@ -10,7 +10,7 @@
         content="Book a reliable Karaikal to Ariyalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Karaikal to Ariyalur taxi, Karaikal to Ariyalur one way taxi, Karaikal to Ariyalur outstation cabs, Karaikal to Ariyalur taxi fare, Karaikal to Ariyalur cab fare, Karaikal to Ariyalur round trip taxi, Karaikal to Ariyalur car rental, Karaikal to Ariyalur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Karaikal to Ariyalur taxi, Karaikal to Ariyalur one way taxi, Karaikal to Ariyalur outstation cabs, Karaikal to Ariyalur taxi fare, Karaikal to Ariyalur cab fare, Karaikal to Ariyalur round trip taxi, Karaikal to Ariyalur car rental, Karaikal to Ariyalur cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Karaikal to Ariyalur Taxi Service">
     <meta property="og:description"

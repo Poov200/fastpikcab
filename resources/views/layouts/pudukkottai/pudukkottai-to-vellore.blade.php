@@ -10,7 +10,7 @@
         content="Book a reliable Pudukkottai to Vellore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
-        content=" Fastcab, Fast cab, fast taxi, speed cab, fastpik, local taxi, Low cost , Cab, Taxi near , Cab near, Immediate taxi, Good taxi ,Drop taxi , oneway taxi, Pudukkottai to Vellore taxi, Pudukkottai to Vellore one way taxi, Pudukkottai to Vellore outstation cabs, Pudukkottai to Vellore taxi fare, Pudukkottai to Vellore cab fare, Pudukkottai to Vellore round trip taxi, Pudukkottai to Vellore car rental, Pudukkottai to Vellore cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Tervice, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, Pudukkottai to Vellore taxi, Pudukkottai to Vellore one way taxi, Pudukkottai to Vellore outstation cabs, Pudukkottai to Vellore taxi fare, Pudukkottai to Vellore cab fare, Pudukkottai to Vellore round trip taxi, Pudukkottai to Vellore car rental, Pudukkottai to Vellore cab booking">
 
     <meta property="og:title" content="Fastpik Cab - Pudukkottai to Vellore Taxi Service">
     <meta property="og:description"
