@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Cuddalore Taxi Service </title>
+    <title>Fastpik Cab - Bangalore to Cuddalore Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Bangalore to Cuddalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -177,13 +177,13 @@
     <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
         <p class="mb-4">
             Need a taxi from <strong>Bangalore to Cuddalore</strong>? Fastpikcab provides safe, comfortable,
-            and budget-friendly cab services for one-way trips, round journeys, and urgent travel requirements. 
+            and budget-friendly cab services for one-way trips, round journeys, and urgent travel requirements.
             Our experienced drivers are available <strong>24/7</strong> to make your journey stress-free and punctual.
         </p>
 
         <p class="mb-4">
             The distance between Bangalore and Cuddalore is approximately <strong>350 km</strong>,
-            which usually takes about <strong>7–8 hours</strong> by road. The preferred route is via 
+            which usually takes about <strong>7–8 hours</strong> by road. The preferred route is via
             <strong>NH48 and NH77</strong>, passing through Hosur, Krishnagiri, Vellore, and Villupuram.
             Short breaks for refreshments or sightseeing can be arranged as per your convenience.
         </p>
@@ -202,16 +202,16 @@
 
         <p class="mb-4">
             Apart from Cuddalore, Fastpikcab operates across all major cities and districts including:
-            Arakkonam, Arani, Ariyalur, Chengalpattu, Chennai, Coimbatore, Dharmapuri, Dindigul, Erode, 
-            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, 
-            Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, 
-            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur, 
+            Arakkonam, Arani, Ariyalur, Chengalpattu, Chennai, Coimbatore, Dharmapuri, Dindigul, Erode,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur,
             Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
         </p>
 
         <p class="mb-4">
             Booking your <strong>Bangalore to Cuddalore taxi</strong> with Fastpikcab is simple.
-            You can book online via our website or call <strong>+91 88256 94157</strong>. 
+            You can book online via our website or call <strong>+91 88256 94157</strong>.
             Our 24/7 customer support team is always ready to assist you with bookings, fares, and travel guidance.
         </p>
 

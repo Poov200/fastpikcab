@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi Taxi Service & Outstation Cabs </title>
+    <title>Fastpik Cab - Sivakasi Taxi Service & Outstation Cabs</title>
     <meta name="description"
         content="Book a reliable Sivakasi taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
     <meta name="keywords"

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Sivakasi City Taxi Service </title>
+    <title>Fastpik Cab - Sivakasi City Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable taxi service within Sivakasi with Fastpik Cab. Get affordable fares for local travel, airport transfers, and one-way trips. ">

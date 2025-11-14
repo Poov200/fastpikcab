@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ramanathapuram Local Taxi Service </title>
+    <title>Fastpik Cab - Ramanathapuram Local Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Ramanathapuram local taxi service with Fastpik Cab. Get affordable fares for city tours, airport transfers, and local commutes. We offer comfortable cabs for your journey within Ramanathapuram.">

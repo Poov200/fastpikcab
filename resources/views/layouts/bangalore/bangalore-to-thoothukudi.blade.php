@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Thoothukudi Taxi Service </title>
+    <title>Fastpik Cab - Bangalore to Thoothukudi Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Bangalore to Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -183,7 +183,7 @@
 
         <p class="mb-4">
             The distance between Bangalore and Thoothukudi is approximately <strong>580 km</strong>,
-            which usually takes around <strong>10–11 hours</strong> by road. The common travel route is via 
+            which usually takes around <strong>10–11 hours</strong> by road. The common travel route is via
             <strong>NH44 and NH38</strong>, passing through <strong>Hosur, Krishnagiri, Salem, Madurai, and Tirunelveli</strong>.
             Comfortable stopovers for meals or refreshments can be arranged along the way.
         </p>
@@ -196,13 +196,13 @@
 
         <p class="mb-4">
             We also provide <strong>Bangalore Railway Station taxi pickups</strong> for passengers heading towards Thoothukudi.
-            Families, business travelers, and tourists can take advantage of our <strong>round-trip taxi packages</strong> 
+            Families, business travelers, and tourists can take advantage of our <strong>round-trip taxi packages</strong>
             for a convenient and cost-effective travel experience.
         </p>
 
         <p class="mb-4">
             Apart from Thoothukudi, Fastpikcab operates across major cities and districts including:
-            Arakkonam, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, 
+            Arakkonam, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
             Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
             Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
             Thiruvallur, Thiruvarur, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, Tiruvannamalai,

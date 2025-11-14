@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Chennai Taxi Service & Outstation Cabs </title>
+    <title>Fastpikcab - Chennai Taxi Service & Outstation Cabs</title>
     <meta name="description"
         content="Book a reliable Chennai taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Chennai to all major cities.">
     <meta name="keywords"
@@ -156,7 +156,7 @@
             </div>
         </div>
     </section>
-    
+
 
     <section class="mb-12 px-4 md:px-12">
         <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Popular Outstation Routes from Chennai</h2>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Salem Local Taxi Service </title>
+    <title>Fastpik Cab - Salem Local Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Salem local taxi service with Fastpik Cab. Get affordable fares for hourly rentals, city tours, and airport transfers within Salem. We offer comfortable cabs for your local travel needs.">

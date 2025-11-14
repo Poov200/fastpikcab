@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Erode Taxi Service </title>
+    <title>Fastpik Cab - Bangalore to Erode Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Bangalore to Erode taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -182,36 +182,36 @@
         </p>
 
         <p class="mb-4">
-            The distance between Bangalore and Erode is approximately <strong>400 km</strong>, 
-            which usually takes around <strong>7–8 hours</strong> by road. The preferred route is via 
+            The distance between Bangalore and Erode is approximately <strong>400 km</strong>,
+            which usually takes around <strong>7–8 hours</strong> by road. The preferred route is via
             <strong>NH44 and NH544</strong>, passing through Hosur, Krishnagiri, Dharmapuri, and Salem.
             Short breaks for meals, refreshments, or sightseeing can be arranged along the way.
         </p>
 
         <p class="mb-4">
-            Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>. 
+            Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
             All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring a safe and comfortable ride.
             We maintain <strong>transparent pricing</strong> with no hidden charges.
         </p>
 
         <p class="mb-4">
             We also provide <strong>Bangalore railway station and airport pickups</strong> for passengers traveling towards Erode.
-            Families, business professionals, and tourists can benefit from our <strong>round-trip taxi packages</strong> 
+            Families, business professionals, and tourists can benefit from our <strong>round-trip taxi packages</strong>
             which are cost-effective for long-distance travel.
         </p>
 
         <p class="mb-4">
             Apart from Erode, Fastpikcab operates across major cities and districts including:
-            Arakkonam, Arani, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, 
-            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, 
-            Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, 
-            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur, 
+            Arakkonam, Arani, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul,
+            Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
+            Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur,
             Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Bangalore to Erode taxi</strong> with Fastpikcab is simple. 
-            You can book online via our website or call <strong>+91 88256 94157</strong>. 
+            Booking your <strong>Bangalore to Erode taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call <strong>+91 88256 94157</strong>.
             Our 24/7 customer support team is ready to assist you with bookings, fares, and travel guidance.
         </p>
 

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thoothukudi to Trichy Taxi Service </title>
+    <title>Fastpik Cab - Thoothukudi to Trichy Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Thoothukudi to Trichy taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">

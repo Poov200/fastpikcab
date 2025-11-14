@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thoothukudi to Madurai Taxi Service </title>
+    <title>Fastpik Cab - Thoothukudi to Madurai Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Thoothukudi to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -181,18 +181,18 @@
         </p>
 
         <p class="mb-4">
-            The distance between Thoothukudi and Madurai is approximately <strong>150 km</strong>, 
+            The distance between Thoothukudi and Madurai is approximately <strong>150 km</strong>,
             which usually takes around <strong>3–4 hours</strong> by road. The common route is via <strong>NH38</strong>. Short stops for refreshments or meals can be arranged along the way.
         </p>
 
         <p class="mb-4">
-            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>. 
-            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride. 
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
             We maintain <strong>transparent pricing</strong> with no hidden charges.
         </p>
 
         <p class="mb-4">
-            We also provide <strong>Thoothukudi Railway Station taxi pickups</strong> for passengers traveling to Madurai. 
+            We also provide <strong>Thoothukudi Railway Station taxi pickups</strong> for passengers traveling to Madurai.
             Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>.
         </p>
 
@@ -205,8 +205,8 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Thoothukudi to Madurai taxi</strong> with Fastpikcab is simple. 
-            You can book online via our website or call us at <strong>+91 88256 94157</strong>. 
+            Booking your <strong>Thoothukudi to Madurai taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
             Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
         </p>
 

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Chengalpattu to Perambalur Taxi Service </title>
+    <title>Fastpikcab - Chengalpattu to Perambalur Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Chengalpattu to Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">

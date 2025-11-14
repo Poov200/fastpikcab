@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ranipet Local Taxi Service </title>
+    <title>Fastpik Cab - Ranipet Local Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable local taxi service in Ranipet with Fastpik Cab. Get affordable fares for one-way, round-trip, and hourly rentals within Ranipet. We offer comfortable cabs for your local travel needs.">

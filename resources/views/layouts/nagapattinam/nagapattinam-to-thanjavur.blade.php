@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Nagapattinam to Thanjavur Taxi Service </title>
+    <title>Fastpikcab - Nagapattinam to Thanjavur Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Nagapattinam to Thanjavur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
