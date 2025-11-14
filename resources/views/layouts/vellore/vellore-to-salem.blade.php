@@ -182,7 +182,7 @@
         <p class="mb-4">
             The distance between Vellore and Salem is approximately <strong>180 km</strong>,
             which usually takes around <strong>4–4.5 hours</strong> by road. The common route is via <strong>NH79</strong>,
-            passing through <strong>Thiruvannamalai and Harur</strong>. Short stops for refreshments or meals can be arranged along the way.
+            passing through <strong>tiruvannamalai and Harur</strong>. Short stops for refreshments or meals can be arranged along the way.
         </p>
 
         <p class="mb-4">

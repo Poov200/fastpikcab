@@ -186,7 +186,7 @@
             The distance between Villupuram and Salem is approximately <strong>173 km</strong>,
             and the travel time by road is about <strong>2.5 to 3 hours</strong>.
             The preferred route is via <strong>NH38 and NH44</strong>, passing through
-            <strong>Thiruvannamalai and Harur</strong>.
+            <strong>tiruvannamalai and Harur</strong>.
             Flexible stopovers for refreshments or sightseeing can be arranged upon request.
         </p>
 

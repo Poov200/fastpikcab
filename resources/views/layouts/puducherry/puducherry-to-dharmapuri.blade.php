@@ -183,7 +183,7 @@
         <p class="mb-4">
             Fastpikcab operates across various destinations including Chennai, Coimbatore, Cuddalore,
             Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Namakkal,
-            Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, Thiruvannamalai,
+            Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, tiruvannamalai,
             Thiruvarur, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty,
             Kerala, Kochi, Krishnagiri and more.
         </p>
@@ -216,7 +216,7 @@
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-road text-blue-600 mt-1 mr-3"></i>
-                            <span><strong>Route:</strong> Puducherry → Villupuram → Thiruvannamalai → Krishnagiri → Dharmapuri</span>
+                            <span><strong>Route:</strong> Puducherry → Villupuram → tiruvannamalai → Krishnagiri → Dharmapuri</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-info-circle text-blue-600 mt-1 mr-3"></i>
@@ -232,7 +232,7 @@
                             <span class="text-sm text-gray-500">Key railway and refreshment stop</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thiruvannamalai Temple</span>
+                            <span>tiruvannamalai Temple</span>
                             <span class="text-sm text-gray-500">Major tourist and pilgrimage spot</span>
                         </div>
                     </div>

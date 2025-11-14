@@ -199,7 +199,7 @@
             Apart from Villupuram, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
             Ariyalur, Arani, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
             Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
-            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Tirunelveli, Tirupathur, Thiruvannamalai,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Tirunelveli, Tirupathur, tiruvannamalai,
             Udagamandalam (Ooty), Vellore, Trichy, Virudhunagar, Arakkonam, Bangalore.
         </p>
 

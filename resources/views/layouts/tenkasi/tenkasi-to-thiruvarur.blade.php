@@ -200,7 +200,7 @@
         <p class="mb-4">
             Apart from Thiruvarur, Fastpikcab operates in major Tamil Nadu cities including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur, Kanchipuram,
             Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai,
-            Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai, Thoothukudi, Tirunelveli,
+            Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, tiruvannamalai, Thoothukudi, Tirunelveli,
             Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
         </p>
 

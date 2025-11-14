@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Kerala taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Kerala to all major cities.">
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Kerala taxi service, Kerala to Ariyalur taxi, Kerala to Arani taxi, Kerala to Arakkonam taxi, Kerala to Tirupati taxi, Kerala to Chengalpattu taxi, Kerala to Chennai taxi, Kerala to Coimbatore taxi, Kerala to Cuddalore taxi, Kerala to Dharmapuri taxi, Kerala to Dindigul taxi, Kerala to Erode taxi, Kerala to Hosur taxi, Kerala to Kanchipuram taxi, Kerala to Karur taxi, Kerala to Krishnagiri taxi, Kerala to Madurai taxi, Kerala to Mayiladuthurai taxi, Kerala to Nagapattinam taxi, Kerala to Nagercoil taxi, Kerala to Namakkal taxi, Kerala to Perambalur taxi, Kerala to Puducherry taxi, Kerala to Pudukkottai taxi, Kerala to Ramanathapuram taxi, Kerala to Ranipet taxi, Kerala to Salem taxi, Kerala to Sivakasi taxi, Kerala to Tenkasi taxi, Kerala to Thanjavur taxi, Kerala to Thiruvarur taxi, Kerala to Thoothukudi taxi, Kerala to Tirunelveli taxi, Kerala to Tiruppur taxi, Kerala to Trichy taxi, Kerala to Vellore taxi, Kerala to Villupuram taxi, Kerala to Virudhunagar taxi, Kerala to Karaikal taxi, Kerala to Kochi taxi, Kerala to Thiruvannamalai taxi, Kerala taxi fare, Kerala cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Kerala taxi service, Kerala to Ariyalur taxi, Kerala to Arani taxi, Kerala to Arakkonam taxi, Kerala to Tirupati taxi, Kerala to Chengalpattu taxi, Kerala to Chennai taxi, Kerala to Coimbatore taxi, Kerala to Cuddalore taxi, Kerala to Dharmapuri taxi, Kerala to Dindigul taxi, Kerala to Erode taxi, Kerala to Hosur taxi, Kerala to Kanchipuram taxi, Kerala to Karur taxi, Kerala to Krishnagiri taxi, Kerala to Madurai taxi, Kerala to Mayiladuthurai taxi, Kerala to Nagapattinam taxi, Kerala to Nagercoil taxi, Kerala to Namakkal taxi, Kerala to Perambalur taxi, Kerala to Puducherry taxi, Kerala to Pudukkottai taxi, Kerala to Ramanathapuram taxi, Kerala to Ranipet taxi, Kerala to Salem taxi, Kerala to Sivakasi taxi, Kerala to Tenkasi taxi, Kerala to Thanjavur taxi, Kerala to Thiruvarur taxi, Kerala to Thoothukudi taxi, Kerala to Tirunelveli taxi, Kerala to Tiruppur taxi, Kerala to Trichy taxi, Kerala to Vellore taxi, Kerala to Villupuram taxi, Kerala to Virudhunagar taxi, Kerala to Karaikal taxi, Kerala to Kochi taxi, Kerala to tiruvannamalai taxi, Kerala taxi fare, Kerala cab booking">
     <meta property="og:title" content="Kerala Taxi Service & Outstation Cabs | Fastpikcab">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Kerala. Book online for one-way, round-trip, or outstation travel to major cities.">
@@ -599,13 +599,13 @@
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Thiruvannamalai</td>
+                            <td class="px-4 py-3 font-medium text-sm">tiruvannamalai</td>
                             <td class="px-4 py-3 text-center text-sm">~550 km</td>
                             <td class="px-4 py-3 text-center text-sm">10-11 hours</td>
                             <td class="px-4 py-3 text-center text-sm">₹9,000 - ₹10,000</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('kerala-to-thiruvannamalai') }}">Book Now</a>
+                                    <a href="{{ route('kerala-to-tiruvannamalai') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>

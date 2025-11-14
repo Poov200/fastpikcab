@@ -202,7 +202,7 @@
             Apart from Perambalur, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore,
             Dharmapuri, Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
             Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur,
-            Thiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar,
+            tiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar,
             Bangalore, Ooty, Kerala, Kochi and more.
         </p>
 
@@ -251,7 +251,7 @@
                             <span class="text-sm text-gray-500">A major junction connecting various parts of Tamil Nadu.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thiruvannamalai</span>
+                            <span>tiruvannamalai</span>
                             <span class="text-sm text-gray-500">A prominent pilgrimage town, famous for the Arunachaleswarar Temple.</span>
                         </div>
                     </div>

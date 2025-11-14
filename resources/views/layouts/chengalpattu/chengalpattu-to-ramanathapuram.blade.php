@@ -206,7 +206,7 @@
             <p class="mb-4">
                 Apart from Ramanathapuram, we also operate intercity taxi services across Tamil Nadu,
                 covering Chennai, Coimbatore, Cuddalore, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri,
-                Madurai, Nagercoil, Namakkal, Perambalur, Pudukkottai, Salem, Thanjavur, Thiruvannamalai,
+                Madurai, Nagercoil, Namakkal, Perambalur, Pudukkottai, Salem, Thanjavur, tiruvannamalai,
                 Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore, Viluppuram, and Virudhunagar.
             </p>
 

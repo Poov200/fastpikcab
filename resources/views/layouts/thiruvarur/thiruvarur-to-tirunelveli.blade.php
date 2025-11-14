@@ -185,7 +185,7 @@
             Along with Tirunelveli, Fastpikcab offers services to major Tamil Nadu cities including:
             Ariyalur, Arani, Arakkonam, Bangalore, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
             Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram,
-            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thoothukudi, Tirupathur, Thiruvannamalai, Trichy, Vellore, Villupuram, Virudhunagar, and more.
+            Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thoothukudi, Tirupathur, tiruvannamalai, Trichy, Vellore, Villupuram, Virudhunagar, and more.
         </p>
 
         <p class="mb-4">

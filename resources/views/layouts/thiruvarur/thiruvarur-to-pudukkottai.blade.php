@@ -184,7 +184,7 @@
             Apart from Pudukkottai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
             Ariyalur, Arani, Arakkonam, Bangalore, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
             Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Ramanathapuram, Ranipet, Salem, Sivakasi,
-            Tenkasi, Thanjavur, Theni, Thoothukudi, Tirunelveli, Tirupathur, Thiruvannamalai,
+            Tenkasi, Thanjavur, Theni, Thoothukudi, Tirunelveli, Tirupathur, tiruvannamalai,
             Udagamandalam (Ooty), Vellore, Villupuram, Trichy, Virudhunagar.
         </p>
 

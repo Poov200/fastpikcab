@@ -184,7 +184,7 @@
             Apart from Arani, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
             Ariyalur, Arakkonam, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
             Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
-            Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur, Thiruvannamalai,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur, tiruvannamalai,
             Udagamandalam (Ooty), Vellore, Villupuram, Trichy, Virudhunagar, Bangalore.
         </p>
 
@@ -230,7 +230,7 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thiruvannamalai</span>
+                            <span>tiruvannamalai</span>
                             <span class="text-sm text-gray-500">A major pilgrimage center, suitable for a short stop.</span>
                         </div>
                     </div>

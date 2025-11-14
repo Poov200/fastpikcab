@@ -33,9 +33,9 @@ class CreateMissingCityBlades extends Command
             'Dindigul', 'Erode', 'Hosur', 'Kanchipuram', 'Karur', 'Krishnagiri', 'Madurai', 'Mayiladuthurai', 'Nagapattinam',
             'Nagercoil', 'Namakkal', 'Perambalur', 'Puducherry', 'Pudukkottai', 'Ramanathapuram', 'Ranipet', 'Salem',
             'Sivakasi', 'Tenkasi', 'Thanjavur', 'Thiruvarur', 'Thoothukudi', 'Tirunelveli', 'Tiruppur', 'Trichy', 'Vellore',
-            'Villupuram', 'Virudhunagar', 'Karaikal', 'Kochi', 'Thiruvannamalai', 'Kerala'
+            'Villupuram', 'Virudhunagar', 'Karaikal', 'Kochi', 'tiruvannamalai', 'Kerala'
         ];
-        
+
         $targetCities = ['Ariyalur'];
 
         $created = 0;
@@ -47,13 +47,13 @@ class CreateMissingCityBlades extends Command
         foreach ($allCities as $sourceCity) {
             // Trim whitespace
             $sourceCityTrimmed = trim($sourceCity);
-            
+
             // Define possible directory names: PascalCase and lowercase
             $sourceDirNamePascal = Str::studly($sourceCityTrimmed);
             $sourceDirNameLower = Str::lower($sourceCityTrimmed);
-            
+
             $sourceDir = resource_path("views/{$sourceDirNamePascal}");
-            
+
             // Check for both PascalCase and lowercase directories
             if (!File::exists($sourceDir)) {
                 $sourceDir = resource_path("views/{$sourceDirNameLower}");

@@ -199,7 +199,7 @@
         <p class="mb-4">
             Apart from Salem, Fastpikcab also operates in cities like: Chennai, Coimbatore, Cuddalore, Dharmapuri,
             Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Namakkal, Puducherry,
-            Pudukkottai, Ranipet, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, Thiruvannamalai, Thiruvarur,
+            Pudukkottai, Ranipet, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, tiruvannamalai, Thiruvarur,
             Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore, Ooty, Kerala,
             Kochi, Krishnagiri and more.
         </p>

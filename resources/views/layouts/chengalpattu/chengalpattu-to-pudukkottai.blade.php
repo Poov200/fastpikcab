@@ -205,7 +205,7 @@
                 Apart from Pudukkottai, Fastpikcab operates taxi services to all major destinations in Tamil Nadu,
                 including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram,
                 Karur, Krishnagiri, Madurai, Nagercoil, Namakkal, Perambalur, Salem, Thanjavur,
-                Thiruvannamalai, Trichy, Tirunelveli, Tiruppur, Vellore, Villupuram, and Virudhunagar.
+                tiruvannamalai, Trichy, Tirunelveli, Tiruppur, Vellore, Villupuram, and Virudhunagar.
             </p>
 
             <p class="mb-4">

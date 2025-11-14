@@ -1609,8 +1609,8 @@
                             class="footer-link text-gray-400 hover:text-white">Kochi</a></li>
                     <li><a href="{{ route('tirupati-taxi-service') }}"
                             class="footer-link text-gray-400 hover:text-white">Tirupati</a></li>
-                    <li><a href="{{ route('thiruvannamalai-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Thiruvannamalai</a></li>
+                    <li><a href="{{ route('tiruvannamalai-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">tiruvannamalai</a></li>
                     <li><a href="{{ route('kerala-taxi-service') }}"
                             class="footer-link text-gray-400 hover:text-white">Kerala</a></li>
                     <li><a href="{{ route('ariyalur-taxi-service') }}"

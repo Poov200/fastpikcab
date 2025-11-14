@@ -211,7 +211,7 @@
                 Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram, Karur,
                 Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
                 Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur,
-                Thiruvannamalai, Thiruvarur, Tirunelveli, Vellore, Viluppuram, and Virudhunagar.
+                tiruvannamalai, Thiruvarur, Tirunelveli, Vellore, Viluppuram, and Virudhunagar.
             </p>
 
             <p class="mb-4">

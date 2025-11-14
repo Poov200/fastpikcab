@@ -201,7 +201,7 @@
             Apart from Puducherry, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore,
             Dharmapuri, Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
             Perambalur, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur,
-            Thiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar,
+            tiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar,
             Bangalore, Ooty, Kerala, Kochi, Krishnagiri and more.
         </p>
 

@@ -249,7 +249,7 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thiruvannamalai</span>
+                            <span>tiruvannamalai</span>
                             <span class="text-sm text-gray-500">A major pilgrimage site and a key stop.</span>
                         </div>
                     </div>

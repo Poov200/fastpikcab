@@ -249,7 +249,7 @@
                             <span class="text-sm text-gray-500">A major city with various amenities on the way.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thiruvannamalai</span>
+                            <span>tiruvannamalai</span>
                             <span class="text-sm text-gray-500">A good break point for refreshments.</span>
                         </div>
                     </div>

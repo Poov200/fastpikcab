@@ -199,7 +199,7 @@
 
         <p class="mb-4">
             Our cab services also cover other destinations like Chennai, Coimbatore, Salem, Madurai, Trichy, Thanjavur,
-            Nagercoil, Erode, Puducherry, Namakkal, Sivakasi, Tenkasi, Thiruvannamalai, Thiruvarur, Thoothukudi, Tirupati,
+            Nagercoil, Erode, Puducherry, Namakkal, Sivakasi, Tenkasi, tiruvannamalai, Thiruvarur, Thoothukudi, Tirupati,
             Tiruppur, Tirunelveli, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala, Kochi, Krishnagiri and more.
         </p>
 
