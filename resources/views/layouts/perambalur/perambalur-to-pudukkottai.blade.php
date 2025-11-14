@@ -202,7 +202,7 @@
         <p class="mb-4">
             Our network also covers Chennai, Coimbatore, Madurai, Trichy, Thanjavur, Salem, Erode,
             Tirunelveli, Nagercoil, Karaikal, Mayiladuthurai, Nagapattinam, Namakkal, Puducherry,
-            Ranipet, Sivakasi, Tenkasi, Thiruvannamalai, Thiruvarur, Thoothukudi, Tirupati,
+            Ranipet, Sivakasi, Tenkasi, tiruvannamalai, Thiruvarur, Thoothukudi, Tirupati,
             Tiruppur, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala, Kochi,
             Krishnagiri and more.
         </p>

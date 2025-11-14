@@ -200,7 +200,7 @@
         <p class="mb-4">
             Apart from Sivakasi, Fastpikcab operates across Tamil Nadu and nearby states including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
             Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
-            Pudukkottai, Ramanathapuram, Ranipet, Salem, Thanjavur, Theni, Thiruvallur, Thiruvannamalai, Thiruvarur, Thoothukudi,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Thanjavur, Theni, Thiruvallur, tiruvannamalai, Thiruvarur, Thoothukudi,
             Tirunelveli, Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
         </p>
 

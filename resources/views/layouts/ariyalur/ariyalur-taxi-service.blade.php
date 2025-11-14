@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Ariyalur taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Ariyalur to all major cities.">
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ariyalur taxi service, Ariyalur to Arani taxi, Ariyalur to Arakkonam taxi, Ariyalur to Tirupati taxi, Ariyalur to Chengalpattu taxi, Ariyalur to Chennai taxi, Ariyalur to Coimbatore taxi, Ariyalur to Cuddalore taxi, Ariyalur to Dharmapuri taxi, Ariyalur to Dindigul taxi, Ariyalur to Erode taxi, Ariyalur to Hosur taxi, Ariyalur to Kanchipuram taxi, Ariyalur to Karur taxi, Ariyalur to Krishnagiri taxi, Ariyalur to Madurai taxi, Ariyalur to Mayiladuthurai taxi, Ariyalur to Nagapattinam taxi, Ariyalur to Nagercoil taxi, Ariyalur to Namakkal taxi, Ariyalur to Perambalur taxi, Ariyalur to Puducherry taxi, Ariyalur to Pudukkottai taxi, Ariyalur to Ramanathapuram taxi, Ariyalur to Ranipet taxi, Ariyalur to Salem taxi, Ariyalur to Sivakasi taxi, Ariyalur to Tenkasi taxi, Ariyalur to Thanjavur taxi, Ariyalur to Thiruvarur taxi, Ariyalur to Thoothukudi taxi, Ariyalur to Tirunelveli taxi, Ariyalur to Tiruppur taxi, Ariyalur to Trichy taxi, Ariyalur to Vellore taxi, Ariyalur to Villupuram taxi, Ariyalur to Virudhunagar taxi, Ariyalur to Karaikal taxi, Ariyalur to Kochi taxi, Ariyalur to Thiruvannamalai taxi, Ariyalur taxi fare, Ariyalur cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ariyalur taxi service, Ariyalur to Arani taxi, Ariyalur to Arakkonam taxi, Ariyalur to Tirupati taxi, Ariyalur to Chengalpattu taxi, Ariyalur to Chennai taxi, Ariyalur to Coimbatore taxi, Ariyalur to Cuddalore taxi, Ariyalur to Dharmapuri taxi, Ariyalur to Dindigul taxi, Ariyalur to Erode taxi, Ariyalur to Hosur taxi, Ariyalur to Kanchipuram taxi, Ariyalur to Karur taxi, Ariyalur to Krishnagiri taxi, Ariyalur to Madurai taxi, Ariyalur to Mayiladuthurai taxi, Ariyalur to Nagapattinam taxi, Ariyalur to Nagercoil taxi, Ariyalur to Namakkal taxi, Ariyalur to Perambalur taxi, Ariyalur to Puducherry taxi, Ariyalur to Pudukkottai taxi, Ariyalur to Ramanathapuram taxi, Ariyalur to Ranipet taxi, Ariyalur to Salem taxi, Ariyalur to Sivakasi taxi, Ariyalur to Tenkasi taxi, Ariyalur to Thanjavur taxi, Ariyalur to Thiruvarur taxi, Ariyalur to Thoothukudi taxi, Ariyalur to Tirunelveli taxi, Ariyalur to Tiruppur taxi, Ariyalur to Trichy taxi, Ariyalur to Vellore taxi, Ariyalur to Villupuram taxi, Ariyalur to Virudhunagar taxi, Ariyalur to Karaikal taxi, Ariyalur to Kochi taxi, Ariyalur to tiruvannamalai taxi, Ariyalur taxi fare, Ariyalur cab booking">
     <meta property="og:title" content="Ariyalur Taxi Service & Outstation Cabs | Fastpikcab">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Ariyalur. Book online for one-way, round-trip, or outstation travel to major cities.">
@@ -588,13 +588,13 @@
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Thiruvannamalai</td>
+                            <td class="px-4 py-3 font-medium text-sm">tiruvannamalai</td>
                             <td class="px-4 py-3 text-center text-sm">~180 km</td>
                             <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
                             <td class="px-4 py-3 text-center text-sm">₹3,000 - ₹3,600</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('ariyalur-to-thiruvannamalai') }}">Book Now</a>
+                                    <a href="{{ route('ariyalur-to-tiruvannamalai') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>

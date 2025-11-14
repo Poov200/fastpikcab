@@ -212,7 +212,7 @@
                 Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram,
                 Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
                 Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
-                Thanjavur, Thiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tiruppur, Vellore,
+                Thanjavur, tiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tiruppur, Vellore,
                 Viluppuram, and Virudhunagar.
             </p>
 

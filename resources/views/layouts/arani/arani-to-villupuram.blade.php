@@ -258,7 +258,7 @@
                             <span class="text-sm text-gray-500">Famous for the Annamalaiyar Temple, a great spot for a spiritual stop.</span>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thiruvannamalai</span>
+                            <span>tiruvannamalai</span>
                             <span class="text-sm text-gray-500">A major city with many dining options and amenities.</span>
                         </div>
                     </div>

@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Kochi taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Kochi to all major cities.">
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Kochi taxi service, Kochi to Ariyalur taxi, Kochi to Arani taxi, Kochi to Arakkonam taxi, Kochi to Tirupati taxi, Kochi to Chengalpattu taxi, Kochi to Chennai taxi, Kochi to Coimbatore taxi, Kochi to Cuddalore taxi, Kochi to Dharmapuri taxi, Kochi to Dindigul taxi, Kochi to Erode taxi, Kochi to Hosur taxi, Kochi to Kanchipuram taxi, Kochi to Karur taxi, Kochi to Krishnagiri taxi, Kochi to Madurai taxi, Kochi to Mayiladuthurai taxi, Kochi to Nagapattinam taxi, Kochi to Nagercoil taxi, Kochi to Namakkal taxi, Kochi to Perambalur taxi, Kochi to Puducherry taxi, Kochi to Pudukkottai taxi, Kochi to Ramanathapuram taxi, Kochi to Ranipet taxi, Kochi to Salem taxi, Kochi to Sivakasi taxi, Kochi to Tenkasi taxi, Kochi to Thanjavur taxi, Kochi to Thiruvarur taxi, Kochi to Thoothukudi taxi, Kochi to Tirunelveli taxi, Kochi to Tiruppur taxi, Kochi to Trichy taxi, Kochi to Vellore taxi, Kochi to Villupuram taxi, Kochi to Virudhunagar taxi, Kochi to Karaikal taxi, Kochi to Thiruvannamalai taxi, Kochi taxi fare, Kochi cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Kochi taxi service, Kochi to Ariyalur taxi, Kochi to Arani taxi, Kochi to Arakkonam taxi, Kochi to Tirupati taxi, Kochi to Chengalpattu taxi, Kochi to Chennai taxi, Kochi to Coimbatore taxi, Kochi to Cuddalore taxi, Kochi to Dharmapuri taxi, Kochi to Dindigul taxi, Kochi to Erode taxi, Kochi to Hosur taxi, Kochi to Kanchipuram taxi, Kochi to Karur taxi, Kochi to Krishnagiri taxi, Kochi to Madurai taxi, Kochi to Mayiladuthurai taxi, Kochi to Nagapattinam taxi, Kochi to Nagercoil taxi, Kochi to Namakkal taxi, Kochi to Perambalur taxi, Kochi to Puducherry taxi, Kochi to Pudukkottai taxi, Kochi to Ramanathapuram taxi, Kochi to Ranipet taxi, Kochi to Salem taxi, Kochi to Sivakasi taxi, Kochi to Tenkasi taxi, Kochi to Thanjavur taxi, Kochi to Thiruvarur taxi, Kochi to Thoothukudi taxi, Kochi to Tirunelveli taxi, Kochi to Tiruppur taxi, Kochi to Trichy taxi, Kochi to Vellore taxi, Kochi to Villupuram taxi, Kochi to Virudhunagar taxi, Kochi to Karaikal taxi, Kochi to tiruvannamalai taxi, Kochi taxi fare, Kochi cab booking">
     <meta property="og:title" content="Kochi Taxi Service & Outstation Cabs | Fastpikcab">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Kochi. Book online for one-way, round-trip, or outstation travel to major cities.">
@@ -588,13 +588,13 @@
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Thiruvannamalai</td>
+                            <td class="px-4 py-3 font-medium text-sm">tiruvannamalai</td>
                             <td class="px-4 py-3 text-center text-sm">~550 km</td>
                             <td class="px-4 py-3 text-center text-sm">10-11 hours</td>
                             <td class="px-4 py-3 text-center text-sm">₹9,000 - ₹10,000</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('kochi-to-thiruvannamalai') }}">Book Now</a>
+                                    <a href="{{ route('kochi-to-tiruvannamalai') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>

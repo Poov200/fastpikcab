@@ -200,7 +200,7 @@
         <p class="mb-4">
             Apart from Dindigul, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore, Dharmapuri,
             Erode, Hosur, Kanchipuram, Karur, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
-            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, tiruvannamalai,
             Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala and more.
         </p>
 

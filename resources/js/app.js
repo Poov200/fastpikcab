@@ -502,7 +502,7 @@ app.controller('CabcityController', function ($scope, $http) {
                 'Chennai to Bangalore', 'Chennai to Pondicherry', 'Chennai to Madurai',
                 'Chennai to Trichy', 'Chennai to Vellore', 'Chennai to Neyveli',
                 'Chennai to Karur', 'Chennai to Rameswaram', 'Chennai to Ooty',
-                'Chennai to Thanjavur', 'Chennai to Thiruvannamalai', 'Chennai to Vaniyambadi'
+                'Chennai to Thanjavur', 'Chennai to tiruvannamalai', 'Chennai to Vaniyambadi'
             ]
         },
         {

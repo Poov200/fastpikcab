@@ -209,7 +209,7 @@
                 including Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kanchipuram,
                 Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
                 Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur,
-                Thiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore,
+                tiruvannamalai, Thiruvarur, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur, Vellore,
                 Viluppuram, and Virudhunagar.
             </p>
 

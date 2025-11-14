@@ -201,7 +201,7 @@
         <p class="mb-4">
             Our services are not limited to Ramanathapuram. We also operate in Chennai, Coimbatore, Madurai, Trichy,
             Thanjavur, Erode, Tirunelveli, Nagercoil, Pudukkottai, Puducherry, Namakkal, Ranipet, Salem, Sivakasi,
-            Tenkasi, Thiruvannamalai, Thiruvarur, Thoothukudi, Tirupati, Tiruppur, Vellore, Villupuram, Virudhunagar,
+            Tenkasi, tiruvannamalai, Thiruvarur, Thoothukudi, Tirupati, Tiruppur, Vellore, Villupuram, Virudhunagar,
             Bangalore, Ooty, Kerala, Kochi, Krishnagiri and many more cities.
         </p>
 

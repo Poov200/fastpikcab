@@ -199,7 +199,7 @@
         <p class="mb-4">
             Apart from Thoothukudi, Fastpikcab operates across Tamil Nadu including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
             Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
-            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, tiruvannamalai,
             Thiruvarur, Tirunelveli, Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
         </p>
 

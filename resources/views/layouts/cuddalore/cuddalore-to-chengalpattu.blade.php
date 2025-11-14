@@ -186,7 +186,7 @@
             The distance between <strong>Cuddalore and Chengalpattu</strong> is approximately
             <strong>170 km</strong>, which usually takes about <strong>3.5–4.5 hours</strong> by road.
             The common travel route is via <strong>NH32</strong>, passing through
-            <strong>Chengam and Thiruvannamalai</strong>. Short stopovers for meals, tea, or sightseeing can be arranged
+            <strong>Chengam and tiruvannamalai</strong>. Short stopovers for meals, tea, or sightseeing can be arranged
             as per your convenience.
         </p>
 

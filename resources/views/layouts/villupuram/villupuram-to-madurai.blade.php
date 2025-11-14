@@ -203,7 +203,7 @@
             Apart from Madurai, Fastpikcab connects Villupuram to all major cities across Tamil Nadu including:
             Ariyalur, Chennai, Coimbatore, Cuddalore, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri, Mayiladuthurai,
             Nagapattinam, Nagercoil, Namakkal, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
-            Thanjavur, Thiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur, Vellore, Virudhunagar, and more.
+            Thanjavur, tiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur, Vellore, Virudhunagar, and more.
         </p>
 
         <p class="mb-4">

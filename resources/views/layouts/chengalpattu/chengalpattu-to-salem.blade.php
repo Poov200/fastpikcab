@@ -213,7 +213,7 @@
                 Dharmapuri, Dindigul, Erode, Kanchipuram, Karur, Krishnagiri,
                 Madurai, Nagercoil, Namakkal, Perambalur, Pudukkottai,
                 Ramanathapuram, Ranipet, Sivagangai, Tenkasi, Thanjavur,
-                Thiruvannamalai, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur,
+                tiruvannamalai, Tiruchirappalli (Trichy), Tirunelveli, Tiruppur,
                 Vellore, Viluppuram, and Virudhunagar.
             </p>
 

@@ -199,7 +199,7 @@
             <strong>Ariyalur, Arakkonam, Chennai, Chengalpattu, Coimbatore, Cuddalore, Dindigul, Erode,
             Kallakurichi, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
             Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Sivakasi, Tenkasi,
-            Thanjavur, Theni, Thiruvannamalai, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli,
+            Thanjavur, Theni, tiruvannamalai, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli,
             Tiruppur, Tirupathur, Udagamandalam (Ooty), Vellore, and Viluppuram</strong>.
         </p>
 

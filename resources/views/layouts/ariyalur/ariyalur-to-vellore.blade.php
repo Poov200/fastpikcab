@@ -185,7 +185,7 @@
         <p class="mb-4">
             The distance between Ariyalur and Vellore is approximately <strong>180 km</strong>,
             which usually takes about <strong>4–5 hours</strong> by road. The most common travel route
-            is via <strong>NH79 and NH48</strong>, passing through <strong>Perambalur, Thiruvannamalai, and Ranipet</strong>.
+            is via <strong>NH79 and NH48</strong>, passing through <strong>Perambalur, tiruvannamalai, and Ranipet</strong>.
             Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
         </p>
 

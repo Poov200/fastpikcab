@@ -185,7 +185,7 @@
             Apart from Erode, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
             Ariyalur, Arani, Arakkonam, Bangalore, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Kallakurichi, Kanchipuram, Karur,
             Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
-            Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur, Thiruvannamalai,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thoothukudi, Tirunelveli, Tirupathur, tiruvannamalai,
             Udagamandalam (Ooty), Vellore, Villupuram, Trichy, Virudhunagar.
         </p>
 

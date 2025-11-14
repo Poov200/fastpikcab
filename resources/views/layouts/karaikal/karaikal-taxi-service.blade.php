@@ -7,7 +7,7 @@
     <meta name="description"
         content="Book a reliable Karaikal taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Karaikal to all major cities.">
     <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Karaikal taxi service, Karaikal to Ariyalur taxi, Karaikal to Arani taxi, Karaikal to Arakkonam taxi, Karaikal to Tirupati taxi, Karaikal to Chengalpattu taxi, Karaikal to Chennai taxi, Karaikal to Coimbatore taxi, Karaikal to Cuddalore taxi, Karaikal to Dharmapuri taxi, Karaikal to Dindigul taxi, Karaikal to Erode taxi, Karaikal to Hosur taxi, Karaikal to Kanchipuram taxi, Karaikal to Karur taxi, Karaikal to Krishnagiri taxi, Karaikal to Madurai taxi, Karaikal to Mayiladuthurai taxi, Karaikal to Nagapattinam taxi, Karaikal to Nagercoil taxi, Karaikal to Namakkal taxi, Karaikal to Perambalur taxi, Karaikal to Puducherry taxi, Karaikal to Pudukkottai taxi, Karaikal to Ramanathapuram taxi, Karaikal to Ranipet taxi, Karaikal to Salem taxi, Karaikal to Sivakasi taxi, Karaikal to Tenkasi taxi, Karaikal to Thanjavur taxi, Karaikal to Thiruvarur taxi, Karaikal to Thoothukudi taxi, Karaikal to Tirunelveli taxi, Karaikal to Tiruppur taxi, Karaikal to Trichy taxi, Karaikal to Vellore taxi, Karaikal to Villupuram taxi, Karaikal to Virudhunagar taxi, Karaikal to Kochi taxi, Karaikal to Thiruvannamalai taxi, Karaikal taxi fare, Karaikal cab booking">
+        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Karaikal taxi service, Karaikal to Ariyalur taxi, Karaikal to Arani taxi, Karaikal to Arakkonam taxi, Karaikal to Tirupati taxi, Karaikal to Chengalpattu taxi, Karaikal to Chennai taxi, Karaikal to Coimbatore taxi, Karaikal to Cuddalore taxi, Karaikal to Dharmapuri taxi, Karaikal to Dindigul taxi, Karaikal to Erode taxi, Karaikal to Hosur taxi, Karaikal to Kanchipuram taxi, Karaikal to Karur taxi, Karaikal to Krishnagiri taxi, Karaikal to Madurai taxi, Karaikal to Mayiladuthurai taxi, Karaikal to Nagapattinam taxi, Karaikal to Nagercoil taxi, Karaikal to Namakkal taxi, Karaikal to Perambalur taxi, Karaikal to Puducherry taxi, Karaikal to Pudukkottai taxi, Karaikal to Ramanathapuram taxi, Karaikal to Ranipet taxi, Karaikal to Salem taxi, Karaikal to Sivakasi taxi, Karaikal to Tenkasi taxi, Karaikal to Thanjavur taxi, Karaikal to Thiruvarur taxi, Karaikal to Thoothukudi taxi, Karaikal to Tirunelveli taxi, Karaikal to Tiruppur taxi, Karaikal to Trichy taxi, Karaikal to Vellore taxi, Karaikal to Villupuram taxi, Karaikal to Virudhunagar taxi, Karaikal to Kochi taxi, Karaikal to tiruvannamalai taxi, Karaikal taxi fare, Karaikal cab booking">
     <meta property="og:title" content="Karaikal Taxi Service & Outstation Cabs | Fastpikcab">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Karaikal. Book online for one-way, round-trip, or outstation travel to major cities.">
@@ -588,13 +588,13 @@
                             </td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="px-4 py-3 font-medium text-sm">Thiruvannamalai</td>
+                            <td class="px-4 py-3 font-medium text-sm">tiruvannamalai</td>
                             <td class="px-4 py-3 text-center text-sm">~220 km</td>
                             <td class="px-4 py-3 text-center text-sm">4-5 hours</td>
                             <td class="px-4 py-3 text-center text-sm">₹3,600 - ₹4,200</td>
                             <td class="px-4 py-3 text-center">
                                 <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-1 px-3 rounded text-xs w-full">
-                                    <a href="{{ route('karaikal-to-thiruvannamalai') }}">Book Now</a>
+                                    <a href="{{ route('karaikal-to-tiruvannamalai') }}">Book Now</a>
                                 </button>
                             </td>
                         </tr>

@@ -199,7 +199,7 @@
         <p class="mb-4">
             Apart from Ranipet, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode,
             Hosur, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
-            Pudukkottai, Ramanathapuram, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai, Thiruvarur,
+            Pudukkottai, Ramanathapuram, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, tiruvannamalai, Thiruvarur,
             Thoothukudi, Tirupathur, Tirunelveli, Tirupati, Trichy, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala and more.
         </p>
 

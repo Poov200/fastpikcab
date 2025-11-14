@@ -199,7 +199,7 @@
         <p class="mb-4">
             Apart from Kanchipuram, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore, Dharmapuri,
             Dindigul, Erode, Hosur, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
-            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur, tiruvannamalai,
             Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala and more.
         </p>
 
@@ -244,7 +244,7 @@
                     <h3 class="text-2xl font-semibold mb-4 text-blue-600">Popular Stops Along the Way</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span>Thiruvannamalai</span>
+                            <span>tiruvannamalai</span>
                             <span class="text-sm text-gray-500">A major pilgrimage site, an ideal place for a spiritual and physical break.</span>
                         </div>
                     </div>

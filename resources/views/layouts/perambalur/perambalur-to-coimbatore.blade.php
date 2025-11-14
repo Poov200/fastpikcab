@@ -200,7 +200,7 @@
             Apart from Coimbatore, Fastpikcab operates in several other locations including: Chennai, Cuddalore,
             Dharmapuri, Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal,
             Puducherry, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni, Thiruvallur,
-            Thiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram,
+            tiruvannamalai, Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram,
             Bangalore, Ooty, Kerala, Kochi, Krishnagiri and more.
         </p>
 

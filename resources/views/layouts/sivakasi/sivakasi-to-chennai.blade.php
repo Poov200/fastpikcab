@@ -199,7 +199,7 @@
         <p class="mb-4">
             Apart from Chennai, Fastpikcab operates in several other locations including: Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Hosur,
             Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Puducherry,
-            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, Thiruvannamalai, Thiruvarur,
+            Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Thanjavur, Theni, Thiruvallur, tiruvannamalai, Thiruvarur,
             Thoothukudi, Tirupathur, Villupuram, Vellore, Trichy, Virudhunagar, Bangalore, Ooty, Kerala and more.
         </p>
 

@@ -185,7 +185,7 @@
         <p class="mb-4">
             The distance between Arani and Perambalur is approximately <strong>120 km</strong>,
             which usually takes about <strong>2.5–3 hours</strong> by road. The most common travel route
-            is via <strong>NH38</strong>, passing through <strong>Thiruvannamalai and Villupuram</strong>.
+            is via <strong>NH38</strong>, passing through <strong>tiruvannamalai and Villupuram</strong>.
             Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
         </p>
 

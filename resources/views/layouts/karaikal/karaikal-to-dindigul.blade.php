@@ -200,7 +200,7 @@
             <strong>Ariyalur, Arakkonam, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Erode, Hosur,
             Kallakurichi, Kanchipuram, Karaikal, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil,
             Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivagangai, Tenkasi, Thanjavur, Theni,
-            Thiruvallur, Thiruvannamalai, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
+            Thiruvallur, tiruvannamalai, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur,
             Tiruppur, Tirupati, Udagamandalam (Ooty), Vellore, Viluppuram, Virudhunagar, and nearby states including
             <em>Kerala (Kochi, Trivandrum)</em></strong>.
         </p>

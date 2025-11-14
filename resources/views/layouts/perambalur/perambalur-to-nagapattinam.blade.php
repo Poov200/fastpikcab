@@ -200,7 +200,7 @@
         <p class="mb-4">
             Apart from Nagapattinam, Fastpikcab operates in several other locations including: Chennai, Coimbatore, Cuddalore,
             Dharmapuri, Dindigul, Erode, Hosur, Karur, Karaikal, Madurai, Mayiladuthurai, Nagercoil, Namakkal,
-            Puducherry, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, Thiruvannamalai,
+            Puducherry, Pudukkottai, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Thiruvallur, tiruvannamalai,
             Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Bangalore,
             Ooty, Kerala, Kochi, Krishnagiri and more.
         </p>
