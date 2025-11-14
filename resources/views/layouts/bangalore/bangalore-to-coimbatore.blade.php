@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Coimbatore Taxi Service </title>
+    <title>Fastpik Cab - Bangalore to Coimbatore Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Bangalore to Coimbatore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -183,7 +183,7 @@
 
         <p class="mb-4">
             The distance between Bangalore and Coimbatore is approximately <strong>360 km</strong>,
-            which usually takes around <strong>7–8 hours</strong> by road. The most common travel route is via 
+            which usually takes around <strong>7–8 hours</strong> by road. The most common travel route is via
             <strong>NH544</strong>, passing through <strong>Hosur, Krishnagiri, and Salem</strong>.
             Comfortable stopovers for food, tea, or rest can be arranged along the way.
         </p>
@@ -196,16 +196,16 @@
 
         <p class="mb-4">
             We also provide <strong>Bangalore Railway Station taxi pickups</strong> for passengers heading towards Coimbatore.
-            Families, tourists, and business travelers can take advantage of our <strong>round-trip taxi packages</strong> 
+            Families, tourists, and business travelers can take advantage of our <strong>round-trip taxi packages</strong>
             for a cost-effective and convenient travel experience.
         </p>
 
         <p class="mb-4">
             Apart from Coimbatore, Fastpikcab operates across major cities and districts including:
-            Arakkonam, Ariyalur, Chengalpattu, Chennai, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, 
+            Arakkonam, Ariyalur, Chengalpattu, Chennai, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
             Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
             Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
-            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, 
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
             Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
         </p>
 

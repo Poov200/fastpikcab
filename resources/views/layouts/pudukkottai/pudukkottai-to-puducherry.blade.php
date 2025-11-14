@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Pudukkottai to Pondicherry Taxi Service </title>
+    <title>Fastpik Cab - Pudukkottai to Pondicherry Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Pudukkottai to Pondicherry taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Nagercoil Taxi Service </title>
+    <title>Fastpik Cab - Bangalore to Nagercoil Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Bangalore to Nagercoil taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -176,42 +176,42 @@
     </h2>
     <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
         <p class="mb-4">
-            Need a taxi from <strong>Bangalore to Nagercoil</strong>? Fastpikcab provides safe, reliable, 
-            and comfortable cab services for one-way trips, round journeys, and long-distance travel. 
+            Need a taxi from <strong>Bangalore to Nagercoil</strong>? Fastpikcab provides safe, reliable,
+            and comfortable cab services for one-way trips, round journeys, and long-distance travel.
             Our professional drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
         </p>
 
         <p class="mb-4">
-            The distance between Bangalore and Nagercoil is approximately <strong>700 km</strong>, 
-            which usually takes around <strong>12–13 hours</strong> by road. The preferred route is via 
-            <strong>NH44 and NH544</strong>, passing through Hosur, Krishnagiri, Salem, Madurai, and Kanyakumari. 
+            The distance between Bangalore and Nagercoil is approximately <strong>700 km</strong>,
+            which usually takes around <strong>12–13 hours</strong> by road. The preferred route is via
+            <strong>NH44 and NH544</strong>, passing through Hosur, Krishnagiri, Salem, Madurai, and Kanyakumari.
             Short breaks for meals, refreshments, or sightseeing can be arranged along the way.
         </p>
 
         <p class="mb-4">
-            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>. 
-            All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring a safe and comfortable ride. 
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are <strong>air-conditioned, spacious, and GPS-enabled</strong>, ensuring a safe and comfortable ride.
             We maintain <strong>transparent pricing</strong> with no hidden charges.
         </p>
 
         <p class="mb-4">
-            We also provide <strong>Bangalore railway station and airport pickups</strong> for passengers traveling to Nagercoil. 
-            Families, business travelers, and tourists can benefit from our <strong>round-trip taxi packages</strong> 
+            We also provide <strong>Bangalore railway station and airport pickups</strong> for passengers traveling to Nagercoil.
+            Families, business travelers, and tourists can benefit from our <strong>round-trip taxi packages</strong>
             which are cost-effective for long-distance travel.
         </p>
 
         <p class="mb-4">
             Apart from Nagercoil, Fastpikcab operates across major cities and districts including:
-            Arakkonam, Arani, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, 
-            Erode, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Namakkal, 
-            Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, 
-            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur, 
+            Arakkonam, Arani, Ariyalur, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul,
+            Erode, Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Namakkal,
+            Perambalur, Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi,
+            Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tiruppur,
             Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Bangalore to Nagercoil taxi</strong> with Fastpikcab is easy. 
-            You can book online via our website or call <strong>+91 88256 94157</strong>. 
+            Booking your <strong>Bangalore to Nagercoil taxi</strong> with Fastpikcab is easy.
+            You can book online via our website or call <strong>+91 88256 94157</strong>.
             Our 24/7 customer support team is ready to assist with bookings, fares, and travel guidance.
         </p>
 

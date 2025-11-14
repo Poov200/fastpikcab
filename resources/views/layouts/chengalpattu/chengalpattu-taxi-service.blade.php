@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chengalpattu Taxi Service & Outstation Cabs </title>
+    <title>Chengalpattu Taxi Service & Outstation Cabs</title>
     <meta name="description"
         content="Book a reliable Chengalpattu taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and airport transfers. We connect Chengalpattu to all major cities.">
     <meta name="keywords"

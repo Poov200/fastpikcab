@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Arakkonam Taxi Service </title>
+    <title>Fastpik Cab - Bangalore to Arakkonam Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Bangalore to Arakkonam taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -183,7 +183,7 @@
 
         <p class="mb-4">
             The distance between Bangalore and Arakkonam is approximately <strong>310 km</strong>,
-            which usually takes about <strong>6–7 hours</strong> by road. The most common travel route is via 
+            which usually takes about <strong>6–7 hours</strong> by road. The most common travel route is via
             <strong>NH48 and NH77</strong>, passing through Hosur, Krishnagiri, and Vellore.
             Short stopovers for meals, tea breaks, or sightseeing can also be arranged during your journey.
         </p>

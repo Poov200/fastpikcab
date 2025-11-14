@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tirupati to Mayiladuthurai Taxi Service </title>
+    <title>Fastpik Cab - Tirupati to Mayiladuthurai Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Tirupati to Mayiladuthurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -176,37 +176,37 @@
     </h2>
     <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
         <p class="mb-4">
-            Need a taxi from <strong>Tirupati to Mayiladuthurai</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, and urgent travel. 
+            Need a taxi from <strong>Tirupati to Mayiladuthurai</strong>? Fastpikcab provides safe, clean, and comfortable cabs for one-way trips, round journeys, and urgent travel.
             Our drivers are available <strong>24/7</strong> to ensure a smooth and timely journey.
         </p>
 
         <p class="mb-4">
-            The distance between Tirupati and Mayiladuthurai is approximately <strong>430 km</strong>, 
+            The distance between Tirupati and Mayiladuthurai is approximately <strong>430 km</strong>,
             which usually takes around <strong>8–9 hours</strong> by road. The common route is via <strong>NH36 and NH32</strong>. Short stops for refreshments or meals can be arranged along the way.
         </p>
 
         <p class="mb-4">
-            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>. 
-            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride. 
+            Fastpikcab offers multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are air-conditioned, spacious, and GPS-enabled for a comfortable and stress-free ride.
             We maintain <strong>transparent pricing</strong> with no hidden charges.
         </p>
 
         <p class="mb-4">
-            We also provide <strong>Tirupati Railway Station taxi pickups</strong> for passengers traveling to Mayiladuthurai. 
+            We also provide <strong>Tirupati Railway Station taxi pickups</strong> for passengers traveling to Mayiladuthurai.
             Families, business travelers, students, and groups can benefit from our <strong>long-distance taxi packages</strong>.
         </p>
 
         <p class="mb-4">
-            Apart from Mayiladuthurai, Fastpikcab operates across all major cities and districts of Tamil Nadu including: 
-            Ariyalur, Arani, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur, 
-            Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, 
-            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruvannamalai, 
+            Apart from Mayiladuthurai, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Ariyalur, Arani, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, Kanchipuram, Karur,
+            Krishnagiri, Madurai, Nagapattinam, Nagercoil, Namakkal, Perambalur, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi,
+            Tenkasi, Thanjavur, Theni, Thiruvallur, Thiruvarur, Thoothukudi, Tirunelveli, Tirupathur, Tiruvannamalai,
             Udagamandalam (Ooty), Villupuram, Vellore, Virudhunagar, Arakkonam, and Bangalore.
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Tirupati to Mayiladuthurai taxi</strong> with Fastpikcab is simple. 
-            You can book online via our website or call us at <strong>+91 88256 94157</strong>. 
+            Booking your <strong>Tirupati to Mayiladuthurai taxi</strong> with Fastpikcab is simple.
+            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
             Our 24/7 support team is ready to assist you with bookings, fare details, and travel guidance.
         </p>
 

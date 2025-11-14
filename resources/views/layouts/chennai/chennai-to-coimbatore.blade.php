@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Chennai to Coimbatore Taxi Service </title>
+    <title>Fastpikcab - Chennai to Coimbatore Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Chennai to Coimbatore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. Airport transfers, local cabs, and comfortable rides available 24/7.">
@@ -180,45 +180,45 @@
     </h2>
     <div class="bg-white rounded-xl shadow-md p-8 text-gray-700 leading-relaxed">
         <p class="mb-4">
-            Planning to travel from <strong>Chennai to Coimbatore</strong>? Fastpikcab offers safe, 
-            comfortable, and affordable taxi services for one-way trips, round journeys, business travel, 
-            and family trips. Our professional drivers are available <strong>24/7</strong> to ensure 
+            Planning to travel from <strong>Chennai to Coimbatore</strong>? Fastpikcab offers safe,
+            comfortable, and affordable taxi services for one-way trips, round journeys, business travel,
+            and family trips. Our professional drivers are available <strong>24/7</strong> to ensure
             your travel is smooth and on time.
         </p>
 
         <p class="mb-4">
-            The distance between Chennai and Coimbatore is approximately <strong>510 km</strong>, 
-            which usually takes about <strong>9–10 hours</strong> by road. The most common route is via 
-            <strong>NH79 and NH544</strong>, passing through Vellore, Salem, and Avinashi. 
+            The distance between Chennai and Coimbatore is approximately <strong>510 km</strong>,
+            which usually takes about <strong>9–10 hours</strong> by road. The most common route is via
+            <strong>NH79 and NH544</strong>, passing through Vellore, Salem, and Avinashi.
             Stopovers for meals, refreshments, or sightseeing can also be arranged during your journey.
         </p>
 
         <p class="mb-4">
-            Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>. 
-            All vehicles are well-maintained, air-conditioned, and GPS-enabled, making your long journey 
+            Fastpikcab provides multiple taxi options including <strong>Sedans, SUVs, and Premium Cars</strong>.
+            All vehicles are well-maintained, air-conditioned, and GPS-enabled, making your long journey
             comfortable and hassle-free. We ensure <strong>transparent pricing</strong> with no hidden charges.
         </p>
 
         <p class="mb-4">
-            We also provide <strong>Chennai Airport and Railway Station taxi pickups</strong> for passengers 
-            heading towards Coimbatore. Whether you are traveling for business, family functions, or leisure, 
+            We also provide <strong>Chennai Airport and Railway Station taxi pickups</strong> for passengers
+            heading towards Coimbatore. Whether you are traveling for business, family functions, or leisure,
             our <strong>long-distance taxi packages</strong> are budget-friendly and reliable.
         </p>
 
         <p class="mb-4">
-            Apart from Coimbatore, Fastpikcab operates across all major cities and districts of Tamil Nadu including: 
-            Vellore, Hosur, Krishnagiri, Dharmapuri, Salem, Erode, Tiruppur, Madurai, Trichy, Tiruvannamalai, 
+            Apart from Coimbatore, Fastpikcab operates across all major cities and districts of Tamil Nadu including:
+            Vellore, Hosur, Krishnagiri, Dharmapuri, Salem, Erode, Tiruppur, Madurai, Trichy, Tiruvannamalai,
             Namakkal, Karur, and many more.
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Chennai to Coimbatore taxi</strong> with Fastpikcab is quick and easy. 
-            You can book online through our website or call us at <strong>+91 88256 94157</strong>. 
+            Booking your <strong>Chennai to Coimbatore taxi</strong> with Fastpikcab is quick and easy.
+            You can book online through our website or call us at <strong>+91 88256 94157</strong>.
             Our customer support team is available 24/7 to assist you with bookings, fare details, and travel queries.
         </p>
 
         <p>
-            Choose Fastpikcab for your <strong>Chennai to Coimbatore cab service</strong> and enjoy 
+            Choose Fastpikcab for your <strong>Chennai to Coimbatore cab service</strong> and enjoy
             a safe, reliable, and comfortable travel experience.
         </p>
     </div>

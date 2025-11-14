@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab - Hosur to Bangalore Taxi Service </title>
+    <title>Fastpikcab - Hosur to Bangalore Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Hosur to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">

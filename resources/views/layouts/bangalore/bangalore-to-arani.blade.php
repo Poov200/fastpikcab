@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Bangalore to Arani Taxi Service </title>
+    <title>Fastpik Cab - Bangalore to Arani Taxi Service</title>
 
     <meta name="description"
         content="Book a reliable Bangalore to Arani taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
@@ -183,7 +183,7 @@
 
         <p class="mb-4">
             The distance between Bangalore and Arani is approximately <strong>250 km</strong>,
-            which usually takes around <strong>5–6 hours</strong> by road. The common travel route is via 
+            which usually takes around <strong>5–6 hours</strong> by road. The common travel route is via
             <strong>NH48 and NH179</strong>, passing through <strong>Hosur and Vellore</strong>.
             Stopovers for meals, tea, or short breaks can be arranged along the way for a relaxed journey.
         </p>
@@ -196,16 +196,16 @@
 
         <p class="mb-4">
             We also provide <strong>Bangalore Railway Station taxi pickups</strong> for passengers heading towards Arani.
-            Families, business professionals, and tourists can take advantage of our <strong>round-trip taxi packages</strong> 
+            Families, business professionals, and tourists can take advantage of our <strong>round-trip taxi packages</strong>
             for a cost-effective and convenient travel experience.
         </p>
 
         <p class="mb-4">
             Apart from Arani, Fastpikcab operates across major cities and districts including:
-            Arakkonam, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi, 
+            Arakkonam, Chengalpattu, Chennai, Coimbatore, Cuddalore, Dharmapuri, Dindigul, Erode, Kallakurichi,
             Kanchipuram, Karur, Krishnagiri, Madurai, Mayiladuthurai, Nagapattinam, Nagercoil, Namakkal, Perambalur,
             Puducherry, Pudukkottai, Ramanathapuram, Ranipet, Salem, Sivakasi, Tenkasi, Thanjavur, Theni,
-            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur, 
+            Thiruvallur, Thiruvarur, Thoothukudi, Tiruchirappalli (Trichy), Tirunelveli, Tirupathur, Tiruppur,
             Tiruvannamalai, Udagamandalam (Ooty), Vellore, Viluppuram, and Virudhunagar.
         </p>
 
