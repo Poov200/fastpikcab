@@ -7546,3 +7546,7 @@ Route::get('/ariyalur-to-tiruvannamalai-drop-taxi', function () {
 Route::get('/ariyalur-to-kerala-drop-taxi', function () {
     return view('layouts.ariyalur.ariyalur-to-kerala');
 })->name('ariyalur-to-kerala');
+
+Route::get('/privacypolicy', function () {
+    return view('layouts.privacypolicy');
+})->name('privacypolicy');
