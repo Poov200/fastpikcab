@@ -169,7 +169,7 @@
 
     <section class="mb-12 px-4 md:px-12">
     <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Arani to Arakkonam Taxi Service – Fastpikcab
+        Arani to Arakkonam drop taxi
     </h1>
     <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
         Book Reliable Arani to Arakkonam Cabs Online

@@ -334,7 +334,7 @@
 
         <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
 
-            Krishnagiri to Tirupati Taxi Service – Fastpikcab
+            Krishnagiri to Tirupati drop taxi
 
         </h1>
 
