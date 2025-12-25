@@ -168,7 +168,7 @@
     </section>
     <section class="mb-12 px-4 md:px-12">
     <h1 class="text-4xl font-bold text-center mb-6 text-gray-800">
-        Trichy to Chennai Taxi Service – Fastpikcab
+        Trichy to Chennai drop taxi
     </h1>
     <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
         Book Reliable Trichy to Chennai Cabs & Airport Transfers Online
