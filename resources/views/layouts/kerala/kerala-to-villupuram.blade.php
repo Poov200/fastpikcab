@@ -81,7 +81,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kerala to Villupuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

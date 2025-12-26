@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Vellore to Arani Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

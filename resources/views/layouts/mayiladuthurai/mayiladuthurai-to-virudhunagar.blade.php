@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Mayiladuthurai to Virudhunagar Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

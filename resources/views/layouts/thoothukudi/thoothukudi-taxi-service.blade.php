@@ -92,7 +92,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thoothukudi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

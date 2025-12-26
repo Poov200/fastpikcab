@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Virudhunagar to Tirupati Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

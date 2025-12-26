@@ -84,7 +84,7 @@
             ]
         },
         "mainEntityOfPage": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "Nagercoil to Karaikal Taxi Service",
             "offers": {
                 "@type": "AggregateOffer",

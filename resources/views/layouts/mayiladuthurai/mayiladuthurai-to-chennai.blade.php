@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Mayiladuthurai to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

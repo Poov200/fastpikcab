@@ -83,7 +83,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Mayiladuthurai to Kerala Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

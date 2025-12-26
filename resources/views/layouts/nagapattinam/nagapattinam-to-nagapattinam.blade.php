@@ -102,7 +102,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Nagapattinam Local Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

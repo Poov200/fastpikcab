@@ -94,7 +94,7 @@
 ]
 },
 "mainEntityOfPage": {
-"@type": "Product",
+"@type": "Service",
 "name": "Dindigul to tiruvannamalai Taxi Service",
 "offers": {
 "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tirupati to Hosur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

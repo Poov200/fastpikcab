@@ -89,7 +89,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "tiruvannamalai to Nagercoil Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Karur Local Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

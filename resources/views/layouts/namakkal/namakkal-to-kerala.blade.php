@@ -95,7 +95,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Namakkal to Kerala Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -94,7 +94,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thanjavur to Salem Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

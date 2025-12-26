@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Nagercoil to Kanchipuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

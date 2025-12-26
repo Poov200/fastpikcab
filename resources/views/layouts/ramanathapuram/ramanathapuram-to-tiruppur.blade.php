@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ramanathapuram to Tiruppur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

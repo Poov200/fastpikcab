@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ramanathapuram to Salem Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

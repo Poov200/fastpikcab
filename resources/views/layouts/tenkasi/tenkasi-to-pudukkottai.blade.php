@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tenkasi to Pudukkottai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Cuddalore to Kochi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

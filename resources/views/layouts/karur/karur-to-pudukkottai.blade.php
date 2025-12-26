@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Karur to Pudukkottai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

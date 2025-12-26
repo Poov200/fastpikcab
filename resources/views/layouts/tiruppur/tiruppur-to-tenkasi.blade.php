@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tiruppur to Tenkasi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

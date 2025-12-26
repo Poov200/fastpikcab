@@ -90,7 +90,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thiruvarur Local Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thanjavur to Hosur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

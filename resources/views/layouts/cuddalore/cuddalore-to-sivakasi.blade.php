@@ -87,7 +87,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Cuddalore to Sivakasi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

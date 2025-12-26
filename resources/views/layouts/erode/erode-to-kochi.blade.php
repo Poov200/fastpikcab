@@ -102,7 +102,7 @@
             ]
         },
         "mainEntityOfPage": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "Erode to Kochi Taxi Service",
             "offers": {
                 "@type": "AggregateOffer",

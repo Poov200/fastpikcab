@@ -102,7 +102,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Cuddalore to Karaikal Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

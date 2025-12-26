@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Coimbatore to Kochi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

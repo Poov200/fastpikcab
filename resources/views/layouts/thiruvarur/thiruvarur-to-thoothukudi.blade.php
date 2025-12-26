@@ -90,7 +90,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thiruvarur to Thoothukudi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

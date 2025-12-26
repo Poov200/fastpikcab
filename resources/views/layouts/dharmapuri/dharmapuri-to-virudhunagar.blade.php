@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Dharmapuri to Virudhunagar Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

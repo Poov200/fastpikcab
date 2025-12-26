@@ -80,7 +80,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kochi to Arani Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

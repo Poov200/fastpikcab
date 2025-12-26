@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Arani to Tirunelveli Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

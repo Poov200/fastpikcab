@@ -94,7 +94,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Erode Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

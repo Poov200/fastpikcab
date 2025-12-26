@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Cuddalore to Hosur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

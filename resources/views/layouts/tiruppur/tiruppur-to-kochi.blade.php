@@ -84,7 +84,7 @@
             ]
         },
         "mainEntityOfPage": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "Tiruppur to Kochi Taxi Service",
             "offers": {
                 "@type": "AggregateOffer",

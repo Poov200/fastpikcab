@@ -94,7 +94,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Puducherry to Dharmapuri Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

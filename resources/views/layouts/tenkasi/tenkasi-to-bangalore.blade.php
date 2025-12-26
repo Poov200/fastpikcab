@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tenkasi to Bangalore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Pudukkottai to Bangalore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

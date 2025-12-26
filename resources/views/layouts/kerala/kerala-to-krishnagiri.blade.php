@@ -90,7 +90,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kerala to Krishnagiri Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

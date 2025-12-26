@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tirunelveli to Perambalur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

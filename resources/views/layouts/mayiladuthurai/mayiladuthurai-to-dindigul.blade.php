@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Mayiladuthurai to Dindigul Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

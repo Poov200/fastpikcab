@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Chennai to Nagercoil Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Coimbatore to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Chennai to Thoothukudi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

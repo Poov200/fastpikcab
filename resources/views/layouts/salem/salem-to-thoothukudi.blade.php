@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Salem to Thoothukudi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

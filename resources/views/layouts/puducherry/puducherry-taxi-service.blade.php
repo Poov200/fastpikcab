@@ -92,7 +92,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Puducherry Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

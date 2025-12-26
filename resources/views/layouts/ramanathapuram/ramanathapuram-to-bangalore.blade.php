@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ramanathapuram to Bangalore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

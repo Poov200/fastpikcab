@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Krishnagiri to Kanchipuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

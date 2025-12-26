@@ -92,7 +92,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Villupuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

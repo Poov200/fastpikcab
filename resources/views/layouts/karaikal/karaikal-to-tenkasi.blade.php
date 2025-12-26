@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Karaikal to Tenkasi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

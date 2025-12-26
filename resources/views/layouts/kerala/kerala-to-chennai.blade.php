@@ -90,7 +90,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kerala to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

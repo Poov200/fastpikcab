@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Bangalore to Perambalur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

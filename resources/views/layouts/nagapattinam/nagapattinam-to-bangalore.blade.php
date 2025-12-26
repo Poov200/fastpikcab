@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Nagapattinam to Bangalore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

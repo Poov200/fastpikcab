@@ -95,7 +95,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Hosur to Tirupati Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

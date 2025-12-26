@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ariyalur to Trichy Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

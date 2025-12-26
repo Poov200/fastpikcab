@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Puducherry to Nagapattinam Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ranipet to Bangalore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

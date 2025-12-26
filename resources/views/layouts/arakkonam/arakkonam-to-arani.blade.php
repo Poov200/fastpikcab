@@ -102,7 +102,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Arakkonam to Arani Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

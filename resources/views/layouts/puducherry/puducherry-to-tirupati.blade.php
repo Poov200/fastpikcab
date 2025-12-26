@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Puducherry to Tirupati Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

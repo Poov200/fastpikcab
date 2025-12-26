@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Salem to Tenkasi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Perambalur to Vellore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

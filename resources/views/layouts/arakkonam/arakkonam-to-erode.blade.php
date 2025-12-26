@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Arakkonam to Erode Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

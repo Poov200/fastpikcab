@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Madurai to Krishnagiri Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

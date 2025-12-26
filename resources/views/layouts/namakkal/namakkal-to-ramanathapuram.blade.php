@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Namakkal to Ramanathapuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

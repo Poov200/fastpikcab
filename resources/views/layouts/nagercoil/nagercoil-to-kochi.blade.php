@@ -81,7 +81,7 @@
         ]
       },
       "mainEntityOfPage": {
-        "@type": "Product",
+        "@type": "Service",
         "name": "Nagercoil to Kochi Taxi Service",
         "offers": {
           "@type": "AggregateOffer",

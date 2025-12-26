@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Nagercoil to Trichy Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -93,7 +93,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kerala Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

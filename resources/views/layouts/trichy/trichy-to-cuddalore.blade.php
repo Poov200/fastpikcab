@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Trichy to Cuddalore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

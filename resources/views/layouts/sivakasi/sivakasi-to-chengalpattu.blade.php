@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Sivakasi to Chengalpattu Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

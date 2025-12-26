@@ -81,7 +81,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kerala to Salem Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

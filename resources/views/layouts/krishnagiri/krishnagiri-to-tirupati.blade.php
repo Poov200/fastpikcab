@@ -201,7 +201,7 @@
 
             "mainEntityOfPage": {
 
-                "@type": "Product",
+                "@type": "Service",
 
                 "name": "Krishnagiri to Tirupati Taxi Service",
 

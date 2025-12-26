@@ -82,7 +82,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Nagercoil to Ariyalur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -87,7 +87,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Cuddalore to Ramanathapuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

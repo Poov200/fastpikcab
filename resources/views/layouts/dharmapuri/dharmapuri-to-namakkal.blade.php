@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Dharmapuri to Namakkal Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

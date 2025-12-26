@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Villupuram to Sivakasi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

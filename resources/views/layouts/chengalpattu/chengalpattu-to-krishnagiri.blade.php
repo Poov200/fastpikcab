@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Chengalpattu to Krishnagiri Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

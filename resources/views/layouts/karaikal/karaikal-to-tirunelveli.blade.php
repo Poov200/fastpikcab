@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Karaikal to Tirunelveli Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

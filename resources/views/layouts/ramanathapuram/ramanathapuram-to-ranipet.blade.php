@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ramanathapuram to Ranipet Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

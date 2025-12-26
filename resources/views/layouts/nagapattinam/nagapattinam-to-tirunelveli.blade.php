@@ -105,7 +105,7 @@ Here's the HTML code, which you can save as an `.html` file. Remember that this 
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Nagapattinam to Tirunelveli Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

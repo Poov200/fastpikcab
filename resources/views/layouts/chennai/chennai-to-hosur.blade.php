@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Chennai to Hosur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

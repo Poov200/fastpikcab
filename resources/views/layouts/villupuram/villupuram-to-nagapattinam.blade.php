@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Villupuram to Nagapattinam Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
