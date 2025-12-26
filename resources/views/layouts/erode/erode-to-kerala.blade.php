@@ -100,7 +100,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Erode to Kerala Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

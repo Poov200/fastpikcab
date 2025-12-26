@@ -81,7 +81,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kochi to Ranipet Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -95,7 +95,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Cuddalore to Pudukkottai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

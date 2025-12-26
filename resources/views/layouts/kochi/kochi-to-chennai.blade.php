@@ -81,7 +81,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kochi to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

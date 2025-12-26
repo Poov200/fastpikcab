@@ -92,7 +92,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Karur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

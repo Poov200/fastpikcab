@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ariyalur to Tenkasi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Karaikal to Chengalpattu Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -1530,112 +1530,100 @@
         </div>
         <div class="bg-gray-800 py-8">
             <div class="container mx-auto px-4">
-                <h3 class="text-lg font-semibold mb-6 relative">
-                    Our Cities
+                <h3 class="text-lg font-semibold mb-6 relative text-white">
+                    Our Major Cities
                     <span class="absolute bottom-0 left-0 w-10 h-1 bg-yellow-400 -mb-2"></span>
                 </h3>
-                <ul class="flex flex-wrap items-center space-x-4 space-y-2 lg:space-y-0">
-                    <li><a href="{{ route('chennai-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Chennai</a></li>
-                    <li><a href="{{ route('coimbatore-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Coimbatore</a></li>
-                    <li><a href="{{ route('madurai-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Madurai</a></li>
-                    <li><a href="{{ route('trichy-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Tiruchirappalli (Trichy)</a></li>
-                    <li><a href="{{ route('salem-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Salem</a></li>
-                    <li><a href="{{ route('tirunelveli-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Tirunelveli</a></li>
-                    <li><a href="{{ route('erode-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Erode</a></li>
-                    <li><a href="{{ route('vellore-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Vellore</a></li>
-                    <li><a href="{{ route('thoothukudi-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Thoothukudi (Tuticorin)</a></li>
-                    <li><a href="{{ route('thanjavur-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Thanjavur</a></li>
-                    <li><a href="{{ route('dindigul-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Dindigul</a></li>
-                    <li><a href="{{ route('cuddalore-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Cuddalore</a></li>
-                    <li><a href="{{ route('kanchipuram-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Kanchipuram</a></li>
-                    <li><a href="{{ route('nagercoil-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Nagercoil</a></li>
-                    <li><a href="{{ route('karur-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Karur</a></li>
-                    <li><a href="{{ route('tiruppur-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Tiruppur</a></li>
-                    <li><a href="{{ route('sivakasi-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Sivakasi</a></li>
-                    <li><a href="{{ route('hosur-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Hosur</a></li>
-                    <li><a href="{{ route('krishnagiri-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Krishnagiri</a></li>
-                    <li><a href="{{ route('namakkal-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Namakkal</a></li>
-                    <li><a href="{{ route('villupuram-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Villupuram</a></li>
-                    <li><a href="{{ route('pudukkottai-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Pudukkottai</a></li>
-                    <li><a href="{{ route('nagapattinam-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Nagapattinam</a></li>
-                    <li><a href="{{ route('arakkonam-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Arakkonam</a></li>
-                    <li><a href="{{ route('chengalpattu-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Chengalpattu</a></li>
-                    <li><a href="{{ route('mayiladuthurai-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Mayiladuthurai</a></li>
-                    <li><a href="{{ route('thiruvarur-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Thiruvarur</a></li>
-                    <li><a href="{{ route('arani-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Arani</a></li>
-                    <li><a href="{{ route('ranipet-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Ranipet</a></li>
-                    <li><a href="{{ route('perambalur-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Perambalur</a></li>
-                    <li><a href="{{ route('tenkasi-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Tenkasi</a></li>
-                    <li><a href="{{ route('virudhunagar-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Virudhunagar</a></li>
-                    <li><a href="{{ route('ramanathapuram-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Ramanathapuram</a></li>
-                    <li><a href="{{ route('dharmapuri-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Dharmapuri</a></li>
-                    <li><a href="{{ route('karaikal-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Karaikal</a></li>
-                    <li><a href="{{ route('kochi-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Kochi</a></li>
-                    <li><a href="{{ route('tirupati-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Tirupati</a></li>
-                    <li><a href="{{ route('tiruvannamalai-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">tiruvannamalai</a></li>
-                    <li><a href="{{ route('kerala-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Kerala</a></li>
-                    <li><a href="{{ route('ariyalur-taxi-service') }}"
-                            class="footer-link text-gray-400 hover:text-white">Ariyalur</a></li>
+
+                <ul class="flex flex-wrap items-center gap-x-6 gap-y-3">
+                    <li>
+                        <a href="{{ route('villupuram-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">
+                            Villupuram
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{{ route('chennai-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">
+                            Chennai
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{{ route('coimbatore-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">
+                            Coimbatore
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{{ route('madurai-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">
+                            Madurai
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{{ route('trichy-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">
+                            Tiruchirappalli (Trichy)
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{{ route('salem-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">
+                            Salem
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{{ route('tirunelveli-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">
+                            Tirunelveli
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="{{ route('vellore-taxi-service') }}"
+                            class="footer-link text-gray-400 hover:text-white">
+                            Vellore
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
+
 
         <!-- App Download Section -->
         <div class="bg-gray-900 py-8 border-t border-gray-800">
             <div class="container mx-auto px-4">
                 <div class="flex flex-col md:flex-row items-center justify-between">
+
+                    <!-- Text Section -->
                     <div class="mb-6 md:mb-0 text-center md:text-left">
-                        <h4 class="text-lg font-semibold mb-2 text-white">Mobile App Coming Soon</h4>
-                        <p class="text-gray-400">Book rides on the go with our upcoming mobile app.</p>
+                        <h4 class="text-lg font-semibold mb-2 text-white">
+                            Mobile App Now Available 🎉
+                        </h4>
+                        <p class="text-gray-400">
+                            Book rides anytime, anywhere with our Android mobile app.
+                        </p>
                     </div>
+
+                    <!-- Play Store Button -->
                     <div class="text-center md:text-right">
-                        <span
-                            class="inline-block bg-yellow-500 text-black font-semibold px-6 py-2 rounded-lg shadow-md">
-                            Coming Soon on App Store & Google Play
-                        </span>
+                        <a href="https://play.google.com/store/apps/details?id=com.fastpikcab.fastpikcab&pcampaignid=web_share"
+                            target="_blank"
+                            class="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-black font-semibold px-6 py-3 rounded-lg shadow-md transition">
+                            📱 Available on Google Play
+                        </a>
                     </div>
+
                 </div>
             </div>
         </div>
+
 
 
         <!-- Bottom Footer -->
@@ -1648,8 +1636,7 @@
                     <div class="flex space-x-6">
                         <a href="#"
                             class="text-gray-500 hover:text-white text-sm transition duration-300">Privacy Policy</a>
-                        <a href="#"
-                            class="text-gray-500 hover:text-white text-sm transition duration-300">Terms
+                        <a href="#" class="text-gray-500 hover:text-white text-sm transition duration-300">Terms
                             of Service</a>
                         <a href="#"
                             class="text-gray-500 hover:text-white text-sm transition duration-300">Cookie Policy</a>

@@ -72,7 +72,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tiruppur to Karaikal Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

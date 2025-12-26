@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Madurai to Bangalore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

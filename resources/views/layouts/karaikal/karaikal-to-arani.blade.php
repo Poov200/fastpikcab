@@ -80,7 +80,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Karaikal to Arani Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -97,7 +97,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Cuddalore to Nagercoil Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

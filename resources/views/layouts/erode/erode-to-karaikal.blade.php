@@ -104,7 +104,7 @@
             ]
         },
         "mainEntityOfPage": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "Erode to Karaikal Taxi Service",
             "offers": {
                 "@type": "AggregateOffer",

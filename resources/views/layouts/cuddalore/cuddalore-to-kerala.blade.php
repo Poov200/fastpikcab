@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Cuddalore to Kerala Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

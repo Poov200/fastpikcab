@@ -83,7 +83,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Nagercoil to Kerala Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

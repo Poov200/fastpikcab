@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ramanathapuram to Ariyalur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

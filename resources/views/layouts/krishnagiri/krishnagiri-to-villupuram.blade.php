@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Krishnagiri to Villupuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

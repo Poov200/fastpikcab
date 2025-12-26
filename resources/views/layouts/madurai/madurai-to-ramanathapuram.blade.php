@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Madurai to Ramanathapuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

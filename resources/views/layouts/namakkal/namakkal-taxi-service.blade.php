@@ -92,7 +92,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Namakkal Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

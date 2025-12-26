@@ -92,7 +92,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Vellore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

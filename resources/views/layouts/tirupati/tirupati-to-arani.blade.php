@@ -80,7 +80,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tirupati to Arani Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

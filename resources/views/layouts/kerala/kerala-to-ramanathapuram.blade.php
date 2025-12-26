@@ -81,7 +81,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kerala to Ramanathapuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

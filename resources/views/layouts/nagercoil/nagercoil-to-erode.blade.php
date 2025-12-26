@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Nagercoil to Erode Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

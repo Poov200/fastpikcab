@@ -80,7 +80,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Villupuram to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

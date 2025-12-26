@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Arakkonam to Vellore Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

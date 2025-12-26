@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tirupati to Namakkal Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

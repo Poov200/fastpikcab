@@ -92,7 +92,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Salem Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

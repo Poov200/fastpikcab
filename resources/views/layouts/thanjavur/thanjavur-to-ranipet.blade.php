@@ -94,7 +94,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thanjavur to Ranipet Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

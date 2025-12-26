@@ -97,7 +97,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Erode to Tirupati Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

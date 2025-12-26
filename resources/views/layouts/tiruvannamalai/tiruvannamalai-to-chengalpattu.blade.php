@@ -80,7 +80,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "tiruvannamalai to Chengalpattu Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

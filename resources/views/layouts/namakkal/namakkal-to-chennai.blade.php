@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Namakkal to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

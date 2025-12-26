@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Coimbatore to Villupuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

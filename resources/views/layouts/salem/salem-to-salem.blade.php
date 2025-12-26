@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Salem Local Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thoothukudi to Dharmapuri Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

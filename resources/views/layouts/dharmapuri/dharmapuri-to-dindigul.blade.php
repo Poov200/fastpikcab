@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Dharmapuri to Dindigul Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

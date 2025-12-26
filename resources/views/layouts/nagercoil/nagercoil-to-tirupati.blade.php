@@ -86,7 +86,7 @@
             ]
         },
         "mainEntityOfPage": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "Nagercoil to Tirupati Taxi Service",
             "offers": {
                 "@type": "AggregateOffer",

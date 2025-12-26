@@ -100,7 +100,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Arakkonam to Ariyalur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Arani to Tenkasi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

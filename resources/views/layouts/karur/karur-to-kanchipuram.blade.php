@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Karur to Kanchipuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

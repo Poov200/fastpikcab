@@ -96,7 +96,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Perambalur to Chengalpattu Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

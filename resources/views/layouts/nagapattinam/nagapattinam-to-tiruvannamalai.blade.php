@@ -96,7 +96,7 @@
       ]
     },
     "mainEntityOfPage": {
-      "@type": "Product",
+      "@type": "Service",
       "name": "Nagapattinam to tiruvannamalai Taxi Service",
       "offers": {
         "@type": "AggregateOffer",

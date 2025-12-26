@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Trichy to Karaikal Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -95,7 +95,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kanchipuram to Ariyalur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

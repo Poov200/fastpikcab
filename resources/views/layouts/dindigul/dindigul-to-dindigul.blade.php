@@ -118,7 +118,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Dindigul Taxi Services",
                 "offers": {
                     "@type": "AggregateOffer",

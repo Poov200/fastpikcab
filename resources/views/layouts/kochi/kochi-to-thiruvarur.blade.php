@@ -81,7 +81,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kochi to Thiruvarur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

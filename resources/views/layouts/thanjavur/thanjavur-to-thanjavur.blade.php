@@ -94,7 +94,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thanjavur Local Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

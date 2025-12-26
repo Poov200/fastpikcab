@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Puducherry to Sivakasi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

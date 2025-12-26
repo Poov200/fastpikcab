@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ranipet to Nagapattinam Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

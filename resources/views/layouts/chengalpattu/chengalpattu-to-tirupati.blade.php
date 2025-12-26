@@ -102,7 +102,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Chengalpattu to Tirupati Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

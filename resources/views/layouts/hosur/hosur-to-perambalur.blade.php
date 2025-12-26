@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Hosur to Perambalur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

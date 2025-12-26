@@ -89,7 +89,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thanjavur to Tiruppur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Virudhunagar to Kochi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

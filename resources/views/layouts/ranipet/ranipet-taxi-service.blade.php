@@ -92,7 +92,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Ranipet Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

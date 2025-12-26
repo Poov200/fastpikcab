@@ -81,7 +81,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kochi to Thoothukudi Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

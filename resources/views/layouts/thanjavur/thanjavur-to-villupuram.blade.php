@@ -89,7 +89,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thanjavur to Villupuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

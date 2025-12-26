@@ -90,7 +90,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Thiruvarur to tiruvannamalai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

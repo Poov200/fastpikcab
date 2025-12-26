@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Chennai to Villupuram Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

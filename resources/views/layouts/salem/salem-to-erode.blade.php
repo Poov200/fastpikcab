@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Salem to Erode Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

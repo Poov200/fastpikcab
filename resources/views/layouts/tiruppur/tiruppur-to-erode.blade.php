@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tiruppur to Erode Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

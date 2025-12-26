@@ -102,7 +102,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Coimbatore to Ariyalur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

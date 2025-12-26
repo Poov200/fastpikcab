@@ -80,7 +80,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Hosur to Chennai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

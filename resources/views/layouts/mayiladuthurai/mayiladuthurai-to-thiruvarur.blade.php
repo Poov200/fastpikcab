@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Mayiladuthurai to Thiruvarur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

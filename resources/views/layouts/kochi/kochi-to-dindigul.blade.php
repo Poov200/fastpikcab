@@ -81,7 +81,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Kochi to Dindigul Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

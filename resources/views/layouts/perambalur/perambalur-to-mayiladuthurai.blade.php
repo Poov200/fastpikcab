@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Perambalur to Mayiladuthurai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

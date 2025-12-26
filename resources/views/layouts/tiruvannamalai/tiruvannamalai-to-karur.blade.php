@@ -80,7 +80,7 @@
                 }]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "tiruvannamalai to Karur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

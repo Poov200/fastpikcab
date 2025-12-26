@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Dindigul to Madurai Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

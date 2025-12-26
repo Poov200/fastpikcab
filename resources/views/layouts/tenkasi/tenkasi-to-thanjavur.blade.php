@@ -101,7 +101,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Tenkasi to Thanjavur Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",

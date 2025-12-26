@@ -93,7 +93,7 @@
                 ]
             },
             "mainEntityOfPage": {
-                "@type": "Product",
+                "@type": "Service",
                 "name": "Trichy to Tirupati Taxi Service",
                 "offers": {
                     "@type": "AggregateOffer",
