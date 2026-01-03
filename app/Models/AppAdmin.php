@@ -2,24 +2,22 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
-class Driver extends Authenticatable
+class AppAdmin extends Authenticatable
 {
-    use HasFactory, Notifiable, HasApiTokens;
+    use HasApiTokens, Notifiable;
+
+    protected $table = 'app_admins';
 
     protected $fillable = [
         'name',
-        'phone',
         'email',
         'password',
-        'carType',
-        'carNumber',
-        'fcm_token',
-        'status'
+        'status',
+        'fcm_token'
     ];
 
     protected $hidden = [

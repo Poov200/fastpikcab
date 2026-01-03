@@ -4,177 +4,186 @@ namespace App\Http\Controllers;
 
 use App\Models\Booking;
 use App\Models\Driver;
+use App\Models\AppAdmin;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Mail;
+use Carbon\Carbon;
 
+/* MAILS */
 use App\Mail\CustomerBookingMail;
 use App\Mail\AdminBookingMail;
-use Illuminate\Support\Facades\Mail;
 use App\Mail\NewBookingAssignedToDriverMail;
 use App\Mail\ReassignedBookingToDriverMail;
 use App\Mail\ReassignedDriverToCustomerMail;
 use App\Mail\AssignedDriverToCustomerMail;
 use App\Mail\TripStatusUpdateMail;
-use Carbon\Carbon;
+
+use App\Notifications\AdminBookingNotification;
+
+
+
+/* NOTIFICATIONS */
+use App\Notifications\AdminNewBookingNotification;
+
+/* SERVICES */
+use App\Services\FirebaseService;
 
 class BookingController extends Controller
 {
-    // Show all bookings
+    // ----------------------------------
+    // SHOW ALL BOOKINGS
+    // ----------------------------------
     public function index()
     {
         return Booking::all();
     }
 
-    // Store a booking
+    // ----------------------------------
+    // CREATE BOOKING (WEBSITE + APP)
+    // ----------------------------------
     public function store(Request $request)
     {
         $data = $request->validate([
-            'name' => 'required|string',
-            'email' => 'nullable|email',
-            'contact' => 'required|string',
-            'pickup' => 'required|string',
-            'destination' => 'required|string',
-            'tripType' => 'required|string',
-            'vehicle' => 'required|string',
-            'passengers' => 'required|string',
-            'no_of_days' => 'required|integer',
+            'name'            => 'required|string',
+            'email'           => 'nullable|email',
+            'contact'         => 'required|string',
+            'pickup'          => 'required|string',
+            'destination'     => 'required|string',
+            'tripType'        => 'required|string',
+            'vehicle'         => 'required|string',
+            'passengers'      => 'required|string',
+            'no_of_days'      => 'required|integer',
             'assigned_amount' => 'nullable|numeric|min:0',
-            'distance' => 'required|string',
-            'date' => 'required|date',
-            'time' => 'required',
+            'distance'        => 'required|string',
+            'date'            => 'required|date',
+            'time'            => 'required',
         ]);
 
-        // Convert time to HH:mm:ss
-        $timeString = $request->input('time');
-        $data['time'] = date('H:i:s', strtotime($timeString));
+        // Format time
+        $data['time'] = date('H:i:s', strtotime($request->time));
 
         // Generate booking ID
         $today = date('Y-m-d');
         $countToday = Booking::whereDate('created_at', $today)->count() + 1;
         $serial = str_pad($countToday, 3, '0', STR_PAD_LEFT);
-        $bookingId = 'FASTPIK-' . date('Ymd') . '-' . $serial;
+        $data['booking_id'] = 'FASTPIK-' . date('Ymd') . '-' . $serial;
 
-        $data['booking_id'] = $bookingId;
-
-        // Save booking first (so order is always created)
+        // Create booking
         $booking = Booking::create($data);
 
-        // Send customer email (non-blocking)
+        // ----------------------------------
+        // 📧 CUSTOMER MAIL
+        // ----------------------------------
         try {
             if (!empty($booking->email)) {
                 Mail::to($booking->email)->send(new CustomerBookingMail($booking));
             }
         } catch (\Exception $e) {
-            Log::error("Customer mail sending failed: " . $e->getMessage());
+            Log::error('Customer mail failed', ['error' => $e->getMessage()]);
         }
 
-        // Send admin email (non-blocking)
+        // ----------------------------------
+        // 📧 ADMIN MAIL
+        // ----------------------------------
         try {
             $adminEmail = env('MAIL_FROM_ADDRESS');
             if ($adminEmail) {
                 Mail::to($adminEmail)->send(new AdminBookingMail($booking));
             }
         } catch (\Exception $e) {
-            Log::error("Admin mail sending failed: " . $e->getMessage());
+            Log::error('Admin mail failed', ['error' => $e->getMessage()]);
         }
+
+        // ----------------------------------
+        // 🔔 ADMIN DB + PUSH NOTIFICATION
+        // ----------------------------------
+        // 🔔 Notify Admin (DB + PUSH)
+        try {
+            $admins = AppAdmin::where('status', 1)->get();
+
+            foreach ($admins as $admin) {
+
+                // 1️⃣ DATABASE NOTIFICATION
+                $admin->notify(new AdminNewBookingNotification($booking));
+
+                // 2️⃣ PUSH NOTIFICATION
+                if ($admin->fcm_token) {
+                    FirebaseService::sendToAdmin(
+                        $admin->fcm_token,
+                        'New Booking 🚕',
+                        'Pickup: ' . $booking->pickup,
+                        $booking->id
+                    );
+                }
+            }
+        } catch (\Exception $e) {
+            Log::error('Admin notification failed', [
+                'error' => $e->getMessage()
+            ]);
+        }
+
 
         return response()->json([
             'success' => true,
             'message' => 'Booking created successfully',
-            'data' => $booking
+            'data'    => $booking
         ], 201);
     }
 
-
-    // Update booking
-    public function update(Request $request, $id)
-    {
-        $booking = Booking::findOrFail($id);
-        $booking->update($request->all());
-        return $booking;
-    }
-
-    // Delete booking
-    public function destroy($id)
-    {
-        $booking = Booking::findOrFail($id);
-        $booking->delete();
-        return response()->json(['message' => 'Deleted']);
-    }
-
+    // ----------------------------------
+    // ASSIGN / REASSIGN DRIVER
+    // ----------------------------------
     public function assignDriver(Request $request, $bookingId)
     {
-        // Validate input
         $data = $request->validate([
             'driver_id' => 'required|exists:drivers,id',
-            'amount' => 'nullable|numeric|min:0',
+            'amount'    => 'nullable|numeric|min:0',
         ]);
 
         $booking = Booking::findOrFail($bookingId);
 
-        // Check if driver is active
         $driver = Driver::where('id', $data['driver_id'])
             ->where('status', 'active')
             ->first();
 
         if (!$driver) {
-            return response()->json(['message' => 'Driver not active or not found'], 400);
+            return response()->json(['message' => 'Driver not active'], 400);
         }
 
-        // Check if this is a reassignment
-        $isReassigned = $booking->driver_id !== null && $booking->driver_id !== $data['driver_id'];
+        $isReassigned = $booking->driver_id && $booking->driver_id != $driver->id;
 
-        // Always update booking first
         $booking->driver_id = $driver->id;
+        $booking->status = 'assigned';
+
         if (isset($data['amount'])) {
             $booking->assigned_amount = $data['amount'];
         }
-        $booking->status = 'assigned';
+
         $booking->save();
 
-        // Now try sending emails (but booking is already saved ✅)
-        if ($isReassigned) {
-            try {
+        // MAILS
+        try {
+            if ($isReassigned) {
                 Mail::to($booking->email)->send(new ReassignedDriverToCustomerMail($booking, $driver));
-            } catch (\Exception $e) {
-                Log::error('Failed to send reassigned driver mail to customer', ['error' => $e->getMessage()]);
-            }
-
-            try {
                 Mail::to($driver->email)->send(new ReassignedBookingToDriverMail($booking));
-            } catch (\Exception $e) {
-                Log::error('Failed to send reassigned booking mail to driver', ['error' => $e->getMessage()]);
-            }
-        } else {
-            try {
+            } else {
                 Mail::to($booking->email)->send(new AssignedDriverToCustomerMail($booking, $driver));
-            } catch (\Exception $e) {
-                Log::error('Failed to send new driver assignment mail to customer', ['error' => $e->getMessage()]);
-            }
-
-            try {
                 Mail::to($driver->email)->send(new NewBookingAssignedToDriverMail($booking));
-            } catch (\Exception $e) {
-                Log::error('Failed to send new booking assignment mail to driver', ['error' => $e->getMessage()]);
             }
+        } catch (\Exception $e) {
+            Log::error('Driver assignment mail failed', ['error' => $e->getMessage()]);
         }
 
         return response()->json([
             'message' => $isReassigned ? 'Driver reassigned successfully' : 'Driver assigned successfully',
-            'booking' => $booking,
+            'booking' => $booking
         ]);
     }
 
-
-    public function getAssignedBookings()
-    {
-        $bookings = Booking::with('driver')
-            ->where('status', 'assigned')
-            ->get();
-
-        return response()->json($bookings);
-    }
-
+    // ----------------------------------
+    // UPDATE TRIP STATUS
+    // ----------------------------------
     public function updateTripStatus(Request $request, $id)
     {
         $request->validate([
@@ -182,41 +191,32 @@ class BookingController extends Controller
         ]);
 
         $booking = Booking::findOrFail($id);
-
-        // Always update trip status first ✅
         $booking->trip_status = $request->trip_status;
         $booking->save();
 
-        // Send mail only for specific statuses (non-blocking)
-        if (in_array($booking->trip_status, ['cancelled', 'delay', 'completed'])) {
+        try {
+            Mail::to($booking->email)->send(new TripStatusUpdateMail($booking, 'customer'));
+
             $adminEmail = env('MAIL_FROM_ADDRESS');
-
-            // Send email to customer
-            try {
-                Mail::to($booking->email)->send(new TripStatusUpdateMail($booking, 'customer'));
-            } catch (\Exception $e) {
-                Log::error('Failed to send trip status update mail to customer', [
-                    'booking_id' => $booking->booking_id,
-                    'error' => $e->getMessage(),
-                ]);
+            if ($adminEmail) {
+                Mail::to($adminEmail)->send(new TripStatusUpdateMail($booking, 'admin'));
             }
-
-            // Send email to admin
-            try {
-                if ($adminEmail) {
-                    Mail::to($adminEmail)->send(new TripStatusUpdateMail($booking, 'admin'));
-                }
-            } catch (\Exception $e) {
-                Log::error('Failed to send trip status update mail to admin', [
-                    'booking_id' => $booking->booking_id,
-                    'error' => $e->getMessage(),
-                ]);
-            }
+        } catch (\Exception $e) {
+            Log::error('Trip status mail failed', ['error' => $e->getMessage()]);
         }
 
         return response()->json([
-            'message' => 'Trip status updated successfully.',
-            'booking' => $booking,
+            'message' => 'Trip status updated successfully',
+            'booking' => $booking
         ]);
+    }
+
+    // ----------------------------------
+    // DELETE BOOKING
+    // ----------------------------------
+    public function destroy($id)
+    {
+        Booking::findOrFail($id)->delete();
+        return response()->json(['message' => 'Deleted']);
     }
 }
