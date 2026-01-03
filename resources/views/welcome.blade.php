@@ -1412,7 +1412,7 @@
                             <path
                                 d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H11a1 1 0 001-1v-1h3.5a1 1 0 00.8-.4l2.5-3.33a1 1 0 00.2-.6V8a1 1 0 00-1-1h-2V5a1 1 0 00-1-1H3zm11 6h2v2.67l-1.87 2.5H11V10h3z" />
                         </svg>
-                        <span class="font-bold text-xl">Fastpik</span>
+                        <span class="font-bold text-xl">Fastpikcab</span>
                     </div>
                     <p class="text-gray-400 mb-4">Your trusted taxi service partner since 2025. We're committed to
                         providing safe, reliable, and comfortable transportation.</p>
@@ -1460,10 +1460,6 @@
                     </h3>
                     <ul class="space-y-3">
                         <li><a href="#" class="footer-link text-gray-400 hover:text-white">Home</a></li>
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">About Us</a></li>
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">Services</a></li>
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">Fleet</a></li>
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">Pricing</a></li>
                         <li><a href="#" class="footer-link text-gray-400 hover:text-white">Contact</a></li>
                     </ul>
                 </div>
@@ -1475,18 +1471,11 @@
                         <span class="absolute bottom-0 left-0 w-10 h-1 bg-yellow-400 -mb-2"></span>
                     </h3>
                     <ul class="space-y-3">
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">City Transfers</a>
-                        </li>
+                     
                         <li><a href="#" class="footer-link text-gray-400 hover:text-white">Airport Pickups</a>
                         </li>
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">Corporate
-                                Services</a></li>
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">Event
-                                Transportation</a></li>
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">Hourly Rentals</a>
-                        </li>
-                        <li><a href="#" class="footer-link text-gray-400 hover:text-white">Tour Packages</a>
-                        </li>
+
+                    
                     </ul>
                 </div>
 
@@ -1634,12 +1623,9 @@
                         © 2025 Fastpik Taxi Service. All rights reserved.
                     </div>
                     <div class="flex space-x-6">
-                        <a href="#"
+                        <a href="{{ route('privacypolicy') }}"
                             class="text-gray-500 hover:text-white text-sm transition duration-300">Privacy Policy</a>
-                        <a href="#" class="text-gray-500 hover:text-white text-sm transition duration-300">Terms
-                            of Service</a>
-                        <a href="#"
-                            class="text-gray-500 hover:text-white text-sm transition duration-300">Cookie Policy</a>
+                       
                     </div>
                 </div>
             </div>

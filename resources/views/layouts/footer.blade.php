@@ -67,14 +67,7 @@
                 <ul class="space-y-3">
                     <li><a href="#" class="footer-link text-gray-400 hover:text-white">Airport Pickups</a>
                     </li>
-                    <li><a href="#" class="footer-link text-gray-400 hover:text-white">Corporate
-                            Services</a></li>
-                    <li><a href="#" class="footer-link text-gray-400 hover:text-white">Event
-                            Transportation</a></li>
-                    <li><a href="#" class="footer-link text-gray-400 hover:text-white">Hourly Rentals</a>
-                    </li>
-                    <li><a href="#" class="footer-link text-gray-400 hover:text-white">Tour Packages</a>
-                    </li>
+                   
                 </ul>
             </div>
             <div>
