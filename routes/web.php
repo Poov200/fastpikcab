@@ -39,6 +39,10 @@ Route::get('/testimonial', function () {
     return view('layouts.testimonial');
 })->name('contactpage');
 
+Route::get('/deleteaccount', function () {
+    return view('deleteaccount');
+})->name('deleteaccount');
+
 
 
 //service main pages
