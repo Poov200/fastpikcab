@@ -10,6 +10,7 @@ use App\Http\Controllers\Api\AdminDashboardController;
 |--------------------------------------------------------------------------
 */
 use App\Http\Controllers\Api\AppLoginController;
+use App\Http\Controllers\PricingController;
 use App\Http\Controllers\Api\DriverRegisterController;
 use App\Http\Controllers\Api\DriverProfileController;
 use App\Http\Controllers\Api\AppAdminProfileController;
@@ -19,6 +20,11 @@ use App\Http\Controllers\Api\AdminBookingController;
 use App\Http\Controllers\Api\DriverRideController;
 use App\Http\Controllers\Api\AdminNotificationController;
 use App\Http\Controllers\Api\DriverDashboardController;
+use App\Http\Controllers\BookingController;
+
+
+Route::post('/add/bookings', [BookingController::class, 'store']);
+Route::get('/pricings', [PricingController::class, 'index']);
 
 Route::middleware('auth:sanctum')->group(function () {
     Route::get(
