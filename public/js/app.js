@@ -1,14 +1,12 @@
 /******/ (() => { // webpackBootstrap
-/******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
 /***/ "./resources/js/app.js":
 /*!*****************************!*\
   !*** ./resources/js/app.js ***!
   \*****************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+/***/ (() => {
 
-__webpack_require__.r(__webpack_exports__);
 function _typeof(o) { "@babel/helpers - typeof"; return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) { return typeof o; } : function (o) { return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o; }, _typeof(o); }
 function ownKeys(e, r) { var t = Object.keys(e); if (Object.getOwnPropertySymbols) { var o = Object.getOwnPropertySymbols(e); r && (o = o.filter(function (r) { return Object.getOwnPropertyDescriptor(e, r).enumerable; })), t.push.apply(t, o); } return t; }
 function _objectSpread(e) { for (var r = 1; r < arguments.length; r++) { var t = null != arguments[r] ? arguments[r] : {}; r % 2 ? ownKeys(Object(t), !0).forEach(function (r) { _defineProperty(e, r, t[r]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(t)) : ownKeys(Object(t)).forEach(function (r) { Object.defineProperty(e, r, Object.getOwnPropertyDescriptor(t, r)); }); } return e; }
@@ -229,11 +227,17 @@ angular.module('bookingApp', []) // Changed module name to bookingApp
       var minutes = timeParts[1] || '00';
       var seconds = '00';
       var formattedTime = "".concat(hours, ":").concat(minutes, ":").concat(seconds);
+
+      // Convert to 12-hour format for display
+      var displayHours = hours % 12 || 12; // Convert to 12-hour format
+      var ampm = hours >= 12 ? 'PM' : 'AM';
+      var displayTime = "".concat(displayHours, ":").concat(minutes, " ").concat(ampm);
       var finalBooking = _objectSpread(_objectSpread({}, $scope.booking), {}, {
         pickup_details: pickupPlace,
         destination_details: dropPlace,
         date: formattedDate,
         time: formattedTime,
+        // Keep 24-hour format for backend
         assigned_amount: $scope.assigned_amount
       });
 
@@ -429,6 +433,63 @@ window.initMap = function () {
   });
 }; // End of window.initMap function
 
+// Add this to your main app.js file, after you define your module
+// This assumes your app module is named 'bookingApp'
+angular.module('bookingApp').directive('autofillFix', function ($timeout) {
+  return {
+    restrict: 'A',
+    require: 'ngModel',
+    link: function link(scope, element, attrs, ngModel) {
+      // Use a short timeout to let the browser autofill the value
+      $timeout(function () {
+        // Manually trigger the 'input' event, which ng-model listens to
+        element.triggerHandler('input');
+      }, 100); // 100 milliseconds is usually enough
+    }
+  };
+});
+
+// Disable right-click
+document.addEventListener('contextmenu', function (e) {
+  e.preventDefault();
+});
+
+// Disable F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'F12' || e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J') || e.ctrlKey && e.key === 'U') {
+    e.preventDefault();
+  }
+});
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'F12' || e.ctrlKey && e.shiftKey && ['I', 'J', 'C', 'K'].includes(e.key) || e.ctrlKey && e.key === 'U') {
+    e.preventDefault();
+  }
+});
+app.controller('CabcityController', function ($scope, $http) {
+  // Initial cities array
+  $scope.cities = [{
+    name: 'Chennai',
+    destinations: ['Chennai to Bangalore', 'Chennai to Pondicherry', 'Chennai to Madurai', 'Chennai to Trichy', 'Chennai to Vellore', 'Chennai to Neyveli', 'Chennai to Karur', 'Chennai to Rameswaram', 'Chennai to Ooty', 'Chennai to Thanjavur', 'Chennai to tiruvannamalai', 'Chennai to Vaniyambadi']
+  }, {
+    name: 'Coimbatore',
+    destinations: ['Coimbatore to Chennai', 'Coimbatore to Madurai', 'Coimbatore to Ooty', 'Coimbatore to Pollachi', 'Coimbatore to Erode', 'Coimbatore to Tirupur']
+  }
+  // Add more cities here
+  ];
+
+  // Function to dynamically add a new city
+  $scope.addCity = function (cityName, destinations) {
+    var newCity = {
+      name: cityName,
+      destinations: destinations
+    };
+    $scope.cities.push(newCity);
+  };
+
+  // Example: Add a new city dynamically
+  $scope.addCity('Madurai', ['Madurai to Chennai', 'Madurai to Dindigul', 'Madurai to Tirunelveli', 'Madurai to Thoothukudi', 'Madurai to Virudhunagar']);
+});
+
 /***/ }),
 
 /***/ "./resources/scss/adminLogin.scss":
@@ -437,6 +498,7 @@ window.initMap = function () {
   \****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 
@@ -449,6 +511,7 @@ __webpack_require__.r(__webpack_exports__);
   \********************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 
@@ -461,6 +524,7 @@ __webpack_require__.r(__webpack_exports__);
   \*********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 

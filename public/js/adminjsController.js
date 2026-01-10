@@ -1,26 +1,7 @@
 /******/ (() => { // webpackBootstrap
-/******/ 	"use strict";
-/******/ 	// The require scope
-/******/ 	var __webpack_require__ = {};
-/******/ 	
-/************************************************************************/
-/******/ 	/* webpack/runtime/make namespace object */
-/******/ 	(() => {
-/******/ 		// define __esModule on exports
-/******/ 		__webpack_require__.r = (exports) => {
-/******/ 			if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
-/******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
-/******/ 			}
-/******/ 			Object.defineProperty(exports, '__esModule', { value: true });
-/******/ 		};
-/******/ 	})();
-/******/ 	
-/************************************************************************/
-var __webpack_exports__ = {};
 /*!*******************************************!*\
   !*** ./resources/js/adminjsController.js ***!
   \*******************************************/
-__webpack_require__.r(__webpack_exports__);
 function _typeof(o) { "@babel/helpers - typeof"; return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) { return typeof o; } : function (o) { return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o; }, _typeof(o); }
 function _toConsumableArray(r) { return _arrayWithoutHoles(r) || _iterableToArray(r) || _unsupportedIterableToArray(r) || _nonIterableSpread(); }
 function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
@@ -192,11 +173,15 @@ app.controller('BookingController', function ($scope, $http) {
   $scope.activeDrivers = [];
   $scope.currentDate = new Date();
   $scope.activeTab = 'pending';
+  $scope.booking = {}; // form model
+  $scope.isSubmitting = false; // disable button while submitting
+  $scope.showMissingFieldsMessage = false; // error message toggle
+
   $scope.setActiveTab = function (tab) {
     $scope.activeTab = tab;
   };
 
-  // Get bookings and active drivers from API
+  // Fetch bookings and active drivers
   $http.get('/bookings').then(function (response) {
     $scope.bookings = response.data;
   });
@@ -204,7 +189,7 @@ app.controller('BookingController', function ($scope, $http) {
     $scope.activeDrivers = response.data;
   });
 
-  // Get driver display string
+  // Driver functions
   $scope.getDriverDetails = function (id) {
     var driver = $scope.activeDrivers.find(function (d) {
       return d.id === id;
@@ -222,13 +207,10 @@ app.controller('BookingController', function ($scope, $http) {
     booking.assignedAmount = booking.assigned_amount;
   };
   $scope.assignDriver = function (booking) {
-    // Validate selected driver
     if (!booking.selectedDriverId) {
       alert('Please select a driver.');
       return;
     }
-
-    // Validate assignedAmount only if defined
     if (booking.assignedAmount !== undefined && booking.assignedAmount < 0) {
       alert('Please enter a valid non-negative amount.');
       return;
@@ -236,8 +218,6 @@ app.controller('BookingController', function ($scope, $http) {
     var data = {
       driver_id: booking.selectedDriverId
     };
-
-    // Send assignedAmount even if it's already set (update allowed)
     if (booking.assignedAmount !== undefined && booking.assignedAmount !== null) {
       data.amount = booking.assignedAmount;
     }
@@ -246,7 +226,7 @@ app.controller('BookingController', function ($scope, $http) {
       booking.driver_id = updated.driver_id;
       booking.status = updated.status;
       booking.assigned_amount = updated.assigned_amount;
-      booking.assignedAmount = updated.assigned_amount; // update form field too
+      booking.assignedAmount = updated.assigned_amount;
       booking.showDriverSelect = false;
       booking.editDriver = false;
       alert(response.data.message || 'Driver updated successfully.');
@@ -276,14 +256,14 @@ app.controller('BookingController', function ($scope, $http) {
     });
   };
 
-  // Get filtered bookings by trip status (for tabs like completed/delay)
+  // Filter bookings by status
   $scope.getBookingsByTripStatus = function (status) {
     return $scope.bookings.filter(function (booking) {
       return booking.status === 'assigned' && booking.trip_status === status;
     });
   };
 
-  // View booking details popup
+  // Booking details
   $scope.viewBookingDetails = function (booking) {
     $scope.selectedBooking = booking;
     $scope.showBookingDetails = true;
@@ -292,10 +272,32 @@ app.controller('BookingController', function ($scope, $http) {
     $scope.showBookingDetails = false;
   };
 
-  // Print invoice (placeholder)
+  // Print invoice
   $scope.printInvoice = function (booking) {
     console.log('Printing invoice for booking: ' + booking.booking_id || 0);
     alert('Invoice printing functionality would be implemented here.');
+  };
+
+  // -----------------------------
+  // NEW: Booking form submission
+  // -----------------------------
+  $scope.submitBooking = function (isValid) {
+    if (!isValid) {
+      $scope.showMissingFieldsMessage = true; // show error
+      return;
+    }
+    $scope.showMissingFieldsMessage = false;
+    $scope.isSubmitting = true;
+    $http.post('/bookings', $scope.booking).then(function (response) {
+      $scope.isSubmitting = false;
+      alert('Booking successful!');
+      $scope.booking = {}; // reset form
+      $scope.bookingForm.$setPristine();
+      $scope.bookingForm.$setUntouched();
+    })["catch"](function (error) {
+      $scope.isSubmitting = false;
+      alert('Booking failed. Please try again.');
+    });
   };
 });
 var app = angular.module('CommissionApp', []);
@@ -1053,6 +1055,24 @@ app.controller('testimonialController', function ($scope, $http, $timeout) {
       $scope.showToast = false;
     }, 3000);
   };
+});
+var app = angular.module('adminBlogApp', []);
+app.controller('BlogController', function ($scope, $http) {
+  $scope.blogs = [];
+  $scope.loadBlogs = function () {
+    $http.get('/api/admin/blogs').then(function (res) {
+      if (res.data.status) {
+        $scope.blogs = res.data.data;
+      }
+    });
+  };
+  $scope.deleteBlog = function (id) {
+    if (!confirm('Delete this blog?')) return;
+    $http["delete"]('/api/admin/blogs/' + id).then(function () {
+      $scope.loadBlogs();
+    });
+  };
+  $scope.loadBlogs();
 });
 /******/ })()
 ;

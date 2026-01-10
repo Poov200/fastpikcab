@@ -1,13 +1,6 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpikcab Outstation Cab Service | Book Taxi Across Tamil Nadu</title>
-    <meta name="description"
-        content="Fastpikcab offers reliable outstation cab services across Tamil Nadu. Book one-way taxis from Chennai, Coimbatore, Madurai, Trichy, Vellore, Salem, Bangalore and more to any destination in the state.">
-    <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, outstation cab service, taxi booking, one way taxi, Chennai to Bangalore, Coimbatore to Madurai, Tamil Nadu taxi service, Fastpikcab">
 
     <!-- Schema.org markup for local business -->
     <script type="application/ld+json">
@@ -159,7 +152,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Fastpikcab OUTSTATION CAB SERVICE</h1>
+            <h2>Fastpikcab OUTSTATION CAB SERVICE</h2>
             <p>Reliable and Affordable Taxi Services Across Tamil Nadu</p>
         </div>
 

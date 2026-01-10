@@ -1,6 +1,5 @@
 {
     "private": true,
-    "type": "module",
     "scripts": {
         "dev": "npm run development",
         "development": "mix",
@@ -9,12 +8,17 @@
         "production": "mix --production"
     },
     "devDependencies": {
+        "autoprefixer": "^10.4.23",
         "axios": "^1.6.4",
+        "init": "^0.1.2",
         "laravel-mix": "^6.0.49",
         "laravel-vite-plugin": "^1.0.0",
+        "npx": "^10.2.2",
+        "postcss": "^8.5.6",
         "resolve-url-loader": "^5.0.0",
         "sass": "^1.87.0",
         "sass-loader": "^12.1.0",
+        "tailwindcss": "^3.4.17",
         "vite": "^6.3.4"
     },
     "dependencies": {

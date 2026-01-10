@@ -21,6 +21,7 @@ use App\Http\Controllers\Api\DriverRideController;
 use App\Http\Controllers\Api\AdminNotificationController;
 use App\Http\Controllers\Api\DriverDashboardController;
 use App\Http\Controllers\BookingController;
+use App\Http\Controllers\BlogController;
 
 
 Route::post('/add/bookings', [BookingController::class, 'store']);
@@ -433,3 +434,8 @@ Route::middleware(['auth:sanctum'])->group(function () {
 
 Route::get('/app/admin/payment-details', [App\Http\Controllers\CommissionController::class, 'getPaymentDetails']);
 Route::post('/app/admin/commission/reject', [CommissionController::class, 'reject']);
+
+
+
+Route::get('/admin/blogs', [BlogController::class, 'apiBlogs']);
+Route::delete('/admin/blogs/{id}', [BlogController::class, 'apiDelete']);
