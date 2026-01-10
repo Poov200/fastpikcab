@@ -226,7 +226,7 @@
 
 
 
-    <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
+      <link rel="icon" href="../img/FastPik icon.png" type="image/x-icon" />
 
     <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
 
@@ -242,7 +242,7 @@
 
         rel="stylesheet">
 
-    <script src="https://cdn.tailwindcss.com"></script>
+   
 
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
 

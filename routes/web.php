@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AdminAuthController;
+use App\Http\Controllers\BlogController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\TestimonialController;
 use App\Http\Controllers\DriverController;
@@ -42,6 +43,13 @@ Route::get('/testimonial', function () {
 Route::get('/deleteaccount', function () {
     return view('deleteaccount');
 })->name('deleteaccount');
+
+Route::get('/blog', function () {
+    return view('layouts.blog');
+})->name('blog');
+
+Route::get('/admin/blog/create', [BlogController::class, 'adminIndex']);
+Route::post('/admin/blog/store', [BlogController::class, 'store'])->name('admin.blog.store');
 
 
 
@@ -266,6 +274,9 @@ Route::middleware(['admin.auth'])->group(function () {
     Route::get('/admincommissions', function () {
         return view('layouts.admin.commissions');
     });
+    Route::get('/admin/blog/create', function () {
+    return view('layouts.admin.blog-create');
+});
 });
 
 // Route::post('/admin/login', [AdminAuthController::class, 'login'])->name('admin.login');

@@ -109,13 +109,13 @@
   }
   </script>
 
-  <link rel="icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" type="image/x-icon" />
+    <link rel="icon" href="../img/FastPik icon.png" type="image/x-icon" />
   <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik%20Logo.png">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <script src="https://cdn.tailwindcss.com"></script>
+ 
   <style> body { font-family: 'Poppins', sans-serif; } </style>
 </head>
 

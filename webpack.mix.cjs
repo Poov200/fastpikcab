@@ -11,4 +11,11 @@ mix.js('resources/js/app.js', 'public/js')
 .sass('resources/scss/admindashboard.scss', 'public/css')
 .sass('resources/scss/adminLogin.scss', 'public/css')
 .copyDirectory('resources/img', 'public/img')
-.setPublicPath('public');
+.setPublicPath('public')
+.options({
+  postCss: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ],
+});
+
