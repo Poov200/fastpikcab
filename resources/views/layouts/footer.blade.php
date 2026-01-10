@@ -116,7 +116,7 @@
                 </div>
 
                 <div class="text-sm text-gray-500 text-center md:text-left">
-                    © 2025 Fastpik Taxi Service. All rights reserved.
+                    © 2026 Fastpik Taxi Service. All rights reserved.
                 </div>
 
                 <div class="flex space-x-4">
