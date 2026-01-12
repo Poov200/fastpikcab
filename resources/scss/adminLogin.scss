@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .login-container {
     background: linear-gradient(145deg, #1e3a8a, #1e40af);
     position: relative;

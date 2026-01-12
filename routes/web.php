@@ -51,6 +51,12 @@ Route::get('/blog', function () {
 Route::get('/admin/blog/create', [BlogController::class, 'adminIndex']);
 Route::post('/admin/blog/store', [BlogController::class, 'store'])->name('admin.blog.store');
 
+use App\Http\Controllers\UserBlogController;
+
+Route::get('/blog', [UserBlogController::class, 'index']);
+Route::get('/blog/{slug}', [UserBlogController::class, 'show']);
+
+
 
 
 //service main pages
