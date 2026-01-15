@@ -196,7 +196,7 @@
         </figure>
 
         <div class="prose prose-lg prose-blue max-w-none prose-img:rounded-lg prose-a:text-blue-600 hover:prose-a:text-blue-500">
-            {!! $blog->content !!}
+           {!! nl2br(e($blog->content)) !!}
         </div>
 
     </article>
