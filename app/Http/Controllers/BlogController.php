@@ -5,12 +5,11 @@ namespace App\Http\Controllers;
 use App\Models\Blog;
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;
-
-
+use CloudinaryLabs\CloudinaryLaravel\Facades\Cloudinary;
 
 class BlogController extends Controller
 {
-    // CREATE BLOG (OK)
+    // CREATE BLOG WITH CLOUDINARY
     public function store(Request $request)
     {
         $request->validate([
@@ -19,12 +18,21 @@ class BlogController extends Controller
             'content' => 'required'
         ]);
 
-        $imagePath = $request->file('image')->store('blogs', 'public');
+        // Upload image to Cloudinary
+        $uploadedImage = Cloudinary::upload(
+            $request->file('image')->getRealPath(),
+            [
+                'folder' => 'blogs'
+            ]
+        );
+
+        // Get secure URL
+        $imageUrl = $uploadedImage->getSecurePath();
 
         Blog::create([
             'title' => $request->title,
             'slug' => Str::slug($request->title),
-            'image' => $imagePath,
+            'image' => $imageUrl, // ✅ Cloudinary URL
             'content' => $request->content,
             'status' => $request->status
         ]);
@@ -32,7 +40,7 @@ class BlogController extends Controller
         return redirect()->back()->with('success', 'Blog added successfully');
     }
 
-    // FRONTEND BLOG PAGE (OK)
+    // FRONTEND BLOG PAGE
     public function index()
     {
         $blogs = Blog::where('status', 'published')
@@ -42,13 +50,13 @@ class BlogController extends Controller
         return view('layouts.blog', compact('blogs'));
     }
 
-    // ADMIN PAGE (ONLY LOAD VIEW)
+    // ADMIN PAGE
     public function adminIndex()
     {
-        return view('layouts.admin.blog-create'); // ✅ no $blogs
+        return view('layouts.admin.blog-create');
     }
 
-    // ✅ API FOR ANGULARJS
+    // API FOR ANGULARJS
     public function apiBlogs()
     {
         return response()->json([
@@ -57,7 +65,7 @@ class BlogController extends Controller
         ]);
     }
 
-    // ✅ API DELETE
+    // API DELETE
     public function apiDelete($id)
     {
         Blog::findOrFail($id)->delete();
