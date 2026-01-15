@@ -97,7 +97,7 @@
                         <li><a href="#" class="hover:text-yellow-400 transition">About Us</a></li>
                         <li><a href="#" class="hover:text-yellow-400 transition">Contact Us</a></li>
                         <li><a href="#" class="hover:text-yellow-400 transition">Careers</a></li>
-                        <li><a href="#" class="hover:text-yellow-400 transition">Blog</a></li>
+                        <li><a href="{{ route('blogs') }}" class="hover:text-yellow-400 transition">Blog</a></li>
                         <li><a href="#" class="hover:text-yellow-400 transition">Terms & Conditions</a></li>
                         <li><a href="{{ route('privacypolicy') }}" class="hover:text-yellow-400 transition">Privacy Policy</a></li>
                     </ul>
