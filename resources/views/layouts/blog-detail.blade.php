@@ -182,7 +182,7 @@
         </header>
 
         <figure class="mb-10">
-            <img src="{{ asset('storage/' . $blog->image) }}"
+            <img src="{{ asset($blog->image) }}"
                  alt="{{ $blog->title }} - Fastpikcab"
                  class="w-full h-auto rounded-xl shadow-md object-cover max-h-[500px]"
                  loading="eager"

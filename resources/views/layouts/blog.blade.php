@@ -187,7 +187,7 @@
              class="blog-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden flex flex-col h-full">
 
             <a ng-href="/blog/@{{ blog.slug }}" aria-label="Read @{{ blog.title }}">
-                <img ng-src="/storage/@{{ blog.image }}"
+                <img ng-src="@{{ blog.image }}"
                      alt="@{{ blog.title }} - Taxi guide"
                      class="w-full h-52 object-cover"
                      width="400"

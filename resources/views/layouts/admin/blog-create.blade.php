@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Messages</title>
- 
+
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/angular@1.8.2/angular.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -66,7 +66,7 @@
             <tbody>
                 <tr ng-repeat="blog in blogs">
                     <td class="p-3 border">
-                        <img ng-src="/storage/@{{ blog.image }}"
+                        <img ng-src="@{{ blog.image }}"
                             class="w-20 h-14 object-cover rounded">
                     </td>
 
