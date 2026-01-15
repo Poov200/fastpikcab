@@ -20,7 +20,7 @@
                 <a href="/" class="text-white hover:text-yellow-400 font-medium">Home</a>
 
                 <a href="{{ route('contactpage') }}" class="text-white hover:text-yellow-400 font-medium">Contact</a>
-                <a href="{{ route('blog') }}" class="text-white hover:text-yellow-400 font-medium">Blogs</a>
+                {{-- <a href="{{ route('blog') }}" class="text-white hover:text-yellow-400 font-medium">Blogs</a> --}}
                 {{-- <a href="#" class="text-white hover:text-yellow-400 font-medium">FAQ</a> --}}
             </div>
 

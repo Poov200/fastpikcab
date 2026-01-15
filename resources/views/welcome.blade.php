@@ -101,8 +101,8 @@
                     <a href="#pricing" class="text-gray-900 font-semibold px-4 py-2 bg-gray-100 rounded">Pricing</a>
                     <a href="#contact"
                         class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Contact</a>
-                    <a href="{{ route('blog') }}"
-                        class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Blogs</a>
+                    {{-- <a href="{{ route('blog') }}"
+                        class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Blogs</a> --}}
                     {{-- <a href="#" class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">FAQ</a> --}}
                     <div class="px-4 pt-2">
                         <a href="#booking"
