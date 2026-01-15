@@ -44,9 +44,9 @@ Route::get('/deleteaccount', function () {
     return view('deleteaccount');
 })->name('deleteaccount');
 
-Route::get('/blog', function () {
+Route::get('/blogs', function () {
     return view('layouts.blog');
-})->name('blog');
+})->name('blogs');
 
 Route::get('/admin/blog/create', [BlogController::class, 'adminIndex']);
 Route::post('/admin/blog/store', [BlogController::class, 'store'])->name('admin.blog.store');

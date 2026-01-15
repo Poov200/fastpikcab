@@ -9,7 +9,7 @@
     <meta name="description" content="Explore expert taxi booking tips, latest airport cab fare guides, and outstation travel news. Save money and travel smarter with Fastpikcab updates.">
     <meta name="keywords" content="taxi booking blog, airport taxi fare, outstation cab guide, car rental tips, Fastpikcab news, india travel blog">
     <meta name="robots" content="index, follow">
-    
+
     <link rel="canonical" href="https://www.fastpikcab.com/blog" />
 
     <meta property="og:title" content="Taxi Booking Blogs & Travel News | Fastpikcab">
@@ -17,7 +17,7 @@
     <meta property="og:image" content="https://www.fastpikcab.com/images/blog-default-og.jpg">
     <meta property="og:url" content="https://www.fastpikcab.com/blog">
     <meta property="og:type" content="blog">
-    
+
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Taxi Booking Blogs & Travel News | Fastpikcab">
     <meta name="twitter:description" content="Expert taxi tips and travel guides.">
@@ -48,7 +48,7 @@
       }
     }
     </script>
-    
+
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -77,6 +77,72 @@
 
 <body ng-controller="UserBlogController" class="bg-gray-50 text-gray-800 antialiased">
 
+    <div class="booking-banner">
+    <span>📞 For Immediate Booking: <a href="tel:8825694157">+91 8825694157</a></span>
+</div>
+
+<!-- Header Section -->
+<header class="bg-gray-900 shadow-md sticky  z-50" style="top: 37px;">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <nav class="flex flex-wrap items-center justify-between py-4">
+
+            <!-- Logo -->
+            <div class="flex items-center">
+                <a href="#" class="flex items-center">
+
+                    <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="">
+                </a>
+            </div>
+
+            <!-- Desktop Navigation -->
+            <div class="hidden md:flex flex-wrap items-center space-x-6">
+                <a href="/" class="text-white hover:text-yellow-400 font-medium">Home</a>
+
+                <a href="{{ route('contactpage') }}" class="text-white hover:text-yellow-400 font-medium">Contact</a>
+                <a href="{{ route('blogs') }}" class="text-white hover:text-yellow-400 font-medium">Blogs</a>
+                {{-- <a href="#" class="text-white hover:text-yellow-400 font-medium">FAQ</a> --}}
+            </div>
+
+            <!-- CTA Button -->
+            <div class="hidden md:block">
+                <a href="#booking"
+                    class="bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-2 px-4 rounded-lg transition duration-300 whitespace-nowrap">
+                    Book Now
+                </a>
+            </div>
+
+            <!-- Mobile Menu Button -->
+            <div class="md:hidden">
+                <button id="mobile-menu-button" class="text-white hover:text-yellow-400 focus:outline-none">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M4 6h16M4 12h16M4 18h16" />
+                    </svg>
+                </button>
+            </div>
+        </nav>
+
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="md:hidden bg-white py-4 hidden">
+            <div class="flex flex-col space-y-4">
+                <a href="#"
+                    class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Home</a>
+
+                <a href="#contact" class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Contact</a>
+                <a href="{{ route('blogs') }}" class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Blogs</a>
+                {{-- <a href="#" class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">FAQ</a> --}}
+                <div class="px-4 pt-2">
+                    <a href="#booking"
+                        class="block text-center bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-2 px-6 rounded-lg transition duration-300">
+                        Book Now
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
 <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
 
     <nav class="text-sm text-gray-500 mb-4" aria-label="Breadcrumb">
@@ -98,11 +164,11 @@
                 Guides, news, and tips for your next journey.
             </p>
         </div>
-        
+
         <div class="relative w-full md:w-1/3">
-            <input type="text" 
-                   ng-model="searchText" 
-                   placeholder="Search articles..." 
+            <input type="text"
+                   ng-model="searchText"
+                   placeholder="Search articles..."
                    class="w-full pl-10 pr-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
                    aria-label="Search blogs">
             <span class="absolute left-3 top-2.5 text-gray-400">
@@ -124,13 +190,13 @@
                 <img ng-src="/storage/@{{ blog.image }}"
                      alt="@{{ blog.title }} - Taxi guide"
                      class="w-full h-52 object-cover"
-                     width="400" 
+                     width="400"
                      height="210"
                      loading="lazy">
             </a>
 
             <div class="p-6 flex flex-col flex-grow">
-                
+
                 <div class="flex items-center justify-between mb-3">
                     <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-3 py-1 rounded-full">
                         @{{ blog.category }}
@@ -159,7 +225,7 @@
                     </div>
                     <a ng-href="/blog/@{{ blog.slug }}"
                        class="text-blue-600 hover:text-blue-800 text-sm font-semibold flex items-center group">
-                        Read 
+                        Read
                         <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                     </a>
                 </div>
@@ -182,6 +248,7 @@
 
 </main>
 
+@include('layouts.footer')
 <script>
 var app = angular.module('userBlogApp', []);
 
