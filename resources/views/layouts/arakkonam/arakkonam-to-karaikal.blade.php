@@ -38,10 +38,10 @@
             "priceRange": "$$",
             "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "Throw Pathi Amman Kovil Street",
+                "streetAddress": "NO 12, Maheswari Nagar First Street ",
                 "addressLocality": "Kalanjukuppam",
                 "addressRegion": "Tamil Nadu",
-                "postalCode": "607104",
+                "postalCode": "600064",
                 "addressCountry": "IN"
             },
             "openingHoursSpecification": {
@@ -121,7 +121,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
-   
+
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
