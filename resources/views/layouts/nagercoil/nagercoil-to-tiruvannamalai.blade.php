@@ -40,10 +40,10 @@
         "priceRange": "$$",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Throw Pathi Amman Kovil Street",
-            "addressLocality": "Kalanjukuppam",
+            "streetAddress": "NO 12, Maheswari Nagar First Street ",
+            "addressLocality": "Hasthinapuram , Chennai",
             "addressRegion": "Tamil Nadu",
-            "postalCode": "607104",
+            "postalCode": "600064",
             "addressCountry": "IN"
         },
         "makesOffer": {
