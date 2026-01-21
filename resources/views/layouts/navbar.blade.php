@@ -25,7 +25,7 @@
                 <!-- Logo -->
                 <div class="flex items-center">
                     <a href="#" class="flex items-center gap-2">
-                        <div class="text-yellow-400 font-extrabold text-2xl tracking-tighter italic">FastPik</div>
+                        <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="FastPik Logo">
                     </a>
                 </div>
 
