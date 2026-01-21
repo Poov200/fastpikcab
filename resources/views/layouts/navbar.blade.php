@@ -1,46 +1,36 @@
 
-
     <style>
-        /* Custom Styles for smoother transitions */
-        .dropdown-menu {
-            transition: all 0.2s ease-in-out;
-            transform-origin: top center;
+        /* Custom transition for mobile submenu */
+        .mobile-submenu {
+            transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+            max-height: 0;
+            opacity: 0;
+            overflow: hidden;
         }
-        /* Prevent sub-menus from closing instantly when moving mouse to submenu */
-        .group:hover .group-hover\:block {
-            display: block;
-            animation: fadeIn 0.2s ease-out;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        
-        /* Chevron rotation for mobile */
-        .rotate-180 {
-            transform: rotate(180deg);
+        .mobile-submenu.open {
+            max-height: 500px; /* Arbitrary large height */
+            opacity: 1;
         }
     </style>
 
 
 
+
     <!-- HEADER START -->
+    <!-- Added overflow-visible to prevent dropdowns from being clipped -->
     <header class="bg-gray-900 shadow-md sticky z-50 transition-all duration-300" style="top: 37px;">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <nav class="flex flex-wrap items-center justify-between py-4">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 overflow-visible"> 
+            <nav class="flex flex-wrap items-center justify-between py-4 relative">
 
                 <!-- Logo -->
                 <div class="flex items-center">
                     <a href="#" class="flex items-center gap-2">
-                        <!-- Using text as placeholder since image path is local -->
-                        {{-- <div class="text-yellow-400 font-extrabold text-2xl tracking-tighter italic">FastPik</div> --}}
-                         <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="">
+                        <div class="text-yellow-400 font-extrabold text-2xl tracking-tighter italic">FastPik</div>
                     </a>
                 </div>
 
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex flex-wrap items-center space-x-6">
-                    
                     <a href="/" class="text-white hover:text-yellow-400 font-medium transition">Home</a>
                     <a href="#about" class="text-white hover:text-yellow-400 font-medium transition">About</a>
                     
@@ -48,7 +38,6 @@
                     <div class="relative group py-4">
                         <button class="flex items-center text-white hover:text-yellow-400 font-medium focus:outline-none">
                             Drop Taxi
-                            <!-- Chevron Down Icon -->
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1 transition-transform duration-200 group-hover:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                             </svg>
@@ -68,7 +57,6 @@
                     <div class="relative group py-4">
                         <button class="flex items-center text-white hover:text-yellow-400 font-medium focus:outline-none">
                             Routes
-                            <!-- Chevron Down Icon -->
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1 transition-transform duration-200 group-hover:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                             </svg>
@@ -77,8 +65,7 @@
                         <!-- Mega Menu Content -->
                         <div class="absolute left-0 mt-0 w-[500px] bg-white rounded-md shadow-lg p-6 hidden group-hover:block z-50 ring-1 ring-black ring-opacity-5">
                             <div class="grid grid-cols-2 gap-8">
-                                
-                                <!-- Column 1: Tamil Nadu -->
+                                <!-- Column 1 -->
                                 <div>
                                     <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">Tamil Nadu</h3>
                                     <ul class="space-y-2">
@@ -88,8 +75,7 @@
                                         <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Coimbatore → Chennai</a></li>
                                     </ul>
                                 </div>
-
-                                <!-- Column 2: Other States -->
+                                <!-- Column 2 -->
                                 <div>
                                     <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">Other States</h3>
                                     <ul class="space-y-2">
@@ -98,9 +84,7 @@
                                         <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Hyderabad</a></li>
                                     </ul>
                                 </div>
-
                             </div>
-                            <!-- Mega Menu Footer -->
                             <div class="mt-4 pt-4 border-t border-gray-100 text-center">
                                 <a href="#" class="text-xs font-semibold text-yellow-600 hover:text-yellow-800">View All Routes &rarr;</a>
                             </div>
@@ -108,8 +92,8 @@
                     </div>
 
                     <a href="#pricing" class="text-white hover:text-yellow-400 font-semibold transition">Pricing</a>
-                    <a href="{{ route('blogs') }}" class="text-white hover:text-yellow-400 font-semibold transition">Blogs</a>
-                    <a href="{{ route('contactpage') }}" class="text-white hover:text-yellow-400 font-medium transition">Contact</a>
+                    <a href="#" class="text-white hover:text-yellow-400 font-semibold transition">Blogs</a>
+                    <a href="#" class="text-white hover:text-yellow-400 font-medium transition">Contact</a>
                 </div>
 
                 <!-- CTA Button -->
@@ -122,7 +106,7 @@
 
                 <!-- Mobile Menu Button -->
                 <div class="md:hidden">
-                    <button id="mobile-menu-button" class="text-white hover:text-yellow-400 focus:outline-none">
+                    <button id="mobile-menu-btn" class="text-white hover:text-yellow-400 focus:outline-none p-2">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24"
                             stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -133,21 +117,23 @@
             </nav>
 
             <!-- Mobile Menu -->
-            <div id="mobile-menu" class="md:hidden bg-gray-800 border-t border-gray-700 hidden overflow-hidden transition-all duration-300">
-                <div class="flex flex-col space-y-0">
+            <div id="mobile-menu" class="md:hidden hidden bg-gray-800 border-t border-gray-700 absolute top-full left-0 w-full shadow-2xl">
+                <div class="flex flex-col">
                     
                     <a href="/" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Home</a>
                     <a href="#about" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">About</a>
                     
                     <!-- Mobile: Drop Taxi Submenu -->
                     <div class="border-b border-gray-700">
-                        <button onclick="toggleMobileSubmenu('mobile-drop-taxi', this)" class="w-full flex justify-between items-center text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 text-left focus:outline-none">
+                        <!-- Added 'mobile-submenu-trigger' class for JS targeting -->
+                        <button class="mobile-submenu-trigger w-full flex justify-between items-center text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 text-left focus:outline-none">
                             Drop Taxi
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transform transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="submenu-arrow h-4 w-4 transform transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                             </svg>
                         </button>
-                        <div id="mobile-drop-taxi" class="hidden bg-gray-900">
+                        <!-- Added 'mobile-submenu' class for animation and JS targeting -->
+                        <div class="mobile-submenu bg-gray-900">
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">One Way Drop Taxi</a>
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Outstation Drop Taxi</a>
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Airport Drop Taxi</a>
@@ -158,13 +144,13 @@
 
                     <!-- Mobile: Routes Submenu -->
                     <div class="border-b border-gray-700">
-                        <button onclick="toggleMobileSubmenu('mobile-routes', this)" class="w-full flex justify-between items-center text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 text-left focus:outline-none">
+                        <button class="mobile-submenu-trigger w-full flex justify-between items-center text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 text-left focus:outline-none">
                             Routes
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transform transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="submenu-arrow h-4 w-4 transform transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                             </svg>
                         </button>
-                        <div id="mobile-routes" class="hidden bg-gray-900">
+                        <div class="mobile-submenu bg-gray-900">
                             <div class="px-4 py-2 text-xs font-bold text-gray-500 uppercase tracking-wider">Tamil Nadu</div>
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Coimbatore</a>
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Trichy</a>
@@ -178,8 +164,8 @@
                     </div>
 
                     <a href="#pricing" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Pricing</a>
-                    <a href="{{ route('blogs') }}" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Blogs</a>
-                    <a href="{{ route('contactpage') }}" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Contact</a>
+                    <a href="#" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Blogs</a>
+                    <a href="#" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Contact</a>
 
                     <!-- Mobile CTA -->
                     <div class="px-4 py-4">
@@ -194,33 +180,46 @@
     </header>
     <!-- HEADER END -->
 
-    
 
-   
 
     <!-- JAVASCRIPT LOGIC -->
     <script>
-        // Toggle Main Mobile Menu
-        const btn = document.getElementById('mobile-menu-button');
-        const menu = document.getElementById('mobile-menu');
-
-        btn.addEventListener('click', () => {
-            menu.classList.toggle('hidden');
-        });
-
-        // Toggle Submenus in Mobile View
-        function toggleMobileSubmenu(menuId, buttonElement) {
-            const submenu = document.getElementById(menuId);
-            const arrow = buttonElement.querySelector('svg');
+        document.addEventListener('DOMContentLoaded', () => {
             
-            if (submenu.classList.contains('hidden')) {
-                // Open
-                submenu.classList.remove('hidden');
-                arrow.classList.add('rotate-180');
-            } else {
-                // Close
-                submenu.classList.add('hidden');
-                arrow.classList.remove('rotate-180');
+            // 1. Main Mobile Menu Toggle
+            const menuBtn = document.getElementById('mobile-menu-btn');
+            const mobileMenu = document.getElementById('mobile-menu');
+
+            if(menuBtn && mobileMenu) {
+                menuBtn.addEventListener('click', () => {
+                    mobileMenu.classList.toggle('hidden');
+                });
             }
-        }
+
+            // 2. Submenu Toggles (Robust method without inline onclick)
+            const subMenuTriggers = document.querySelectorAll('.mobile-submenu-trigger');
+
+            subMenuTriggers.forEach(trigger => {
+                trigger.addEventListener('click', (e) => {
+                    e.preventDefault(); // Prevent any default link behavior
+
+                    // Find the next sibling element (the content div)
+                    const content = trigger.nextElementSibling;
+                    const arrow = trigger.querySelector('.submenu-arrow');
+
+                    if (content && content.classList.contains('mobile-submenu')) {
+                        // Toggle the open class
+                        const isOpen = content.classList.contains('open');
+                        
+                        if (isOpen) {
+                            content.classList.remove('open');
+                            arrow.classList.remove('rotate-180');
+                        } else {
+                            content.classList.add('open');
+                            arrow.classList.add('rotate-180');
+                        }
+                    }
+                });
+            });
+        });
     </script>
