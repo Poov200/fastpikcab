@@ -2,69 +2,7 @@
     <span>📞 For Immediate Booking: <a href="tel:8825694157">+91 8825694157</a></span>
 </div>
 
-<!-- Header Section -->
-<header class="bg-gray-900 shadow-md sticky  z-50" style="top: 37px;">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <nav class="flex flex-wrap items-center justify-between py-4">
-
-            <!-- Logo -->
-            <div class="flex items-center">
-                <a href="#" class="flex items-center">
-
-                    <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="">
-                </a>
-            </div>
-
-            <!-- Desktop Navigation -->
-            <div class="hidden md:flex flex-wrap items-center space-x-6">
-                <a href="/" class="text-white hover:text-yellow-400 font-medium">Home</a>
-
-                <a href="{{ route('contactpage') }}" class="text-white hover:text-yellow-400 font-medium">Contact</a>
-                <a href="{{ route('blogs') }}" class="text-white hover:text-yellow-400 font-medium">Blogs</a>
-                {{-- <a href="#" class="text-white hover:text-yellow-400 font-medium">FAQ</a> --}}
-            </div>
-
-            <!-- CTA Button -->
-            <div class="hidden md:block">
-                <a href="#booking"
-                    class="bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-2 px-4 rounded-lg transition duration-300 whitespace-nowrap">
-                    Book Now
-                </a>
-            </div>
-
-            <!-- Mobile Menu Button -->
-            <div class="md:hidden">
-                <button id="mobile-menu-button" class="text-white hover:text-yellow-400 focus:outline-none">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
-                        stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M4 6h16M4 12h16M4 18h16" />
-                    </svg>
-                </button>
-            </div>
-        </nav>
-
-        <!-- Mobile Menu -->
-        <div id="mobile-menu" class="md:hidden bg-white py-4 hidden">
-            <div class="flex flex-col space-y-4">
-                <a href="#"
-                    class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Home</a>
-
-                <a href="#contact"
-                    class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Contact</a>
-                <a href="{{ route('blogs') }}"
-                    class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Blogs</a>
-                {{-- <a href="#" class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">FAQ</a> --}}
-                <div class="px-4 pt-2">
-                    <a href="#booking"
-                        class="block text-center bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-2 px-6 rounded-lg transition duration-300">
-                        Book Now
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+@include('layouts.navbar')
 
 <section id="booking" class="py-8 bg-gradient-to-br from-gray-50 to-gray-100" ng-app="bookingApp"
     ng-controller="BookingController">

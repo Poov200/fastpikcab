@@ -45,76 +45,40 @@
         <span>📞 For Immediate Booking: <a href="tel:8825694157">+91 8825694157</a></span>
     </div>
 
-    <!-- Header Section -->
-    <header class="bg-gray-900 shadow-md sticky  z-50" style="top: 37px;">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <nav class="flex flex-wrap items-center justify-between py-4">
+@include('layouts.navbar')
 
-                <!-- Logo -->
-                <div class="flex items-center">
-                    <a href="#" class="flex items-center">
+    <script>
+        // Variable to hold the timer
+        let menuTimeout;
 
-                        <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="">
-                    </a>
-                </div>
+        // --- DESKTOP FUNCTIONS ---
+        function openMenu(id) {
+            // Cancel the close timer if user comes back to the menu
+            clearTimeout(menuTimeout);
 
-                <!-- Desktop Navigation -->
-                <div class="hidden md:flex flex-wrap items-center space-x-6">
-                    <a href="/" class="text-white hover:text-yellow-400 font-medium">Home</a>
-                    <a href="#about" class="text-white hover:text-yellow-400 font-medium">About</a>
-                    <a href="#services" class="text-white hover:text-yellow-400 font-medium">Services</a>
-                    <a href="#pricing" class=" text-white hover:text-yellow-400 font-semibold">Pricing</a>
-                    <a href="{{ route('blogs') }}" class=" text-white hover:text-yellow-400 font-semibold">Blogs</a>
-                    <a href="{{ route('contactpage') }}"
-                        class="text-white hover:text-yellow-400 font-medium">Contact</a>
-                    {{-- <a href="#" class="text-white hover:text-yellow-400 font-medium">FAQ</a> --}}
-                </div>
+            // Close all other menus first to avoid overlap
+            const menus = ['desktop-taxi', 'desktop-routes'];
+            menus.forEach(menuId => {
+                if (menuId !== id) document.getElementById(menuId).classList.add('hidden');
+            });
 
-                <!-- CTA Button -->
-                <div class="hidden md:block">
-                    <a href="#booking"
-                        class="bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-2 px-4 rounded-lg transition duration-300 whitespace-nowrap">
-                        Book Now
-                    </a>
-                </div>
+            // Show the current menu
+            document.getElementById(id).classList.remove('hidden');
+        }
 
-                <!-- Mobile Menu Button -->
-                <div class="md:hidden">
-                    <button id="mobile-menu-button" class="text-white hover:text-yellow-400 focus:outline-none">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
-                            stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M4 6h16M4 12h16M4 18h16" />
-                        </svg>
-                    </button>
-                </div>
-            </nav>
+        function closeMenu(id) {
+            // Set a timer to close the menu after 300ms (0.3 seconds)
+            // This gives the user time to move the mouse without it disappearing instantly
+            menuTimeout = setTimeout(() => {
+                document.getElementById(id).classList.add('hidden');
+            }, 300);
+        }
 
-            <!-- Mobile Menu -->
-            <div id="mobile-menu" class="md:hidden bg-white py-4 hidden">
-                <div class="flex flex-col space-y-4">
-                    <a href="#"
-                        class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Home</a>
-                    <a href="#about"
-                        class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">About</a>
-                    <a href="#services"
-                        class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Services</a>
-                    <a href="#pricing" class="text-gray-900 font-semibold px-4 py-2 bg-gray-100 rounded">Pricing</a>
-                    <a href="#contact"
-                        class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Contact</a>
-                    <a href="{{ route('blogs') }}"
-                        class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">Blogs</a>
-                    {{-- <a href="#" class="text-gray-700 hover:text-gray-900 font-medium px-4 py-2 hover:bg-gray-100 rounded">FAQ</a> --}}
-                    <div class="px-4 pt-2">
-                        <a href="#booking"
-                            class="block text-center bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-2 px-6 rounded-lg transition duration-300">
-                            Book Now
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+        // --- MOBILE FUNCTIONS ---
+        function toggleMobileSubmenu(id) {
+            document.getElementById(id).classList.toggle('hidden');
+        }
+    </script>
 
 
 
@@ -1559,7 +1523,7 @@
                 </div>
 
                 <div class="text-sm text-gray-500 text-center md:text-left">
-                    © 2025 Fastpik Taxi Service. All rights reserved.
+                    © 2025 Fastpikcab Taxi Service. All rights reserved.
                 </div>
 
                 <div class="flex space-x-4">
@@ -1575,7 +1539,8 @@
                                 d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
                         </svg>
                     </a>
-                    <a href="https://www.instagram.com/fastpikcab/" class="text-gray-400 hover:text-white transition">
+                    <a href="https://www.instagram.com/fastpikcab/"
+                        class="text-gray-400 hover:text-white transition">
                         <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
                             <path
                                 d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
