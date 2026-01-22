@@ -27,45 +27,6 @@ backToTopButton.addEventListener('click', () => {
 
 
 
-
-const btn = document.getElementById('mobile-menu-button');
-const menu = document.getElementById('mobile-menu');
-
-// Toggle menu
-btn.addEventListener('click', (e) => {
-    e.stopPropagation();
-    menu.classList.toggle('hidden');
-});
-
-// Close menu when clicking outside
-document.addEventListener('click', (e) => {
-    const isClickInsideMenu = menu.contains(e.target);
-    const isClickOnButton = btn.contains(e.target);
-
-    if (!isClickInsideMenu && !isClickOnButton) {
-        menu.classList.add('hidden');
-    }
-});
-
-// Close menu when a link inside it is clicked
-const links = menu.querySelectorAll('a');
-links.forEach(link => {
-    link.addEventListener('click', () => {
-        menu.classList.add('hidden');
-    });
-});
-
-const navLinks = document.querySelectorAll('.nav-link');
-
-navLinks.forEach(link => {
-    if (link.href === window.location.href) {
-        link.classList.add('text-yellow-400', 'font-semibold');
-    } else {
-        link.classList.remove('text-yellow-400', 'font-semibold');
-    }
-});
-
-
 // Declare global variables to store place details from Autocomplete
 // These need to be accessible across different event listeners.
 let pickupPlace = null;
@@ -493,43 +454,6 @@ document.addEventListener('keydown', function (e) {
 
 
 
-app.controller('CabcityController', function ($scope, $http) {
-    // Initial cities array
-    $scope.cities = [
-        {
-            name: 'Chennai',
-            destinations: [
-                'Chennai to Bangalore', 'Chennai to Pondicherry', 'Chennai to Madurai',
-                'Chennai to Trichy', 'Chennai to Vellore', 'Chennai to Neyveli',
-                'Chennai to Karur', 'Chennai to Rameswaram', 'Chennai to Ooty',
-                'Chennai to Thanjavur', 'Chennai to tiruvannamalai', 'Chennai to Vaniyambadi'
-            ]
-        },
-        {
-            name: 'Coimbatore',
-            destinations: [
-                'Coimbatore to Chennai', 'Coimbatore to Madurai', 'Coimbatore to Ooty',
-                'Coimbatore to Pollachi', 'Coimbatore to Erode', 'Coimbatore to Tirupur'
-            ]
-        },
-        // Add more cities here
-    ];
-
-    // Function to dynamically add a new city
-    $scope.addCity = function (cityName, destinations) {
-        const newCity = {
-            name: cityName,
-            destinations: destinations
-        };
-        $scope.cities.push(newCity);
-    };
-
-    // Example: Add a new city dynamically
-    $scope.addCity('Madurai', [
-        'Madurai to Chennai', 'Madurai to Dindigul', 'Madurai to Tirunelveli',
-        'Madurai to Thoothukudi', 'Madurai to Virudhunagar'
-    ]);
-});
 
 
 
