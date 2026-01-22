@@ -14,7 +14,9 @@
     </style>
 
 
-
+   <div class="booking-banner">
+        <span>📞 For Immediate Booking: <a href="tel:8825694157">+91 8825694157</a></span>
+    </div>
 
     <!-- HEADER START -->
     <!-- Added overflow-visible to prevent dropdowns from being clipped -->
@@ -45,11 +47,11 @@
 
                         <!-- Dropdown Content -->
                         <div class="absolute left-0 mt-0 w-56 bg-white rounded-md shadow-lg py-2 hidden group-hover:block z-50 ring-1 ring-black ring-opacity-5">
-                            <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">One Way Drop Taxi</a>
-                            <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">Outstation Drop Taxi</a>
-                            <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">Airport Drop Taxi</a>
-                            <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">Round Trip Taxi</a>
-                            <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">Corporate Taxi</a>
+                            <a href="{{ route('one-way-drop-taxi') }}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">One Way Drop Taxi</a>
+                            <a href="{{ route('outstation-drop-taxi') }}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">Outstation Drop Taxi</a>
+                            <a href="{{ route('airport-drop-taxi') }}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">Airport Drop Taxi</a>
+                            <a href="{{ route('round-trip-taxi') }}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">Round Trip Taxi</a>
+                            <a href="{{ route('corporate-taxi') }}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">Corporate Taxi</a>
                         </div>
                     </div>
 
@@ -69,19 +71,19 @@
                                 <div>
                                     <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">Tamil Nadu</h3>
                                     <ul class="space-y-2">
-                                        <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Coimbatore</a></li>
-                                        <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Trichy</a></li>
-                                        <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Madurai</a></li>
-                                        <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Coimbatore → Chennai</a></li>
+                                        <li><a href="{{ route('chennai-to-coimbatore') }}" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Coimbatore</a></li>
+                                        <li><a href="{{ route('chennai-to-trichy') }}" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Trichy</a></li>
+                                        <li><a href="{{ route('chennai-to-madurai') }}" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Madurai</a></li>
+                                        <li><a href="{{ route('coimbatore-to-chennai') }}" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Coimbatore → Chennai</a></li>
                                     </ul>
                                 </div>
                                 <!-- Column 2 -->
                                 <div>
                                     <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">Other States</h3>
                                     <ul class="space-y-2">
-                                        <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Bangalore</a></li>
-                                        <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Bangalore → Chennai</a></li>
-                                        <li><a href="#" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Hyderabad</a></li>
+                                        <li><a href="{{ route('chennai-to-bangalore') }}" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Bangalore</a></li>
+                                        <li><a href="{{ route('bangalore-to-chennai') }}" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Bangalore → Chennai</a></li>
+                                        <li><a href="{{ route('chennai-to-kerala') }}" class="block text-sm text-gray-700 hover:text-yellow-600 hover:underline">Chennai → Kerala</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -134,11 +136,11 @@
                         </button>
                         <!-- Added 'mobile-submenu' class for animation and JS targeting -->
                         <div class="mobile-submenu bg-gray-900">
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">One Way Drop Taxi</a>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Outstation Drop Taxi</a>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Airport Drop Taxi</a>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Round Trip Taxi</a>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Corporate Taxi</a>
+                            <a href="{{ route('one-way-drop-taxi') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">One Way Drop Taxi</a>
+                            <a href="{{ route('outstation-drop-taxi') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Outstation Drop Taxi</a>
+                            <a href="{{ route('airport-drop-taxi') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Airport Drop Taxi</a>
+                            <a href="{{ route('round-trip-taxi') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Round Trip Taxi</a>
+                            <a href="{{ route('corporate-taxi') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Corporate Taxi</a>
                         </div>
                     </div>
 
@@ -152,14 +154,14 @@
                         </button>
                         <div class="mobile-submenu bg-gray-900">
                             <div class="px-4 py-2 text-xs font-bold text-gray-500 uppercase tracking-wider">Tamil Nadu</div>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Coimbatore</a>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Trichy</a>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Madurai</a>
+                            <a href="{{ route('chennai-to-coimbatore') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Coimbatore</a>
+                            <a href="{{ route('chennai-to-trichy') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Trichy</a>
+                            <a href="{{ route('chennai-to-madurai') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Madurai</a>
 
                             <div class="px-4 py-2 text-xs font-bold text-gray-500 uppercase tracking-wider mt-2">Other States</div>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Bangalore</a>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Bangalore → Chennai</a>
-                            <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Hyderabad</a>
+                            <a href="{{ route('chennai-to-bangalore') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Bangalore</a>
+                            <a href="{{ route('bangalore-to-chennai') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Bangalore → Chennai</a>
+                            <a href="{{ route('chennai-to-kerala') }}" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Kerala</a>
                         </div>
                     </div>
 

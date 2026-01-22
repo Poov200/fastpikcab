@@ -1,7 +1,3 @@
-<div class="booking-banner">
-    <span>📞 For Immediate Booking: <a href="tel:8825694157">+91 8825694157</a></span>
-</div>
-
 @include('layouts.navbar')
 
 <section id="booking" class="py-8 bg-gradient-to-br from-gray-50 to-gray-100" ng-app="bookingApp"
@@ -80,8 +76,7 @@
 
                     <div ng-show="booking.tripType === 'round'" class="mt-4">
                         <label class="block text-gray-700 font-medium mb-2">Number of Days</label>
-                        <select name="no_of_days" ng-model="booking.no_of_days"
-                            ng-change="calculateassigned_amount()"
+                        <select name="no_of_days" ng-model="booking.no_of_days" ng-change="calculateassigned_amount()"
                             class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                             required>
                             <option value="">Select Days</option>
@@ -112,8 +107,8 @@
                                 <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                                     <svg class="h-5 w-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
                                         <path fill-rule="evenodd"
-                                            d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z"
-                                            clip-rule="evenodd"></path>
+                                            d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd">
+                                        </path>
                                     </svg>
                                 </div>
                                 <input type="text" name="name" ng-model="booking.name"

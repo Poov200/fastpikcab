@@ -48,6 +48,28 @@ Route::get('/blogs', function () {
     return view('layouts.blog');
 })->name('blogs');
 
+Route::get('/one-way-drop-taxi', function () {
+    return view('layouts.one-way-drop-taxi');
+})->name('one-way-drop-taxi');
+
+Route::get('/outstation-drop-taxi', function () {
+    return view('layouts.outstation-drop-taxi');
+})->name('outstation-drop-taxi');
+
+Route::get('/one-way-drop-taxi', function () {
+    return view('layouts.one-way-drop-taxi');
+})->name('one-way-drop-taxi');
+Route::get('/airport-drop-taxi', function () {
+    return view('layouts.airport-drop-taxi');
+})->name('airport-drop-taxi');
+Route::get('/round-trip-taxi', function () {
+    return view('layouts.round-trip-taxi');
+})->name('round-trip-taxi');
+Route::get('/corporate-taxi', function () {
+    return view('layouts.corporate-taxi');
+})->name('corporate-taxi');
+
+
 Route::get('/admin/blog/create', [BlogController::class, 'adminIndex']);
 Route::post('/admin/blog/store', [BlogController::class, 'store'])->name('admin.blog.store');
 
@@ -55,6 +77,7 @@ use App\Http\Controllers\UserBlogController;
 
 Route::get('/blog', [UserBlogController::class, 'index']);
 Route::get('/blog/{slug}', [UserBlogController::class, 'show']);
+
 
 
 
