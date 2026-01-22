@@ -19,7 +19,7 @@
     <!-- HEADER START -->
     <!-- Added overflow-visible to prevent dropdowns from being clipped -->
     <header class="bg-gray-900 shadow-md sticky z-50 transition-all duration-300" style="top: 37px;">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 overflow-visible"> 
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 overflow-visible">
             <nav class="flex flex-wrap items-center justify-between py-4 relative">
 
                 <!-- Logo -->
@@ -33,7 +33,7 @@
                 <div class="hidden md:flex flex-wrap items-center space-x-6">
                     <a href="/" class="text-white hover:text-yellow-400 font-medium transition">Home</a>
                     <a href="#about" class="text-white hover:text-yellow-400 font-medium transition">About</a>
-                    
+
                     <!-- DROP TAXI DROPDOWN -->
                     <div class="relative group py-4">
                         <button class="flex items-center text-white hover:text-yellow-400 font-medium focus:outline-none">
@@ -42,7 +42,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                             </svg>
                         </button>
-                        
+
                         <!-- Dropdown Content -->
                         <div class="absolute left-0 mt-0 w-56 bg-white rounded-md shadow-lg py-2 hidden group-hover:block z-50 ring-1 ring-black ring-opacity-5">
                             <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-50 hover:text-yellow-600">One Way Drop Taxi</a>
@@ -119,10 +119,10 @@
             <!-- Mobile Menu -->
             <div id="mobile-menu" class="md:hidden hidden bg-gray-800 border-t border-gray-700 absolute top-full left-0 w-full shadow-2xl">
                 <div class="flex flex-col">
-                    
+
                     <a href="/" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Home</a>
                     <a href="#about" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">About</a>
-                    
+
                     <!-- Mobile: Drop Taxi Submenu -->
                     <div class="border-b border-gray-700">
                         <!-- Added 'mobile-submenu-trigger' class for JS targeting -->
@@ -155,7 +155,7 @@
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Coimbatore</a>
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Trichy</a>
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Madurai</a>
-                            
+
                             <div class="px-4 py-2 text-xs font-bold text-gray-500 uppercase tracking-wider mt-2">Other States</div>
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Chennai → Bangalore</a>
                             <a href="#" class="block pl-8 pr-4 py-2 text-sm text-gray-400 hover:text-yellow-400 hover:bg-gray-800">Bangalore → Chennai</a>
@@ -181,11 +181,10 @@
     <!-- HEADER END -->
 
 
-
     <!-- JAVASCRIPT LOGIC -->
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            
+
             // 1. Main Mobile Menu Toggle
             const menuBtn = document.getElementById('mobile-menu-btn');
             const mobileMenu = document.getElementById('mobile-menu');
@@ -210,7 +209,7 @@
                     if (content && content.classList.contains('mobile-submenu')) {
                         // Toggle the open class
                         const isOpen = content.classList.contains('open');
-                        
+
                         if (isOpen) {
                             content.classList.remove('open');
                             arrow.classList.remove('rotate-180');
@@ -223,3 +222,4 @@
             });
         });
     </script>
+
