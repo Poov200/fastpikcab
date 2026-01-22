@@ -5,72 +5,74 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- SEO META TAGS -->
-    <title>One Way Drop Taxi in Tamil Nadu | Lowest Per KM – Fastpikcab</title>
+    <title>Outstation Taxi Service in Tamil Nadu | Round Trip & Drop Cabs – Fastpikcab</title>
     <meta name="description"
-        content="Book reliable one way drop taxi across Tamil Nadu – Chennai, Coimbatore, Madurai, Trichy, Salem, Bangalore & more. Lowest per km, no return fare. Instant booking with Fastpikcab.">
-    <link rel="canonical" href="https://fastpik.com/one-way-drop-taxi-tamil-nadu" />
+        content="Premium outstation taxi service in Tamil Nadu. Book safe & affordable intercity cabs for round trips, family tours, and one-way drops. Chennai, Coimbatore, Madurai to anywhere. Trusted Highway Drivers.">
+    <meta name="keywords"
+        content="outstation taxi tamil nadu, intercity cab service, round trip taxi chennai, outstation cabs coimbatore, tourist taxi booking, safe highway taxi">
+    <link rel="canonical" href="https://fastpikcab.com/outstation-taxi-tamil-nadu" />
     <link rel="icon" href="../img/FastPik icon.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="https://fastpikcab.com/img/FastPik%20Logo.png">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
 
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Tailwind CSS -->
 
-
-    <!-- Custom Styles -->
     <style>
-        /* Smooth scroll for anchor links */
         html {
             scroll-behavior: smooth;
         }
 
-        .mobile-submenu {
-            transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
-            max-height: 0;
-            opacity: 0;
-            overflow: hidden;
-        }
-
-        .mobile-submenu.open {
-            max-height: 500px;
-            opacity: 1;
+        /* Gradient Text Utility */
+        .text-gradient {
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
     </style>
 
-    <!-- STRUCTURED DATA (SCHEMA) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Service",
-      "name": "One Way Drop Taxi",
-      "description": "Fastpikcab one way drop taxi service across Tamil Nadu and nearby states. Lowest per km, no return charge.",
+      "name": "Outstation Taxi Service",
+      "description": "Fastpikcab provides premium outstation taxi services for round trips, multi-day tours, and intercity travel across Tamil Nadu.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Fastpikcab",
-        "image": "https://fastpik.com/img/logo.png",
+        "image": "https://fastpikcab.com/img/logo.png",
         "telephone": "+919876543210",
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "Chennai",
           "addressRegion": "Tamil Nadu",
           "addressCountry": "IN"
-        }
+        },
+        "priceRange": "$$"
       },
-      "areaServed": ["Chennai", "Coimbatore", "Madurai", "Trichy", "Salem", "Bangalore"],
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "price": "12",
-        "description": "Starting per km one way drop fare",
-        "availability": "https://schema.org/InStock"
+      "areaServed": ["Tamil Nadu", "Pondicherry", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Outstation Packages",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Round Trip Outstation Cab"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hill Station Tour Packages"
+            }
+          }
+        ]
       }
     }
     </script>
@@ -81,18 +83,26 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is one way drop taxi?",
+          "name": "How is outstation taxi billing calculated?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "One way drop taxi is a cab service where you pay only for a single trip from your pickup location to your destination. There is no obligation to pay for the return journey."
+            "text": "Outstation billing is typically calculated based on minimum km per day (usually 250km or 300km) plus driver allowance. Tolls, parking, and state entry taxes are extra."
           }
         },
         {
           "@type": "Question",
-          "name": "Can I book one way taxi from Chennai to Coimbatore?",
+          "name": "Is it safe for long distance travel at night?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, Fastpikcab offers one way drop taxi from Chennai to Coimbatore, Madurai, Trichy, Salem, Bangalore, and many other cities."
+            "text": "Yes, Fastpikcab employs only verified drivers with extensive highway experience. We track rides 24/7 to ensure safety during night travel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book an outstation cab for a multi-day trip?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. You can book our cabs for as many days as needed. The vehicle stays with you for the entire duration of your trip."
           }
         }
       ]
@@ -102,354 +112,285 @@
 
 <body class="bg-gray-50 font-sans antialiased text-gray-800">
 
-
     @include('layouts.navbar')
 
+    <section class="relative bg-gray-900 text-white py-24 px-4 overflow-hidden">
+        <img src="https://picsum.photos/seed/roadtrip/1920/1080" alt="Outstation Road Trip"
+            class="absolute inset-0 w-full h-full object-cover opacity-40 transform scale-105 transition-transform duration-1000">
+        <div class="absolute inset-0 bg-gradient-to-r from-gray-900 via-gray-900/80 to-transparent"></div>
 
-    <!-- HERO SECTION -->
-    <section class="relative bg-gray-900 text-white py-20 px-4">
-        <!-- Background Image -->
-        <img src="https://picsum.photos/seed/highway/1920/1080" alt="Highway Taxi"
-            class="absolute inset-0 w-full h-full object-cover opacity-30">
-        <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent to-transparent"></div>
+        <div class="relative z-10 max-w-6xl mx-auto flex flex-col md:flex-row items-center">
+            <div class="md:w-3/5 text-center md:text-left mb-10 md:mb-0">
+                <span
+                    class="inline-block py-1 px-3 rounded-full bg-blue-600 text-white text-xs font-bold uppercase tracking-wide mb-4 shadow-lg ring-2 ring-blue-500 ring-offset-2 ring-offset-gray-900">
+                    Explore Beyond Limits
+                </span>
 
-        <div class="relative z-10 max-w-5xl mx-auto text-center">
-            <span
-                class="inline-block py-1 px-3 rounded-full bg-yellow-500 text-gray-900 text-xs font-bold uppercase tracking-wide mb-4">No
-                Return Fare</span>
+                <h1 class="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
+                    Reliable <span class="text-blue-400">Outstation Taxi</span> <br> Service in Tamil Nadu
+                </h1>
 
-            <h1 class="text-3xl md:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight">
-                One Way Drop Taxi in <span class="text-yellow-400">Tamil Nadu</span>
-            </h1>
+                <p class="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl">
+                    Experience the joy of long drives with Fastpikcab. Whether it's a family vacation, pilgrimage, or
+                    business trip, our premium fleet and expert highway drivers ensure a smooth journey.
+                </p>
 
-            <p class="text-lg md:text-xl text-gray-200 mb-8 max-w-3xl mx-auto">
-                Fast, safe and affordable one way cab service across Tamil Nadu – Chennai, Coimbatore, Madurai, Trichy,
-                Salem, Bangalore and more. Pay only for the distance you travel.
-            </p>
-
-            <div class="flex flex-col sm:flex-row justify-center gap-4 mb-10">
-                <a href="#booking"
-                    class="bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-3 px-8 rounded-lg transition shadow-lg hover:shadow-yellow-400/50 transform hover:-translate-y-1">
-                    Book One Way Drop Now
-                </a>
-                <a href="#routes"
-                    class="bg-gray-800 hover:bg-gray-700 text-white font-bold py-3 px-8 rounded-lg border border-gray-600 transition">
-                    View Popular Routes
-                </a>
+                <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
+                    <a href="#booking"
+                        class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-xl transition shadow-lg hover:shadow-blue-500/50 transform hover:-translate-y-1 flex items-center justify-center">
+                        <i class="fas fa-calendar-check mr-2"></i> Book Outstation Ride
+                    </a>
+                    <a href="#packages"
+                        class="bg-transparent hover:bg-gray-800 text-white font-bold py-4 px-8 rounded-xl border border-gray-500 transition flex items-center justify-center">
+                        <i class="fas fa-map-marked-alt mr-2"></i> Popular Trips
+                    </a>
+                </div>
             </div>
 
-            <!-- Trust Badges -->
-            <div class="flex flex-wrap justify-center gap-6 text-sm text-gray-400 font-medium">
-                <div class="flex items-center gap-2">
-                    <svg class="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
-                    </svg>
-                    Lowest Per KM
-                </div>
-                <div class="flex items-center gap-2">
-                    <svg class="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
-                    </svg>
-                    No Hidden Charges
-                </div>
-                <div class="flex items-center gap-2">
-                    <svg class="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
-                    </svg>
-                    24/7 Support
+            <div class="hidden md:block md:w-2/5 pl-10">
+                <div class="grid grid-cols-2 gap-4">
+                    <div class="bg-gray-800/80 backdrop-blur-sm p-6 rounded-2xl border border-gray-700">
+                        <div class="text-3xl font-bold text-blue-400 mb-1">500+</div>
+                        <div class="text-sm text-gray-300">Daily Outstation Trips</div>
+                    </div>
+                    <div class="bg-gray-800/80 backdrop-blur-sm p-6 rounded-2xl border border-gray-700">
+                        <div class="text-3xl font-bold text-yellow-400 mb-1">4.9/5</div>
+                        <div class="text-sm text-gray-300">Customer Rating</div>
+                    </div>
+                    <div class="bg-gray-800/80 backdrop-blur-sm p-6 rounded-2xl border border-gray-700 col-span-2">
+                        <div class="flex items-center gap-3">
+                            <div
+                                class="w-10 h-10 rounded-full bg-green-500/20 flex items-center justify-center text-green-400">
+                                <i class="fas fa-shield-alt"></i>
+                            </div>
+                            <div>
+                                <div class="font-bold text-white">Safe & Sanitized</div>
+                                <div class="text-xs text-gray-400">Strict hygiene protocols for long trips</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- INTRO SECTION -->
-    <section class="py-12 px-4 bg-white">
-        <div class="max-w-4xl mx-auto text-center">
-            <h2 class="text-2xl md:text-3xl font-bold mb-6 text-gray-900">What is One Way Drop Taxi?</h2>
-            <p class="text-gray-700 mb-4 leading-relaxed">
-                A <strong>one way drop taxi</strong> is a cab service where you only pay for the journey from your
-                pickup point to your destination. You do not need to pay for the return trip, which makes it much
-                cheaper compared to traditional round-trip taxis.
+    <section class="py-16 px-4 bg-white">
+        <div class="max-w-5xl mx-auto text-center">
+            <h2 class="text-2xl md:text-4xl font-bold mb-6 text-gray-900">More Than Just A Ride</h2>
+            <p class="text-gray-600 text-lg mb-8 leading-relaxed max-w-3xl mx-auto">
+                Unlike local city rides, <strong>Outstation Taxi Services</strong> are designed for intercity travel.
+                Whether you need a <strong>Round Trip</strong> (where the cab stays with you) or a long-distance
+                <strong>One Way Drop</strong>,
+                Fastpikcab offers specialized packages that prioritize comfort, luggage space, and highway safety.
             </p>
-            <p class="text-gray-700 leading-relaxed">
-                Fastpikcab offers dedicated one way drop taxis across Tamil Nadu and major routes like <strong>Chennai
-                    to Coimbatore, Chennai to Madurai, Coimbatore to Chennai, Chennai to Bangalore</strong> and more.
-                Our service is ideal for intercity travel, airport transfers, corporate trips, and family visits.
-            </p>
+            <div class="grid md:grid-cols-3 gap-6 text-left mt-10">
+                <div class="p-6 border-l-4 border-blue-500 bg-blue-50 rounded-r-lg">
+                    <h4 class="font-bold text-blue-900 mb-2">Round Trips</h4>
+                    <p class="text-sm text-blue-800">Ideal for vacations. The driver waits for you at destinations and
+                        brings you back.</p>
+                </div>
+                <div class="p-6 border-l-4 border-purple-500 bg-purple-50 rounded-r-lg">
+                    <h4 class="font-bold text-purple-900 mb-2">Multi-City Tours</h4>
+                    <p class="text-sm text-purple-800">Visiting multiple relatives or temples? Plan a custom route
+                        covering multiple cities.</p>
+                </div>
+                <div class="p-6 border-l-4 border-green-500 bg-green-50 rounded-r-lg">
+                    <h4 class="font-bold text-green-900 mb-2">Weekend Getaways</h4>
+                    <p class="text-sm text-green-800">Fixed price packages for popular spots like Pondicherry, Yercaud,
+                        and Yelagiri.</p>
+                </div>
+            </div>
         </div>
     </section>
 
-    <!-- WHY CHOOSE US -->
-    <section class="py-16 px-4 bg-gray-50">
+    <section class="py-20 px-4 bg-gray-50">
         <div class="max-w-6xl mx-auto">
-            <h2 class="text-3xl font-bold text-center mb-12 text-gray-900">Why Choose Fastpikcab for One Way Drop Taxi
-                in Tamil Nadu?</h2>
-            <div class="grid md:grid-cols-3 gap-8">
-                <!-- Card 1 -->
-                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
-                    <div
-                        class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center text-yellow-600 mb-4">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z">
-                            </path>
-                        </svg>
-                    </div>
-                    <h3 class="font-bold text-lg mb-2 text-gray-900">Lowest Per KM Fare</h3>
-                    <p class="text-gray-600 text-sm">Our one way drop taxi rates are among the lowest in Tamil Nadu,
-                        with transparent billing and no hidden charges.</p>
-                </div>
-                <!-- Card 2 -->
-                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
-                    <div
-                        class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center text-yellow-600 mb-4">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                        </svg>
-                    </div>
-                    <h3 class="font-bold text-lg mb-2 text-gray-900">No Return Fare</h3>
-                    <p class="text-gray-600 text-sm">You pay only for the distance you travel. We do not charge for the
-                        empty return journey.</p>
-                </div>
-                <!-- Card 3 -->
-                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
-                    <div
-                        class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center text-yellow-600 mb-4">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z">
-                            </path>
-                        </svg>
-                    </div>
-                    <h3 class="font-bold text-lg mb-2 text-gray-900">Clean & Safe Cabs</h3>
-                    <p class="text-gray-600 text-sm">All vehicles are well maintained, sanitized and driven by
-                        verified, professional drivers.</p>
-                </div>
-                <!-- Card 4 -->
-                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
-                    <div
-                        class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center text-yellow-600 mb-4">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                        </svg>
-                    </div>
-                    <h3 class="font-bold text-lg mb-2 text-gray-900">24/7 One Way Drop</h3>
-                    <p class="text-gray-600 text-sm">Early morning flight or late-night arrival? Our one way taxis are
-                        available round the clock.</p>
-                </div>
-                <!-- Card 5 -->
-                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
-                    <div
-                        class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center text-yellow-600 mb-4">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z">
-                            </path>
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
-                        </svg>
-                    </div>
-                    <h3 class="font-bold text-lg mb-2 text-gray-900">Wide Coverage in Tamil Nadu</h3>
-                    <p class="text-gray-600 text-sm">From Chennai to Coimbatore, Madurai, Trichy, Salem, and to nearby
-                        states like Bangalore and Hyderabad.</p>
-                </div>
-                <!-- Card 6 -->
-                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
-                    <div
-                        class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center text-yellow-600 mb-4">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2">
-                            </path>
-                        </svg>
-                    </div>
-                    <h3 class="font-bold text-lg mb-2 text-gray-900">Instant Booking & Live Tracking</h3>
-                    <p class="text-gray-600 text-sm">Book online in seconds and track your one way cab in real-time.
-                    </p>
-                </div>
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Why We Are Rated #1 for Outstation Travel
+                </h2>
+                <p class="text-gray-500">Don't compromise on safety and comfort for long journeys.</p>
             </div>
-        </div>
-    </section>
-
-    <!-- POPULAR ROUTES SECTION -->
-    <section id="routes" class="py-16 px-4 bg-white">
-        <div class="max-w-6xl mx-auto">
-            <h2 class="text-3xl font-bold mb-8 text-center text-gray-900">Popular One Way Drop Taxi Routes in Tamil
-                Nadu</h2>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-                <!-- From Chennai -->
-                <div>
-                    <h3 class="text-lg font-bold mb-4 flex items-center text-gray-900">
-                        <span class="bg-yellow-100 text-yellow-700 py-1 px-2 rounded text-xs mr-2">From</span> Chennai
-                    </h3>
-                    <ul class="space-y-3">
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Chennai to Coimbatore</span>
-                            <a href="{{ route('chennai-to-coimbatore') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Chennai to Madurai</span>
-                            <a href="{{ route('chennai-to-madurai') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Chennai to Trichy</span>
-                            <a href="{{ route('chennai-to-trichy') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Chennai to Salem</span>
-                            <a href="{{ route('chennai-to-salem') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center pb-2">
-                            <span class="text-gray-700">Chennai to Bangalore</span>
-                            <a href="{{ route('chennai-to-bangalore') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                    </ul>
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition duration-300 group">
+                    <div
+                        class="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 mb-6 group-hover:scale-110 transition">
+                        <i class="fas fa-route text-2xl"></i>
+                    </div>
+                    <h3 class="font-bold text-xl mb-3 text-gray-900">Expert Route Planning</h3>
+                    <p class="text-gray-600">Our drivers know the best routes, rest stops, and restaurants on highways
+                        across South India to make your journey pleasant.</p>
                 </div>
 
-                <!-- From Coimbatore -->
-                <div>
-                    <h3 class="text-lg font-bold mb-4 flex items-center text-gray-900">
-                        <span class="bg-yellow-100 text-yellow-700 py-1 px-2 rounded text-xs mr-2">From</span>
-                        Coimbatore
-                    </h3>
-                    <ul class="space-y-3">
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Coimbatore to Chennai</span>
-                            <a href="{{ route('coimbatore-to-chennai') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Coimbatore to Salem</span>
-                            <a href="{{ route('coimbatore-to-salem') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Coimbatore to Kochi</span>
-                            <a href="{{ route('coimbatore-to-kochi') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center pb-2">
-                            <span class="text-gray-700">Coimbatore to Bangalore</span>
-                            <a href="{{ route('coimbatore-to-bangalore') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                    </ul>
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition duration-300 group">
+                    <div
+                        class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center text-green-600 mb-6 group-hover:scale-110 transition">
+                        <i class="fas fa-file-invoice-dollar text-2xl"></i>
+                    </div>
+                    <h3 class="font-bold text-xl mb-3 text-gray-900">Transparent Billing</h3>
+                    <p class="text-gray-600">Clear calculations on Km charge, Driver Bata, and Tolls. We provide digital
+                        invoices instantly. No verbal haggling.</p>
                 </div>
 
-                <!-- From Madurai -->
-                <div>
-                    <h3 class="text-lg font-bold mb-4 flex items-center text-gray-900">
-                        <span class="bg-yellow-100 text-yellow-700 py-1 px-2 rounded text-xs mr-2">From</span> Madurai
-                    </h3>
-                    <ul class="space-y-3">
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Madurai to Chennai</span>
-                            <a href="{{ route('madurai-to-chennai') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Madurai to Trichy</span>
-                            <a href="{{ route('madurai-to-trichy') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center border-b border-gray-100 pb-2">
-                            <span class="text-gray-700">Madurai to mayiladuthurai</span>
-                            <a href="{{ route('madurai-to-mayiladuthurai') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                        <li class="flex justify-between items-center pb-2">
-                            <span class="text-gray-700">Madurai to Puducherry</span>
-                            <a href="{{ route('madurai-to-puducherry') }}" class="text-yellow-600 hover:text-yellow-700 text-sm font-bold">Book
-                                &rarr;</a>
-                        </li>
-                    </ul>
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition duration-300 group">
+                    <div
+                        class="w-14 h-14 bg-red-100 rounded-full flex items-center justify-center text-red-600 mb-6 group-hover:scale-110 transition">
+                        <i class="fas fa-car text-2xl"></i>
+                    </div>
+                    <h3 class="font-bold text-xl mb-3 text-gray-900">Conditioned for Long Hauls</h3>
+                    <p class="text-gray-600">Our cars are regularly serviced for highway endurance. AC, Push-back seats,
+                        and ample boot space are guaranteed.</p>
                 </div>
 
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition duration-300 group">
+                    <div
+                        class="w-14 h-14 bg-yellow-100 rounded-full flex items-center justify-center text-yellow-600 mb-6 group-hover:scale-110 transition">
+                        <i class="fas fa-mountain text-2xl"></i>
+                    </div>
+                    <h3 class="font-bold text-xl mb-3 text-gray-900">Hill Station Experts</h3>
+                    <p class="text-gray-600">Driving to Ooty or Kodaikanal? We assign drivers specifically trained for
+                        steep hairpin bends and ghat roads.</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition duration-300 group">
+                    <div
+                        class="w-14 h-14 bg-purple-100 rounded-full flex items-center justify-center text-purple-600 mb-6 group-hover:scale-110 transition">
+                        <i class="fas fa-clock text-2xl"></i>
+                    </div>
+                    <h3 class="font-bold text-xl mb-3 text-gray-900">Flexible Timings</h3>
+                    <p class="text-gray-600">Start early morning to beat traffic or travel overnight. We operate 24/7 to
+                        suit your vacation schedule.</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition duration-300 group">
+                    <div
+                        class="w-14 h-14 bg-indigo-100 rounded-full flex items-center justify-center text-indigo-600 mb-6 group-hover:scale-110 transition">
+                        <i class="fas fa-headset text-2xl"></i>
+                    </div>
+                    <h3 class="font-bold text-xl mb-3 text-gray-900">Trip Support</h3>
+                    <p class="text-gray-600">Breakdown assistance and dedicated support line available throughout your
+                        outstation trip.</p>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- PRICING & HOW IT WORKS -->
-    <section id="pricing" class="py-16 px-4 bg-gray-50">
+    <section id="packages" class="py-16 px-4 bg-white">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold mb-10 text-center text-gray-900">Trending Outstation Destinations</h2>
+
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="rounded-xl overflow-hidden shadow-lg group relative">
+                    <img src="https://picsum.photos/seed/ooty/400/300"
+                        class="w-full h-48 object-cover transition transform group-hover:scale-110 duration-500"
+                        alt="Ooty Taxi">
+                    <div
+                        class="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-90">
+                    </div>
+                    <div class="absolute bottom-0 left-0 p-5 w-full">
+                        <h3 class="text-xl font-bold text-white mb-1">Chennai to Ooty</h3>
+                        <div class="flex justify-between items-end">
+                            <span class="text-yellow-400 text-sm"><i class="fas fa-star"></i> Hill Station
+                                Special</span>
+                            <a href="#"
+                                class="text-white bg-blue-600 hover:bg-blue-700 px-3 py-1 rounded text-sm font-medium">Book
+                                Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="rounded-xl overflow-hidden shadow-lg group relative">
+                    <img src="https://picsum.photos/seed/temple/400/300"
+                        class="w-full h-48 object-cover transition transform group-hover:scale-110 duration-500"
+                        alt="Rameshwaram Taxi">
+                    <div
+                        class="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-90">
+                    </div>
+                    <div class="absolute bottom-0 left-0 p-5 w-full">
+                        <h3 class="text-xl font-bold text-white mb-1">Pilgrimage Tour</h3>
+                        <div class="flex justify-between items-end">
+                            <span class="text-yellow-400 text-sm"><i class="fas fa-praying-hands"></i> Madurai -
+                                Rameshwaram</span>
+                            <a href="#"
+                                class="text-white bg-blue-600 hover:bg-blue-700 px-3 py-1 rounded text-sm font-medium">Book
+                                Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="rounded-xl overflow-hidden shadow-lg group relative">
+                    <img src="https://picsum.photos/seed/pondicherry/400/300"
+                        class="w-full h-48 object-cover transition transform group-hover:scale-110 duration-500"
+                        alt="Pondicherry Taxi">
+                    <div
+                        class="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-90">
+                    </div>
+                    <div class="absolute bottom-0 left-0 p-5 w-full">
+                        <h3 class="text-xl font-bold text-white mb-1">Weekend Vibes</h3>
+                        <div class="flex justify-between items-end">
+                            <span class="text-yellow-400 text-sm"><i class="fas fa-umbrella-beach"></i> Chennai to
+                                Pondicherry</span>
+                            <a href="#"
+                                class="text-white bg-blue-600 hover:bg-blue-700 px-3 py-1 rounded text-sm font-medium">Book
+                                Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-12 grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+                <a href="#" class="text-gray-600 hover:text-blue-600 flex items-center"><i
+                        class="fas fa-chevron-right text-xs mr-2 text-blue-400"></i> Bangalore Outstation Cabs</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600 flex items-center"><i
+                        class="fas fa-chevron-right text-xs mr-2 text-blue-400"></i> Trichy Round Trip Taxi</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600 flex items-center"><i
+                        class="fas fa-chevron-right text-xs mr-2 text-blue-400"></i> Coimbatore to Munnar</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600 flex items-center"><i
+                        class="fas fa-chevron-right text-xs mr-2 text-blue-400"></i> Chennai to Tirupati</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600 flex items-center"><i
+                        class="fas fa-chevron-right text-xs mr-2 text-blue-400"></i> Salem Intercity Taxi</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600 flex items-center"><i
+                        class="fas fa-chevron-right text-xs mr-2 text-blue-400"></i> Velankanni Cab Service</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600 flex items-center"><i
+                        class="fas fa-chevron-right text-xs mr-2 text-blue-400"></i> Yercaud Trip Taxi</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600 flex items-center"><i
+                        class="fas fa-chevron-right text-xs mr-2 text-blue-400"></i> Kodaikanal Tour Packages</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-16 px-4 bg-gray-50">
         <div class="max-w-4xl mx-auto">
-            <h2 class="text-2xl font-bold mb-6 text-center text-gray-900">How to Book Your One Way Drop Taxi</h2>
-            <div class="bg-white rounded-xl shadow-sm p-8 border border-gray-100">
-                <ol class="space-y-6">
-                    <li class="flex items-start">
-                        <span
-                            class="flex-shrink-0 w-8 h-8 bg-yellow-400 text-gray-900 font-bold rounded-full flex items-center justify-center mr-4">1</span>
-                        <div>
-                            <h4 class="font-bold text-gray-900">Enter pickup and drop city</h4>
-                            <p class="text-gray-600 text-sm">Choose from Chennai, Coimbatore, Madurai, Trichy,
-                                Bangalore, etc.</p>
-                        </div>
-                    </li>
-                    <li class="flex items-start">
-                        <span
-                            class="flex-shrink-0 w-8 h-8 bg-yellow-400 text-gray-900 font-bold rounded-full flex items-center justify-center mr-4">2</span>
-                        <div>
-                            <h4 class="font-bold text-gray-900">Select car type</h4>
-                            <p class="text-gray-600 text-sm">Hatchback, Sedan, SUV, or Tempo Traveller based on
-                                passengers and luggage.</p>
-                        </div>
-                    </li>
-                    <li class="flex items-start">
-                        <span
-                            class="flex-shrink-0 w-8 h-8 bg-yellow-400 text-gray-900 font-bold rounded-full flex items-center justify-center mr-4">3</span>
-                        <div>
-                            <h4 class="font-bold text-gray-900">Get estimated fare & Book</h4>
-                            <p class="text-gray-600 text-sm">See transparent per km pricing for your one way trip and
-                                confirm booking instantly.</p>
-                        </div>
-                    </li>
-                </ol>
-                <div class="mt-8 pt-6 border-t border-gray-100">
-                    <p class="text-center text-gray-600 text-sm">
-                        <strong>Note:</strong> Final fare includes base per km rate, driver allowance, toll and parking
-                        (if applicable).
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- FAQ SECTION -->
-    <section class="py-16 px-4 bg-white">
-        <div class="max-w-3xl mx-auto">
-            <h2 class="text-3xl font-bold text-center mb-8 text-gray-900">Frequently Asked Questions</h2>
+            <h2 class="text-3xl font-bold text-center mb-10 text-gray-900">Common Questions about Outstation Travel
+            </h2>
 
             <div class="space-y-4">
-                <div class="bg-gray-50 p-5 rounded-lg">
-                    <h3 class="font-bold text-gray-900 mb-2">What is one way drop taxi?</h3>
-                    <p class="text-gray-600 text-sm">One way drop taxi is a cab service where you pay only for a single
-                        trip from your pickup location to your destination. There is no obligation to pay for the return
-                        journey.</p>
+                <div class="bg-white p-6 rounded-lg shadow-sm border-l-4 border-blue-500">
+                    <h3 class="font-bold text-gray-900 mb-2 text-lg">How is outstation taxi billing calculated?</h3>
+                    <p class="text-gray-600 text-sm">Outstation billing is typically calculated based on a minimum km
+                        per day (usually 250km or 300km) multiplied by the per km rate. Driver allowance (Bata) is
+                        calculated per day. Tolls, parking, and state entry taxes (if crossing state borders) are extra.
+                    </p>
                 </div>
-                <div class="bg-gray-50 p-5 rounded-lg">
-                    <h3 class="font-bold text-gray-900 mb-2">How is one way drop taxi fare calculated?</h3>
-                    <p class="text-gray-600 text-sm">The fare is mostly based on per km charges for your route, plus
-                        driver allowance, tolls, and parking where applicable. Before booking, we show you an estimated
-                        fare so there are no surprises.</p>
+                <div class="bg-white p-6 rounded-lg shadow-sm border-l-4 border-blue-500">
+                    <h3 class="font-bold text-gray-900 mb-2 text-lg">What happens if my trip extends by a day?</h3>
+                    <p class="text-gray-600 text-sm">No problem! We are flexible. If you wish to extend your trip, just
+                        inform our customer support or the driver. The additional day will be charged based on the
+                        standard minimum km and driver allowance.</p>
                 </div>
-                <div class="bg-gray-50 p-5 rounded-lg">
-                    <h3 class="font-bold text-gray-900 mb-2">Can I book one way taxi from Chennai to Coimbatore?</h3>
-                    <p class="text-gray-600 text-sm">Yes, Fastpikcab offers one way drop taxi from Chennai to
-                        Coimbatore, Madurai, Trichy, Salem, Bangalore, and many other cities in Tamil Nadu and
-                        neighbouring states.</p>
+                <div class="bg-white p-6 rounded-lg shadow-sm border-l-4 border-blue-500">
+                    <h3 class="font-bold text-gray-900 mb-2 text-lg">Is food and accommodation for the driver included?
+                    </h3>
+                    <p class="text-gray-600 text-sm">No. You do not need to provide food or accommodation for the
+                        driver. The "Driver Allowance" (Bata) you pay covers their food and stay expenses. You just
+                        enjoy your holiday!</p>
                 </div>
-                <div class="bg-gray-50 p-5 rounded-lg">
-                    <h3 class="font-bold text-gray-900 mb-2">Do you provide one way airport drop in Tamil Nadu?</h3>
-                    <p class="text-gray-600 text-sm">Yes. We provide one way airport drop taxi to and from Chennai,
-                        Coimbatore, Madurai, Trichy and Bangalore airports at any time of the day.</p>
+                <div class="bg-white p-6 rounded-lg shadow-sm border-l-4 border-blue-500">
+                    <h3 class="font-bold text-gray-900 mb-2 text-lg">Do you have permit for other states like Kerala or
+                        Karnataka?</h3>
+                    <p class="text-gray-600 text-sm">Yes, our vehicles have permits to travel to all neighbouring
+                        states including Pondicherry, Kerala, Karnataka, and Andhra Pradesh. State taxes will be payable
+                        by the customer at the check post.</p>
                 </div>
             </div>
         </div>
