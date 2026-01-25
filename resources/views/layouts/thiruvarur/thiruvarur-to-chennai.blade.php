@@ -4,24 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thiruvarur to Chennai Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Thiruvarur to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and airport transfers.">
+    <title>Thiruvarur to Chennai Taxi Service | Fastpikcab</title>
+    <meta name="description" content="Book a reliable Thiruvarur to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and airport transfers.">
     <meta name="keywords" content="thiruvarur to chennai taxi, thiruvarur to chennai one way taxi, thiruvarur to chennai outstation cabs, thiruvarur to chennai taxi fare, thiruvarur to chennai cab fare, thiruvarur to chennai round trip taxi, thiruvarur to chennai car rental, thiruvarur to chennai cab booking, thiruvarur to chennai airport taxi">
-    <meta property="og:title" content="Fastpik Cab - Thiruvarur to Chennai Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Thiruvarur to Chennai Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Thiruvarur to Chennai. Book online for one-way, round-trip, or airport transfers.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/thiruvarur-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Thiruvarur to Chennai Taxi Service">
-    <meta name="twitter:description" content="Book a reliable Thiruvarur to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or airport transfers.">
+    <meta name="twitter:description" content="Book a reliable Thiruvarur to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or airport transfers.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/thiruvarur-to-chennai-drop-taxi">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -51,7 +51,7 @@
                     "areaServed": ["Thiruvarur", "Chennai"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -63,7 +63,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Thiruvarur to Chennai Taxi Service | Fastpik Cab",
+            "name": "Thiruvarur to Chennai Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Thiruvarur to Chennai. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel to the city or airport.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -111,7 +111,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4"><i class="fas fa-shield-alt text-2xl text-blue-600"></i></div>

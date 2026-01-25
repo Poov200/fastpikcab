@@ -3,27 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Perambalur Taxi Service & Outstation Cabs</title>
+    <title>Fastpikcab - Perambalur Taxi Service & Outstation Cabs</title>
     <meta name="description"
-        content="Book a reliable Perambalur taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
+        content="Book a reliable Perambalur taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Perambalur taxi service, Perambalur to Chennai taxi, Perambalur to Coimbatore taxi, Perambalur to Madurai taxi, Perambalur to Tiruchirappalli taxi, Perambalur to Salem taxi, Perambalur to Tirunelveli taxi, Perambalur to Erode taxi, Perambalur to Vellore taxi, Perambalur to Thoothukudi taxi, Perambalur to Thanjavur taxi, Perambalur to Dindigul taxi, Perambalur to Cuddalore taxi, Perambalur to Kanchipuram taxi, Perambalur to Nagercoil taxi, Perambalur to Karur taxi, Perambalur to Tiruppur taxi, Perambalur to Sivakasi taxi, Perambalur to Hosur taxi, Perambalur to Krishnagiri taxi, Perambalur to Namakkal taxi, Perambalur to Villupuram taxi, Perambalur to Pudukkottai taxi, Perambalur to Nagapattinam taxi, Perambalur to Arakkonam taxi, Perambalur to Chengalpattu taxi, Perambalur to Mayiladuthurai taxi, Perambalur to Thiruvarur taxi, Perambalur to Arani taxi, Perambalur to Ranipet taxi, Perambalur to Tenkasi taxi, Perambalur to Virudhunagar taxi, Perambalur to Ramanathapuram taxi, Perambalur to Dharmapuri taxi, Perambalur taxi fare, Perambalur cab booking">
-    <meta property="og:title" content="Fastpik Cab - Perambalur Taxi Service & Outstation Cabs">
+    <meta property="og:title" content="Fastpikcab - Perambalur Taxi Service & Outstation Cabs">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Perambalur. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/perambalur-taxi-service">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Perambalur Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Perambalur Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Perambalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Perambalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/perambalur-taxi-service">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -61,7 +61,7 @@
                     "areaServed": ["Perambalur", "Tamil Nadu"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "₹",
@@ -73,7 +73,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Perambalur Taxi Service & Outstation Cabs | Fastpik Cab",
+            "name": "Perambalur Taxi Service & Outstation Cabs | Fastpikcab",
             "description": "Book affordable and reliable taxis in Perambalur. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -151,7 +151,7 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Is it safe to travel with Fastpik Cab from Perambalur?",
+                    "name": "Is it safe to travel with Fastpikcab from Perambalur?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -189,7 +189,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

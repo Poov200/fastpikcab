@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Villupuram to tiruvannamalai Taxi Service</title>
+    <title>Fastpikcab - Villupuram to tiruvannamalai Taxi Service</title>
 
     <meta name="description"
-        content="Book a reliable Villupuram to tiruvannamalai taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your short-distance travel.">
+        content="Book a reliable Villupuram to tiruvannamalai taxi service with Fastpikcab. Get affordable one-way, round-trip, and outstation fares for your short-distance travel.">
 
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Villupuram to tiruvannamalai taxi, Villupuram to tiruvannamalai one way taxi, Villupuram to tiruvannamalai drop taxi, Villupuram to tiruvannamalai cabs, Villupuram to tiruvannamalai taxi fare, Villupuram to tiruvannamalai cab fare, Villupuram to tiruvannamalai round trip taxi, Villupuram to tiruvannamalai car rental, Villupuram to tiruvannamalai cab booking, taxi from Villupuram, cab to tiruvannamalai">
 
-    <meta property="og:title" content="Fastpik Cab - Villupuram to tiruvannamalai Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Villupuram to tiruvannamalai Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Villupuram to tiruvannamalai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Villupuram to tiruvannamalai Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Villupuram to tiruvannamalai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Villupuram to tiruvannamalai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/villupuram-to-tiruvannamalai-drop-taxi">
@@ -31,7 +31,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
                     "areaServed": ["Villupuram", "tiruvannamalai"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -82,7 +82,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Villupuram to tiruvannamalai Taxi Service | Fastpik Cab",
+            "name": "Villupuram to tiruvannamalai Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Villupuram to tiruvannamalai. Choose from sedan, SUV, and premium vehicles for a comfortable short-distance journey.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -138,7 +138,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

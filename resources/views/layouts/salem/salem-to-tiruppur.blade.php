@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Salem to Tiruppur Taxi Service</title>
+    <title>Fastpikcab - Salem to Tiruppur Taxi Service</title>
 
     <meta name="description"
-        content="Book a reliable Salem to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
+        content="Book a reliable Salem to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Salem to Tiruppur taxi, Salem to Tiruppur one way taxi, Salem to Tiruppur outstation cabs, Salem to Tiruppur taxi fare, Salem to Tiruppur cab fare, Salem to Tiruppur round trip taxi, Salem to Tiruppur car rental, Salem to Tiruppur cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Salem to Tiruppur Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Salem to Tiruppur Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Salem to Tiruppur. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Salem to Tiruppur Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Salem to Tiruppur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Salem to Tiruppur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/salem-to-tiruppur-drop-taxi">
@@ -31,7 +31,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
                     "areaServed": ["Salem", "Tiruppur"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -82,7 +82,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Salem to Tiruppur Taxi Service | Fastpik Cab",
+            "name": "Salem to Tiruppur Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Salem to Tiruppur. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -139,7 +139,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

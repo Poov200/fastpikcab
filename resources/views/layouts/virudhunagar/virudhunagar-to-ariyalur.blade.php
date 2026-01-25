@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Virudhunagar to Ariyalur Taxi Service</title>
+    <title>Fastpikcab - Virudhunagar to Ariyalur Taxi Service</title>
 
     <meta name="description"
-        content="Book a reliable Virudhunagar to Ariyalur taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel.">
+        content="Book a reliable Virudhunagar to Ariyalur taxi service with Fastpikcab. Get affordable one-way, round-trip, and outstation fares for your travel.">
 
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Virudhunagar to Ariyalur taxi, Virudhunagar to Ariyalur one way taxi, Virudhunagar to Ariyalur drop taxi, Virudhunagar to Ariyalur outstation cabs, Virudhunagar to Ariyalur taxi fare, Virudhunagar to Ariyalur cab fare, Virudhunagar to Ariyalur round trip taxi, Virudhunagar to Ariyalur car rental, Virudhunagar to Ariyalur cab booking, taxi from Virudhunagar, cab to Ariyalur">
 
-    <meta property="og:title" content="Fastpik Cab - Virudhunagar to Ariyalur Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Virudhunagar to Ariyalur Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Virudhunagar to Ariyalur. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Virudhunagar to Ariyalur Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Virudhunagar to Ariyalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Virudhunagar to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/virudhunagar-to-ariyalur-drop-taxi">
@@ -31,7 +31,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
                     "areaServed": ["Virudhunagar", "Ariyalur"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -82,7 +82,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Virudhunagar to Ariyalur Taxi Service | Fastpik Cab",
+            "name": "Virudhunagar to Ariyalur Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Virudhunagar to Ariyalur. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -138,7 +138,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

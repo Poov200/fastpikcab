@@ -3,27 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Tiruchirappalli Taxi Service & Outstation Cabs</title>
+    <title>Fastpikcab - Tiruchirappalli Taxi Service & Outstation Cabs</title>
     <meta name="description"
-        content="Book a reliable Tiruchirappalli taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
+        content="Book a reliable Tiruchirappalli taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Tiruchirappalli taxi service, Trichy to Chennai taxi, Trichy to Coimbatore taxi, Trichy to Madurai taxi, Trichy to Salem taxi, Trichy to Tirunelveli taxi, Trichy to Erode taxi, Trichy to Vellore taxi, Trichy to Thoothukudi taxi, Trichy to Thanjavur taxi, Trichy to Sivakasi taxi, Trichy to Dindigul taxi, Trichy to Cuddalore taxi, Trichy to Kanchipuram taxi, Trichy to Nagercoil taxi, Trichy to Karur taxi, Trichy to Tiruppur taxi, Trichy to Hosur taxi, Trichy to Krishnagiri taxi, Trichy to Namakkal taxi, Trichy to Villupuram taxi, Trichy to Pudukkottai taxi, Trichy to Puducherry taxi, Trichy to Nagapattinam taxi, Trichy to Arakkonam taxi, Trichy to Chengalpattu taxi, Trichy to Mayiladuthurai taxi, Trichy to Thiruvarur taxi, Trichy to Arani taxi, Trichy to Perambalur taxi, Trichy to Tenkasi taxi, Trichy to Virudhunagar taxi, Trichy to Ramanathapuram taxi, Trichy to Dharmapuri taxi, Tiruchirappalli taxi fare, Trichy cab booking">
-    <meta property="og:title" content="Fastpik Cab - Tiruchirappalli Taxi Service & Outstation Cabs">
+    <meta property="og:title" content="Fastpikcab - Tiruchirappalli Taxi Service & Outstation Cabs">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Tiruchirappalli. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/trichy-taxi-service">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Tiruchirappalli Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Tiruchirappalli Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Tiruchirappalli taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Tiruchirappalli taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/trichy-taxi-service">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -61,7 +61,7 @@
                     "areaServed": ["Tiruchirappalli", "Tamil Nadu"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "₹",
@@ -73,7 +73,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Tiruchirappalli Taxi Service & Outstation Cabs | Fastpik Cab",
+            "name": "Tiruchirappalli Taxi Service & Outstation Cabs | Fastpikcab",
             "description": "Book affordable and reliable taxis in Tiruchirappalli. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -151,7 +151,7 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Is it safe to travel with Fastpik Cab from Tiruchirappalli?",
+                    "name": "Is it safe to travel with Fastpikcab from Tiruchirappalli?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -189,7 +189,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

@@ -3,24 +3,24 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Fastpik Cab - Nagercoil to Ariyalur Taxi Service</title>
-    <meta name="description" content="Book a reliable Nagercoil to Ariyalur taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your travel." />
+    <title>Fastpikcab - Nagercoil to Ariyalur Taxi Service</title>
+    <meta name="description" content="Book a reliable Nagercoil to Ariyalur taxi service with Fastpikcab. Get affordable one-way, round-trip, and outstation fares for your travel." />
     <meta name="keywords" content="Nagercoil to Ariyalur taxi, Nagercoil to Ariyalur one way taxi, Nagercoil to Ariyalur drop taxi, Nagercoil to Ariyalur cabs, Nagercoil to Ariyalur taxi fare, Nagercoil to Ariyalur cab fare, Nagercoil to Ariyalur round trip taxi, Nagercoil to Ariyalur car rental, Nagercoil to Ariyalur cab booking, taxi from Nagercoil, cab to Ariyalur" />
-    <meta property="og:title" content="Fastpik Cab - Nagercoil to Ariyalur Taxi Service" />
+    <meta property="og:title" content="Fastpikcab - Nagercoil to Ariyalur Taxi Service" />
     <meta property="og:description" content="Reliable and affordable taxi service from Nagercoil to Ariyalur. Book online for one-way, round-trip, or outstation travel for your journey." />
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png" />
     <meta property="og:url" content="https://www.fastpikcab.com/nagercoil-to-ariyalur-drop-taxi" />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Nagercoil to Ariyalur Taxi Service" />
-    <meta name="twitter:description" content="Book a reliable Nagercoil to Ariyalur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel." />
+    <meta name="twitter:description" content="Book a reliable Nagercoil to Ariyalur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel." />
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png" />
     <link rel="canonical" href="https://www.fastpikcab.com/nagercoil-to-ariyalur-drop-taxi" />
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -50,7 +50,7 @@
                     "areaServed": ["Nagercoil", "Ariyalur"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -62,7 +62,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Nagercoil to Ariyalur Taxi Service | Fastpik Cab",
+            "name": "Nagercoil to Ariyalur Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Nagercoil to Ariyalur. Choose from sedan, SUV, and premium vehicles for a convenient journey.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -112,7 +112,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

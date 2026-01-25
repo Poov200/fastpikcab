@@ -4,24 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Virudhunagar to Puducherry Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Virudhunagar to Puducherry (Pondicherry) taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel.">
+    <title>Virudhunagar to Puducherry Taxi Service | Fastpikcab</title>
+    <meta name="description" content="Book a reliable Virudhunagar to Puducherry (Pondicherry) taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel.">
     <meta name="keywords" content="virudhunagar to puducherry taxi, virudhunagar to pondicherry taxi, virudhunagar to puducherry one way taxi, virudhunagar to puducherry outstation cabs, virudhunagar to puducherry taxi fare, virudhunagar to puducherry cab fare, virudhunagar to pondicherry cab booking">
-    <meta property="og:title" content="Fastpik Cab - Virudhunagar to Puducherry Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Virudhunagar to Puducherry Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Virudhunagar to Puducherry (Pondicherry). Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/virudhunagar-to-puducherry-drop-taxi">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Virudhunagar to Puducherry Taxi Service">
-    <meta name="twitter:description" content="Book a reliable Virudhunagar to Puducherry (Pondicherry) taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+    <meta name="twitter:description" content="Book a reliable Virudhunagar to Puducherry (Pondicherry) taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/virudhunagar-to-puducherry-drop-taxi">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -51,7 +51,7 @@
                     "areaServed": ["Virudhunagar", "Puducherry"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -63,7 +63,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Virudhunagar to Puducherry Taxi Service | Fastpik Cab",
+            "name": "Virudhunagar to Puducherry Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Virudhunagar to Puducherry. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable long-distance travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -111,7 +111,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4"><i class="fas fa-shield-alt text-2xl text-blue-600"></i></div>

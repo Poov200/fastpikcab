@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ramanathapuram Local Taxi Service</title>
+    <title>Fastpikcab - Ramanathapuram Local Taxi Service</title>
 
     <meta name="description"
-        content="Book a reliable Ramanathapuram local taxi service with Fastpik Cab. Get affordable fares for city tours, airport transfers, and local commutes. We offer comfortable cabs for your journey within Ramanathapuram.">
+        content="Book a reliable Ramanathapuram local taxi service with Fastpikcab. Get affordable fares for city tours, airport transfers, and local commutes. We offer comfortable cabs for your journey within Ramanathapuram.">
 
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ramanathapuram local taxi, Ramanathapuram city taxi, Ramanathapuram taxi service, Ramanathapuram car rental, Ramanathapuram cab booking, local cabs in Ramanathapuram, Ramanathapuram airport taxi">
 
-    <meta property="og:title" content="Fastpik Cab - Ramanathapuram Local Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Ramanathapuram Local Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable local taxi service within Ramanathapuram. Book online for city tours, airport transfers, and local commutes.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ramanathapuram Local Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Ramanathapuram local taxi service with Fastpik Cab. Get affordable fares for city tours, airport transfers, and local commutes.">
+        content="Book a reliable Ramanathapuram local taxi service with Fastpikcab. Get affordable fares for city tours, airport transfers, and local commutes.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/ramanathapuram-local-taxi">
@@ -31,7 +31,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
                     "areaServed": ["Ramanathapuram"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -82,7 +82,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Ramanathapuram Local Taxi Service | Fastpik Cab",
+            "name": "Ramanathapuram Local Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable local taxis in Ramanathapuram for city tours, airport transfers, and daily commutes.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -139,7 +139,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab for Local Travel?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab for Local Travel?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

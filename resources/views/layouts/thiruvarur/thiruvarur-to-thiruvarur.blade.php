@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thiruvarur to Thiruvarur Taxi Service | Fastpik Cab</title>
+    <title>Thiruvarur to Thiruvarur Taxi Service | Fastpikcab</title>
 
-    <meta name="description" content="Book a reliable Thiruvarur to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
+    <meta name="description" content="Book a reliable Thiruvarur to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="thiruvarur to thiruvarur taxi, thiruvarur to thiruvarur one way taxi, thiruvarur to thiruvarur outstation cabs, thiruvarur to thiruvarur taxi fare, thiruvarur to thiruvarur cab fare, thiruvarur to thiruvarur round trip taxi, thiruvarur to thiruvarur car rental, thiruvarur to thiruvarur cab booking">
 
     {{-- Open Graph Meta Tags --}}
-    <meta property="og:title" content="Fastpik Cab - Thiruvarur to Thiruvarur Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Thiruvarur to Thiruvarur Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service within Thiruvarur. Book online for local travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/thiruvarur-local-taxi">
@@ -19,7 +19,7 @@
     {{-- Twitter Meta Tags --}}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Thiruvarur to Thiruvarur Taxi Service">
-    <meta name="twitter:description" content="Book a reliable Thiruvarur local taxi service with Fastpik Cab. Get affordable fares for your city travel.">
+    <meta name="twitter:description" content="Book a reliable Thiruvarur local taxi service with Fastpikcab. Get affordable fares for your city travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/thiruvarur-local-taxi">
@@ -29,7 +29,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -59,7 +59,7 @@
                     "areaServed": ["Thiruvarur"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -71,7 +71,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Thiruvarur Local Taxi Service | Fastpik Cab",
+            "name": "Thiruvarur Local Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable local taxis in Thiruvarur. Choose from hatchback, sedan, SUV, and premium vehicles for your city travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -126,7 +126,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab for Local Travel in Thiruvarur?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab for Local Travel in Thiruvarur?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
