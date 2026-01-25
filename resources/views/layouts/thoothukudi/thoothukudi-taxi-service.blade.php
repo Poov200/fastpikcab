@@ -3,27 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thoothukudi Taxi Service & Outstation Cabs</title>
+    <title>Fastpikcab - Thoothukudi Taxi Service & Outstation Cabs</title>
     <meta name="description"
-        content="Book a reliable Thoothukudi taxi service with Fastpik Cab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
+        content="Book a reliable Thoothukudi taxi service with Fastpikcab for local and outstation travel. Get affordable fares for one-way, round-trip, and outstation travel to all major cities.">
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Thoothukudi taxi service, Thoothukudi to Chennai taxi, Thoothukudi to Coimbatore taxi, Thoothukudi to Madurai taxi, Thoothukudi to Tiruchirappalli taxi, Thoothukudi to Salem taxi, Thoothukudi to Tirunelveli taxi, Thoothukudi to Erode taxi, Thoothukudi to Vellore taxi, Thoothukudi to Thanjavur taxi, Thoothukudi to Sivakasi taxi, Thoothukudi to Dindigul taxi, Thoothukudi to Cuddalore taxi, Thoothukudi to Kanchipuram taxi, Thoothukudi to Nagercoil taxi, Thoothukudi to Karur taxi, Thoothukudi to Tiruppur taxi, Thoothukudi to Hosur taxi, Thoothukudi to Krishnagiri taxi, Thoothukudi to Namakkal taxi, Thoothukudi to Villupuram taxi, Thoothukudi to Pudukkottai taxi, Thoothukudi to Puducherry taxi, Thoothukudi to Nagapattinam taxi, Thoothukudi to Arakkonam taxi, Thoothukudi to Chengalpattu taxi, Thoothukudi to Mayiladuthurai taxi, Thoothukudi to Thiruvarur taxi, Thoothukudi to Arani taxi, Thoothukudi to Perambalur taxi, Thoothukudi to Tenkasi taxi, Thoothukudi to Virudhunagar taxi, Thoothukudi to Ramanathapuram taxi, Thoothukudi to Dharmapuri taxi, Thoothukudi taxi fare, Thoothukudi cab booking">
-    <meta property="og:title" content="Fastpik Cab - Thoothukudi Taxi Service & Outstation Cabs">
+    <meta property="og:title" content="Fastpikcab - Thoothukudi Taxi Service & Outstation Cabs">
     <meta property="og:description"
         content="Reliable and affordable taxi service in Thoothukudi. Book online for one-way, round-trip, or outstation travel to major cities.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/thoothukudi-taxi-service">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Thoothukudi Taxi Service | Fastpik Cab">
+    <meta name="twitter:title" content="Thoothukudi Taxi Service | Fastpikcab">
     <meta name="twitter:description"
-        content="Book a reliable Thoothukudi taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
+        content="Book a reliable Thoothukudi taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel to all major cities in Tamil Nadu.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/thoothukudi-taxi-service">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -61,7 +61,7 @@
                     "areaServed": ["Thoothukudi", "Tamil Nadu"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "₹",
@@ -73,7 +73,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Thoothukudi Taxi Service & Outstation Cabs | Fastpik Cab",
+            "name": "Thoothukudi Taxi Service & Outstation Cabs | Fastpikcab",
             "description": "Book affordable and reliable taxis in Thoothukudi. Choose from sedan, SUV, and premium vehicles for comfortable travel to all major cities.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -151,7 +151,7 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Is it safe to travel with Fastpik Cab from Thoothukudi?",
+                    "name": "Is it safe to travel with Fastpikcab from Thoothukudi?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Safety is our top priority. All our drivers undergo background checks, vehicles are regularly maintained and sanitized, and we use GPS tracking for all trips. Our drivers follow all traffic rules and prioritize passenger safety."
@@ -189,7 +189,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

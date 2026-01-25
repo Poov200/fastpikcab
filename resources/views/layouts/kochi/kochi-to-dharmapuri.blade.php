@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kochi to Dharmapuri Taxi Service | Fastpik Cab</title>
+    <title>Kochi to Dharmapuri Taxi Service | Fastpikcab</title>
 
-    <meta name="description" content="Book a reliable Kochi to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
+    <meta name="description" content="Book a reliable Kochi to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="kochi to dharmapuri taxi, kochi to dharmapuri one way taxi, kochi to dharmapuri outstation cabs, kochi to dharmapuri taxi fare, kochi to dharmapuri cab fare, kochi to dharmapuri round trip taxi, kochi to dharmapuri car rental, kochi to dharmapuri cab booking">
 
     {{-- Open Graph Meta Tags --}}
-    <meta property="og:title" content="Fastpik Cab - Kochi to Dharmapuri Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Kochi to Dharmapuri Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Kochi to Dharmapuri. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/kochi-to-dharmapuri-drop-taxi">
@@ -19,7 +19,7 @@
     {{-- Twitter Meta Tags --}}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Kochi to Dharmapuri Taxi Service">
-    <meta name="twitter:description" content="Book a reliable Kochi to Dharmapuri taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+    <meta name="twitter:description" content="Book a reliable Kochi to Dharmapuri taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/kochi-to-dharmapuri-drop-taxi">
@@ -29,7 +29,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -59,7 +59,7 @@
                     "areaServed": ["Kochi", "Dharmapuri"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -71,7 +71,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Kochi to Dharmapuri Taxi Service | Fastpik Cab",
+            "name": "Kochi to Dharmapuri Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Kochi to Dharmapuri. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -117,7 +117,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

@@ -4,24 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arakkonam to Chennai Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable Arakkonam to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and Chennai airport transfers from Arakkonam Junction.">
+    <title>Arakkonam to Chennai Taxi Service | Fastpikcab</title>
+    <meta name="description" content="Book a reliable Arakkonam to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and Chennai airport transfers from Arakkonam Junction.">
     <meta name="keywords" content="arakkonam to chennai taxi, arakkonam to chennai one way taxi, arakkonam to chennai outstation cabs, arakkonam to chennai taxi fare, arakkonam to chennai cab fare, arakkonam to chennai round trip taxi, arakkonam junction to chennai taxi, arakkonam to chennai cab booking, arakkonam to chennai airport taxi">
-    <meta property="og:title" content="Fastpik Cab - Arakkonam to Chennai Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Arakkonam to Chennai Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from Arakkonam to Chennai. Book online for one-way, round-trip, or airport transfers from Arakkonam Junction (AJJ).">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/arakkonam-to-chennai-drop-taxi">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Arakkonam to Chennai Taxi Service">
-    <meta name="twitter:description" content="Book a reliable Arakkonam to Chennai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or airport transfers from Arakkonam Junction.">
+    <meta name="twitter:description" content="Book a reliable Arakkonam to Chennai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or airport transfers from Arakkonam Junction.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/arakkonam-to-chennai-drop-taxi">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -51,7 +51,7 @@
                     "areaServed": ["Arakkonam", "Chennai"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -63,7 +63,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Arakkonam to Chennai Taxi Service | Fastpik Cab",
+            "name": "Arakkonam to Chennai Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Arakkonam to Chennai. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel to the city or airport.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -111,7 +111,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4"><i class="fas fa-shield-alt text-2xl text-blue-600"></i></div>

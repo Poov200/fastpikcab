@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Pudukkottai Local Taxi Service | City Rentals & Airport Transfer</title>
+    <title>Fastpikcab - Pudukkottai Local Taxi Service | City Rentals & Airport Transfer</title>
 
     <meta name="description"
-        content="Book a reliable local taxi service in Pudukkottai with Fastpik Cab. Get affordable rates for city travel, hourly rentals, and airport/railway station transfers. Your convenient travel partner in Pudukkottai.">
+        content="Book a reliable local taxi service in Pudukkottai with Fastpikcab. Get affordable rates for city travel, hourly rentals, and airport/railway station transfers. Your convenient travel partner in Pudukkottai.">
 
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Pudukkottai local taxi, Pudukkottai city taxi, Pudukkottai taxi rental, Pudukkottai hourly taxi, Pudukkottai airport taxi, Pudukkottai railway station taxi, Pudukkottai sightseeing taxi, local cab Pudukkottai">
 
-    <meta property="og:title" content="Fastpik Cab - Pudukkottai Local Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Pudukkottai Local Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable local taxi service within Pudukkottai. Book online for city tours, hourly rentals, or quick transfers.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Pudukkottai Local Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable local taxi service in Pudukkottai with Fastpik Cab. Get affordable rates for city travel and hourly rentals.">
+        content="Book a reliable local taxi service in Pudukkottai with Fastpikcab. Get affordable rates for city travel and hourly rentals.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/pudukkottai-local-taxi">
@@ -31,7 +31,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
                     "areaServed": "Pudukkottai",
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -82,7 +82,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Pudukkottai Local Taxi Service | Fastpik Cab",
+            "name": "Pudukkottai Local Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis in Pudukkottai for local travel. Choose from a range of vehicles for comfortable city rides.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -139,7 +139,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab for Local Travel in Pudukkottai?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab for Local Travel in Pudukkottai?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

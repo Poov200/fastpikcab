@@ -58,39 +58,6 @@ backToTopButton.addEventListener('click', function () {
     }
   }
 })();
-var btn = document.getElementById('mobile-menu-button');
-var menu = document.getElementById('mobile-menu');
-
-// Toggle menu
-btn.addEventListener('click', function (e) {
-  e.stopPropagation();
-  menu.classList.toggle('hidden');
-});
-
-// Close menu when clicking outside
-document.addEventListener('click', function (e) {
-  var isClickInsideMenu = menu.contains(e.target);
-  var isClickOnButton = btn.contains(e.target);
-  if (!isClickInsideMenu && !isClickOnButton) {
-    menu.classList.add('hidden');
-  }
-});
-
-// Close menu when a link inside it is clicked
-var links = menu.querySelectorAll('a');
-links.forEach(function (link) {
-  link.addEventListener('click', function () {
-    menu.classList.add('hidden');
-  });
-});
-var navLinks = document.querySelectorAll('.nav-link');
-navLinks.forEach(function (link) {
-  if (link.href === window.location.href) {
-    link.classList.add('text-yellow-400', 'font-semibold');
-  } else {
-    link.classList.remove('text-yellow-400', 'font-semibold');
-  }
-});
 
 // Declare global variables to store place details from Autocomplete
 // These need to be accessible across different event listeners.
@@ -464,30 +431,6 @@ document.addEventListener('keydown', function (e) {
   if (e.key === 'F12' || e.ctrlKey && e.shiftKey && ['I', 'J', 'C', 'K'].includes(e.key) || e.ctrlKey && e.key === 'U') {
     e.preventDefault();
   }
-});
-app.controller('CabcityController', function ($scope, $http) {
-  // Initial cities array
-  $scope.cities = [{
-    name: 'Chennai',
-    destinations: ['Chennai to Bangalore', 'Chennai to Pondicherry', 'Chennai to Madurai', 'Chennai to Trichy', 'Chennai to Vellore', 'Chennai to Neyveli', 'Chennai to Karur', 'Chennai to Rameswaram', 'Chennai to Ooty', 'Chennai to Thanjavur', 'Chennai to tiruvannamalai', 'Chennai to Vaniyambadi']
-  }, {
-    name: 'Coimbatore',
-    destinations: ['Coimbatore to Chennai', 'Coimbatore to Madurai', 'Coimbatore to Ooty', 'Coimbatore to Pollachi', 'Coimbatore to Erode', 'Coimbatore to Tirupur']
-  }
-  // Add more cities here
-  ];
-
-  // Function to dynamically add a new city
-  $scope.addCity = function (cityName, destinations) {
-    var newCity = {
-      name: cityName,
-      destinations: destinations
-    };
-    $scope.cities.push(newCity);
-  };
-
-  // Example: Add a new city dynamically
-  $scope.addCity('Madurai', ['Madurai to Chennai', 'Madurai to Dindigul', 'Madurai to Tirunelveli', 'Madurai to Thoothukudi', 'Madurai to Virudhunagar']);
 });
 
 /***/ }),

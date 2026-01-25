@@ -10,13 +10,13 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Fastpik Cab - Krishnagiri to Tirupati Taxi Service</title>
+    <title>Fastpikcab - Krishnagiri to Tirupati Taxi Service</title>
 
 
 
     <meta name="description"
 
-        content="Book a reliable Krishnagiri to Tirupati taxi service with Fastpik Cab. Get affordable one-way, round-trip, and outstation fares for your pilgrimage or travel.">
+        content="Book a reliable Krishnagiri to Tirupati taxi service with Fastpikcab. Get affordable one-way, round-trip, and outstation fares for your pilgrimage or travel.">
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-    <meta property="og:title" content="Fastpik Cab - Krishnagiri to Tirupati Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Krishnagiri to Tirupati Taxi Service">
 
     <meta property="og:description"
 
@@ -46,7 +46,7 @@
 
     <meta name="twitter:description"
 
-        content="Book a reliable Krishnagiri to Tirupati taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Krishnagiri to Tirupati taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel.">
 
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
@@ -63,7 +63,7 @@
 
             "@type": "LocalBusiness",
 
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
 
             "url": "https://www.fastpikcab.com/",
 
@@ -139,7 +139,7 @@
 
                         "@type": "Organization",
 
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
 
                     }
 
@@ -163,7 +163,7 @@
 
             "@type": "WebPage",
 
-            "name": "Krishnagiri to Tirupati Taxi Service | Fastpik Cab",
+            "name": "Krishnagiri to Tirupati Taxi Service | Fastpikcab",
 
             "description": "Book affordable and reliable taxis from Krishnagiri to Tirupati for your pilgrimage. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
 
@@ -274,7 +274,7 @@
 
     <section class="mb-12 px-4 md:px-12">
 
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
 

@@ -4,24 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tiruvannamalai to Madurai Taxi Service | Fastpik Cab</title>
-    <meta name="description" content="Book a reliable tiruvannamalai to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
+    <title>tiruvannamalai to Madurai Taxi Service | Fastpikcab</title>
+    <meta name="description" content="Book a reliable tiruvannamalai to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
     <meta name="keywords" content="tiruvannamalai to madurai taxi, tiruvannamalai to madurai one way taxi, tiruvannamalai to madurai outstation cabs, tiruvannamalai to madurai taxi fare, tiruvannamalai to madurai cab fare, tiruvannamalai to madurai round trip taxi, tiruvannamalai to madurai car rental, tiruvannamalai to madurai cab booking">
-    <meta property="og:title" content="Fastpik Cab - tiruvannamalai to Madurai Taxi Service">
+    <meta property="og:title" content="Fastpikcab - tiruvannamalai to Madurai Taxi Service">
     <meta property="og:description" content="Reliable and affordable taxi service from tiruvannamalai to Madurai. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <meta property="og:url" content="https://www.fastpikcab.com/tiruvannamalai-to-madurai-drop-taxi">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="tiruvannamalai to Madurai Taxi Service">
-    <meta name="twitter:description" content="Book a reliable tiruvannamalai to Madurai taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+    <meta name="twitter:description" content="Book a reliable tiruvannamalai to Madurai taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/tiruvannamalai-to-madurai-drop-taxi">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -51,7 +51,7 @@
                     "areaServed": ["tiruvannamalai", "Madurai"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -63,7 +63,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "tiruvannamalai to Madurai Taxi Service | Fastpik Cab",
+            "name": "tiruvannamalai to Madurai Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from tiruvannamalai to Madurai. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -111,7 +111,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4"><i class="fas fa-shield-alt text-2xl text-blue-600"></i></div>

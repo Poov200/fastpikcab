@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Thiruvarur Taxi Service</title>
+    <title>Fastpikcab - Ariyalur to Thiruvarur Taxi Service</title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Thiruvarur taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
+        content="Book a reliable Ariyalur to Thiruvarur taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ariyalur to Thiruvarur taxi, Ariyalur to Thiruvarur cab, Ariyalur to Thiruvarur one way taxi, Ariyalur to Thiruvarur outstation cabs, Ariyalur to Thiruvarur taxi fare, Ariyalur to Thiruvarur cab fare, Ariyalur to Thiruvarur round trip taxi, Ariyalur to Thiruvarur car rental, Ariyalur to Thiruvarur cab booking">

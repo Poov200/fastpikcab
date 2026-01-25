@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Thanjavur Local Taxi Service</title>
+    <title>Fastpikcab - Thanjavur Local Taxi Service</title>
     <meta name="description"
-        content="Book a reliable Thanjavur local taxi service with Fastpik Cab. Get affordable fares for city tours, airport transfers, and hourly rentals. ">
+        content="Book a reliable Thanjavur local taxi service with Fastpikcab. Get affordable fares for city tours, airport transfers, and hourly rentals. ">
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Thanjavur local taxi, Thanjavur city cabs, Thanjavur taxi fare, Thanjavur cab booking, Thanjavur airport taxi, Thanjavur railway station taxi, Thanjavur car rental, taxi in Thanjavur">
-    <meta property="og:title" content="Fastpik Cab - Thanjavur Local Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Thanjavur Local Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable local taxi service in Thanjavur. Book online for city tours and local transfers.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -18,14 +18,14 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Thanjavur Local Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Thanjavur local taxi service with Fastpik Cab. Get affordable fares for city tours and local transfers.">
+        content="Book a reliable Thanjavur local taxi service with Fastpikcab. Get affordable fares for city tours and local transfers.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
     <link rel="canonical" href="https://www.fastpikcab.com/thanjavur-local-taxi">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -63,7 +63,7 @@
                     "areaServed": ["Thanjavur"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -75,7 +75,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Thanjavur Local Taxi Service | Fastpik Cab",
+            "name": "Thanjavur Local Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis in Thanjavur. Choose from hatchback, sedan, SUV, and premium vehicles for a comfortable local travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -126,7 +126,7 @@
 <body>
     @include('layouts.bookingpage')
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">

@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fastpik Cab - Ariyalur to Bangalore Taxi Service</title>
+    <title>Fastpikcab - Ariyalur to Bangalore Taxi Service</title>
 
     <meta name="description"
-        content="Book a reliable Ariyalur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, and outstation travel. ">
+        content="Book a reliable Ariyalur to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, and outstation travel. ">
 
     <meta name="keywords"
         content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, Ariyalur to Bangalore taxi, Ariyalur to Bangalore one way taxi, Ariyalur to Bangalore outstation cabs, Ariyalur to Bangalore taxi fare, Ariyalur to Bangalore cab fare, Ariyalur to Bangalore round trip taxi, Ariyalur to Bangalore car rental, Ariyalur to Bangalore cab booking">
 
-    <meta property="og:title" content="Fastpik Cab - Ariyalur to Bangalore Taxi Service">
+    <meta property="og:title" content="Fastpikcab - Ariyalur to Bangalore Taxi Service">
     <meta property="og:description"
         content="Reliable and affordable taxi service from Ariyalur to Bangalore. Book online for one-way, round-trip, or outstation travel.">
     <meta property="og:image" content="https://www.fastpikcab.com/img/heroimg.png">
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ariyalur to Bangalore Taxi Service">
     <meta name="twitter:description"
-        content="Book a reliable Ariyalur to Bangalore taxi service with Fastpik Cab. Get affordable fares for one-way, round-trip, or outstation travel.">
+        content="Book a reliable Ariyalur to Bangalore taxi service with Fastpikcab. Get affordable fares for one-way, round-trip, or outstation travel.">
     <meta name="twitter:image" content="https://www.fastpikcab.com/img/heroimg.png">
 
     <link rel="canonical" href="https://www.fastpikcab.com/ariyalur-to-bangalore-drop-taxi">
@@ -31,7 +31,7 @@
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Fastpik Cab",
+            "name": "Fastpikcab",
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
@@ -69,7 +69,7 @@
                     "areaServed": ["Ariyalur", "Bangalore"],
                     "provider": {
                         "@type": "Organization",
-                        "name": "Fastpik Cab"
+                        "name": "Fastpikcab"
                     }
                 },
                 "priceCurrency": "INR",
@@ -82,7 +82,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Ariyalur to Bangalore Taxi Service | Fastpik Cab",
+            "name": "Ariyalur to Bangalore Taxi Service | Fastpikcab",
             "description": "Book affordable and reliable taxis from Ariyalur to Bangalore. Choose from sedan, SUV, and premium vehicles for a comfortable travel.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
@@ -139,7 +139,7 @@
     @include('layouts.bookingpage')
 
     <section class="mb-12 px-4 md:px-12">
-        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpik Cab?</h2>
+        <h2 class="text-3xl font-bold text-center mb-10 text-gray-800">Why Choose Fastpikcab?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-xl shadow-md text-center">
                 <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
