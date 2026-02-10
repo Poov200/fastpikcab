@@ -75,7 +75,7 @@
                     </div>
                 </div>
                 <div class="md:w-1/2">
-                    <img src="./img/heroimg.png" alt="Fastpikcab">
+                    <img src="https://res.cloudinary.com/dbakaceuy/image/upload/v1770715440/heroimg_kynxh4.png" alt="Fastpikcab">
 
                 </div>
             </div>
@@ -1355,7 +1355,7 @@
 
                 <div class="lg:col-span-1">
                     <div class="flex items-center gap-2 mb-6">
-                        <img src="../img/FastPik icon.png" alt="logo" class="h-8 w-8 text-yellow-400">
+                        <img src="https://res.cloudinary.com/dbakaceuy/image/upload/v1770715439/FastPik_icon_os68s6.png" alt="logo" class="h-8 w-8 text-yellow-400">
                         <span class="text-2xl font-bold italic text-white">Fast<span
                                 class="text-yellow-400">pikcab</span></span>
                     </div>
