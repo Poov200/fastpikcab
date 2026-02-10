@@ -3,40 +3,42 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FastpikCab | Online Taxi Booking & Cab Service</title>
 
+    <title>One Way Drop Taxi Tamil Nadu | FastpikCab - Outstation Service</title>
     <meta charset="UTF-8" />
-    <meta name="description"
-        content="Book a taxi online with FastpikCab for fast, safe, and affordable rides. Your trusted local cab service for airport transfers, and reliable taxi booking." />
-    <meta name="keywords"
-        content="Outstation Cab Service, One Way Drop Taxi, Drop Taxi Service, Outstation Taxi Booking, South India Taxi service, Cheap Taxi Service, 24/7 Cab Booking, Local Taxi, book cabs online, book taxi online, airport taxi india, cabs in india, taxi in india, car rentals, taxi, cabs, hire, rent, FastpikCab,Fastpikcab taxi booking, online taxi booking, cab service, book a cab, affordable taxi, safe rides, local cabs, airport taxi, fast taxi, reliable taxi, taxi service near me, online cab booking" />
-    <meta name="author" content="Fastpikcab" />
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://fastpikcab.com/" />
 
-    <meta property="og:title" content="Fastpikcab - Online Taxi Booking & Cab Service" />
+    <meta name="description"
+        content="Save up to 40% on outstation rides! Book One Way Drop Taxi in Tamil Nadu with FastpikCab. Reliable pickup from Chennai, Bangalore, Coimbatore, Madurai & Pondicherry. 24/7 Support." />
+
+    <meta name="keywords"
+        content="One Way Drop Taxi, Drop Taxi Tamil Nadu, Chennai Drop Taxi, Outstation Cab Service, FastpikCab, Drop Taxi Booking, Chennai to Bangalore Drop Taxi, Coimbatore One Way Taxi, Madurai Drop Taxi, Trichy Drop Taxi, Intercity Cab, Round Trip Taxi, Airport Taxi Chennai" />
+
+    <meta name="author" content="FastpikCab" />
+    <meta name="robots" content="index, follow">
+
+    <link rel="canonical" href="https://www.fastpikcab.com/" />
+
+    <meta property="og:title" content="FastpikCab - No.1 One Way Drop Taxi in Tamil Nadu" />
     <meta property="og:description"
-        content="Book your next ride with Fastpikcab — affordable, safe, and fast taxi service available online. Trusted for local, airport, and city cab bookings." />
-    <meta property="og:image" content="https://fastpikcab.com/img/FastPik%20Logo.png" />
+        content="Paying for return charges? Stop! Book One Way Drop Taxi with FastpikCab and save money. Available in Chennai, Bangalore, Kovai, Madurai." />
+    <meta property="og:image" content="https://www.fastpikcab.com/img/FastPik-Social-Share.png" />
     <meta property="og:url" content="https://www.fastpikcab.com/" />
     <meta property="og:type" content="website" />
 
-
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Fastpikcab - Trusted Online Taxi & Cab Service" />
+    <meta name="twitter:title" content="FastpikCab - Affordable Drop Taxi Service" />
     <meta name="twitter:description"
-        content="Fast and affordable cab service from Fastpik. Book your ride in minutes for safe and reliable transportation!" />
-    <meta name="twitter:image" content="https://www.fastpikcab.com/logo.png" />
+        content="Need a drop taxi? Save big on outstation trips. Book reliable one-way cabs in Tamil Nadu with FastpikCab." />
+    <meta name="twitter:image" content="https://www.fastpikcab.com/img/FastPik-Social-Share.png" />
 
     <link rel="icon" href="../img/FastPik icon.png" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="https://www.fastpikcab.com/logo.png" />
+    <link rel="apple-touch-icon" href="https://www.fastpikcab.com/img/FastPik icon.png" />
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 </head>
 
 
