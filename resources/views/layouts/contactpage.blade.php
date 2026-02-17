@@ -30,7 +30,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet" />
-   
+
  <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
  </head>
@@ -51,7 +51,7 @@
                 <div class="flex items-center">
                     <a href="#" class="flex items-center">
 
-                        <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="">
+                        <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="image">
                     </a>
                 </div>
 
