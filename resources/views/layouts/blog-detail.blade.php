@@ -95,7 +95,7 @@
             <div class="flex items-center">
                 <a href="#" class="flex items-center">
 
-                    <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="">
+                    <img style="max-width:150px; height: 55px; " src="../img/FastPik Logo.png" alt="image">
                 </a>
             </div>
 

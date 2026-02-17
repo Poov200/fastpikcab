@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="md:w-1/2">
-                <img src="./img/heroimg.png" alt="">
+                <img src="./img/heroimg.png" alt="image">
 
             </div>
         </div>
