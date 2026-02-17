@@ -94,7 +94,7 @@
                     </div>
 
                     <a href="#pricing" class="text-white hover:text-yellow-400 font-semibold transition">Pricing</a>
-                    <a href="#" class="text-white hover:text-yellow-400 font-semibold transition">Blogs</a>
+                    <a href="{{ route('blogs') }}" class="text-white hover:text-yellow-400 font-semibold transition">Blogs</a>
                     <a href="#" class="text-white hover:text-yellow-400 font-medium transition">Contact</a>
                 </div>
 
@@ -166,7 +166,7 @@
                     </div>
 
                     <a href="#pricing" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Pricing</a>
-                    <a href="#" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Blogs</a>
+                    <a href="{{ route('blogs') }}" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Blogs</a>
                     <a href="#" class="text-gray-200 hover:text-white hover:bg-gray-700 font-medium px-4 py-3 border-b border-gray-700">Contact</a>
 
                     <!-- Mobile CTA -->
