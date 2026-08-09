@@ -190,7 +190,7 @@
 
         <p class="mb-4">
             Booking your <strong>Thiruvarur to Tirunelveli taxi</strong> is simple.
-            Visit our website or call <strong>+91 88256 94157</strong>.
+            Visit our website or call <strong>+91 9344258671</strong>.
             Our support team is available <strong>24/7</strong> to help with fares, bookings, and travel guidance.
         </p>
 

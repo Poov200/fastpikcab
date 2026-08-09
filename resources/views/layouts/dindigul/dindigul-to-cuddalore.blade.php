@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dindigul to Cuddalore taxi</strong> with Fastpikcab is simple and quick.
-            Call us at <strong>+91 88256 94157</strong> or book online via our website.
+            Call us at <strong>+91 9344258671</strong> or book online via our website.
             Our customer care team is available <strong>24/7</strong> to assist you with
             bookings, fare details, and travel guidance.
         </p>

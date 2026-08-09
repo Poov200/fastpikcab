@@ -204,7 +204,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dharmapuri to Virudhunagar taxi</strong> with Fastpikcab is simple and hassle-free.
-            Call us at <strong>+91 88256 94157</strong> or book directly on our website.
+            Call us at <strong>+91 9344258671</strong> or book directly on our website.
             Our customer support team is available <strong>24/7</strong> to help with bookings,
             fare details, and travel assistance.
         </p>

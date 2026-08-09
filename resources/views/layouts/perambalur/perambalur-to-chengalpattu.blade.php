@@ -161,7 +161,7 @@
 
         <p class="mb-4">
             Booking your <strong>Perambalur to Chengalpattu cab</strong> is simple.
-            Call us at <strong>+91 88256 94157</strong> or book directly on our website.
+            Call us at <strong>+91 9344258671</strong> or book directly on our website.
             Our support team is available round-the-clock.
         </p>
 

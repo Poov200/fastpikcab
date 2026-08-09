@@ -189,7 +189,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Kochi taxi</strong> is quick and easy.
-            Call <strong>+91 88256 94157</strong> or book online instantly.
+            Call <strong>+91 9344258671</strong> or book online instantly.
             Our <strong>24/7 customer support</strong> team is always ready to assist you.
         </p>
         <p>

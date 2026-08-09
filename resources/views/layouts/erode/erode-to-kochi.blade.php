@@ -208,7 +208,7 @@
 
         <p class="mb-4">
             Booking your <strong>Erode to Kochi taxi</strong> with Fastpikcab is simple.
-            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Call us at <strong>+91 9344258671</strong> or book online through our website.
             Our dedicated customer support team is available <strong>24/7</strong> to assist you
             with bookings, fare details, and travel guidance.
         </p>

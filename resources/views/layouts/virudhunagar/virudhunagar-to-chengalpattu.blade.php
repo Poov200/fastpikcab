@@ -213,7 +213,7 @@
 
             <p class="mb-4">
                 Booking your <strong>Virudhunagar to Chengalpattu cab</strong> is simple and hassle-free.
-                Call us directly at <strong>+91 88256 94157</strong> or book online through our website
+                Call us directly at <strong>+91 9344258671</strong> or book online through our website
                 for instant confirmation.
             </p>
 

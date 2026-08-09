@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Karaikal to Ariyalur taxi</strong> is quick and simple.
-            Call <strong>+91 88256 94157</strong> or reserve online. Our customer support team is
+            Call <strong>+91 9344258671</strong> or reserve online. Our customer support team is
             available <strong>24/7</strong> to guide you with fares and bookings.
         </p>
         <p>

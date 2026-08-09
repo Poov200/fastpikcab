@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Viluppuram taxi</strong> is fast and easy.
-            Call <strong>+91 88256 94157</strong> or book online.
+            Call <strong>+91 9344258671</strong> or book online.
             Our <strong>24/7 customer support</strong> is here to help anytime.
         </p>
         <p>

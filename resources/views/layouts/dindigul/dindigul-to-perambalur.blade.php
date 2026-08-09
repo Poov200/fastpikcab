@@ -204,7 +204,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dindigul to Perambalur taxi</strong> is simple.
-            Call us at <strong>+91 88256 94157</strong> or make your booking online.
+            Call us at <strong>+91 9344258671</strong> or make your booking online.
             Our <strong>24/7 customer support</strong> is always available to help you with fares and travel guidance.
         </p>
         <p>

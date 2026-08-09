@@ -179,7 +179,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Cuddalore to Tenkasi taxi</strong> is easy.
-            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Call us at <strong>+91 9344258671</strong> or book online through our website.
             Our <strong>24/7 customer support</strong> team is always ready to assist with bookings and fare details.
         </p>
         <p>

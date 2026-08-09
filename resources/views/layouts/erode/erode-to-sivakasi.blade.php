@@ -206,7 +206,7 @@
 
         <p class="mb-4">
             Booking your <strong>Erode to Sivakasi taxi</strong> is simple and quick.
-            Call <strong>+91 88256 94157</strong> or book online through our website.
+            Call <strong>+91 9344258671</strong> or book online through our website.
             Our <strong>24/7 customer support team</strong> is always ready to help.
         </p>
 

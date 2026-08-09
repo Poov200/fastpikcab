@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Villupuram to Kanchipuram cab</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or reserve online. Our <strong>24/7 team</strong> is here to assist.
+            Call <strong>+91 9344258671</strong> or reserve online. Our <strong>24/7 team</strong> is here to assist.
         </p>
 
         <p>

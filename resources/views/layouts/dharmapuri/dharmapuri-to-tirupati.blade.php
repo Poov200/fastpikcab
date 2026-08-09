@@ -203,7 +203,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dharmapuri to Tirupati taxi</strong> with Fastpikcab is quick and easy.
-            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Call us at <strong>+91 9344258671</strong> or book online through our website.
             Our customer care team is available <strong>24/7</strong> to assist with bookings,
             fare details, and travel assistance.
         </p>

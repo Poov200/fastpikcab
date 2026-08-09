@@ -211,7 +211,7 @@
 
         <p class="mb-4">
             Booking your <strong>Chengalpattu to Puducherry taxi</strong> with Fastpikcab is quick and hassle-free.
-            You can book online on our website or call us directly at <strong>+91 88256 94157</strong>.
+            You can book online on our website or call us directly at <strong>+91 9344258671</strong>.
             Our dedicated 24/7 customer support team is always ready to help with booking, fares, and travel queries.
         </p>
 

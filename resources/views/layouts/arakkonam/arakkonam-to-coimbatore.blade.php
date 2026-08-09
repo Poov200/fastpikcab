@@ -211,7 +211,7 @@
 
             <p class="mb-4">
                 Booking your <strong>Arakkonam to Coimbatore taxi</strong> with Fastpikcab is quick and simple.
-                You can book online via our website or call us directly at <strong>+91 88256 94157</strong>.
+                You can book online via our website or call us directly at <strong>+91 9344258671</strong>.
                 Our 24/7 support team is always ready to assist you with bookings, fare details, and travel guidance.
             </p>
 

@@ -213,7 +213,7 @@
 
             <p class="mb-4">
                 Booking your <strong>Chengalpattu to Trichy taxi</strong> with Fastpikcab is quick and hassle-free.
-                You can book online through our website or call us directly at <strong>+91 88256 94157</strong>.
+                You can book online through our website or call us directly at <strong>+91 9344258671</strong>.
                 Our dedicated customer support team is available <strong>24/7</strong> to assist with bookings,
                 fare details, and travel queries.
             </p>

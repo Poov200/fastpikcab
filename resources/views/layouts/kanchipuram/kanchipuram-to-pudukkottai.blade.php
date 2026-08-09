@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Pudukkottai taxi</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or book online via our website.
+            Call <strong>+91 9344258671</strong> or book online via our website.
             Our <strong>24/7 support team</strong> is here to help with bookings and fare details.
         </p>
 

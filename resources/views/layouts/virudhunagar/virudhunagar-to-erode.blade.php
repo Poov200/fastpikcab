@@ -191,7 +191,7 @@
             </p>
             <p class="mb-4">
                 Book your <strong>Virudhunagar to Erode cab</strong> by calling
-                <strong>+91 88256 94157</strong> or booking online.
+                <strong>+91 9344258671</strong> or booking online.
             </p>
             <p>
                 Travel comfortably with Fastpikcab’s trusted taxi service.

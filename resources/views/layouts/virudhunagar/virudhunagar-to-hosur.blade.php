@@ -210,7 +210,7 @@
 
             <p class="mb-4">
                 Booking your <strong>Virudhunagar to Hosur cab</strong> is simple and quick.
-                You can book directly through our website or call <strong>+91 88256 94157</strong>
+                You can book directly through our website or call <strong>+91 9344258671</strong>
                 for instant reservations. Our dedicated 24/7 customer support team is always available to
                 help you with booking queries, pricing details, and travel guidance.
             </p>

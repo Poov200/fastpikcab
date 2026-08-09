@@ -200,7 +200,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Bangalore cab</strong> is quick and easy.
-            Just call <strong>+91 88256 94157</strong> or book online anytime.
+            Just call <strong>+91 9344258671</strong> or book online anytime.
             Our <strong>24/7 support team</strong> will guide you with bookings and fares.
         </p>
         <p>

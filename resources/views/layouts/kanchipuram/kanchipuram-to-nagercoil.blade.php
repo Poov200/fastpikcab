@@ -204,7 +204,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Nagercoil taxi</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or reserve online.
+            Call <strong>+91 9344258671</strong> or reserve online.
             Our <strong>24/7 support team</strong> is always ready to help.
         </p>
 

@@ -204,7 +204,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Tenkasi to Thoothukudi taxi</strong> is simple and quick. Book online through our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Tenkasi to Thoothukudi taxi</strong> is simple and quick. Book online through our website or call <strong>+91 9344258671</strong>.
             Our 24/7 support team will assist you with bookings and fare details.
         </p>
 

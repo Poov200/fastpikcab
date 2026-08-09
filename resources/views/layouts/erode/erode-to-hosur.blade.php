@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Erode to Hosur taxi</strong> is quick and easy.
-            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Call <strong>+91 9344258671</strong> or book online anytime.
             Our <strong>24/7 customer service</strong> is here to assist with fares, bookings, and trip details.
         </p>
         <p>

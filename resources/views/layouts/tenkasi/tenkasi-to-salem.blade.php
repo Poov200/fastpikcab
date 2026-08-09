@@ -204,7 +204,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Tenkasi to Salem taxi</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Tenkasi to Salem taxi</strong> is easy. Simply book online through our website or call <strong>+91 9344258671</strong>.
             Our 24/7 customer support is always available to help with bookings and travel guidance.
         </p>
 

@@ -207,7 +207,7 @@
 
         <p class="mb-4">
             Booking your <strong>Erode to Perambalur taxi</strong> is quick and simple.
-            Call us at <strong>+91 88256 94157</strong> or book online.
+            Call us at <strong>+91 9344258671</strong> or book online.
             Our <strong>24/7 customer support team</strong> is always available to assist.
         </p>
 

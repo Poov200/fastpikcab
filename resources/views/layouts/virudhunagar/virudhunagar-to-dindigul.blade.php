@@ -191,7 +191,7 @@
             </p>
             <p class="mb-4">
                 Book your <strong>Virudhunagar to Dindigul taxi</strong> online or call
-                <strong>+91 88256 94157</strong> for instant confirmation.
+                <strong>+91 9344258671</strong> for instant confirmation.
             </p>
             <p>
                 Fastpikcab ensures a safe, quick, and affordable trip for all passengers.

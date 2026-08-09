@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             To book your <strong>Hosur to Virudhunagar taxi</strong>,
-            call <strong>+91 88256 94157</strong> or book online easily.
+            call <strong>+91 9344258671</strong> or book online easily.
             Our <strong>24/7 support team</strong> is ready to help anytime.
         </p>
         <p>

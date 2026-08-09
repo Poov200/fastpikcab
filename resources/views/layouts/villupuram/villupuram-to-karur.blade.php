@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Villupuram to Karur taxi</strong> is easy.
-            Call <strong>+91 88256 94157</strong> or book online. Our support is available <strong>24/7</strong>.
+            Call <strong>+91 9344258671</strong> or book online. Our support is available <strong>24/7</strong>.
         </p>
 
         <p>

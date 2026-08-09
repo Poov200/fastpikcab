@@ -192,7 +192,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Ariyalur cab</strong> is easy.
-            Simply call <strong>+91 88256 94157</strong> or reserve online.
+            Simply call <strong>+91 9344258671</strong> or reserve online.
             Our <strong>24/7 customer support</strong> ensures a smooth booking process.
         </p>
         <p>

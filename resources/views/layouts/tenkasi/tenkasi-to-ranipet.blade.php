@@ -204,7 +204,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Tenkasi to Ranipet taxi</strong> is simple. You can book online on our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Tenkasi to Ranipet taxi</strong> is simple. You can book online on our website or call <strong>+91 9344258671</strong>.
             Our dedicated team is available 24/7 for support and assistance.
         </p>
 

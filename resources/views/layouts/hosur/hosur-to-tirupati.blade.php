@@ -190,7 +190,7 @@
         </p>
         <p class="mb-4">
             To book your <strong>Hosur to Tirupati taxi</strong>, call us at
-            <strong>+91 88256 94157</strong> or reserve online.
+            <strong>+91 9344258671</strong> or reserve online.
             Our <strong>customer support team</strong> is available 24/7.
         </p>
         <p>

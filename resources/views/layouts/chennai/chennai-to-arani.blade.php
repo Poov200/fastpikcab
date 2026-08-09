@@ -211,7 +211,7 @@
 
         <p class="mb-4">
             Booking your <strong>Chennai to Arani taxi</strong> with Fastpikcab is quick and simple.
-            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            You can book online via our website or call us at <strong>+91 9344258671</strong>.
             Our customer support team is available 24/7 to assist you with bookings, fares, and travel queries.
         </p>
 

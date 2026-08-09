@@ -206,7 +206,7 @@
 
         <p class="mb-4">
             Booking your <strong>Karaikal to Madurai cab</strong> is quick and simple.
-            Call <strong>+91 88256 94157</strong> or book online via our website.
+            Call <strong>+91 9344258671</strong> or book online via our website.
             Our support team is available <strong>24/7</strong> for bookings and fare details.
         </p>
 

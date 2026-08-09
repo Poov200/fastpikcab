@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Erode to Ranipet taxi</strong> is quick and simple.
-            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Call <strong>+91 9344258671</strong> or book online anytime.
             Our <strong>24/7 support</strong> team is always available for help.
         </p>
 

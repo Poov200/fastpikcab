@@ -200,7 +200,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Chengalpattu cab</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or book online through our site.
+            Call <strong>+91 9344258671</strong> or book online through our site.
             Our dedicated <strong>24/7 support</strong> ensures smooth bookings.
         </p>
         <p>

@@ -204,7 +204,7 @@
         </p>
 
         <p class="mb-4">
-            To book your <strong>Kanchipuram to Karur taxi</strong>, call <strong>+91 88256 94157</strong>
+            To book your <strong>Kanchipuram to Karur taxi</strong>, call <strong>+91 9344258671</strong>
             or book online. Our <strong>24/7 customer support</strong> team will assist you anytime.
         </p>
 

@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Kanchipuram taxi</strong> is quick and simple.
-            Call <strong>+91 88256 94157</strong> or book online through our website.
+            Call <strong>+91 9344258671</strong> or book online through our website.
             Our <strong>24/7 customer support team</strong> will assist you anytime.
         </p>
         <p>

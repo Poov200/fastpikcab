@@ -206,7 +206,7 @@
         </p>
 
         <p class="mb-4">
-            To book your <strong>Kanchipuram to Kochi taxi</strong>, call <strong>+91 88256 94157</strong>
+            To book your <strong>Kanchipuram to Kochi taxi</strong>, call <strong>+91 9344258671</strong>
             or book online. Our <strong>24/7 customer care</strong> team is available to assist you anytime.
         </p>
 

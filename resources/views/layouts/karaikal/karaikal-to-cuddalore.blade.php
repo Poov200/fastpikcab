@@ -199,7 +199,7 @@
         </p>
         <p class="mb-4">
             To book your <strong>Karaikal to Cuddalore taxi</strong>,
-            call <strong>+91 88256 94157</strong> or book online.
+            call <strong>+91 9344258671</strong> or book online.
             Our customer care is available <strong>24/7</strong>.
         </p>
         <p>

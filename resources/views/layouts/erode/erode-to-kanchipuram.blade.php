@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Erode to Kanchipuram taxi</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or book online 24/7.
+            Call <strong>+91 9344258671</strong> or book online 24/7.
             Our customer care team is always ready to help with fares, bookings, and trip details.
         </p>
         <p>

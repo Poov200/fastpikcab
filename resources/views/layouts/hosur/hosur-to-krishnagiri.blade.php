@@ -200,7 +200,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Krishnagiri taxi</strong> is fast and easy.
-            Call <strong>+91 88256 94157</strong> or book online instantly.
+            Call <strong>+91 9344258671</strong> or book online instantly.
             Our <strong>24/7 support team</strong> will assist with your booking anytime.
         </p>
         <p>

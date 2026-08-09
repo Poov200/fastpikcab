@@ -204,7 +204,7 @@
         </p>
 
         <p class="mb-4">
-            Book your <strong>Kanchipuram to Sivakasi taxi</strong> online or call <strong>+91 88256 94157</strong>.
+            Book your <strong>Kanchipuram to Sivakasi taxi</strong> online or call <strong>+91 9344258671</strong>.
             Our <strong>24/7 support team</strong> is ready to help with all queries.
         </p>
 

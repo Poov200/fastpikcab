@@ -206,7 +206,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Perambalur to Thanjavur cab</strong> is quick and easy. Book online via our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Perambalur to Thanjavur cab</strong> is quick and easy. Book online via our website or call <strong>+91 9344258671</strong>.
             Our 24/7 team is always available to assist with your booking and travel needs.
         </p>
 

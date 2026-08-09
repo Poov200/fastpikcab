@@ -169,7 +169,7 @@
 
         <p class="mb-4">
             Booking your <strong>tiruvannamalai to Erode taxi</strong> is simple.
-            Reserve online via our website or call us at <strong>+91 88256 94157</strong>.
+            Reserve online via our website or call us at <strong>+91 9344258671</strong>.
             Our dedicated support team is available 24/7 to assist with bookings, fares, and travel plans.
         </p>
 

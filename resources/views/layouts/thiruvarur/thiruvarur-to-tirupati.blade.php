@@ -190,7 +190,7 @@
 
         <p class="mb-4">
             Booking your <strong>Thiruvarur to Tirupati taxi</strong> is simple and quick.
-            Visit our website or call us at <strong>+91 88256 94157</strong> for reservations, fare details, or travel assistance.
+            Visit our website or call us at <strong>+91 9344258671</strong> for reservations, fare details, or travel assistance.
             Our customer support team is available <strong>24/7</strong>.
         </p>
 

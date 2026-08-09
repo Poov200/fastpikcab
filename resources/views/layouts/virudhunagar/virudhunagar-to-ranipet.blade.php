@@ -208,7 +208,7 @@
 
         <p class="mb-4">
             Booking your <strong>Virudhunagar to Ranipet cab</strong> is simple.
-            Book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Book online via our website or call <strong>+91 9344258671</strong> for instant assistance.
             Our 24x7 customer support team is ready to guide you with fares, routes, and customized travel options.
         </p>
 

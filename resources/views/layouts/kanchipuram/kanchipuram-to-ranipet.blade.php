@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Book your <strong>Kanchipuram to Ranipet taxi</strong> today.
-            Call <strong>+91 88256 94157</strong> or reserve online anytime.
+            Call <strong>+91 9344258671</strong> or reserve online anytime.
             Our <strong>24/7 support team</strong> is always here to help.
         </p>
 

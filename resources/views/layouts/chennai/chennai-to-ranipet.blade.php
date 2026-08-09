@@ -213,7 +213,7 @@
 
         <p class="mb-4">
             Booking your <strong>Chennai to Ranipet taxi</strong> with Fastpikcab is quick and easy.
-            Call us at <strong>+91 88256 94157</strong> or use our website for online booking.
+            Call us at <strong>+91 9344258671</strong> or use our website for online booking.
             Our dedicated customer support team is available <strong>24/7</strong> to assist you
             with bookings, fares, airport transfers, and travel guidance.
         </p>

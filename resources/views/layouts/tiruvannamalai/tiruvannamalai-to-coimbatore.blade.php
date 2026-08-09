@@ -171,7 +171,7 @@
 
         <p class="mb-4">
             Booking your <strong>tiruvannamalai to Coimbatore taxi</strong> is easy with Fastpikcab.
-            You can reserve online through our website or call us at <strong>+91 88256 94157</strong>.
+            You can reserve online through our website or call us at <strong>+91 9344258671</strong>.
             Our dedicated support team is available round the clock for assistance with bookings, fare details, and travel plans.
         </p>
 

@@ -206,7 +206,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Cuddalore taxi</strong> is quick and easy.
-            Call <strong>+91 88256 94157</strong> or book online via our website.
+            Call <strong>+91 9344258671</strong> or book online via our website.
             Our <strong>24/7 customer support</strong> is available to assist with bookings and fare details.
         </p>
 

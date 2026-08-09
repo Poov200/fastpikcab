@@ -191,7 +191,7 @@
             </p>
             <p class="mb-4">
                 Book your <strong>Virudhunagar to Dharmapuri cab</strong> easily by calling
-                <strong>+91 88256 94157</strong> or reserving online.
+                <strong>+91 9344258671</strong> or reserving online.
             </p>
             <p>
                 Enjoy a smooth and timely journey with Fastpikcab’s trusted intercity taxi service.

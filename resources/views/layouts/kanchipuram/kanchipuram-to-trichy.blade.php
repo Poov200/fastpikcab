@@ -204,7 +204,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Trichy taxi</strong> is quick.
-            Call <strong>+91 88256 94157</strong> or book online instantly.
+            Call <strong>+91 9344258671</strong> or book online instantly.
         </p>
 
         <p>

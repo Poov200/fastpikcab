@@ -200,7 +200,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Karaikal to Bangalore cab</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or book online. Our
+            Call <strong>+91 9344258671</strong> or book online. Our
             <strong>24/7 customer support</strong> is ready to assist with booking and travel queries.
         </p>
         <p>

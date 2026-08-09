@@ -219,7 +219,7 @@
 
             <p class="mb-4">
                 Booking your <strong>Chengalpattu to Salem taxi</strong> is quick and easy.
-                You can call us at <strong>+91 88256 94157</strong> or book online through our website.
+                You can call us at <strong>+91 9344258671</strong> or book online through our website.
                 Our 24/7 customer support team will assist you with fares, routes, and booking details.
             </p>
 

@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Erode to Kerala taxi</strong> is quick and easy.
-            Call us at <strong>+91 88256 94157</strong> or make an online booking anytime.
+            Call us at <strong>+91 9344258671</strong> or make an online booking anytime.
             Our <strong>24/7 customer service</strong> team is ready to help with bookings, fares, and travel details.
         </p>
 

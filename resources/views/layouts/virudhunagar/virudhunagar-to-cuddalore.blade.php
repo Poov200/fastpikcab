@@ -190,7 +190,7 @@
                 travel needs. Round-trip and one-way packages are available with transparent pricing.
             </p>
             <p class="mb-4">
-                Call us at <strong>+91 88256 94157</strong> or book online to confirm your
+                Call us at <strong>+91 9344258671</strong> or book online to confirm your
                 <strong>Virudhunagar to Cuddalore cab</strong>.
             </p>
             <p>

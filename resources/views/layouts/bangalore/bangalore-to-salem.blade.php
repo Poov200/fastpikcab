@@ -211,7 +211,7 @@
 
         <p class="mb-4">
             Booking your <strong>Bangalore to Salem taxi</strong> with Fastpikcab is easy.
-            You can book online via our website or call <strong>+91 88256 94157</strong>.
+            You can book online via our website or call <strong>+91 9344258671</strong>.
             Our 24/7 customer support team is ready to assist with bookings, fares, and travel guidance.
         </p>
 
