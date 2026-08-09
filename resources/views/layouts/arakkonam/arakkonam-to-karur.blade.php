@@ -35,7 +35,7 @@
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik%20Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
-            "telephone": "+91-8825694157",
+            "telephone": "+91-9344258671",
             "priceRange": "$$",
             "address": {
                 "@type": "PostalAddress",
@@ -197,8 +197,8 @@
                 <li><strong>Innova:</strong> ₹16 per km</li>
             </ul>
             <div class="text-center mt-8">
-                <a href="tel:+918825694157" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-xl font-semibold shadow-md">
-                    📞 Call Now to Book: +91 8825694157
+                <a href="tel:+919344258671" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-xl font-semibold shadow-md">
+                    📞 Call Now to Book: +91 9344258671
                 </a>
             </div>
         </div>

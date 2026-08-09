@@ -28,7 +28,7 @@
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik Logo.png",
             "image": "https://www.fastpikcab.com/img/kerala-hero.png",
-            "telephone": "+91-8825694157",
+            "telephone": "+91-9344258671",
             "priceRange": "$$",
             "address": {
                 "@type": "PostalAddress",
@@ -111,11 +111,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-   
+
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-   
+
     <style>
         body {
             font-family: 'Poppins', sans-serif;

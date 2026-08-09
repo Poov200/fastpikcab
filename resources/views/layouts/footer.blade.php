@@ -1,4 +1,4 @@
-<a href="https://wa.me/+918825694157" target="_blank" rel="noopener noreferrer" class="whatsapp-link">
+<a href="https://wa.me/+919344258671" target="_blank" rel="noopener noreferrer" class="whatsapp-link">
     <i class="fab fa-whatsapp"></i>
 </a>
 

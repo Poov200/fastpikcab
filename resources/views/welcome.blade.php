@@ -45,7 +45,7 @@
 <body>
 
     <div class="booking-banner">
-        <span>📞 For Immediate Booking: <a href="tel:8825694157">+91 8825694157</a></span>
+        <span>📞 For Immediate Booking: <a href="tel:9344258671">+91 9344258671</a></span>
     </div>
 
 
@@ -1161,7 +1161,7 @@
                         <li class="flex justify-between"><span class="text-gray-600">1 Day Definition</span><span
                                 class="font-medium">Calendar day (12AM–12AM)</span></li>
                         <li class="flex justify-between"><span class="text-gray-600">Call Us</span><span
-                                class="font-medium">+91 8825694157</span></li>
+                                class="font-medium">+91 9344258671</span></li>
 
                     </ul>
                 </div>
@@ -1340,7 +1340,7 @@
 
 
     <!-- Replace PHONE_NUMBER with your actual WhatsApp number in international format, without + or spaces -->
-    <a href="https://wa.me/+918825694157" target="_blank" rel="noopener noreferrer" class="whatsapp-link">
+    <a href="https://wa.me/+919344258671" target="_blank" rel="noopener noreferrer" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i>
     </a>
 
