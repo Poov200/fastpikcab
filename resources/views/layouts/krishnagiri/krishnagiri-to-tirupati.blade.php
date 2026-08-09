@@ -71,7 +71,7 @@
 
             "image": "https://www.fastpikcab.com/img/heroimg.png",
 
-            "telephone": "+91-8825694157",
+            "telephone": "+91-9344258671",
 
             "priceRange": "$$",
 

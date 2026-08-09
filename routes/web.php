@@ -304,8 +304,8 @@ Route::middleware(['admin.auth'])->group(function () {
         return view('layouts.admin.commissions');
     });
     Route::get('/admin/blog/create', function () {
-    return view('layouts.admin.blog-create');
-});
+        return view('layouts.admin.blog-create');
+    });
 });
 
 // Route::post('/admin/login', [AdminAuthController::class, 'login'])->name('admin.login');

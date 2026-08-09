@@ -1,450 +1,792 @@
 @include('layouts.navbar')
 
-<section id="booking" class="py-8 bg-gradient-to-br from-gray-50 to-gray-100" ng-app="bookingApp"
-    ng-controller="BookingController">
-    <div class="container mx-auto px-4">
-        <div class="text-center mb-6">
-            <h2 class="text-3xl font-bold text-gray-800 mb-2">Book Your Ride</h2>
-            <p class="text-gray-600 px-2">Experience hassle-free transportation with our simple booking process</p>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&family=DM+Sans:wght@300;400;500&display=swap');
+
+    :root {
+        --ink: #0f0f14;
+        --ink-light: #4a4a5a;
+        --surface: #ffffff;
+        --surface-2: #f7f7fb;
+        --surface-3: #eeeef6;
+        --accent: #3d5afe;
+        --accent-light: #e8ecff;
+        --accent-glow: rgba(61, 90, 254, 0.15);
+        --success: #00b894;
+        --success-light: #e0faf5;
+        --warning: #f59e0b;
+        --warning-light: #fef9ec;
+        --danger: #ef4444;
+        --danger-light: #fef2f2;
+        --border: #e2e2ee;
+        --radius: 14px;
+        --radius-sm: 8px;
+        --shadow-sm: 0 2px 8px rgba(0,0,0,0.06);
+        --shadow: 0 8px 32px rgba(0,0,0,0.10);
+        --shadow-lg: 0 24px 64px rgba(0,0,0,0.14);
+    }
+
+    #booking * { box-sizing: border-box; }
+
+    #booking {
+        font-family: 'DM Sans', sans-serif;
+        background: var(--surface-2);
+        min-height: 100vh;
+        padding: 48px 16px;
+    }
+
+    .bk-wrap {
+        max-width: 680px;
+        margin: 0 auto;
+    }
+
+    /* Header */
+    .bk-header {
+        text-align: center;
+        margin-bottom: 36px;
+    }
+
+    .bk-header .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: var(--accent-light);
+        color: var(--accent);
+        font-family: 'Sora', sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        padding: 6px 14px;
+        border-radius: 999px;
+        margin-bottom: 16px;
+    }
+
+    .bk-header h2 {
+        font-family: 'Sora', sans-serif;
+        font-size: clamp(28px, 5vw, 40px);
+        font-weight: 700;
+        color: var(--ink);
+        margin: 0 0 10px;
+        line-height: 1.2;
+    }
+
+    .bk-header p {
+        color: var(--ink-light);
+        font-size: 15px;
+        margin: 0;
+    }
+
+    /* Progress Bar */
+    .bk-progress {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 32px;
+        gap: 0;
+    }
+
+    .bk-step {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 6px;
+        position: relative;
+        z-index: 1;
+    }
+
+    .bk-step-dot {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        background: var(--surface);
+        border: 2px solid var(--border);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Sora', sans-serif;
+        font-size: 13px;
+        font-weight: 700;
+        color: var(--ink-light);
+        transition: all 0.3s;
+    }
+
+    .bk-step.active .bk-step-dot {
+        background: var(--accent);
+        border-color: var(--accent);
+        color: #fff;
+        box-shadow: 0 0 0 5px var(--accent-glow);
+    }
+
+    .bk-step-label {
+        font-size: 11px;
+        font-weight: 500;
+        color: var(--ink-light);
+        letter-spacing: 0.03em;
+    }
+
+    .bk-step.active .bk-step-label {
+        color: var(--accent);
+        font-weight: 600;
+    }
+
+    .bk-step-line {
+        flex: 1;
+        height: 2px;
+        background: var(--border);
+        margin: 0 6px;
+        margin-bottom: 22px;
+        max-width: 80px;
+    }
+
+    /* Card */
+    .bk-card {
+        background: var(--surface);
+        border-radius: 20px;
+        box-shadow: var(--shadow);
+        overflow: hidden;
+        border: 1px solid var(--border);
+    }
+
+    .bk-form-body {
+        padding: 32px 28px;
+    }
+
+    @media (max-width: 480px) {
+        .bk-form-body { padding: 24px 18px; }
+    }
+
+    /* Section */
+    .bk-section {
+        margin-bottom: 28px;
+    }
+
+    .bk-section-title {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-family: 'Sora', sans-serif;
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: 0.07em;
+        text-transform: uppercase;
+        color: var(--ink-light);
+        margin-bottom: 16px;
+    }
+
+    .bk-section-title .title-icon {
+        width: 28px;
+        height: 28px;
+        border-radius: 7px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+    }
+
+    .bk-divider {
+        height: 1px;
+        background: var(--border);
+        margin: 28px 0;
+    }
+
+    /* Trip Type Buttons */
+    .bk-trip-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+
+    .bk-trip-option {
+        position: relative;
+        cursor: pointer;
+    }
+
+    .bk-trip-option input[type="radio"] {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+    .bk-trip-label {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 18px 12px;
+        border: 2px solid var(--border);
+        border-radius: var(--radius);
+        background: var(--surface-2);
+        text-align: center;
+        transition: all 0.2s;
+        cursor: pointer;
+        gap: 8px;
+    }
+
+    .bk-trip-option input:checked + .bk-trip-label {
+        border-color: var(--accent);
+        background: var(--accent-light);
+        color: var(--accent);
+    }
+
+    .bk-trip-label:hover {
+        border-color: var(--accent);
+        background: var(--accent-light);
+    }
+
+    .bk-trip-icon {
+        width: 36px;
+        height: 36px;
+        border-radius: 10px;
+        background: var(--surface-3);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.2s;
+    }
+
+    .bk-trip-option input:checked + .bk-trip-label .bk-trip-icon {
+        background: var(--accent);
+    }
+
+    .bk-trip-option input:checked + .bk-trip-label .bk-trip-icon svg {
+        color: #fff;
+    }
+
+    .bk-trip-name {
+        font-family: 'Sora', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--ink);
+        transition: color 0.2s;
+    }
+
+    .bk-trip-option input:checked + .bk-trip-label .bk-trip-name {
+        color: var(--accent);
+    }
+
+    .bk-trip-desc {
+        font-size: 11px;
+        color: var(--ink-light);
+        line-height: 1.4;
+    }
+
+    /* Form Fields */
+    .bk-field {
+        margin-bottom: 16px;
+    }
+
+    .bk-field:last-child { margin-bottom: 0; }
+
+    .bk-label {
+        display: block;
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--ink);
+        margin-bottom: 6px;
+        font-family: 'Sora', sans-serif;
+    }
+
+    .bk-label .optional {
+        font-weight: 400;
+        color: var(--ink-light);
+        font-family: 'DM Sans', sans-serif;
+        font-size: 12px;
+    }
+
+    .bk-input-wrap {
+        position: relative;
+    }
+
+    .bk-input-icon {
+        position: absolute;
+        left: 14px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: var(--ink-light);
+        pointer-events: none;
+        display: flex;
+        align-items: center;
+    }
+
+    .bk-input,
+    .bk-select {
+        width: 100%;
+        padding: 13px 16px 13px 42px;
+        border: 1.5px solid var(--border);
+        border-radius: var(--radius-sm);
+        font-family: 'DM Sans', sans-serif;
+        font-size: 14px;
+        color: var(--ink);
+        background: var(--surface);
+        transition: border-color 0.2s, box-shadow 0.2s;
+        outline: none;
+        appearance: none;
+        -webkit-appearance: none;
+    }
+
+    .bk-input::placeholder { color: #b0b0c0; }
+
+    .bk-input:focus,
+    .bk-select:focus {
+        border-color: var(--accent);
+        box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+
+    .bk-select {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%234a4a5a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: right 14px center;
+        padding-right: 40px;
+        cursor: pointer;
+    }
+
+    .bk-error {
+        display: block;
+        margin-top: 5px;
+        font-size: 12px;
+        color: var(--danger);
+        font-weight: 500;
+    }
+
+    /* Two-column grid */
+    .bk-grid-2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 14px;
+    }
+
+    @media (max-width: 480px) {
+        .bk-grid-2 { grid-template-columns: 1fr; }
+        .bk-trip-grid { grid-template-columns: 1fr 1fr; }
+    }
+
+    /* Map */
+    #map {
+        width: 100%;
+        height: 220px;
+        border-radius: var(--radius-sm);
+        border: 1.5px solid var(--border);
+        margin-top: 16px;
+        overflow: hidden;
+    }
+
+    /* Summary */
+    .bk-summary {
+        background: var(--ink);
+        border-radius: var(--radius);
+        padding: 20px;
+        margin-bottom: 24px;
+    }
+
+    .bk-summary-title {
+        font-family: 'Sora', sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: rgba(255,255,255,0.5);
+        margin-bottom: 14px;
+    }
+
+    .bk-summary-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 12px 14px;
+        background: rgba(255,255,255,0.06);
+        border-radius: 8px;
+        margin-bottom: 8px;
+    }
+
+    .bk-summary-row:last-child { margin-bottom: 0; }
+
+    .bk-summary-label {
+        font-size: 13px;
+        color: rgba(255,255,255,0.55);
+        font-weight: 400;
+    }
+
+    .bk-summary-value {
+        font-family: 'Sora', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        color: #fff;
+    }
+
+    .bk-summary-price {
+        font-size: 22px;
+        font-weight: 700;
+        color: var(--warning);
+    }
+
+    /* Submit */
+    .bk-submit-btn {
+        width: 100%;
+        background: var(--accent);
+        color: #fff;
+        border: none;
+        border-radius: 12px;
+        padding: 16px 24px;
+        font-family: 'Sora', sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+        cursor: pointer;
+        transition: all 0.2s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        letter-spacing: 0.01em;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .bk-submit-btn::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: rgba(255,255,255,0);
+        transition: background 0.2s;
+    }
+
+    .bk-submit-btn:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 8px 24px rgba(61,90,254,0.35);
+    }
+
+    .bk-submit-btn:active {
+        transform: translateY(0);
+    }
+
+    /* Alert messages */
+    .bk-alert {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 14px 16px;
+        border-radius: var(--radius-sm);
+        font-size: 14px;
+        font-weight: 500;
+        margin-top: 16px;
+    }
+
+    .bk-alert-error {
+        background: var(--danger-light);
+        color: var(--danger);
+        border: 1px solid rgba(239,68,68,0.2);
+    }
+
+    .bk-alert-success {
+        background: var(--success-light);
+        color: var(--success);
+        border: 1px solid rgba(0,184,148,0.2);
+    }
+
+    /* Days select */
+    .bk-days-wrap {
+        margin-top: 16px;
+        padding: 16px;
+        background: var(--accent-light);
+        border-radius: var(--radius-sm);
+        border: 1.5px solid rgba(61,90,254,0.15);
+    }
+</style>
+
+<section id="booking" ng-app="bookingApp" ng-controller="BookingController">
+    <div class="bk-wrap">
+
+        <!-- Header -->
+        <div class="bk-header">
+            <div class="eyebrow">
+                <svg width="12" height="12" viewBox="0 0 20 20" fill="currentColor"><path d="M8 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM15 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"/><path d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1v-1h4.05a2.5 2.5 0 014.9 0H20a1 1 0 001-1v-6a1 1 0 00-.293-.707l-4-4A1 1 0 0016 3H3a1 1 0 00-1 1zm11.464 6L14 6.586V10h.464z"/></svg>
+                Cab Booking
+            </div>
+            <h2>Book Your Ride</h2>
+            <p>Fast, easy, and reliable — schedule your trip in minutes</p>
         </div>
 
-        <div class="max-w-5xl mx-auto bg-white rounded-2xl shadow-xl overflow-hidden">
-            <!-- Progress Indicator - Mobile Friendly -->
-            <div class="bg-gray-800 text-white py-3 px-4">
-                <div class="flex justify-between items-center">
-                    <div class="flex flex-col items-center">
-                        <div class="w-8 h-8 rounded-full bg-blue-500 flex items-center justify-center mb-1">
-                            <span class="font-bold text-sm">1</span>
-                        </div>
-                        <span class="text-xs">Trip</span>
-                    </div>
-                    <div class="flex-1 h-1 bg-gray-600 mx-1"></div>
-                    <div class="flex flex-col items-center">
-                        <div class="w-8 h-8 rounded-full bg-gray-600 flex items-center justify-center mb-1">
-                            <span class="font-bold text-sm">2</span>
-                        </div>
-                        <span class="text-xs">Info</span>
-                    </div>
-                    <div class="flex-1 h-1 bg-gray-600 mx-1"></div>
-                    <div class="flex flex-col items-center">
-                        <div class="w-8 h-8 rounded-full bg-gray-600 flex items-center justify-center mb-1">
-                            <span class="font-bold text-sm">3</span>
-                        </div>
-                        <span class="text-xs">Location</span>
-                    </div>
-                    <div class="flex-1 h-1 bg-gray-600 mx-1"></div>
-                    <div class="flex flex-col items-center">
-                        <div class="w-8 h-8 rounded-full bg-gray-600 flex items-center justify-center mb-1">
-                            <span class="font-bold text-sm">4</span>
-                        </div>
-                        <span class="text-xs">Complete</span>
-                    </div>
-                </div>
+        <!-- Progress -->
+        <div class="bk-progress">
+            <div class="bk-step active">
+                <div class="bk-step-dot">1</div>
+                <span class="bk-step-label">Trip</span>
             </div>
+            <div class="bk-step-line"></div>
+            <div class="bk-step">
+                <div class="bk-step-dot">2</div>
+                <span class="bk-step-label">Info</span>
+            </div>
+            <div class="bk-step-line"></div>
+            <div class="bk-step">
+                <div class="bk-step-dot">3</div>
+                <span class="bk-step-label">Location</span>
+            </div>
+            <div class="bk-step-line"></div>
+            <div class="bk-step">
+                <div class="bk-step-dot">4</div>
+                <span class="bk-step-label">Done</span>
+            </div>
+        </div>
 
-            <form name="bookingForm" class="p-4 md:p-8" ng-submit="submitBooking(bookingForm.$valid)" novalidate>
-                <!-- Trip Type Section -->
-                <div class="mb-6 p-4 bg-blue-50 rounded-xl border border-blue-100">
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
-                        <svg class="w-5 h-5 mr-2 text-blue-500" fill="currentColor" viewBox="0 0 20 20">
-                            <path
-                                d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z">
-                            </path>
-                        </svg>
+        <!-- Card -->
+        <div class="bk-card">
+            <form name="bookingForm" class="bk-form-body" ng-submit="submitBooking(bookingForm.$valid)" novalidate>
+
+                <!-- TRIP TYPE -->
+                <div class="bk-section">
+                    <div class="bk-section-title">
+                        <div class="title-icon" style="background:#e8ecff">
+                            <svg width="14" height="14" viewBox="0 0 20 20" fill="#3d5afe"><path d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z"/></svg>
+                        </div>
                         Trip Type
-                    </h3>
-                    <div class="flex flex-col space-y-3">
-                        <label
-                            class="flex items-center p-3 bg-white rounded-lg border-2 border-gray-200 cursor-pointer hover:border-blue-400 transition-colors">
-                            <input type="radio" ng-model="booking.tripType" value="oneway"
-                                ng-change="calculateassigned_amount()" class="mr-3 h-5 w-5 text-blue-600">
-                            <div>
-                                <div class="font-medium text-gray-800">One Way</div>
-                                <div class="text-sm text-gray-500">Single trip to destination</div>
+                    </div>
+
+                    <div class="bk-trip-grid">
+                        <label class="bk-trip-option">
+                            <input type="radio" ng-model="booking.tripType" value="oneway" ng-change="calculateassigned_amount()">
+                            <div class="bk-trip-label">
+                                <div class="bk-trip-icon">
+                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:#3d5afe"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+                                </div>
+                                <span class="bk-trip-name">One Way</span>
+                                <span class="bk-trip-desc">Single trip to destination</span>
                             </div>
                         </label>
-                        <label
-                            class="flex items-center p-3 bg-white rounded-lg border-2 border-gray-200 cursor-pointer hover:border-blue-400 transition-colors">
-                            <input type="radio" ng-model="booking.tripType" value="round"
-                                ng-change="calculateassigned_amount()" class="mr-3 h-5 w-5 text-blue-600">
-                            <div>
-                                <div class="font-medium text-gray-800">Round Trip</div>
-                                <div class="text-sm text-gray-500">Return trip included</div>
+
+                        <label class="bk-trip-option">
+                            <input type="radio" ng-model="booking.tripType" value="round" ng-change="calculateassigned_amount()">
+                            <div class="bk-trip-label">
+                                <div class="bk-trip-icon">
+                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:#3d5afe"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 014-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 01-4 4H3"/></svg>
+                                </div>
+                                <span class="bk-trip-name">Round Trip</span>
+                                <span class="bk-trip-desc">Return trip included</span>
                             </div>
                         </label>
                     </div>
 
-                    <div ng-show="booking.tripType === 'round'" class="mt-4">
-                        <label class="block text-gray-700 font-medium mb-2">Number of Days</label>
-                        <select name="no_of_days" ng-model="booking.no_of_days" ng-change="calculateassigned_amount()"
-                            class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                            required>
-                            <option value="">Select Days</option>
-                            <option value="1">1 Day</option>
-                            <option value="2">2 Days</option>
-                            <option value="3">3 Days</option>
-                            <option value="4">4 Days</option>
-                            <option value="5">5 Days</option>
-                        </select>
-                        <p ng-show="bookingForm.no_of_days.$invalid && bookingForm.no_of_days.$touched"
-                            class="text-red-500 text-sm mt-1">Number of days is required.</p>
+                    <div ng-show="booking.tripType === 'round'" class="bk-days-wrap">
+                        <div class="bk-field" style="margin-bottom:0">
+                            <label class="bk-label">Number of Days</label>
+                            <div class="bk-input-wrap">
+                                <span class="bk-input-icon">
+                                    <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zM4 8h12v8H4V8z" clip-rule="evenodd"/></svg>
+                                </span>
+                                <select name="no_of_days" ng-model="booking.no_of_days" ng-change="calculateassigned_amount()" class="bk-select" required>
+                                    <option value="">Select Days</option>
+                                    <option value="1">1 Day</option>
+                                    <option value="2">2 Days</option>
+                                    <option value="3">3 Days</option>
+                                    <option value="4">4 Days</option>
+                                    <option value="5">5 Days</option>
+                                </select>
+                            </div>
+                            <span ng-show="bookingForm.no_of_days.$invalid && bookingForm.no_of_days.$touched" class="bk-error">Number of days is required.</span>
+                        </div>
                     </div>
                 </div>
 
-                <!-- Personal Information Section -->
-                <div class="mb-6 p-4 bg-green-50 rounded-xl border border-green-100">
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
-                        <svg class="w-5 h-5 mr-2 text-green-500" fill="currentColor" viewBox="0 0 20 20">
-                            <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z"
-                                clip-rule="evenodd"></path>
-                        </svg>
+                <div class="bk-divider"></div>
+
+                <!-- PERSONAL INFO -->
+                <div class="bk-section">
+                    <div class="bk-section-title">
+                        <div class="title-icon" style="background:#e0faf5">
+                            <svg width="14" height="14" viewBox="0 0 20 20" fill="#00b894"><path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/></svg>
+                        </div>
                         Personal Information
-                    </h3>
-                    <div class="space-y-4">
-                        <div>
-                            <label class="block text-gray-700 font-medium mb-2">Full Name</label>
-                            <div class="relative">
-                                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                    <svg class="h-5 w-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                                        <path fill-rule="evenodd"
-                                            d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd">
-                                        </path>
-                                    </svg>
-                                </div>
-                                <input type="text" name="name" ng-model="booking.name"
-                                    placeholder="Enter your name"
-                                    class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-green-500"
-                                    required autofill-fix>
-                            </div>
-                            <p ng-show="bookingForm.name.$invalid && bookingForm.name.$touched"
-                                class="text-red-500 text-sm mt-1">Name is required.</p>
-                        </div>
+                    </div>
 
-                        <div>
-                            <label class="block text-gray-700 font-medium mb-2">Email (Optional)</label>
-                            <div class="relative">
-                                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                    <svg class="h-5 w-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                                        <path
-                                            d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z">
-                                        </path>
-                                        <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"></path>
-                                    </svg>
-                                </div>
-                                <input type="email" name="email" ng-model="booking.email"
-                                    placeholder="Enter your email"
-                                    class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-green-500"
-                                    autofill-fix>
-                            </div>
-                            <p ng-show="bookingForm.email.$invalid && bookingForm.email.$touched"
-                                class="text-red-500 text-sm mt-1">Invalid email format.</p>
+                    <div class="bk-field">
+                        <label class="bk-label">Full Name</label>
+                        <div class="bk-input-wrap">
+                            <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/></svg></span>
+                            <input type="text" name="name" ng-model="booking.name" placeholder="Enter your full name" class="bk-input" required autofill-fix>
                         </div>
+                        <span ng-show="bookingForm.name.$invalid && bookingForm.name.$touched" class="bk-error">Name is required.</span>
+                    </div>
 
-                        <div>
-                            <label class="block text-gray-700 font-medium mb-2">Contact Number</label>
-                            <div class="relative">
-                                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                    <svg class="h-5 w-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                                        <path
-                                            d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z">
-                                        </path>
-                                    </svg>
-                                </div>
-                                <input type="tel" name="contact" ng-model="booking.contact"
-                                    placeholder="Enter contact number"
-                                    class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-green-500"
-                                    required autofill-fix>
-                            </div>
-                            <p ng-show="bookingForm.contact.$invalid && bookingForm.contact.$touched"
-                                class="text-red-500 text-sm mt-1">Contact number is required.</p>
+                    <div class="bk-field">
+                        <label class="bk-label">Email <span class="optional">(Optional)</span></label>
+                        <div class="bk-input-wrap">
+                            <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"/><path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"/></svg></span>
+                            <input type="email" name="email" ng-model="booking.email" placeholder="Enter your email" class="bk-input" autofill-fix>
                         </div>
+                        <span ng-show="bookingForm.email.$invalid && bookingForm.email.$touched" class="bk-error">Invalid email format.</span>
+                    </div>
+
+                    <div class="bk-field">
+                        <label class="bk-label">Contact Number</label>
+                        <div class="bk-input-wrap">
+                            <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/></svg></span>
+                            <input type="tel" name="contact" ng-model="booking.contact" placeholder="Enter contact number" class="bk-input" required autofill-fix>
+                        </div>
+                        <span ng-show="bookingForm.contact.$invalid && bookingForm.contact.$touched" class="bk-error">Contact number is required.</span>
                     </div>
                 </div>
 
-                <!-- Location Details Section -->
-                <div class="mb-6 p-4 bg-purple-50 rounded-xl border border-purple-100">
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
-                        <svg class="w-5 h-5 mr-2 text-purple-500" fill="currentColor" viewBox="0 0 20 20">
-                            <path fill-rule="evenodd"
-                                d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
-                                clip-rule="evenodd"></path>
-                        </svg>
+                <div class="bk-divider"></div>
+
+                <!-- LOCATION -->
+                <div class="bk-section">
+                    <div class="bk-section-title">
+                        <div class="title-icon" style="background:#f3e8ff">
+                            <svg width="14" height="14" viewBox="0 0 20 20" fill="#7c3aed"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+                        </div>
                         Location Details
-                    </h3>
-                    <div class="space-y-4">
-                        <div>
-                            <label class="block text-gray-700 font-medium mb-2">Pickup Location</label>
-                            <div class="relative">
-                                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                    <svg class="h-5 w-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                                        <path fill-rule="evenodd"
-                                            d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
-                                            clip-rule="evenodd"></path>
-                                    </svg>
-                                </div>
-                                <input id="pickup" type="text" name="pickup" ng-model="booking.pickup"
-                                    placeholder="Enter pickup address"
-                                    class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500"
-                                    required autofill-fix>
-                            </div>
-                            <p ng-show="bookingForm.pickup.$invalid && bookingForm.pickup.$touched"
-                                class="text-red-500 text-sm mt-1">Pickup location is required.</p>
-                            <p ng-show="pickupRequired && !booking.pickup" class="text-red-500 text-sm mt-1">
-                                Please select a valid pickup location from the map.</p>
-                        </div>
-
-                        <div>
-                            <label class="block text-gray-700 font-medium mb-2">Drop Location</label>
-                            <div class="relative">
-                                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                    <svg class="h-5 w-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                                        <path fill-rule="evenodd"
-                                            d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
-                                            clip-rule="evenodd"></path>
-                                    </svg>
-                                </div>
-                                <input id="destination" type="text" name="destination"
-                                    ng-model="booking.destination" placeholder="Enter destination address"
-                                    class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500"
-                                    required autofill-fix>
-                            </div>
-                            <p ng-show="bookingForm.destination.$invalid && bookingForm.destination.$touched"
-                                class="text-red-500 text-sm mt-1">Drop location is required.</p>
-                            <p ng-show="dropRequired && !booking.destination" class="text-red-500 text-sm mt-1">
-                                Please select a valid drop location from the map.</p>
-                        </div>
                     </div>
 
-                    <div class="mt-6">
-                        <div id="map" class="w-full h-48 md:h-64 rounded-lg border-2 border-gray-200"></div>
+                    <div class="bk-field">
+                        <label class="bk-label">Pickup Location</label>
+                        <div class="bk-input-wrap">
+                            <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor" style="color:#00b894"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg></span>
+                            <input id="pickup" type="text" name="pickup" ng-model="booking.pickup" placeholder="Enter pickup address" class="bk-input" required autofill-fix>
+                        </div>
+                        <span ng-show="bookingForm.pickup.$invalid && bookingForm.pickup.$touched" class="bk-error">Pickup location is required.</span>
+                        <span ng-show="pickupRequired && !booking.pickup" class="bk-error">Please select a valid pickup location from the map.</span>
                     </div>
+
+                    <div class="bk-field">
+                        <label class="bk-label">Drop Location</label>
+                        <div class="bk-input-wrap">
+                            <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor" style="color:#ef4444"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg></span>
+                            <input id="destination" type="text" name="destination" ng-model="booking.destination" placeholder="Enter destination address" class="bk-input" required autofill-fix>
+                        </div>
+                        <span ng-show="bookingForm.destination.$invalid && bookingForm.destination.$touched" class="bk-error">Drop location is required.</span>
+                        <span ng-show="dropRequired && !booking.destination" class="bk-error">Please select a valid drop location from the map.</span>
+                    </div>
+
+                    <div id="map"></div>
                 </div>
 
-                <!-- Schedule & Vehicle Section -->
-                <div class="mb-6">
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="bk-divider"></div>
+
+                <!-- SCHEDULE & VEHICLE -->
+                <div class="bk-section">
+                    <div class="bk-grid-2">
                         <!-- Schedule -->
-                        <div class="p-4 bg-yellow-50 rounded-xl border border-yellow-100">
-                            <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
-                                <svg class="w-5 h-5 mr-2 text-yellow-500" fill="currentColor" viewBox="0 0 20 20">
-                                    <path fill-rule="evenodd"
-                                        d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z"
-                                        clip-rule="evenodd"></path>
-                                </svg>
+                        <div>
+                            <div class="bk-section-title">
+                                <div class="title-icon" style="background:#fef9ec">
+                                    <svg width="14" height="14" viewBox="0 0 20 20" fill="#f59e0b"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+                                </div>
                                 Schedule
-                            </h3>
-                            <div class="space-y-4">
-                                <div>
-                                    <label class="block text-gray-700 font-medium mb-2">Date</label>
-                                    <div class="relative">
-                                        <div
-                                            class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                            <svg class="h-5 w-5 text-gray-400" fill="currentColor"
-                                                viewBox="0 0 20 20">
-                                                <path fill-rule="evenodd"
-                                                    d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zM4 8h12v8H4V8z"
-                                                    clip-rule="evenodd"></path>
-                                            </svg>
-                                        </div>
-                                        <input type="date" name="date" ng-model="booking.date"
-                                            class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500"
-                                            required>
-                                    </div>
-                                    <p ng-show="bookingForm.date.$invalid && bookingForm.date.$touched"
-                                        class="text-red-500 text-sm mt-1">Date is required.</p>
-                                </div>
+                            </div>
 
-                                <div>
-                                    <label class="block text-gray-700 font-medium mb-2">Time</label>
-                                    <div class="relative">
-                                        <div
-                                            class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                            <svg class="h-5 w-5 text-gray-400" fill="currentColor"
-                                                viewBox="0 0 20 20">
-                                                <path fill-rule="evenodd"
-                                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z"
-                                                    clip-rule="evenodd"></path>
-                                            </svg>
-                                        </div>
-                                        <input type="time" name="time" ng-model="booking.time"
-                                            class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500"
-                                            required>
-                                    </div>
-                                    <p ng-show="bookingForm.time.$invalid && bookingForm.time.$touched"
-                                        class="text-red-500 text-sm mt-1">Time is required.</p>
+                            <div class="bk-field">
+                                <label class="bk-label">Date</label>
+                                <div class="bk-input-wrap">
+                                    <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zM4 8h12v8H4V8z" clip-rule="evenodd"/></svg></span>
+                                    <input type="date" name="date" ng-model="booking.date" class="bk-input" required>
                                 </div>
+                                <span ng-show="bookingForm.date.$invalid && bookingForm.date.$touched" class="bk-error">Date is required.</span>
+                            </div>
+
+                            <div class="bk-field">
+                                <label class="bk-label">Time</label>
+                                <div class="bk-input-wrap">
+                                    <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd"/></svg></span>
+                                    <input type="time" name="time" ng-model="booking.time" class="bk-input" required>
+                                </div>
+                                <span ng-show="bookingForm.time.$invalid && bookingForm.time.$touched" class="bk-error">Time is required.</span>
                             </div>
                         </div>
 
-                        <!-- Vehicle Details -->
-                        <div class="p-4 bg-red-50 rounded-xl border border-red-100">
-                            <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
-                                <svg class="w-5 h-5 mr-2 text-red-500" fill="currentColor" viewBox="0 0 20 20">
-                                    <path
-                                        d="M8 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM15 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z">
-                                    </path>
-                                    <path
-                                        d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1v-1h4.05a2.5 2.5 0 014.9 0H20a1 1 0 001-1v-6a1 1 0 00-.293-.707l-4-4A1 1 0 0016 3H3a1 1 0 00-1 1zm11.464 6L14 6.586V10h.464z">
-                                    </path>
-                                </svg>
-                                Vehicle Details
-                            </h3>
-                            <div class="space-y-4">
-                                <div>
-                                    <label class="block text-gray-700 font-medium mb-2">Vehicle Type</label>
-                                    <div class="relative">
-                                        <div
-                                            class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                            <svg class="h-5 w-5 text-gray-400" fill="currentColor"
-                                                viewBox="0 0 20 20">
-                                                <path
-                                                    d="M8 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM15 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z">
-                                                </path>
-                                                <path
-                                                    d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1v-1h4.05a2.5 2.5 0 014.9 0H20a1 1 0 001-1v-6a1 1 0 00-.293-.707l-4-4A1 1 0 0016 3H3a1 1 0 00-1 1zm11.464 6L14 6.586V10h.464z">
-                                                </path>
-                                            </svg>
-                                        </div>
-                                        <select ng-model="booking.vehicle"
-                                            class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500"
-                                            required>
-                                            <option value="">Select Vehicle</option>
-                                            <option value="Sedan">Sedan - Comfortable & Economical</option>
-                                            <option value="suv">SUV - Spacious & Powerful</option>
-                                        </select>
-                                    </div>
-                                    <p ng-show="bookingForm.vehicle.$invalid && bookingForm.vehicle.$touched"
-                                        class="text-red-500 text-sm mt-1">Vehicle type is required.</p>
+                        <!-- Vehicle -->
+                        <div>
+                            <div class="bk-section-title">
+                                <div class="title-icon" style="background:#fef2f2">
+                                    <svg width="14" height="14" viewBox="0 0 20 20" fill="#ef4444"><path d="M8 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM15 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"/><path d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1v-1h4.05a2.5 2.5 0 014.9 0H20a1 1 0 001-1v-6a1 1 0 00-.293-.707l-4-4A1 1 0 0016 3H3a1 1 0 00-1 1zm11.464 6L14 6.586V10h.464z"/></svg>
                                 </div>
+                                Vehicle
+                            </div>
 
-                                <div>
-                                    <label class="block text-gray-700 font-medium mb-2">Number of
-                                        Passengers</label>
-                                    <div class="relative">
-                                        <div
-                                            class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                            <svg class="h-5 w-5 text-gray-400" fill="currentColor"
-                                                viewBox="0 0 20 20">
-                                                <path
-                                                    d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z">
-                                                </path>
-                                            </svg>
-                                        </div>
-                                        <select name="passengers" ng-model="booking.passengers"
-                                            class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500"
-                                            required>
-                                            <option value="">Select Passengers</option>
-                                            <option value="1">1 Passenger</option>
-                                            <option value="2">2 Passengers</option>
-                                            <option value="3">3 Passengers</option>
-                                            <option value="4">4 Passengers</option>
-                                            <option value="5+">5+ Passengers</option>
-                                        </select>
-                                    </div>
-                                    <p ng-show="bookingForm.passengers.$invalid && bookingForm.passengers.$touched"
-                                        class="text-red-500 text-sm mt-1">Number of passengers is required.</p>
+                            <div class="bk-field">
+                                <label class="bk-label">Vehicle Type</label>
+                                <div class="bk-input-wrap">
+                                    <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path d="M8 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM15 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"/><path d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1v-1h4.05a2.5 2.5 0 014.9 0H20a1 1 0 001-1v-6a1 1 0 00-.293-.707l-4-4A1 1 0 0016 3H3a1 1 0 00-1 1zm11.464 6L14 6.586V10h.464z"/></svg></span>
+                                    <select name="vehicle" ng-model="booking.vehicle" class="bk-select" required>
+                                        <option value="">Select Vehicle</option>
+                                        <option value="Sedan">Sedan</option>
+                                        <option value="suv">SUV</option>
+                                    </select>
                                 </div>
+                                <span ng-show="bookingForm.vehicle.$invalid && bookingForm.vehicle.$touched" class="bk-error">Vehicle type is required.</span>
+                            </div>
+
+                            <div class="bk-field">
+                                <label class="bk-label">Passengers</label>
+                                <div class="bk-input-wrap">
+                                    <span class="bk-input-icon"><svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor"><path d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z"/></svg></span>
+                                    <select name="passengers" ng-model="booking.passengers" class="bk-select" required>
+                                        <option value="">Select</option>
+                                        <option value="1">1 Passenger</option>
+                                        <option value="2">2 Passengers</option>
+                                        <option value="3">3 Passengers</option>
+                                        <option value="4">4 Passengers</option>
+                                        <option value="5+">5+ Passengers</option>
+                                    </select>
+                                </div>
+                                <span ng-show="bookingForm.passengers.$invalid && bookingForm.passengers.$touched" class="bk-error">Passengers is required.</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Trip Summary -->
-                <div class="mb-6 p-4 bg-gray-800 text-white rounded-xl">
-                    <h3 class="text-lg font-semibold mb-3 flex items-center">
-                        <svg class="w-5 h-5 mr-2 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-                            <path
-                                d="M8.433 7.418c.155-.103.346-.196.567-.267v1.698a2.305 2.305 0 01-.567-.267C8.07 8.34 8 8.114 8 8c0-.114.07-.34.433-.582zM11 12.849v-1.698c.22.071.412.164.567.267.364.243.433.468.433.582 0 .114-.07.34-.433.582a2.305 2.305 0 01-.567.267z">
-                            </path>
-                            <path fill-rule="evenodd"
-                                d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-13a1 1 0 10-2 0v.092a4.535 4.535 0 00-1.676.662C6.602 6.234 6 7.009 6 8c0 .99.602 1.765 1.324 2.246.48.32 1.054.545 1.676.662v1.941c-.391-.127-.68-.317-.843-.504a1 1 0 10-1.51 1.31c.562.649 1.413 1.076 2.353 1.253V15a1 1 0 102 0v-.092a4.535 4.535 0 001.676-.662C13.398 13.766 14 12.991 14 12c0-.99-.602-1.765-1.324-2.246A4.535 4.535 0 0011 9.092V7.151c.391.127.68.317.843.504a1 1 0 101.511-1.31c-.563-.649-1.413-1.076-2.354-1.253V5z"
-                                clip-rule="evenodd"></path>
-                        </svg>
-                        Trip Summary
-                    </h3>
-                    <div class="space-y-3">
-                        <div class="flex items-center justify-between p-3 bg-gray-700 rounded-lg">
-                            <span class="text-gray-300">Distance:</span>
-                            <span class="font-semibold">@{{ booking.distance }}</span>
-                        </div>
-                        <div class="flex items-center justify-between p-3 bg-gray-700 rounded-lg">
-                            <span class="text-gray-300">Estimated Price:</span>
-                            <span class="font-semibold text-xl text-yellow-400">@{{ assigned_amount | currency: '₹' }}</span>
-                        </div>
+                <div class="bk-divider"></div>
+
+                <!-- SUMMARY -->
+                <div class="bk-summary">
+                    <div class="bk-summary-title">Trip Summary</div>
+                    <div class="bk-summary-row">
+                        <span class="bk-summary-label">Distance</span>
+                        <span class="bk-summary-value">@{{ booking.distance || '—' }}</span>
+                    </div>
+                    <div class="bk-summary-row">
+                        <span class="bk-summary-label">Estimated Price</span>
+                        <span class="bk-summary-value bk-summary-price">@{{ assigned_amount | currency: '₹' }}</span>
                     </div>
                 </div>
 
-                <!-- Submit Section -->
-                <div class="text-center">
-                    <p ng-show="showMissingFieldsMessage"
-                        class="text-red-500 mb-4 p-3 bg-red-50 rounded-lg inline-block text-sm">
-                        Please fill in all the required fields and select valid pickup and drop locations.
-                    </p>
+                <!-- SUBMIT -->
+                <span ng-show="showMissingFieldsMessage" class="bk-alert bk-alert-error" style="display:flex; margin-bottom:16px">
+                    <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor" flex-shrink="0"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7 4a1 1 0 11-2 0 1 1 0 012 0zm-1-9a1 1 0 00-1 1v4a1 1 0 102 0V6a1 1 0 00-1-1z" clip-rule="evenodd"/></svg>
+                    Please fill in all required fields and select valid locations.
+                </span>
 
-                    <button type="submit"
-                        class="w-full bg-gradient-to-r from-blue-600 to-indigo-700 hover:from-blue-700 hover:to-indigo-800 text-white font-bold py-4 px-8 rounded-full text-lg shadow-lg transform transition-all duration-300 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">
-                        <span ng-if="!isSubmitting" class="flex items-center justify-center">
-                            <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                <path
-                                    d="M8.433 7.418c.155-.103.346-.196.567-.267v1.698a2.305 2.305 0 01-.567-.267C8.07 8.34 8 8.114 8 8c0-.114.07-.34.433-.582zM11 12.849v-1.698c.22.071.412.164.567.267.364.243.433.468.433.582 0 .114-.07.34-.433.582a2.305 2.305 0 01-.567.267z">
-                                </path>
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-13a1 1 0 10-2 0v.092a4.535 4.535 0 00-1.676.662C6.602 6.234 6 7.009 6 8c0 .99.602 1.765 1.324 2.246.48.32 1.054.545 1.676.662v1.941c-.391-.127-.68-.317-.843-.504a1 1 0 10-1.51 1.31c.562.649 1.413 1.076 2.353 1.253V15a1 1 0 102 0v-.092a4.535 4.535 0 001.676-.662C13.398 13.766 14 12.991 14 12c0-.99-.602-1.765-1.324-2.246A4.535 4.535 0 0011 9.092V7.151c.391.127.68.317.843.504a1 1 0 101.511-1.31c-.563-.649-1.413-1.076-2.354-1.253V5z"
-                                    clip-rule="evenodd"></path>
-                            </svg>
-                            Book Your Ride Now
-                        </span>
-                        <span ng-if="isSubmitting" class="flex items-center justify-center">
-                            <svg class="animate-spin -ml-1 mr-2 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg"
-                                fill="none" viewBox="0 0 24 24">
-                                <circle class="opacity-25" cx="12" cy="12" r="10"
-                                    stroke="currentColor" stroke-width="4"></circle>
-                                <path class="opacity-75" fill="currentColor"
-                                    d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z">
-                                </path>
-                            </svg>
-                            Processing Your Booking...
-                        </span>
-                    </button>
+                <button type="submit" class="bk-submit-btn">
+                    <span ng-if="!isSubmitting">
+                        <svg width="18" height="18" viewBox="0 0 20 20" fill="currentColor"><path d="M8 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM15 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"/><path d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1v-1h4.05a2.5 2.5 0 014.9 0H20a1 1 0 001-1v-6a1 1 0 00-.293-.707l-4-4A1 1 0 0016 3H3a1 1 0 00-1 1zm11.464 6L14 6.586V10h.464z"/></svg>
+                        Confirm Booking
+                    </span>
+                    <span ng-if="isSubmitting" style="display:flex;align-items:center;gap:8px">
+                        <svg class="animate-spin" width="18" height="18" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"/></svg>
+                        Processing…
+                    </span>
+                </button>
 
-                    <div ng-show="bookingSuccess"
-                        class="mt-6 p-4 bg-green-100 text-green-700 rounded-lg inline-block">
-                        <div class="flex items-center">
-                            <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                                    clip-rule="evenodd"></path>
-                            </svg>
-                            <span class="font-semibold">Booking Successful!</span>
-                        </div>
-                    </div>
-
-                    <div ng-show="bookingError" class="mt-6 p-4 bg-red-100 text-red-700 rounded-lg inline-block">
-                        <div class="flex items-center">
-                            <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd"
-                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z"
-                                    clip-rule="evenodd"></path>
-                            </svg>
-                            <span class="font-semibold">Booking Failed. Please try again.</span>
-                        </div>
-                    </div>
+                <div ng-show="bookingSuccess" class="bk-alert bk-alert-success" style="display:flex; margin-top:16px">
+                    <svg width="18" height="18" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+                    Booking confirmed! We'll be in touch shortly.
                 </div>
+
+                <div ng-show="bookingError" class="bk-alert bk-alert-error" style="display:flex; margin-top:16px">
+                    <svg width="18" height="18" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"/></svg>
+                    Booking failed. Please try again.
+                </div>
+
             </form>
         </div>
     </div>
 </section>
 
-
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17877026034"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'AW-17877026034');
 </script>

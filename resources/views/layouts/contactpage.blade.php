@@ -39,7 +39,7 @@
 
 
     <div class="booking-banner">
-        <span>📞 For Immediate Booking: <a href="tel:1234567890">+91 8825694157</a></span>
+        <span>📞 For Immediate Booking: <a href="tel:1234567890">+91 9344258671</a></span>
     </div>
 
     <!-- Header Section -->
@@ -229,7 +229,7 @@
                                 </div>
                                 <div>
                                     <h4 class="text-lg font-medium mb-1">Call Us</h4>
-                                    <p class="text-gray-300">Booking: +91 8825694157</p>
+                                    <p class="text-gray-300">Booking: +91 9344258671</p>
                                     <p class="text-gray-300">Support: +91 9597258671</p>
                                 </div>
                             </div>

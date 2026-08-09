@@ -29,7 +29,7 @@
             "url": "https://www.fastpikcab.com/",
             "logo": "https://fastpikcab.com/img/FastPik Logo.png",
             "image": "https://www.fastpikcab.com/img/heroimg.png",
-            "telephone": "+91-8825694157",
+            "telephone": "+91-9344258671",
             "priceRange": "$$",
             "address": {
                 "@type": "PostalAddress",
