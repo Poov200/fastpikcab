@@ -206,7 +206,7 @@
 
         <p class="mb-4">
             Booking your <strong>Virudhunagar to Sivakasi cab</strong> is simple.
-            Book online via our website or call <strong>+91 88256 94157</strong> for instant assistance.
+            Book online via our website or call <strong>+91 9344258671</strong> for instant assistance.
             Our 24x7 support team is ready to help with trip planning, fare details, and customized travel options.
         </p>
 

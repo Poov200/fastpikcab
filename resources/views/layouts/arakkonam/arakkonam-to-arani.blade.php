@@ -208,7 +208,7 @@
 
             <p class="mb-4">
                 Booking with Fastpikcab is quick and easy. Reserve your taxi online or call us at
-                <strong>+91 88256 94157</strong>. Our 24/7 customer support will assist you with bookings, fare inquiries,
+                <strong>+91 9344258671</strong>. Our 24/7 customer support will assist you with bookings, fare inquiries,
                 and travel guidance.
             </p>
 

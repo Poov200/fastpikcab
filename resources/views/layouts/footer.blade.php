@@ -20,7 +20,7 @@
                         </svg>
                         <div>
                             <p class="text-xs text-gray-400">Contact number</p>
-                            <p class="font-bold text-sm">+91 88256 94157</p>
+                            <p class="font-bold text-sm">+91 9344258671</p>
                         </div>
                     </div>
 

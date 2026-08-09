@@ -205,7 +205,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Tenkasi to Sivakasi taxi</strong> is simple. Book online via our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Tenkasi to Sivakasi taxi</strong> is simple. Book online via our website or call <strong>+91 9344258671</strong>.
             Our support team is available 24/7 to assist with bookings, fares, and travel details.
         </p>
 

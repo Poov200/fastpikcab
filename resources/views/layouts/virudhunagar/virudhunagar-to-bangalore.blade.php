@@ -208,7 +208,7 @@
 
             <p class="mb-4">
                 Booking your <strong>Virudhunagar to Bangalore taxi</strong> is quick and easy.
-                Simply book online via our website or call <strong>+91 88256 94157</strong>.
+                Simply book online via our website or call <strong>+91 9344258671</strong>.
                 Our support team is available round the clock to assist with fares, routes, and booking details.
             </p>
 

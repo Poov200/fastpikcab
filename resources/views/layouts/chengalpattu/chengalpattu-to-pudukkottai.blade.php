@@ -210,7 +210,7 @@
 
             <p class="mb-4">
                 Booking a <strong>Chengalpattu to Pudukkottai taxi</strong> with Fastpikcab is quick and easy.
-                Simply call us at <strong>+91 88256 94157</strong> or book online via our website.
+                Simply call us at <strong>+91 9344258671</strong> or book online via our website.
                 Our 24/7 customer care team is always available to assist you with fares, routes,
                 and travel details.
             </p>

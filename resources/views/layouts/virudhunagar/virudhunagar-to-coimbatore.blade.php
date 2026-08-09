@@ -190,7 +190,7 @@
                     and Premium Cars for luxury travel</strong>. All cabs are AC, clean, and GPS-enabled.
             </p>
             <p class="mb-4">
-                Booking is simple – call <strong>+91 88256 94157</strong> or reserve online for
+                Booking is simple – call <strong>+91 9344258671</strong> or reserve online for
                 quick confirmation of your <strong>Virudhunagar to Coimbatore taxi</strong>.
             </p>
             <p>

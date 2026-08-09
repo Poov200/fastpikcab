@@ -204,7 +204,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Perambalur to Ranipet taxi</strong> is quick and easy. Call <strong>+91 88256 94157</strong>
+            Booking your <strong>Perambalur to Ranipet taxi</strong> is quick and easy. Call <strong>+91 9344258671</strong>
             or book online. Our 24/7 customer support ensures a smooth experience.
         </p>
 

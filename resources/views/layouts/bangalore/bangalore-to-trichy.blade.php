@@ -211,7 +211,7 @@
 
         <p class="mb-4">
             Booking your <strong>Bangalore to Trichy taxi</strong> with Fastpikcab is quick and hassle-free.
-            You can book online via our website or call us directly at <strong>+91 88256 94157</strong>.
+            You can book online via our website or call us directly at <strong>+91 9344258671</strong>.
             Our 24/7 customer support team is ready to assist with bookings, fare details, and travel guidance.
         </p>
 

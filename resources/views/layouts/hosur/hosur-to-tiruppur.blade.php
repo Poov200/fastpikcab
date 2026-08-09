@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Tiruppur taxi</strong> is easy.
-            Call <strong>+91 88256 94157</strong> or book online.
+            Call <strong>+91 9344258671</strong> or book online.
             Our <strong>24/7 customer support team</strong> is always available.
         </p>
         <p>

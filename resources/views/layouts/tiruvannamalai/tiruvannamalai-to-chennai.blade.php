@@ -171,7 +171,7 @@
 
         <p class="mb-4">
             Booking your <strong>tiruvannamalai to Chennai taxi</strong> with Fastpikcab is simple and convenient.
-            Book online via our website or call us at <strong>+91 88256 94157</strong>.
+            Book online via our website or call us at <strong>+91 9344258671</strong>.
             Our customer support is available 24/7 to assist with travel planning and booking.
         </p>
 

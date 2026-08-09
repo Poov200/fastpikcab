@@ -209,7 +209,7 @@
 
         <p class="mb-4">
             Booking your <strong>Chennai to Dharmapuri taxi</strong> with Fastpikcab is simple and fast.
-            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            You can book online via our website or call us at <strong>+91 9344258671</strong>.
             Our 24/7 customer support team is ready to help you with bookings, fares, and travel information.
         </p>
 

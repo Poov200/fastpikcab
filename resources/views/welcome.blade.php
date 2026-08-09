@@ -1369,7 +1369,7 @@
                         </svg>
                         <div>
                             <p class="text-xs text-gray-400">Contact number</p>
-                            <p class="font-bold text-sm">+91 88256 94157</p>
+                            <p class="font-bold text-sm">+91 9344258671</p>
                         </div>
                     </div>
 
@@ -1493,7 +1493,7 @@
                 </div>
 
                 <div class="text-sm text-gray-500 text-center md:text-left">
-                    © 2025 Fastpikcab Taxi Service. All rights reserved.
+                    © 2026 Fastpikcab Taxi Service. All rights reserved.
                 </div>
 
                 <div class="flex space-x-4">

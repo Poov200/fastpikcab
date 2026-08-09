@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Karaikal taxi</strong> is quick and easy.
-            Call <strong>+91 88256 94157</strong> or reserve online. Our <strong>24/7 customer care</strong>
+            Call <strong>+91 9344258671</strong> or reserve online. Our <strong>24/7 customer care</strong>
             is always available to help.
         </p>
 

@@ -210,7 +210,7 @@
 
         <p class="mb-4">
             Booking your <strong>Villupuram to Cuddalore taxi</strong> with Fastpikcab is simple.
-            Reserve online through our website or call us directly at <strong>+91 88256 94157</strong>.
+            Reserve online through our website or call us directly at <strong>+91 9344258671</strong>.
             Our customer support is available <strong>24/7</strong> to assist with fares, bookings, and travel advice.
         </p>
 

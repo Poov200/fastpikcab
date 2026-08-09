@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Tirupati taxi</strong> is quick.
-            Call <strong>+91 88256 94157</strong> or book online.
+            Call <strong>+91 9344258671</strong> or book online.
         </p>
 
         <p>

@@ -190,7 +190,7 @@
 
         <p class="mb-4">
             Booking your <strong>Thiruvarur to Thoothukudi taxi</strong> is easy.
-            You can book online on our website or call us at <strong>+91 88256 94157</strong>.
+            You can book online on our website or call us at <strong>+91 9344258671</strong>.
             Our support team is available <strong>24/7</strong> for bookings, fare details, and travel queries.
         </p>
 

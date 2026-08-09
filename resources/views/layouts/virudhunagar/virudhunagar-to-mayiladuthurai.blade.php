@@ -212,7 +212,7 @@
 
         <p class="mb-4">
             Booking your cab is simple – just visit our website or call
-            <strong>+91 88256 94157</strong> for instant booking. Our <strong>24x7 support team</strong>
+            <strong>+91 9344258671</strong> for instant booking. Our <strong>24x7 support team</strong>
             is always ready to help with trip planning, route suggestions, and budget-friendly options.
         </p>
 

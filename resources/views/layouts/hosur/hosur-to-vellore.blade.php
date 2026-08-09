@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Vellore taxi</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or book online.
+            Call <strong>+91 9344258671</strong> or book online.
             Our <strong>24/7 customer service team</strong> is always here to help.
         </p>
         <p>

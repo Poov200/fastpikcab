@@ -210,7 +210,7 @@
 
             <p class="mb-4">
                 Booking with Fastpikcab is simple and quick. You can book online through our website or call us
-                at <strong>+91 88256 94157</strong>. Our customer support team is available 24/7 to assist with
+                at <strong>+91 9344258671</strong>. Our customer support team is available 24/7 to assist with
                 bookings, fare inquiries, and travel guidance.
             </p>
 

@@ -193,7 +193,7 @@
             </p>
             <p class="mb-4">
                 Book your <strong>Virudhunagar to Chennai cab</strong> easily online or call us
-                at <strong>+91 88256 94157</strong> for instant booking confirmation.
+                at <strong>+91 9344258671</strong> for instant booking confirmation.
             </p>
             <p>
                 Enjoy a hassle-free journey with Fastpikcab’s <strong>Virudhunagar to Chennai taxi service</strong>.

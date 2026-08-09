@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Karaikal to Chengalpattu taxi</strong> is easy. Call
-            <strong>+91 88256 94157</strong> or reserve online. Our customer service team
+            <strong>+91 9344258671</strong> or reserve online. Our customer service team
             is available <strong>24/7</strong> to assist with your travel needs.
         </p>
         <p>

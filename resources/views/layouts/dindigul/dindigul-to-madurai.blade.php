@@ -205,7 +205,7 @@
             </strong>
         </p>
         <p class="mb-4">
-            To book your <strong>Dindigul to Madurai taxi</strong>, call us at <strong>+91 88256 94157</strong>
+            To book your <strong>Dindigul to Madurai taxi</strong>, call us at <strong>+91 9344258671</strong>
             or book online easily. Our <strong>24/7 support team</strong> is available to help with
             bookings, fare details, and travel assistance.
         </p>

@@ -200,7 +200,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Karaikal to Chennai cab</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or book online. Our dedicated
+            Call <strong>+91 9344258671</strong> or book online. Our dedicated
             customer support is available <strong>24/7</strong>.
         </p>
         <p>

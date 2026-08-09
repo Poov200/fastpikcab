@@ -205,7 +205,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Perambalur to Salem cab</strong> is quick and simple. Book online through our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Perambalur to Salem cab</strong> is quick and simple. Book online through our website or call <strong>+91 9344258671</strong>.
             Our customer support team is available <strong>24/7</strong> to assist with bookings and travel planning.
         </p>
 

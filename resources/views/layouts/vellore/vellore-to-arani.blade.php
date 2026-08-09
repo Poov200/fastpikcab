@@ -209,7 +209,7 @@
 
         <p class="mb-4">
             Booking your <strong>Vellore to Arani taxi</strong> with Fastpikcab is simple.
-            You can book online via our website or call us at <strong>+91 88256 94157</strong>.
+            You can book online via our website or call us at <strong>+91 9344258671</strong>.
             Our 24/7 support team will assist you with bookings, fares, and travel guidance.
         </p>
 

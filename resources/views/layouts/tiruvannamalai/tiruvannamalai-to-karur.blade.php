@@ -168,7 +168,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>tiruvannamalai to Karur taxi</strong> is quick and convenient. Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>tiruvannamalai to Karur taxi</strong> is quick and convenient. Reserve online via our website or call <strong>+91 9344258671</strong>.
             Our 24/7 support team will assist with fares, bookings, and travel planning.
         </p>
 

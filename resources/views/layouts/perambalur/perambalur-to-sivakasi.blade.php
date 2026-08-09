@@ -205,7 +205,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Perambalur to Sivakasi cab</strong> is simple. You can book online via our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Perambalur to Sivakasi cab</strong> is simple. You can book online via our website or call <strong>+91 9344258671</strong>.
             Our 24/7 team is ready to assist you with bookings and travel support.
         </p>
 

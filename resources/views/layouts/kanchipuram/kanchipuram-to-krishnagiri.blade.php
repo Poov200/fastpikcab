@@ -206,7 +206,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Krishnagiri taxi</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or book online.
+            Call <strong>+91 9344258671</strong> or book online.
             Our <strong>24/7 customer support</strong> is always available for assistance.
         </p>
 

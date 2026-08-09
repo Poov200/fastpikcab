@@ -206,7 +206,7 @@
 
         <p class="mb-4">
             Booking your <strong>Erode to Mayiladuthurai taxi</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or make your booking online anytime.
+            Call <strong>+91 9344258671</strong> or make your booking online anytime.
             Our dedicated <strong>24/7 customer support</strong> will assist you with all travel queries.
         </p>
 

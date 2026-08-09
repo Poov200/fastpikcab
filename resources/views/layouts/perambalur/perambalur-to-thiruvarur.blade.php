@@ -205,7 +205,7 @@
         </p>
 
         <p class="mb-4">
-            Booking your <strong>Perambalur to Thiruvarur cab</strong> is simple. Book online on our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Perambalur to Thiruvarur cab</strong> is simple. Book online on our website or call <strong>+91 9344258671</strong>.
             Our 24/7 customer support team will assist you with all your travel needs.
         </p>
 

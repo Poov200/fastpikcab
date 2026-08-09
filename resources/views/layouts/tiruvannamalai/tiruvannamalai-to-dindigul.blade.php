@@ -171,7 +171,7 @@
 
         <p class="mb-4">
             Booking your <strong>tiruvannamalai to Dindigul taxi</strong> with Fastpikcab is quick and convenient.
-            Book online on our website or call us directly at <strong>+91 88256 94157</strong>.
+            Book online on our website or call us directly at <strong>+91 9344258671</strong>.
             Our 24/7 customer support ensures a seamless booking process.
         </p>
 

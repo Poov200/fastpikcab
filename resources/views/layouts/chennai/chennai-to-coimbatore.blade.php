@@ -213,7 +213,7 @@
 
         <p class="mb-4">
             Booking your <strong>Chennai to Coimbatore taxi</strong> with Fastpikcab is quick and easy.
-            You can book online through our website or call us at <strong>+91 88256 94157</strong>.
+            You can book online through our website or call us at <strong>+91 9344258671</strong>.
             Our customer support team is available 24/7 to assist you with bookings, fare details, and travel queries.
         </p>
 

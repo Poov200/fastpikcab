@@ -169,7 +169,7 @@
 
         <p class="mb-4">
             Booking your <strong>tiruvannamalai to Kanchipuram taxi</strong> is quick and simple.
-            Book online on our website or call us directly at <strong>+91 88256 94157</strong>.
+            Book online on our website or call us directly at <strong>+91 9344258671</strong>.
             Our dedicated 24/7 support team is available to assist with your bookings and travel guidance.
         </p>
 

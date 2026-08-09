@@ -212,7 +212,7 @@
 
         <p class="mb-4">
             Booking your <strong>Vellore to Chennai taxi</strong> with Fastpikcab is quick and easy.
-            You can book online through our website or call us at <strong>+91 88256 94157</strong>.
+            You can book online through our website or call us at <strong>+91 9344258671</strong>.
             Our 24/7 support team is always ready to assist you with bookings, fares, and travel guidance.
         </p>
 

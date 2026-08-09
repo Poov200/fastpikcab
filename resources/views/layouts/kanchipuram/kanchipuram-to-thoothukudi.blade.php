@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Thoothukudi taxi</strong> is quick and easy.
-            Call <strong>+91 88256 94157</strong> or book online. Our <strong>24/7 support</strong>
+            Call <strong>+91 9344258671</strong> or book online. Our <strong>24/7 support</strong>
             team will assist you anytime.
         </p>
 

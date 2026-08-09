@@ -209,7 +209,7 @@
 
         <p class="mb-4">
             Booking your <strong>Virudhunagar to Salem cab</strong> is quick and easy.
-            Reserve online via our website or call <strong>+91 88256 94157</strong>.
+            Reserve online via our website or call <strong>+91 9344258671</strong>.
             Our 24x7 support team is available to assist with trip planning, fare details, and custom travel requests.
         </p>
 

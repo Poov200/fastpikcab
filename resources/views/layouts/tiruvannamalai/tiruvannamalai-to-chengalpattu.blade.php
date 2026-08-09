@@ -171,7 +171,7 @@
 
         <p class="mb-4">
             Booking your <strong>tiruvannamalai to Chengalpattu taxi</strong> with Fastpikcab is quick and simple.
-            Reserve online through our website or call us directly at <strong>+91 88256 94157</strong>.
+            Reserve online through our website or call us directly at <strong>+91 9344258671</strong>.
             Our 24/7 support team is always ready to assist with bookings, fare details, and travel guidance.
         </p>
 

@@ -204,7 +204,7 @@
 
         <p>
             Book your <strong>Virudhunagar to Karur taxi</strong> online with Fastpikcab
-            or call us at <strong>+91 88256 94157</strong>.
+            or call us at <strong>+91 9344258671</strong>.
             Enjoy reliable and affordable travel with our 24x7 customer support.
         </p>
     </div>

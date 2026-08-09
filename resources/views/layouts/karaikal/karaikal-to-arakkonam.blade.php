@@ -201,7 +201,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Karaikal to Arakkonam taxi</strong> is easy. Call
-            <strong>+91 88256 94157</strong> or book online through our website. Our
+            <strong>+91 9344258671</strong> or book online through our website. Our
             <strong>24/7 support team</strong> is available to assist with fares, bookings,
             and route guidance.
         </p>

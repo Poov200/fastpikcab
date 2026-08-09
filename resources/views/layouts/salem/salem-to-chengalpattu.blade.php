@@ -199,7 +199,7 @@
             Thiruvarur, Thoothukudi, Tirunelveli, Tirupati, Tiruppur, Trichy, Vellore, Villupuram, Virudhunagar, Bangalore, Ooty, Kerala and more.
         </p>
         <p class="mb-4">
-            Booking your <strong>Salem to Chengalpattu cab</strong> is easy. Simply book online through our website or call <strong>+91 88256 94157</strong>.
+            Booking your <strong>Salem to Chengalpattu cab</strong> is easy. Simply book online through our website or call <strong>+91 9344258671</strong>.
             Our 24/7 team is always ready to help with bookings and travel guidance.
         </p>
         <p>

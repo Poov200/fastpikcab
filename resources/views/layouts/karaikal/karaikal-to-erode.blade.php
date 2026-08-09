@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Karaikal to Erode cab</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or book online.
+            Call <strong>+91 9344258671</strong> or book online.
             Our support team is available <strong>24/7</strong>.
         </p>
 

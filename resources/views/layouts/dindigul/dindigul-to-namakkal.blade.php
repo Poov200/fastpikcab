@@ -204,7 +204,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dindigul to Namakkal taxi</strong> is quick and simple.
-            Call us at <strong>+91 88256 94157</strong> or book online anytime.
+            Call us at <strong>+91 9344258671</strong> or book online anytime.
             Our support team is available <strong>24/7</strong> to guide you with fares and bookings.
         </p>
         <p>

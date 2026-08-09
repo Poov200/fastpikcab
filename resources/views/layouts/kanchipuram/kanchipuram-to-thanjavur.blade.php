@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Thanjavur taxi</strong> is easy and quick.
-            Call <strong>+91 88256 94157</strong> or book online anytime. Our <strong>24/7 customer
+            Call <strong>+91 9344258671</strong> or book online anytime. Our <strong>24/7 customer
             support</strong> team is always available to help.
         </p>
 

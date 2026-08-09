@@ -199,7 +199,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Namakkal taxi</strong> is simple.
-            Call us at <strong>+91 88256 94157</strong> or book online.
+            Call us at <strong>+91 9344258671</strong> or book online.
             Our dedicated customer support team is available <strong>24/7</strong> for your assistance.
         </p>
         <p>

@@ -199,7 +199,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Hosur to Madurai taxi</strong> is easy.
-            Call us at <strong>+91 88256 94157</strong> or book online.
+            Call us at <strong>+91 9344258671</strong> or book online.
             Our <strong>24/7 customer support</strong> is available for all your travel needs.
         </p>
         <p>

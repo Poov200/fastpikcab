@@ -205,7 +205,7 @@
 
         <p class="mb-4">
             Booking your <strong>Virudhunagar to Trichy cab</strong> is simple.
-            Book online via our website or call <strong>+91 88256 94157</strong> for immediate assistance.
+            Book online via our website or call <strong>+91 9344258671</strong> for immediate assistance.
             Our 24x7 support team is available to guide you with fares, routes, and customized travel options.
         </p>
 

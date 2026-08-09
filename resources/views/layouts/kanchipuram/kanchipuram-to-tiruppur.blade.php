@@ -204,7 +204,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Tiruppur taxi</strong> is easy.
-            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Call <strong>+91 9344258671</strong> or book online anytime.
         </p>
 
         <p>

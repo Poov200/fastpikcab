@@ -169,7 +169,7 @@
 
         <p class="mb-4">
             Booking your <strong>tiruvannamalai to Hosur taxi</strong> is easy and convenient.
-            Book online on our website or call <strong>+91 88256 94157</strong>.
+            Book online on our website or call <strong>+91 9344258671</strong>.
             Our 24/7 customer service team is ready to assist with bookings, fares, and travel information.
         </p>
 

@@ -215,7 +215,7 @@
 
             <p class="mb-4">
                 Booking your <strong>Chengalpattu to Tenkasi taxi</strong> with Fastpikcab is quick and hassle-free.
-                Call us at <strong>+91 88256 94157</strong> or book online through our website. Our
+                Call us at <strong>+91 9344258671</strong> or book online through our website. Our
                 24/7 customer support is always ready to assist with fares, routes, and travel details.
             </p>
 

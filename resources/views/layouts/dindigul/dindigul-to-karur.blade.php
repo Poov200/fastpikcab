@@ -207,7 +207,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dindigul to Karur taxi</strong> with Fastpikcab is quick and simple.
-            Call us at <strong>+91 88256 94157</strong> or make a booking online.
+            Call us at <strong>+91 9344258671</strong> or make a booking online.
             Our dedicated customer support team is available <strong>24/7</strong> to assist you
             with fares, bookings, and travel guidance.
         </p>

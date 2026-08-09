@@ -202,7 +202,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Coimbatore taxi</strong> is simple.
-            Call <strong>+91 88256 94157</strong> or reserve online.
+            Call <strong>+91 9344258671</strong> or reserve online.
             Our <strong>24/7 customer support team</strong> is available for assistance.
         </p>
         <p>

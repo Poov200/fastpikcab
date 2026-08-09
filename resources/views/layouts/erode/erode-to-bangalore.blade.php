@@ -204,7 +204,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Erode to Bangalore taxi</strong> is fast and simple.
-            Call <strong>+91 88256 94157</strong> or book online at your convenience.
+            Call <strong>+91 9344258671</strong> or book online at your convenience.
             Our <strong>24/7 customer care</strong> team is ready to help with fares, bookings, and travel guidance.
         </p>
         <p>

@@ -204,7 +204,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dharmapuri to Puducherry taxi</strong> with Fastpikcab is simple and convenient.
-            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Call us at <strong>+91 9344258671</strong> or book online through our website.
             Our 24/7 customer support team is always ready to help you with bookings,
             fare details, and travel assistance.
         </p>

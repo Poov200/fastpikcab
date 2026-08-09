@@ -206,7 +206,7 @@
 
         <p class="mb-4">
             Booking your <strong>Kanchipuram to Viluppuram taxi</strong> is quick and easy.
-            Call us at <strong>+91 88256 94157</strong> or book online through our website.
+            Call us at <strong>+91 9344258671</strong> or book online through our website.
             Our dedicated support team is available <strong>24/7</strong> for bookings, fare assistance,
             and travel queries.
         </p>

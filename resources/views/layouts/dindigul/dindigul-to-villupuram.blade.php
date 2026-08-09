@@ -204,7 +204,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dindigul to Villupuram taxi</strong> is fast and simple.
-            Call <strong>+91 88256 94157</strong> or book online anytime.
+            Call <strong>+91 9344258671</strong> or book online anytime.
             Our <strong>24/7 customer service</strong> is here to assist with bookings and fare details.
         </p>
         <p>

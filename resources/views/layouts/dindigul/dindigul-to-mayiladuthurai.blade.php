@@ -205,7 +205,7 @@
         </p>
         <p class="mb-4">
             Booking your <strong>Dindigul to Mayiladuthurai taxi</strong> is quick and easy.
-            Call <strong>+91 88256 94157</strong> or book online on our website.
+            Call <strong>+91 9344258671</strong> or book online on our website.
             Our customer care team is available <strong>24/7</strong> to assist with fares, bookings, and travel queries.
         </p>
         <p>
