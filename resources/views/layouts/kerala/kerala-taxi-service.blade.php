@@ -620,7 +620,7 @@
     @include('layouts.routes')
     @include('layouts.footer')
     <script src="{{ asset('js/app.js') }}"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFS0STKnYFbgLIwD6MH37_Zymm388hUO8&libraries=places&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD2wpfDvfV6KuwKmue2-IO-9xDbp0_dHGM&libraries=places&callback=initMap" async defer></script>
 </body>
 
 </html>
