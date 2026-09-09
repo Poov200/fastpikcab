@@ -125,7 +125,9 @@
 
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"> </script>
 
     <style>
         body {
@@ -304,9 +306,11 @@
     @include('layouts.footer')
 
     <script src="{{ asset('js/app.js') }}"></script>
-    <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8spZaaDSLW23ZkHyzHBemCBTF5Sro56M&libraries=places&callback=initMap"
-        async defer></script>
+    <script>
+document.addEventListener("DOMContentLoaded", function () {
+    window.initMap();
+});
+</script>
 </body>
 
 </html>

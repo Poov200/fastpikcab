@@ -274,138 +274,659 @@ angular.module('bookingApp', []) // Changed module name to bookingApp
 // The initMap function, globally exposed via window.
 // This function will be called by the Google Maps API script once it's loaded.
 window.initMap = function () {
-    // Get references to the input fields and the map container
-    const pickupInput = document.querySelector('input[ng-model="booking.pickup"]');
-    const dropInput = document.querySelector('input[ng-model="booking.destination"]');
-    const mapElement = document.getElementById("map");
 
-    // If any required elements are not found, log an error and return.
-    // This prevents further errors and indicates a problem with DOM readiness or selection.
+    const pickupInput =
+        document.querySelector('input[ng-model="booking.pickup"]');
+
+    const dropInput =
+        document.querySelector('input[ng-model="booking.destination"]');
+
+    const mapElement =
+        document.getElementById("map");
+
     if (!pickupInput || !dropInput || !mapElement) {
-        console.error("Map elements (pickupInput, dropInput, or map div) not found. Cannot initialize Google Maps.");
+        console.error("Pickup, drop or map element not found.");
         return;
     }
 
-    // Options for Google Places Autocomplete, restricting to India.
-    const options = {
-        componentRestrictions: { country: 'in' }
-    };
 
-    // Initialize Autocomplete for pickup and destination input fields.
-    const pickupAutocomplete = new google.maps.places.Autocomplete(pickupInput, options);
-    const dropAutocomplete = new google.maps.places.Autocomplete(dropInput, options);
+    // =========================================
+    // LEAFLET MAP
+    // =========================================
 
-    // Initialize Google Maps Directions Service and Renderer.
-    const directionsService = new google.maps.DirectionsService();
-    const directionsRenderer = new google.maps.DirectionsRenderer(); // Corrected initialization
-    directionsRenderer.setMap(new google.maps.Map(mapElement, { // Initialize map here
-        zoom: 7,
-        center: { lat: 11.1271, lng: 78.6569 }, // Centered on Tamil Nadu, India
-    }));
+    const map = L.map("map").setView(
+        [11.1271, 78.6569],
+        7
+    );
 
-    /**
-     * Calculates the distance and displays the route on the map.
-     * Updates the AngularJS scope with distance and calculated amount.
-     */
-    function calculateDistance() {
-        // Retrieve the AngularJS $scope from the global window object.
-        const $scope = window.angularScope;
-        if (!$scope) {
-            console.error("$scope not available for distance calculation. Ensure it's exposed globally.");
-            return;
+
+    // =========================================
+    // OPENSTREETMAP
+    // =========================================
+
+    L.tileLayer(
+        "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        {
+            maxZoom: 19,
+            attribution:
+                '&copy; OpenStreetMap contributors'
+        }
+    ).addTo(map);
+
+
+    let pickupMarker = null;
+    let dropMarker = null;
+    let routeLayer = null;
+
+    let pickupTimer = null;
+    let dropTimer = null;
+
+
+    // =========================================
+    // CREATE AUTOCOMPLETE BOX
+    // =========================================
+
+    function createSuggestionBox(input) {
+
+        const wrapper = input.parentElement;
+
+        if (
+            window.getComputedStyle(wrapper).position ===
+            "static"
+        ) {
+            wrapper.style.position = "relative";
         }
 
-        // Determine the origin and destination for the directions request.
-        // Prioritize formatted address from place data if available, otherwise use input value.
-        const origin = pickupPlace ? pickupPlace.formatted_address : pickupInput.value;
-        const destination = dropPlace ? dropPlace.formatted_address : dropInput.value;
+        const box = document.createElement("div");
 
-        if (origin && destination) {
-            directionsService.route({
-                origin: origin,
-                destination: destination,
-                travelMode: google.maps.TravelMode.DRIVING // Calculate driving distance
-            }, function (response, status) {
-                if (status === google.maps.DirectionsStatus.OK) {
-                    // Display the route on the map
-                    directionsRenderer.setDirections(response);
-                    // Get distance from the first leg of the route
-                    const route = response.routes[0];
-                    const distanceText = route.legs[0].distance.text;
+        box.className = "osm-suggestions";
 
-                    // Update AngularJS scope and trigger digest cycle
-                    $scope.$apply(function () {
-                        $scope.booking.distance = distanceText;
-                        $scope.calculateassigned_amount(); // Call Angular function to update amount
-                    });
-                } else {
-                    // Handle directions request failure
-                    console.error("Directions request failed: " + status);
-                    $scope.$apply(function () {
-                        $scope.booking.distance = '';
-                        $scope.assigned_amount = 0;
-                    });
+        box.style.position = "absolute";
+        box.style.left = "0";
+        box.style.right = "0";
+        box.style.top = "100%";
+        box.style.background = "#fff";
+        box.style.border = "1px solid #ddd";
+        box.style.zIndex = "99999";
+        box.style.maxHeight = "250px";
+        box.style.overflowY = "auto";
+        box.style.display = "none";
+
+        wrapper.appendChild(box);
+
+        return box;
+    }
+
+
+    const pickupSuggestions =
+        createSuggestionBox(pickupInput);
+
+    const dropSuggestions =
+        createSuggestionBox(dropInput);
+
+
+    // =========================================
+    // NOMINATIM LOCATION SEARCH
+    // =========================================
+
+    async function searchLocation(query) {
+
+        if (!query || query.length < 3) {
+            return [];
+        }
+
+        const url =
+            "https://nominatim.openstreetmap.org/search" +
+            "?format=json" +
+            "&addressdetails=1" +
+            "&limit=5" +
+            "&countrycodes=in" +
+            "&q=" +
+            encodeURIComponent(query);
+
+        try {
+
+            const response = await fetch(url, {
+                headers: {
+                    "Accept": "application/json"
                 }
             });
-        } else {
-            // If origin or destination is missing, clear distance and amount
-            $scope.$apply(function () {
-                $scope.booking.distance = '';
-                $scope.assigned_amount = 0;
-            });
+
+            if (!response.ok) {
+                throw new Error(
+                    "Location search failed"
+                );
+            }
+
+            return await response.json();
+
+        } catch (error) {
+
+            console.error(
+                "Nominatim error:",
+                error
+            );
+
+            return [];
         }
     }
 
-    // Listen for 'place_changed' event on pickup Autocomplete
-    pickupAutocomplete.addListener('place_changed', function () {
-        const place = pickupAutocomplete.getPlace();
-        const $scope = window.angularScope; // Re-get $scope for the listener
-        if (!$scope) return; // Exit if $scope is not available
 
-        if (place && place.geometry) {
-            pickupPlace = place; // Store the selected place details
-            calculateDistance(); // Recalculate distance
-            $scope.$apply(() => {
-                $scope.booking.pickup = place.formatted_address || ''; // Update Angular model
-                $scope.pickupRequired = false; // Clear validation error
-            });
+    // =========================================
+    // DISPLAY SEARCH RESULTS
+    // =========================================
+
+    function displaySuggestions(
+        results,
+        box,
+        type
+    ) {
+
+        box.innerHTML = "";
+
+        if (!results.length) {
+            box.style.display = "none";
+            return;
+        }
+
+        results.forEach(function (place) {
+
+            const item =
+                document.createElement("div");
+
+            item.textContent =
+                place.display_name;
+
+            item.style.padding = "10px";
+            item.style.cursor = "pointer";
+            item.style.borderBottom =
+                "1px solid #eee";
+
+            item.addEventListener(
+                "mouseenter",
+                function () {
+                    item.style.background =
+                        "#f5f5f5";
+                }
+            );
+
+            item.addEventListener(
+                "mouseleave",
+                function () {
+                    item.style.background =
+                        "#fff";
+                }
+            );
+
+
+            item.addEventListener(
+                "click",
+                function () {
+
+                    selectLocation(
+                        place,
+                        type
+                    );
+
+                    box.style.display =
+                        "none";
+                }
+            );
+
+
+            box.appendChild(item);
+
+        });
+
+        box.style.display = "block";
+    }
+
+
+    // =========================================
+    // SELECT LOCATION
+    // =========================================
+
+    function selectLocation(
+        place,
+        type
+    ) {
+
+        const lat =
+            parseFloat(place.lat);
+
+        const lon =
+            parseFloat(place.lon);
+
+        const placeDetails = {
+
+            formatted_address:
+                place.display_name,
+
+            lat: lat,
+
+            lng: lon,
+
+            place_id:
+                place.place_id,
+
+            osm_id:
+                place.osm_id,
+
+            osm_type:
+                place.osm_type
+        };
+
+
+        const $scope =
+            window.angularScope;
+
+
+        if (type === "pickup") {
+
+            pickupPlace =
+                placeDetails;
+
+            pickupInput.value =
+                place.display_name;
+
+
+            if (pickupMarker) {
+
+                map.removeLayer(
+                    pickupMarker
+                );
+            }
+
+
+            pickupMarker =
+                L.marker([lat, lon])
+                    .addTo(map)
+                    .bindPopup("Pickup");
+
+
+            if ($scope) {
+
+                $scope.$applyAsync(
+                    function () {
+
+                        $scope.booking.pickup =
+                            place.display_name;
+
+                        $scope.pickupRequired =
+                            false;
+
+                    }
+                );
+            }
+
         } else {
-            // If no valid place is selected, clear related data and set validation
+
+            dropPlace =
+                placeDetails;
+
+            dropInput.value =
+                place.display_name;
+
+
+            if (dropMarker) {
+
+                map.removeLayer(
+                    dropMarker
+                );
+            }
+
+
+            dropMarker =
+                L.marker([lat, lon])
+                    .addTo(map)
+                    .bindPopup("Drop");
+
+
+            if ($scope) {
+
+                $scope.$applyAsync(
+                    function () {
+
+                        $scope.booking.destination =
+                            place.display_name;
+
+                        $scope.dropRequired =
+                            false;
+
+                    }
+                );
+            }
+        }
+
+
+        calculateRoute();
+    }
+
+
+    // =========================================
+    // OSRM ROUTE
+    // =========================================
+
+    async function calculateRoute() {
+
+        const $scope =
+            window.angularScope;
+
+
+        if (!pickupPlace || !dropPlace) {
+
+            if ($scope) {
+
+                $scope.$applyAsync(
+                    function () {
+
+                        $scope.booking.distance =
+                            "";
+
+                        $scope.assigned_amount =
+                            0;
+
+                    }
+                );
+            }
+
+            return;
+        }
+
+
+        const url =
+            "https://router.project-osrm.org/" +
+            "route/v1/driving/" +
+
+            pickupPlace.lng +
+            "," +
+            pickupPlace.lat +
+
+            ";" +
+
+            dropPlace.lng +
+            "," +
+            dropPlace.lat +
+
+            "?overview=full" +
+            "&geometries=geojson";
+
+
+        try {
+
+            const response =
+                await fetch(url);
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    "OSRM route failed"
+                );
+            }
+
+
+            const data =
+                await response.json();
+
+
+            if (
+                data.code !== "Ok" ||
+                !data.routes ||
+                !data.routes.length
+            ) {
+
+                throw new Error(
+                    "No driving route found"
+                );
+            }
+
+
+            const route =
+                data.routes[0];
+
+
+            // meters → kilometers
+            const distanceKm =
+                route.distance / 1000;
+
+
+            // seconds → minutes
+            const durationMinutes =
+                Math.round(
+                    route.duration / 60
+                );
+
+
+            console.log(
+                "Distance:",
+                distanceKm.toFixed(2),
+                "km"
+            );
+
+            console.log(
+                "ETA:",
+                durationMinutes,
+                "minutes"
+            );
+
+
+            // =================================
+            // UPDATE ANGULAR
+            // =================================
+
+            if ($scope) {
+
+                $scope.$applyAsync(
+                    function () {
+
+                        $scope.booking.distance =
+                            distanceKm.toFixed(2) +
+                            " km";
+
+
+                        $scope.calculateassigned_amount();
+
+                    }
+                );
+            }
+
+
+            // =================================
+            // REMOVE OLD ROUTE
+            // =================================
+
+            if (routeLayer) {
+
+                map.removeLayer(
+                    routeLayer
+                );
+            }
+
+
+            // =================================
+            // DRAW NEW ROUTE
+            // =================================
+
+            routeLayer =
+                L.geoJSON(
+                    route.geometry,
+                    {
+                        style: {
+                            weight: 5,
+                            opacity: 0.8
+                        }
+                    }
+                ).addTo(map);
+
+
+            // Zoom to route
+            map.fitBounds(
+                routeLayer.getBounds(),
+                {
+                    padding: [30, 30]
+                }
+            );
+
+
+        } catch (error) {
+
+            console.error(
+                "Route calculation error:",
+                error
+            );
+
+
+            if ($scope) {
+
+                $scope.$applyAsync(
+                    function () {
+
+                        $scope.booking.distance =
+                            "";
+
+                        $scope.assigned_amount =
+                            0;
+
+                    }
+                );
+            }
+        }
+    }
+
+
+    // =========================================
+    // PICKUP AUTOCOMPLETE
+    // =========================================
+
+    pickupInput.addEventListener(
+        "input",
+        function () {
+
             pickupPlace = null;
-            $scope.$apply(() => {
-                $scope.booking.pickup = '';
-                $scope.booking.distance = '';
-                $scope.assigned_amount = 0;
-                $scope.pickupRequired = true;
-            });
+
+            clearTimeout(
+                pickupTimer
+            );
+
+
+            const query =
+                pickupInput.value.trim();
+
+
+            if (query.length < 3) {
+
+                pickupSuggestions.style.display =
+                    "none";
+
+                return;
+            }
+
+
+            pickupTimer =
+                setTimeout(
+                    async function () {
+
+                        const results =
+                            await searchLocation(
+                                query
+                            );
+
+
+                        displaySuggestions(
+                            results,
+                            pickupSuggestions,
+                            "pickup"
+                        );
+
+                    },
+                    500
+                );
         }
-    });
+    );
 
-    // Listen for 'place_changed' event on drop Autocomplete
-    dropAutocomplete.addListener('place_changed', function () {
-        const place = dropAutocomplete.getPlace();
-        const $scope = window.angularScope; // Re-get $scope for the listener
-        if (!$scope) return; // Exit if $scope is not available
 
-        if (place && place.geometry) {
-            dropPlace = place; // Store the selected place details
-            calculateDistance(); // Recalculate distance
-            $scope.$apply(() => {
-                $scope.booking.destination = place.formatted_address || ''; // Update Angular model
-                $scope.dropRequired = false; // Clear validation error
-            });
-        } else {
-            // If no valid place is selected, clear related data and set validation
+    // =========================================
+    // DROP AUTOCOMPLETE
+    // =========================================
+
+    dropInput.addEventListener(
+        "input",
+        function () {
+
             dropPlace = null;
-            $scope.$apply(() => {
-                $scope.booking.destination = '';
-                $scope.booking.distance = '';
-                $scope.assigned_amount = 0;
-                $scope.dropRequired = true;
-            });
+
+            clearTimeout(
+                dropTimer
+            );
+
+
+            const query =
+                dropInput.value.trim();
+
+
+            if (query.length < 3) {
+
+                dropSuggestions.style.display =
+                    "none";
+
+                return;
+            }
+
+
+            dropTimer =
+                setTimeout(
+                    async function () {
+
+                        const results =
+                            await searchLocation(
+                                query
+                            );
+
+
+                        displaySuggestions(
+                            results,
+                            dropSuggestions,
+                            "drop"
+                        );
+
+                    },
+                    500
+                );
         }
-    });
-}; // End of window.initMap function
+    );
+
+
+    // =========================================
+    // CLOSE AUTOCOMPLETE
+    // =========================================
+
+    document.addEventListener(
+        "click",
+        function (event) {
+
+            if (
+                event.target !==
+                pickupInput
+            ) {
+
+                pickupSuggestions.style.display =
+                    "none";
+            }
+
+
+            if (
+                event.target !==
+                dropInput
+            ) {
+
+                dropSuggestions.style.display =
+                    "none";
+            }
+        }
+    );
+
+};
 
 // Add this to your main app.js file, after you define your module
 // This assumes your app module is named 'bookingApp'
