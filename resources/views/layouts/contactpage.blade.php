@@ -17,7 +17,9 @@
     <meta property="og:image" content="https://www.fastpikcab.com/logo.png" />
     <meta property="og:url" content="https://www.fastpikcab.com/" />
     <meta property="og:type" content="website" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"> </script>
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Fastpikcab - Trusted Online Taxi & Cab Service" />
@@ -306,9 +308,11 @@
 
 
     <script src="{{ asset('js/contact.js') }}"></script>
-     <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8spZaaDSLW23ZkHyzHBemCBTF5Sro56M&libraries=places&callback=initMap"
-        async defer></script>
+     <script>
+document.addEventListener("DOMContentLoaded", function () {
+    window.initMap();
+});
+</script>
 
 </body>
 

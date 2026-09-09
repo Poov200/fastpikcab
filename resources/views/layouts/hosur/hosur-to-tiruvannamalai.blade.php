@@ -300,9 +300,11 @@
 @include('layouts.footer')
 
 <script src="{{ asset('js/app.js') }}"></script>
-<script
-    src="[https://maps.googleapis.com/maps/api/js?key=AIzaSyC8spZaaDSLW23ZkHyzHBemCBTF5Sro56M&libraries=places&callback=initMap](https://maps.googleapis.com/maps/api/js?key=AIzaSyC8spZaaDSLW23ZkHyzHBemCBTF5Sro56M&libraries=places&callback=initMap)"
-    async defer></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    window.initMap();
+});
+</script>
 </body>
 
 </html>

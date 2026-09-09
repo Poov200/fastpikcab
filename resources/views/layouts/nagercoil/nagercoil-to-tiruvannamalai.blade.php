@@ -64,7 +64,9 @@
 
   <link rel="icon" href="../img/FastPik icon.png" type="image/x-icon" />
 <link rel="apple-touch-icon" href="https://fastpikcab.com/img/FastPik%20Logo.png" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"> </script>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.tailwindcss.com"></script>
 <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
@@ -196,7 +198,9 @@
 @include('layouts.footer')
 
  <script src="{{ asset('js/app.js') }}"></script>
-    <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8spZaaDSLW23ZkHyzHBemCBTF5Sro56M&libraries=places&callback=initMap"
-        async defer></script></body>
+    <script>
+document.addEventListener("DOMContentLoaded", function () {
+    window.initMap();
+});
+</script></body>
 </html>
