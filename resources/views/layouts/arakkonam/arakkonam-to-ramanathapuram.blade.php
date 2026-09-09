@@ -122,7 +122,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
-   
+
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -322,7 +322,7 @@
 
     <script src="{{ asset('js/app.js') }}"></script>
     <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD2wpfDvfV6KuwKmue2-IO-9xDbp0_dHGM&libraries=places&callback=initMap"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8spZaaDSLW23ZkHyzHBemCBTF5Sro56M&libraries=places&callback=initMap"
         async defer></script>
 </body>
 
