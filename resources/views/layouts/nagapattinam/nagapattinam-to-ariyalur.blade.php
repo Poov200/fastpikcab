@@ -303,7 +303,7 @@
 
     <script src="{{ asset('js/app.js') }}"></script>
     <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD2wpfDvfV6KuwKmue2-IO-9xDbp0_dHGM&libraries=places&callback=initMap"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8spZaaDSLW23ZkHyzHBemCBTF5Sro56M&libraries=places&callback=initMap"
         async defer></script>
 </body>
 </html>
